@@ -1681,6 +1681,7 @@ async function main() {
 
   function publicShow(sh) {
     return {
+      show_id: sh.show_id,
       tmdb_id: sh.tmdb_id,
       content_type: sh.content_type,
       title: sh.title,

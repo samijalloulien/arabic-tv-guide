@@ -15,3 +15,4 @@ guides/*.xml
 
 # macOS
 .DS_Store
+/mobile/

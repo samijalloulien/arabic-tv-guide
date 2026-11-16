@@ -51,3 +51,11 @@ jobs:
           else
             echo "No schedule changes to commit."
           fi
+
+      - name: Purge jsDelivr edge cache
+        continue-on-error: true
+        run: |
+          B="/gh/samijalloulien/arabic-tv-guide@main/api"
+          curl -fsS -X POST https://purge.jsdelivr.net/ \
+            -H 'Content-Type: application/json' \
+            -d "{\"path\":[\"$B/meta.json\",\"$B/channels.json\",\"$B/grid.json\",\"$B/featured.json\",\"$B/search_index.json\",\"$B/programs/*\"]}" || true
