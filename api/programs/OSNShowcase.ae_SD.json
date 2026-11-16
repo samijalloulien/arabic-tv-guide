@@ -1,0 +1,5536 @@
+{
+  "channel_id": "OSNShowcase.ae@SD",
+  "channel_name": "OSNtv Showcase",
+  "channel_icon": "https://i.imgur.com/o43yDem.png",
+  "programs": [
+    {
+      "tmdb_id": null,
+      "title": "غير واثق - إنسكيور",
+      "clean_title": "غير واثق - إنسكيور",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "لوكي بوست",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "حلقة الموسم الأخيرة. تجتمع الفتيات خلف صديق. يجد كل من مولي وأندرو نفسيهما على مفترق طرق. تستمر إيسا في البحث عن الصداقة.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T22:50:00+00:00",
+      "stop": "2026-11-15T23:25:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-15T23:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غير واثق - إنسكيور",
+      "clean_title": "غير واثق - إنسكيور",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ريونايتد، اوكاي؟!",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد أن حضرت اجتماعها الجامعي بمناسبة مرور عشر سنوات بأناقة بصفتها عضوًا في لجنة الخريجين ، تظهر شكوك ايسى الذاتية بسرعة ، بينما تكافح مولي - التي ما زالت تعاني من تفككها. بينما يغتنم الطاقم الفرصة للتفكير ، تظل الجروح القديمة طرية",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T23:25:00+00:00",
+      "stop": "2026-11-16T00:00:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-15T22:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أنيمالز",
+      "clean_title": "أنيمالز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "راتس (1)",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يحصل فأر مضلل على نصائح من صديقه بشأن التزاوج، بالرغم من أن عرض الحبة الزرقاء أتى بنتائج كارثية. يشكو اثنين من خيول الشرطة رفيقاً لهما والذي أبلى جيداً في سباق للهجن الأصلية. تعاني بقة أزمة منتصف العمر وتحصل على قرط.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2016",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T00:00:00+00:00",
+      "stop": "2026-11-16T00:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T00:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T00:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T00:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أنيمالز",
+      "clean_title": "أنيمالز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بيجونز (1)",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "حمامة ذكر ساذجة تعد نفسها للأمومة بينما يواجه منافس آخر من ولاية نيو جيرسي تحديًا آخر. تحول أحد الـ كاتربيلز كان بمثابة رثاء لآخر.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2016",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T00:30:00+00:00",
+      "stop": "2026-11-16T01:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T00:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T00:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "لاست ويك تونايت ويذ جون أوليفر",
+      "clean_title": "لاست ويك تونايت ويذ جون أوليفر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بيت هيغسيث",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يناقش جون أوليفر الأضرار التي تسبب فيها بيت هيغسيث، بصفته وزير الدفاع الأمريكي، سواء في الداخل أو في الخارج، وكيف أن إصلاحها قد يستغرق جيلاً كاملاً، بالإضافة إلى اللمسات الزخرفية غير المتوقعة التي أضافها السيد كيد روك.",
+      "category": "برنامج حواري",
+      "genres": [
+        "برنامج حواري"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:00:00+00:00",
+      "stop": "2026-11-16T01:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T20:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T01:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T22:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بوب ساغيت: ذات آينت رايت",
+      "clean_title": "بوب ساغيت: ذات آينت رايت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "لعب دور البطولة في عدة مسلسلات تلفزيونية كوميدية ناجحة. والآن، يقدم هذا النجم متعدد المواهب، والذي ينتقل من نجاح إلى نجاح أكبر، برنامجه الكوميدي الناجح الثاني مع أتش بي أو.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2007",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:45:00+00:00",
+      "stop": "2026-11-16T02:45:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T07:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غرفة الأخبار - ذا نيوزروم",
+      "clean_title": "غرفة الأخبار - ذا نيوزروم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نيوز نايت وذ ويل ماكافوي",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتشوش ويل خلال بثه التلفزيوني بسبب مكالمة هاتفية وتعليق غير لطيف على التويتر. يقوم صديق قديم لتشارلي من الإستخبارات البحرية بزيارته، ولديه معلومات عن عملية جنوا.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T02:45:00+00:00",
+      "stop": "2026-11-16T03:45:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "clean_title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "فويستد!",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يحاول لاري تخليص نفسه من مساعد غير كفء، لكنه يسيء إلى حلاق جيف ويشارك في مشروع جديد.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T03:45:00+00:00",
+      "stop": "2026-11-16T04:25:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T15:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:50:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T09:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T15:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:10:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "clean_title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ذا بيكل غامبت",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتوجه لاري إلى وجه مألوف، ويقدم المشورة لضيف نزيل في فندق ويحاول خلق تحويل لمساعدة ابن شقيق صديق له.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T04:25:00+00:00",
+      "stop": "2026-11-16T05:05:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T03:45:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T15:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:50:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T09:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T15:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:10:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "حفل الكونغرس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "خلال حفلة عيد الميلاد في البيت الأبيض، تساوم سيلينا للحصول على مزيد من الأصوات من أجل قلب الانتخابات لصالحها، وينشغل الموظفون بالقائمة السنوية (لأكثر 50 موظف جذاب في العاصمة)، بينما يتطلع مايك لوظيفة خارج نطاق السياسة، ويساعد دان جوناه بإعدادات المناقشة في نيو هامبشاير.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2016",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T05:05:00+00:00",
+      "stop": "2026-11-16T05:40:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "باري",
+      "clean_title": "باري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "عرض فوضوي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مثال على تعبئة كل شيء.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T05:40:00+00:00",
+      "stop": "2026-11-16T06:15:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T11:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T17:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T05:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T17:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "شخص ما في مكان ما - سمبادي ساموير",
+      "clean_title": "شخص ما في مكان ما - سمبادي ساموير",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مارغاريني",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتخذ جويل وبراد خطوة كبيرة في علاقتهما وينتقلان للعيش معاً، وعندها تفكر سام في تبني رفيق سكن خاص بها. في هذه الأثناء، تقرر تريشيا دخول عالم المواعدة مرة أخرى بعد حصولها على الطلاق.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T06:15:00+00:00",
+      "stop": "2026-11-16T06:50:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T06:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T11:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T12:15:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T17:55:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T18:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T03:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T07:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T12:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T12:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T13:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T17:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "شخص ما في مكان ما - سمبادي ساموير",
+      "clean_title": "شخص ما في مكان ما - سمبادي ساموير",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "دينكي دينكيز",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتأثر سام بشكل كبير بسبب تعليق صريح وقاسي من أحد أصدقائها، بسبب شعورها بالإرهاق من كمية التغيرات التي تحدث في حياة أحبائها.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T06:50:00+00:00",
+      "stop": "2026-11-16T07:25:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T06:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T11:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T12:15:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T17:55:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T18:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T03:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T07:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T12:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T12:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T13:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T17:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بوب ساغيت: ذات آينت رايت",
+      "clean_title": "بوب ساغيت: ذات آينت رايت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "لعب دور البطولة في عدة مسلسلات تلفزيونية كوميدية ناجحة. والآن، يقدم هذا النجم متعدد المواهب، والذي ينتقل من نجاح إلى نجاح أكبر، برنامجه الكوميدي الناجح الثاني مع أتش بي أو.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2007",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T07:25:00+00:00",
+      "stop": "2026-11-16T08:25:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T01:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غرفة الأخبار - ذا نيوزروم",
+      "clean_title": "غرفة الأخبار - ذا نيوزروم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نيوز نايت وذ ويل ماكافوي",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتشوش ويل خلال بثه التلفزيوني بسبب مكالمة هاتفية وتعليق غير لطيف على التويتر. يقوم صديق قديم لتشارلي من الإستخبارات البحرية بزيارته، ولديه معلومات عن عملية جنوا.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:25:00+00:00",
+      "stop": "2026-11-16T09:25:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "clean_title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "فويستد!",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يحاول لاري تخليص نفسه من مساعد غير كفء، لكنه يسيء إلى حلاق جيف ويشارك في مشروع جديد.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T09:25:00+00:00",
+      "stop": "2026-11-16T10:05:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T15:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:50:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T09:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T15:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:10:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "clean_title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ذا بيكل غامبت",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتوجه لاري إلى وجه مألوف، ويقدم المشورة لضيف نزيل في فندق ويحاول خلق تحويل لمساعدة ابن شقيق صديق له.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T10:05:00+00:00",
+      "stop": "2026-11-16T10:45:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T15:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:50:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T09:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T15:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:10:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "حفل الكونغرس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "خلال حفلة عيد الميلاد في البيت الأبيض، تساوم سيلينا للحصول على مزيد من الأصوات من أجل قلب الانتخابات لصالحها، وينشغل الموظفون بالقائمة السنوية (لأكثر 50 موظف جذاب في العاصمة)، بينما يتطلع مايك لوظيفة خارج نطاق السياسة، ويساعد دان جوناه بإعدادات المناقشة في نيو هامبشاير.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2016",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T10:45:00+00:00",
+      "stop": "2026-11-16T11:15:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "باري",
+      "clean_title": "باري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "عرض فوضوي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مثال على تعبئة كل شيء.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T11:15:00+00:00",
+      "stop": "2026-11-16T11:45:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T17:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T05:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T17:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "شخص ما في مكان ما - سمبادي ساموير",
+      "clean_title": "شخص ما في مكان ما - سمبادي ساموير",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "حياة الشرفة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تواصل تريشيا تعزيز علاقاتها مع أحد الأعضاء المهمين في النادي، بينما يقرر سام أخيرًا الذهاب إلى الطبيب لأول مرة منذ سنوات.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T11:45:00+00:00",
+      "stop": "2026-11-16T12:15:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T06:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T06:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T12:15:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T17:55:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T18:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T03:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T07:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T12:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T12:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T13:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T17:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "شخص ما في مكان ما - سمبادي ساموير",
+      "clean_title": "شخص ما في مكان ما - سمبادي ساموير",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ماذا لو انتشر؟",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تواجه سام وتريشيا مشكلة غير متوقعة خلال رحلتهما إلى مدينة كانساس لحضور معرض تجاري.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:15:00+00:00",
+      "stop": "2026-11-16T12:45:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T06:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T06:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T11:45:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T17:55:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T18:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T03:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T07:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T12:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T12:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T13:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T17:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فاملي بوندز",
+      "clean_title": "فاملي بوندز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "روابط الأسرة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في الحلقة الافتتاحية، بعد اختفاء عميل بكفالة قدرها 10000 دولار، ركب توم وكريس ودان وجيمي شاحنة وتوجهوا إلى ريدينغ، بنسلفانيا وشرعوا في الضياع!",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2005",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:45:00+00:00",
+      "stop": "2026-11-16T13:15:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T13:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T07:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T13:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فاملي بوندز",
+      "clean_title": "فاملي بوندز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "القبيلة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "أصبح سال في الـ 18 من العمر، وتنوي العائلة إقامة حفلة ضخمة لهذه المناسبة. في هذه الأثناء، يتوجه طاقم آل سيتي إلى منتزه ريفرسايد في مانهاتن حيث يتواجد هارب مطلوب بتهمة القتل.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2005",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:15:00+00:00",
+      "stop": "2026-11-16T13:50:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T12:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T07:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T13:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "لويس سي. كيه.: شيمليس",
+      "clean_title": "لويس سي. كيه.: شيمليس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "سواء كان يكتب، يقدم عرضا، أو يترأس مسلسله الكوميدي الخاص من أتش بي أو، فإن لويس سي كيه لم يتردد أبدا في التعبير عما يدور في رأسه. والآن، يعود الحائز على جائزة إيمي إلى طبيعته الكوميدية ليتحدث عن المواضيع والمشاكل اليومية التي يخجل الآخرون من التطرق لها.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2006",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:50:00+00:00",
+      "stop": "2026-11-16T14:50:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T01:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T08:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غرفة الأخبار - ذا نيوزروم",
+      "clean_title": "غرفة الأخبار - ذا نيوزروم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "وان ستيب تو ماني",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يحصل ماك وتشارلي على شاهد رئيسي في محاولتهم لتأييد قصة دانتاناز أوبيريشن جينوفا. يتبع ويل تعليمات نينا ليحسن من صورته وذلك بظهوره في برنامج حواري صباحي، ويحصل جيم على صحبة غير متوقعة خلال وجوده مع هالي.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T14:50:00+00:00",
+      "stop": "2026-11-16T15:45:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "clean_title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ايه ديستنس ان ذا كيتشن",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يلجأ لاري إلى كاتب للحصول على المشورة. أثناء البحث عن شقيقة سوزي الصغرى، يحصل على مخالفة سير من قبل شرطي متحمس.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:45:00+00:00",
+      "stop": "2026-11-16T16:20:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:50:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T09:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T15:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:10:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "clean_title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "رانينغ ويذ ذا بولز",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتهم الطبيب لاري بتجاوزه؛ تزداد شكوك سوزي بشأن جيف؛ يقدم لاري رشوة لبواب في جنازة.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:20:00+00:00",
+      "stop": "2026-11-16T16:55:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T15:45:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:50:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T09:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T15:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:10:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "منتجع كامب ديفيد",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تقوم سيلينا بأخذ كاثرين إلى احتفال عائلي قبل عيد الميلاد في كامب ديفيد، المكان الذي ينوي فيه فريقها أيضا إجراء مفاوضات سرية. وبعد حدوث مناقشة كارثية في نيو هامبشاير، تحاول أيمي ودان جعل جوناه يبدو أكثر إنسانية.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2016",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:55:00+00:00",
+      "stop": "2026-11-16T17:25:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "باري",
+      "clean_title": "باري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "شارع 710 الشمالي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "أي نوع من الرجال لا يريدون وضع حوض استحمام ساخن هناك؟",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T17:25:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T11:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T05:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T17:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "العصر الذهبي - ذا غيلديد آيج",
+      "clean_title": "العصر الذهبي - ذا غيلديد آيج",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أليست هذه أخبار جيدة",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "خلال محاولة كل من آدا وماريان وأورورا حماية أغنيس من مقال مجلة ليديز هوم جورنال، توجه بيرثا أنظارها نحو حفل العشاء الرئاسي.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:00:00+00:00",
+      "stop": "2026-11-16T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دان كوكس تورغازم",
+      "clean_title": "دان كوكس تورغازم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ذا فيرست لاف",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستقل النجم دين كوك وثلاثة من زملائه الكوميديين -جاي ديفس، روبرت \"بوبي\" كيلي وغيري غولمان -حافلة مخصصة من بوربانك، كاليفورنيا (الوجهة: بوسطن ، ماساتشوستس) خلال فترة 30 يومًا للمشاركة في جولة كوميدية يطلق عليها اسم \"تورغازم\".",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2005",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:00:00+00:00",
+      "stop": "2026-11-16T19:35:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T19:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T23:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دان كوكس تورغازم",
+      "clean_title": "دان كوكس تورغازم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "وركينغ إت أوت",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في اليوم الخامس من الرحلة خارج بوزمان، مونتانا، نتابع مشاهد كوميدية ​​في مزرعة أحد الأثرياء. المحطة التالية هي نيو أورلينز (ما قبل كاترينا) ،حيث يلقي جاي مزحة جديدة في جامعة تولين. بعد التوقف في سبرينغفيلد، مو، تنطلق الجولة التالية عبر أميس، آي إيه.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2005",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:35:00+00:00",
+      "stop": "2026-11-16T20:10:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T23:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "لاست ويك تونايت ويذ جون أوليفر",
+      "clean_title": "لاست ويك تونايت ويذ جون أوليفر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 30",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواصل الممثل الكوميدي والكاتب جون أوليفر تسليط الضوء بشكل ساخر وعميق على الأحداث الجارية خلال الموسم الثالث عشر.",
+      "category": "برنامج حواري",
+      "genres": [
+        "برنامج حواري"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:10:00+00:00",
+      "stop": "2026-11-16T21:00:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T01:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T01:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T22:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إندستري",
+      "clean_title": "إندستري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الذئب الوحيد والشبل",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "من المؤكد أن نيويورك ستستولي على مكتب لندن، يتعاون كل من هاربر و إريك و ريشي لتوجيه قوتهم العالمية الصغيرة إلى البنوك المنافسة. بينما تستعد ياسمين لاجتماعها مع أول عميل لها في وظيفتها الجديدة، تنشغل في قضية ملحة في بييربوينت.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T21:00:00+00:00",
+      "stop": "2026-11-16T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "العصر الذهبي - ذا غيلديد آيج",
+      "clean_title": "العصر الذهبي - ذا غيلديد آيج",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أليست هذه أخبار جيدة",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "خلال محاولة كل من آدا وماريان وأورورا حماية أغنيس من مقال مجلة ليديز هوم جورنال، توجه بيرثا أنظارها نحو حفل العشاء الرئاسي.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:00:00+00:00",
+      "stop": "2026-11-16T23:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دان كوكس تورغازم",
+      "clean_title": "دان كوكس تورغازم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ذا فيرست لاف",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستقل النجم دين كوك وثلاثة من زملائه الكوميديين -جاي ديفس، روبرت \"بوبي\" كيلي وغيري غولمان -حافلة مخصصة من بوربانك، كاليفورنيا (الوجهة: بوسطن ، ماساتشوستس) خلال فترة 30 يومًا للمشاركة في جولة كوميدية يطلق عليها اسم \"تورغازم\".",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2005",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T23:00:00+00:00",
+      "stop": "2026-11-16T23:35:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T19:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T23:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دان كوكس تورغازم",
+      "clean_title": "دان كوكس تورغازم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "وركينغ إت أوت",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في اليوم الخامس من الرحلة خارج بوزمان، مونتانا، نتابع مشاهد كوميدية ​​في مزرعة أحد الأثرياء. المحطة التالية هي نيو أورلينز (ما قبل كاترينا) ،حيث يلقي جاي مزحة جديدة في جامعة تولين. بعد التوقف في سبرينغفيلد، مو، تنطلق الجولة التالية عبر أميس، آي إيه.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2005",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T23:35:00+00:00",
+      "stop": "2026-11-17T00:10:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T19:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أنيمالز",
+      "clean_title": "أنيمالز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "القطط",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تجد إثنتان من القطط بأن يومهما قد تم اعتراضه من قبل قط الزقاق. يمل طائر إوز من الرتابة في حياته ويحاول للتواصل مع قطيع من حديقة سنترال بارك.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2016",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:10:00+00:00",
+      "stop": "2026-11-17T00:40:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T00:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T00:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أنيمالز",
+      "clean_title": "أنيمالز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "دوغز",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تندفع بابليون إلى حديقة للكلاب غير مرحب بها ، حيث تتعامل مجموعة تدريب الكلاب على المشي مع سر غير متوقع بينما يشرح كلبان عن أول موعد لمالكهما.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2016",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:40:00+00:00",
+      "stop": "2026-11-17T01:05:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T00:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T00:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "لاست ويك تونايت ويذ جون أوليفر",
+      "clean_title": "لاست ويك تونايت ويذ جون أوليفر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 30",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواصل الممثل الكوميدي والكاتب جون أوليفر تسليط الضوء بشكل ساخر وعميق على الأحداث الجارية خلال الموسم الثالث عشر.",
+      "category": "برنامج حواري",
+      "genres": [
+        "برنامج حواري"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:05:00+00:00",
+      "stop": "2026-11-17T01:50:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T01:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T20:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T22:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "لويس سي. كيه.: شيمليس",
+      "clean_title": "لويس سي. كيه.: شيمليس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "سواء كان يكتب، يقدم عرضا، أو يترأس مسلسله الكوميدي الخاص من أتش بي أو، فإن لويس سي كيه لم يتردد أبدا في التعبير عما يدور في رأسه. والآن، يعود الحائز على جائزة إيمي إلى طبيعته الكوميدية ليتحدث عن المواضيع والمشاكل اليومية التي يخجل الآخرون من التطرق لها.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2006",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:50:00+00:00",
+      "stop": "2026-11-17T02:50:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T13:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T08:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غرفة الأخبار - ذا نيوزروم",
+      "clean_title": "غرفة الأخبار - ذا نيوزروم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "وان ستيب تو ماني",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يحصل ماك وتشارلي على شاهد رئيسي في محاولتهم لتأييد قصة دانتاناز أوبيريشن جينوفا. يتبع ويل تعليمات نينا ليحسن من صورته وذلك بظهوره في برنامج حواري صباحي، ويحصل جيم على صحبة غير متوقعة خلال وجوده مع هالي.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T02:50:00+00:00",
+      "stop": "2026-11-17T03:45:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "clean_title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ايه ديستنس ان ذا كيتشن",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يلجأ لاري إلى كاتب للحصول على المشورة. أثناء البحث عن شقيقة سوزي الصغرى، يحصل على مخالفة سير من قبل شرطي متحمس.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:45:00+00:00",
+      "stop": "2026-11-17T04:20:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T15:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:50:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T09:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T15:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:10:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "clean_title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "رانينغ ويذ ذا بولز",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتهم الطبيب لاري بتجاوزه؛ تزداد شكوك سوزي بشأن جيف؛ يقدم لاري رشوة لبواب في جنازة.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:20:00+00:00",
+      "stop": "2026-11-17T04:55:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T15:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:50:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T03:45:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T09:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T15:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:10:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "منتجع كامب ديفيد",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تقوم سيلينا بأخذ كاثرين إلى احتفال عائلي قبل عيد الميلاد في كامب ديفيد، المكان الذي ينوي فيه فريقها أيضا إجراء مفاوضات سرية. وبعد حدوث مناقشة كارثية في نيو هامبشاير، تحاول أيمي ودان جعل جوناه يبدو أكثر إنسانية.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2016",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:55:00+00:00",
+      "stop": "2026-11-17T05:25:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "باري",
+      "clean_title": "باري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "شارع 710 الشمالي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "أي نوع من الرجال لا يريدون وضع حوض استحمام ساخن هناك؟",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T05:25:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T11:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T17:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T17:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "شخص ما في مكان ما - سمبادي ساموير",
+      "clean_title": "شخص ما في مكان ما - سمبادي ساموير",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "حياة الشرفة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تواصل تريشيا تعزيز علاقاتها مع أحد الأعضاء المهمين في النادي، بينما يقرر سام أخيرًا الذهاب إلى الطبيب لأول مرة منذ سنوات.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:00:00+00:00",
+      "stop": "2026-11-17T06:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T06:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T06:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T11:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T12:15:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T17:55:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T18:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T03:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T07:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T12:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T12:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T13:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T17:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "شخص ما في مكان ما - سمبادي ساموير",
+      "clean_title": "شخص ما في مكان ما - سمبادي ساموير",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ماذا لو انتشر؟",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تواجه سام وتريشيا مشكلة غير متوقعة خلال رحلتهما إلى مدينة كانساس لحضور معرض تجاري.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:30:00+00:00",
+      "stop": "2026-11-17T07:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T06:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T06:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T11:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T12:15:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T17:55:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T18:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T03:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T07:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T12:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T12:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T13:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T17:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فاملي بوندز",
+      "clean_title": "فاملي بوندز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "روابط الأسرة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في الحلقة الافتتاحية، بعد اختفاء عميل بكفالة قدرها 10000 دولار، ركب توم وكريس ودان وجيمي شاحنة وتوجهوا إلى ريدينغ، بنسلفانيا وشرعوا في الضياع!",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2005",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T07:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T12:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T13:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T07:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T13:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فاملي بوندز",
+      "clean_title": "فاملي بوندز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "القبيلة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "أصبح سال في الـ 18 من العمر، وتنوي العائلة إقامة حفلة ضخمة لهذه المناسبة. في هذه الأثناء، يتوجه طاقم آل سيتي إلى منتزه ريفرسايد في مانهاتن حيث يتواجد هارب مطلوب بتهمة القتل.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2005",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T07:30:00+00:00",
+      "stop": "2026-11-17T08:05:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T12:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T13:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T13:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "لويس سي. كيه.: شيمليس",
+      "clean_title": "لويس سي. كيه.: شيمليس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "سواء كان يكتب، يقدم عرضا، أو يترأس مسلسله الكوميدي الخاص من أتش بي أو، فإن لويس سي كيه لم يتردد أبدا في التعبير عما يدور في رأسه. والآن، يعود الحائز على جائزة إيمي إلى طبيعته الكوميدية ليتحدث عن المواضيع والمشاكل اليومية التي يخجل الآخرون من التطرق لها.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2006",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:05:00+00:00",
+      "stop": "2026-11-17T09:05:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T13:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T01:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غرفة الأخبار - ذا نيوزروم",
+      "clean_title": "غرفة الأخبار - ذا نيوزروم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "وان ستيب تو ماني",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يحصل ماك وتشارلي على شاهد رئيسي في محاولتهم لتأييد قصة دانتاناز أوبيريشن جينوفا. يتبع ويل تعليمات نينا ليحسن من صورته وذلك بظهوره في برنامج حواري صباحي، ويحصل جيم على صحبة غير متوقعة خلال وجوده مع هالي.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T09:05:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "clean_title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ايه ديستنس ان ذا كيتشن",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يلجأ لاري إلى كاتب للحصول على المشورة. أثناء البحث عن شقيقة سوزي الصغرى، يحصل على مخالفة سير من قبل شرطي متحمس.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T10:35:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T15:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:50:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T09:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T15:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:10:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "clean_title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "رانينغ ويذ ذا بولز",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتهم الطبيب لاري بتجاوزه؛ تزداد شكوك سوزي بشأن جيف؛ يقدم لاري رشوة لبواب في جنازة.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:35:00+00:00",
+      "stop": "2026-11-17T11:10:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T15:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:50:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T09:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T15:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:10:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "منتجع كامب ديفيد",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تقوم سيلينا بأخذ كاثرين إلى احتفال عائلي قبل عيد الميلاد في كامب ديفيد، المكان الذي ينوي فيه فريقها أيضا إجراء مفاوضات سرية. وبعد حدوث مناقشة كارثية في نيو هامبشاير، تحاول أيمي ودان جعل جوناه يبدو أكثر إنسانية.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2016",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:10:00+00:00",
+      "stop": "2026-11-17T11:40:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "باري",
+      "clean_title": "باري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "شارع 710 الشمالي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "أي نوع من الرجال لا يريدون وضع حوض استحمام ساخن هناك؟",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:40:00+00:00",
+      "stop": "2026-11-17T12:10:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T11:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T17:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T05:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T17:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "شخص ما في مكان ما - سمبادي ساموير",
+      "clean_title": "شخص ما في مكان ما - سمبادي ساموير",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نام نامز",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "خلال تواجد شانون في منزل ريك، تنضم تريشيا إلى سام وأصدقائها للاحتفال بعيد الشكر. وخلال احتفال عائلتها المختارة بالأحداث الأولى ومرور اللحظات، يتم الكشف عن تفاصيل من ماضي براد، وتكتسب سام فهماً أعمق لمعاني الحب الحقيقي.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:10:00+00:00",
+      "stop": "2026-11-17T12:40:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T06:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T06:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T11:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T12:15:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T17:55:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T18:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T03:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T07:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T12:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T13:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T17:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "شخص ما في مكان ما - سمبادي ساموير",
+      "clean_title": "شخص ما في مكان ما - سمبادي ساموير",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بقدر ما أحب أن لا أشعر بشيء",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتأذى مشاعر جويل بشدة بعد حادث تصادم بسيط. وفي الوقت نفسه، يعيد موعد سام مع آيسلندا بعض من أكبر مخاوفها، بينما تتقن تريشيا عرضها التقديمي لمتش.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:40:00+00:00",
+      "stop": "2026-11-17T13:10:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T06:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T06:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T11:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T12:15:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T17:55:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T18:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T03:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T07:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T12:10:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T13:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T17:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فاملي بوندز",
+      "clean_title": "فاملي بوندز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الخريج",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسح توم لـ سال بالاستمتاع بوقته، ولكنه لن تدع المراهق يحمل بندقية. أيضا، يقرر رئيس الأسرة إجراء بعض التغييرات، حتى انه سوف يتخلي عن التدخين. كاتي على وشك التخرج من كلية كينغسبورو و فلو يناقش علم وظائف الأعضاء في متعة الإناث.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2005",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:10:00+00:00",
+      "stop": "2026-11-17T13:40:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T12:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T13:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T07:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "روبيرت كلين: ذا أموروس باسبوي أوف ديكاتور أفينيو",
+      "clean_title": "روبيرت كلين: ذا أموروس باسبوي أوف ديكاتور أفينيو",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يطرح الكوميدي والممثل روبيرت كلين العديد من المواضيع مثل الرؤساء السابقين والحاليين، طفولته، الإبحار مع رودني دينجرفيلد، والثورة الجنسية في ستينات القرن الماضي",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2005",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:40:00+00:00",
+      "stop": "2026-11-17T14:40:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "غرفة الأخبار - ذا نيوزروم",
+      "clean_title": "غرفة الأخبار - ذا نيوزروم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ريد تيم 3",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "من خلال تواجدها مع فريق عمل غرفة الأخبار، تستجمع ريبيكا الأحداث التي أدت إلى قرار إيه سي أن المصيري بأن يستمروا بتقرير دانتانا الخاص، وهناك بعض التداعيات التي تهدد بتدمير نيوز نايت.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T14:40:00+00:00",
+      "stop": "2026-11-17T15:40:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "clean_title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ثانك يو فور يور سيرفس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يرتكب لاري خطأ مع خطيب سامي، ويحاول البدء من جديد مع حامل بريده والحارس الأمني في نادي الغولف.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T15:40:00+00:00",
+      "stop": "2026-11-17T16:15:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T15:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:50:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T09:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:10:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "clean_title": "اكبح حماسك - كيرب يور إنثوزيازم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ذا أكسيدانتال تيكست اون بيربوس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يبتكر لاري حيلة مذهلة لتخليص رفاقه من تبعات العلاقات العاطفية، كما يتسبب في إثارة حنق حبيبة فونكهاوزر الجديدة.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T16:15:00+00:00",
+      "stop": "2026-11-17T16:55:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T00:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T05:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T14:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T15:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:05:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-16T21:50:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T00:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:20:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T08:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T09:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T10:35:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T14:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T15:40:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:10:00+00:00"
+        },
+        {
+          "channel": "Moonbug Kids",
+          "start": "2026-11-17T20:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "قومي بمصالحة شقيقتك",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتشاجر كاثرين ومارجوري، يستعد مايك لأطفاله، فيما تجري سيلينا مقابلة.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2016",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T16:55:00+00:00",
+      "stop": "2026-11-17T17:25:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "باري",
+      "clean_title": "باري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الضعفاء",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "دعونا ننقسم.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T17:25:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T11:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T17:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T05:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "لاست ويك تونايت ويذ جون أوليفر",
+      "clean_title": "لاست ويك تونايت ويذ جون أوليفر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 30",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواصل الممثل الكوميدي والكاتب جون أوليفر تسليط الضوء بشكل ساخر وعميق على الأحداث الجارية خلال الموسم الثالث عشر.",
+      "category": "برنامج حواري",
+      "genres": [
+        "برنامج حواري"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T01:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T20:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T01:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T22:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي. بي. سترايك: ذا إنك بلاك هارت",
+      "clean_title": "سي. بي. سترايك: ذا إنك بلاك هارت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "القلب الأسود: الجزء 2",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما يتنكر روبن، يجد باركلي نفسه في خطر، ويتم سحب سترايك إلى طلاق شارلوت المليء بالفوضى.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ترو ديتكتيف",
+      "clean_title": "ترو ديتكتيف",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "صيادون في الظلام",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعيد واين ورولاند النظر في التناقضات الموجودة في قضية بورسيل التي تم إخفاؤها أو نسيانها على مر السنين. ومن بين أولئك الذين يعاد تقييمهم توم بورسيل ، وكذلك ابن عم لوسي بورسيل دان. يتلألأ بريق إصدار كتاب أميليا بصوت من الماضي.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:00:00+00:00",
+      "stop": "2026-11-17T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "كواري",
+      "clean_title": "كواري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نوك تشا دا مون",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواجه ماك شياطين حربه وينتقم من عدو قديم له.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2016",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:00:00+00:00",
+      "stop": "2026-11-17T22:20:00+00:00",
+      "duration_minutes": 80,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "لاست ويك تونايت ويذ جون أوليفر",
+      "clean_title": "لاست ويك تونايت ويذ جون أوليفر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 30",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواصل الممثل الكوميدي والكاتب جون أوليفر تسليط الضوء بشكل ساخر وعميق على الأحداث الجارية خلال الموسم الثالث عشر.",
+      "category": "برنامج حواري",
+      "genres": [
+        "برنامج حواري"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:20:00+00:00",
+      "stop": "2026-11-17T23:00:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/o43yDem.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T01:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T20:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T01:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2335 @@
+{
+  "channel_id": "InvestigationDiscovery.uk@SD",
+  "channel_name": "Discovery IDX HD",
+  "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+  "programs": [
+    {
+      "tmdb_id": null,
+      "title": "هير نو ايفل",
+      "clean_title": "هير نو ايفل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ذا ساوند أوف تيرور",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في عام 1983، تتعقب الخدمة السرية مزورًا. وتكشف التسجيلات الصوتية التي عثرت عليها له وهو يعذب النساء عن أحد أكثر القتلة المتسلسلين فسادًا في التاريخ.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T23:00:00+00:00",
+      "stop": "2026-11-16T00:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا بيبي كيلر كونسبيرسي",
+      "clean_title": "ذا بيبي كيلر كونسبيرسي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 1",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "سُجنت ثلاث نساء بتهمة لا يكاد العقل يصدقها: قتل أطفالهن الرضع. فهل يُعقل أن تكون النظرية الرياضية التي استُخدمت لإدانتهن مجرد مؤامرة قائمة على الأكاذيب، وظّفها رجال ذوو نفوذ لاستهداف أمهات ثكالى لا حول لهن ولا قوة؟",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T00:00:00+00:00",
+      "stop": "2026-11-16T01:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا بيبي كيلر كونسبيرسي",
+      "clean_title": "ذا بيبي كيلر كونسبيرسي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 2",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "سُجنت ثلاث نساء بتهمة لا يكاد العقل يصدقها: قتل أطفالهن الرضع. فهل يُعقل أن تكون النظرية الرياضية التي استُخدمت لإدانتهن مجرد مؤامرة قائمة على الأكاذيب، وظّفها رجال ذوو نفوذ لاستهداف أمهات ثكالى لا حول لهن ولا قوة؟",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:00:00+00:00",
+      "stop": "2026-11-16T02:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ديسابيرد",
+      "clean_title": "ديسابيرد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "سيكرت ريندزوفوس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "باتي، ذات القلب الطيب، تُغادر العمل في المصنع بعد انتهاء مناوبتها، ولا تُرى مرة أخرى. ماذا حدث لهذه الأم المحبوبة، وهل هناك رجل غامض متورط؟",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T02:00:00+00:00",
+      "stop": "2026-11-16T03:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا رسل ستوري ويذ ماريا إيلينا سالينز",
+      "clean_title": "ذا رسل ستوري ويذ ماريا إيلينا سالينز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كونفيشينز أوف أن إنوسنت مان",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في عام 1990، تم إدانة مراهق بتهمة قتل والديه. وتم إجباره على الاعتراف، أمضى مارتن تانكلف 20 سنة وهو يحاول إثبات براءته.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T03:00:00+00:00",
+      "stop": "2026-11-16T04:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا رسل ستوري ويذ ماريا إيلينا سالينز",
+      "clean_title": "ذا رسل ستوري ويذ ماريا إيلينا سالينز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "تافست تو سولف",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في سبتمبر عام 2003 في إلينيوس، قام المهاجر المكسيكي فيليبي ألوا البالغ من العمر 62 عام بإبلاغ زوجته إيلوسيا بأنه ذاهب إلة حانة محلية لتحصيل دين بقيمة 75$. ولكنه لا يعود أبداً.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T04:00:00+00:00",
+      "stop": "2026-11-16T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T03:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بوردر كونترول بولندا",
+      "clean_title": "بوردر كونترول بولندا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 2",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عند حدود دوروهوسك، يفسد كلب بوليسي احتفال عيد ميلاد.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T05:00:00+00:00",
+      "stop": "2026-11-16T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بوردر كونترول بولندا",
+      "clean_title": "بوردر كونترول بولندا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 3",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تم إطلاق كلب بوليسي لتفتيش شاحنة مهرب معروف.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T06:00:00+00:00",
+      "stop": "2026-11-16T07:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T05:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كولز فروم ذا إنسايد",
+      "clean_title": "كولز فروم ذا إنسايد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ميردرد باي مينبولشن",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عند العثور على عامل ميتًا داخل مزرعة في نهر خارج مدينة سولت ليك، يتعين على المحققين في ولايتين التعاون معًا للقبض على القاتل.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T07:00:00+00:00",
+      "stop": "2026-11-16T08:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كولز فروم ذا إنسايد",
+      "clean_title": "كولز فروم ذا إنسايد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كيلينغ ذا كومبتيشن",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عثر صيادون على رجل يبلغ من العمر 27 عاماً مقتولاً بالرصاص على ضفة أحد الأنهار. وقد قادت مكالمة هاتفية من داخل السجن المحققين إلى كشف ملابسات علاقة عاطفية معقدة انتهت بجريمة قتل.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:00:00+00:00",
+      "stop": "2026-11-16T09:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T07:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كيلر كونفيشنز: كيس فايل أوف إي تكساس رينجر",
+      "clean_title": "كيلر كونفيشنز: كيس فايل أوف إي تكساس رينجر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الشرير يكذب دائماً",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما تختفي الأم سامانثا ماكنورتون دون أثر، يتدخل الحارس هولاند ويطلق تحقيقاً سريعاً، مصمماً على العثور عليها.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T09:00:00+00:00",
+      "stop": "2026-11-16T10:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ايه بادي ان ذا بيزمنت",
+      "clean_title": "ايه بادي ان ذا بيزمنت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "آيس كولد كيلرز",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في عام 2017، يعثر زوجان من أوهايو على جثة مقطعة الأوصال في ثلاجة في الطابق السفلي. ويكشف هذا عن لغز مروع يحيط بامرأة مفقودة ومثلث حب مأساوي.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T10:00:00+00:00",
+      "stop": "2026-11-16T11:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أميركان مانستر",
+      "clean_title": "أميركان مانستر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ذا كريغسليست كيلر",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدّر راكب الدراجات النارية ريتشارد بيزلي من ولاية أوهايو الأسرة والإيمان ومساعدة الآخرين. وعندما اختفى، اكتشفت الشرطة وجود وحش على الإنترنت يغري الرجال المحليين بالموت.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T11:00:00+00:00",
+      "stop": "2026-11-16T12:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أميركان مانستر",
+      "clean_title": "أميركان مانستر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ذا رونغ مان",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في ولاية بنسلفانيا، يحب كيفن وجوان داولينج تصوير مراحل نمو أطفالهما بالفيديو. ولكن عندما تُقتل امرأة بالرصاص في بلدة قريبة، يُتهم كيفن بالقتل.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:00:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هايواي تو هيل",
+      "clean_title": "هايواي تو هيل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ميردر إن ذا فاست لين",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم زوج وزوجة برحلة برية إلى أوهايو للعثور على منزل أحلامهما. ولكن، بعد مرور ساعة واحدة فقط من رحلتهم، انتهى هجوم يبدو عشوائيًا بمأساة.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T05:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أميركان مانستر",
+      "clean_title": "أميركان مانستر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كونترول فريك",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما تظهر جثتان في حادث سيارة، يكتشف المحققون الحقيقة المروعة حول علاقة تبدو مثالية.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "911: ديد ذا كيلر كول؟",
+      "clean_title": "911: ديد ذا كيلر كول؟",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "المشتبه به رقم 1",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد جريمة قتل امرأة، يتصل زوجها السابق برقم الطوارئ 911، ولكن الشرطة تعتبره مشتبهاً به.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "911: ديد ذا كيلر كول؟",
+      "clean_title": "911: ديد ذا كيلر كول؟",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كلوز تو ميردر",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تسقط امرأة لتلقى حتفها في جبال روكي، ويتصل زوجها برقم الطوارئ 911. يتعين على الشرطة معرفة ما إذا كانت وفاتها حادثًا حقيقيًا أم أنها تعرضت للدفع.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بيفور آي داي",
+      "clean_title": "بيفور آي داي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إن ذا لاين أوف ديوتي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يطلب النائب فلويد مور الدعم عندما يرى رجلاً يتصرف بشكل مريب. عندما يصل الدعم، يصاب فلويد بطلق ناري ولكن الدليل على الجاني بات موجوداً في جيبه.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بيفور آي داي",
+      "clean_title": "بيفور آي داي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "رسالة من القبر",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عُثر على شارون دينسون، وهي أم تبلغ من العمر 50 عاماً، مصابة بسبع طلقات نارية في الشارع، دون وجود أي أثر للقاتل. ومع ذلك، فقد قدّمت كلماتها الأخيرة قبل وفاتها عوناً كبيراً للشرطة.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:00:00+00:00",
+      "stop": "2026-11-16T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دادلييست كيدس",
+      "clean_title": "دادلييست كيدس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مقتل ألانا كالهان",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "قُتلت ألانا كالهان الشابة برصاصة أطلقها آرون شميدت.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:00:00+00:00",
+      "stop": "2026-11-16T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إي بودي إن ذا بايزمنت",
+      "clean_title": "إي بودي إن ذا بايزمنت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "خطواتها الأخيرة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يؤدي اقتحام أحد المنازل في كونيتيكت إلى التسبب في مقتل الأم وتركها في القبو.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:00:00+00:00",
+      "stop": "2026-11-16T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ايه بادي ان ذا بيزمنت",
+      "clean_title": "ايه بادي ان ذا بيزمنت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "تاكوني دانجون",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عثر ضباط شرطة فيلادلفيا على أربعة بالغين محتجزين في زنزانة تحت الأرض. امتد التحقيق عبر أربع ولايات، وأسفر عن اعتقالات متعددة.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T21:00:00+00:00",
+      "stop": "2026-11-16T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بادي كام",
+      "clean_title": "بادي كام",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "لا تثق بأحد",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تسعى الشرطة لإيقاف شاحنة مسروقة بداخلها رهينة، وتتحول استجابة لبلاغ عن نزاع منزلي إلى واقعة دامية، حين يفتح المشتبه به النار على عناصر الشرطة من مسافة قريبة جداً.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:00:00+00:00",
+      "stop": "2026-11-16T23:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أميركان ديتكتيف ويذ إلتي. جو كيندا",
+      "clean_title": "أميركان ديتكتيف ويذ إلتي. جو كيندا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إي ليتر فروم هيل",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد مقتل موظفين في حانة باستخدام مطرقة، يتوقف حل القضية على رسالة اعتراف من \"الشيطان\"، تحمل ختماً بريدياً من \"الجحيم\".",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T23:00:00+00:00",
+      "stop": "2026-11-17T00:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "إي بودي إن ذا بايزمنت",
+      "clean_title": "إي بودي إن ذا بايزمنت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "خطواتها الأخيرة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يؤدي اقتحام أحد المنازل في كونيتيكت إلى التسبب في مقتل الأم وتركها في القبو.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:00:00+00:00",
+      "stop": "2026-11-17T01:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دادلييست كيدس",
+      "clean_title": "دادلييست كيدس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مقتل ألانا كالهان",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "قُتلت ألانا كالهان الشابة برصاصة أطلقها آرون شميدت.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:00:00+00:00",
+      "stop": "2026-11-17T02:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بيفور آي داي",
+      "clean_title": "بيفور آي داي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إن ذا لاين أوف ديوتي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يطلب النائب فلويد مور الدعم عندما يرى رجلاً يتصرف بشكل مريب. عندما يصل الدعم، يصاب فلويد بطلق ناري ولكن الدليل على الجاني بات موجوداً في جيبه.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T02:00:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أميركان مانستر",
+      "clean_title": "أميركان مانستر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ذا كريغسليست كيلر",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدّر راكب الدراجات النارية ريتشارد بيزلي من ولاية أوهايو الأسرة والإيمان ومساعدة الآخرين. وعندما اختفى، اكتشفت الشرطة وجود وحش على الإنترنت يغري الرجال المحليين بالموت.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أميركان مانستر",
+      "clean_title": "أميركان مانستر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ذا رونغ مان",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في ولاية بنسلفانيا، يحب كيفن وجوان داولينج تصوير مراحل نمو أطفالهما بالفيديو. ولكن عندما تُقتل امرأة بالرصاص في بلدة قريبة، يُتهم كيفن بالقتل.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هايواي تو هيل",
+      "clean_title": "هايواي تو هيل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ميردر إن ذا فاست لين",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم زوج وزوجة برحلة برية إلى أوهايو للعثور على منزل أحلامهما. ولكن، بعد مرور ساعة واحدة فقط من رحلتهم، انتهى هجوم يبدو عشوائيًا بمأساة.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T05:00:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أميركان مانستر",
+      "clean_title": "أميركان مانستر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كونترول فريك",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما تظهر جثتان في حادث سيارة، يكتشف المحققون الحقيقة المروعة حول علاقة تبدو مثالية.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:00:00+00:00",
+      "stop": "2026-11-17T07:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "911: ديد ذا كيلر كول؟",
+      "clean_title": "911: ديد ذا كيلر كول؟",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "المشتبه به رقم 1",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد جريمة قتل امرأة، يتصل زوجها السابق برقم الطوارئ 911، ولكن الشرطة تعتبره مشتبهاً به.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T08:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "911: ديد ذا كيلر كول؟",
+      "clean_title": "911: ديد ذا كيلر كول؟",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كلوز تو ميردر",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تسقط امرأة لتلقى حتفها في جبال روكي، ويتصل زوجها برقم الطوارئ 911. يتعين على الشرطة معرفة ما إذا كانت وفاتها حادثًا حقيقيًا أم أنها تعرضت للدفع.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:00:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T07:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بيفور آي داي",
+      "clean_title": "بيفور آي داي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إن ذا لاين أوف ديوتي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يطلب النائب فلويد مور الدعم عندما يرى رجلاً يتصرف بشكل مريب. عندما يصل الدعم، يصاب فلويد بطلق ناري ولكن الدليل على الجاني بات موجوداً في جيبه.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بيفور آي داي",
+      "clean_title": "بيفور آي داي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "رسالة من القبر",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عُثر على شارون دينسون، وهي أم تبلغ من العمر 50 عاماً، مصابة بسبع طلقات نارية في الشارع، دون وجود أي أثر للقاتل. ومع ذلك، فقد قدّمت كلماتها الأخيرة قبل وفاتها عوناً كبيراً للشرطة.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T11:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستيل إي ميستري",
+      "clean_title": "ستيل إي ميستري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أنسين إينيميز",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "أثارت جريمة قتل الزوجين المليارديرين باري وهاني شيرمان في قصرهما صدمة في تورنتو. باري رجل أعمال ثري وله العديد من الأعداء، ولكن من ذا الذي قد يرغب في قتل زوجته؟",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:00:00+00:00",
+      "stop": "2026-11-17T12:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستيل إي ميستري",
+      "clean_title": "ستيل إي ميستري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ذا ستاف أوف نايتميرز",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يختفي فتى يبلغ من العمر 14 عامًا في أروبا أثناء رحلة تزلج على الماء مع رجل التقى به للتو. تشك والدته على الفور في أن الأمر لم يكن حادثًا.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:00:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بلود رانز كولد",
+      "clean_title": "بلود رانز كولد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إي ماذرز لوف",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعتبر اختفاء الأم في عام 1979 في البداية نتيجة حادث تحطم طائرة. لكن القضية التي تبدو مفتوحة ومحلولة تتحول إلى تحقيق في جريمة قتل دام 22 عامًا.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بلود رانز كولد",
+      "clean_title": "بلود رانز كولد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ون بيلبورد أوتسايد توسكان",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما تختفي أم شابة، تقرر والدتها كشف الحقيقة بنفسها. لكن عواقب سعيها كانت قاتلة بشكل مأساوي.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إمباكت أوف ميردر",
+      "clean_title": "إمباكت أوف ميردر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "هارتس أون فاير",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسلط البرنامج الضوء على بيان تأثير الضحية والذي من الممكن أن يكون كأداة لسرد القصص. يتم الإدلاء بهذه الأقوال في المحكمة للسماح لأحد أفراد الأسرة أو الأصدقاء بوصف تأثير الجريمة.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T15:00:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إمباكت أوف ميردر",
+      "clean_title": "إمباكت أوف ميردر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ذيس إيز نوت أيه دريل",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسلط البرنامج الضوء على بيان تأثير الضحية والذي من الممكن أن يكون كأداة لسرد القصص. يتم الإدلاء بهذه الأقوال في المحكمة للسماح لأحد أفراد الأسرة أو الأصدقاء بوصف تأثير الجريمة.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دادليست فاميليز",
+      "clean_title": "دادليست فاميليز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "تُمسكُ أليكسا قاتلًا",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما عُثر على أنجي وايت، البالغة من العمر 36 عامًا، ميتة في منزلها في ويلز في أكتوبر 2022، ساعدت تسجيلات أليكسا من ليلة مقتلها الشرطة في القبض على القاتل. يتحدث أفراد العائلة والأصدقاء لأول مرة عن الليلة التي غيرت حياتهم إلى الأبد.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ديدليست فاميلز",
+      "clean_title": "ديدليست فاميلز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إي ماذر، إي ميردر & إي مانهانت",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تنتهي معركة حضانة مريرة بمأساة عندما يتم العثور على رضيعة ميتة. تبدأ عملية مطاردة لمدة ثلاث سنوات لتعقب قاتلتها وهي والدتها.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "دادلييست كيدس",
+      "clean_title": "دادلييست كيدس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مقتل سكاي لار نيس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "قُتلت سكايلر نيس على يد أفضل أصدقائها عندما كانت تبلغ من العمر 16 عامًا فقط.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سينغس اوف ا سايكوباث",
+      "clean_title": "سينغس اوف ا سايكوباث",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إيفري تايم واز لايك كريسماس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "على مدى أكثر من عقد من الزمن، ظلت عدة اعتداءات جنسية وحشية دون حل، إلى أن ساعدت التطورات في تقنية الحمض النووي في القبض على قاتل مختل نفسياً.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:00:00+00:00",
+      "stop": "2026-11-17T20:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سينغس اوف ا سايكوباث",
+      "clean_title": "سينغس اوف ا سايكوباث",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "هي غوت ساتش إي راش فروم إت",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تلقي الشرطة القبض على زوجين بتهمة ارتكاب جريمة قتل وحشية، لكنها تكتشف بعد عام أن المسؤولين الحقيقيين عن الجريمة هما شخصان مختلان نفسياً يتسمان ببرود المشاعر.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:30:00+00:00",
+      "stop": "2026-11-17T21:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إي بودي إن ذا بايزمنت",
+      "clean_title": "إي بودي إن ذا بايزمنت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "خطواتها الأخيرة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يؤدي اقتحام أحد المنازل في كونيتيكت إلى التسبب في مقتل الأم وتركها في القبو.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:00:00+00:00",
+      "stop": "2026-11-17T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "Discovery IDX HD",
+          "start": "2026-11-17T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نو وان كان هير يو سكريم",
+      "clean_title": "نو وان كان هير يو سكريم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "غيتشي مانيتو ماساكر",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مذبحة في محمية ولاية جيتشي مانيتو تترك أربعة مراهقين قتلى. لكن الشاهد يأتي إلى الأمام مع قصة لا تصدق من القتل والبقاء على قيد الحياة.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:00:00+00:00",
+      "stop": "2026-11-17T23:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "is_rerun": false,
+      "reruns": []
+    }
+  ]
+}

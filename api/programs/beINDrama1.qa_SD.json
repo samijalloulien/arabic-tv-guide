@@ -1,0 +1,5061 @@
+{
+  "channel_id": "beINDrama1.qa@SD",
+  "channel_name": "بي إن دراما",
+  "channel_icon": "https://i.imgur.com/d6AGFro.png",
+  "programs": [
+    {
+      "tmdb_id": 205593,
+      "title": "Var Bunlar S2",
+      "clean_title": "Var Bunlar",
+      "original_title": "Var Bunlar",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "في الموسم الثاني، يواجه الصديقين المقربين (صمد) و(طوفان) تحديات جديدة في حياتهما اليومية، لكن يتبعهما الحظ السيئ في كل ما يفعلانه، ويبذلان قصارى جهدهما لإعجاب الفتيات اللاتي يشعران بالإعجاب نحوهن، بينما يسعيان إلى السلام والراحة بطرقهما الخاصة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 8.2,
+      "vote_count": 26,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-07-21",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Kerem Özdoğan, Giray Altınok",
+      "cast": [
+        {
+          "name": "Giray Altınok",
+          "character": "Tufan Ardıç",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iolGwjRfGAAVbetnNkA2E50pF4b.jpg"
+        },
+        {
+          "name": "Kerem Özdoğan",
+          "character": "Samet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9kbvvUP23yzqLvEHmXblYBgo5Kr.jpg"
+        },
+        {
+          "name": "Cansu Diktaş",
+          "character": "Buket",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ii87KTFpcj2OyhelLwJHI9ilhz.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T12:30:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/53wHILjWp4JqXAS5MkwMKsA2oek.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 283986,
+      "title": "قطع وريد",
+      "clean_title": "قطع وريد",
+      "original_title": "قطع وريد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "تحدث جريمة قتل غامضة في قرية قريبة من دمشق تُدعى (المفرق)، ثم يبدأ التحقيق للبحث عن الجاني بين أفراد عائلتين تعيشان في القرية، لتكشف التحقيقات عن أسرار وتفاصيل صادمة وغير متوقعة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-02-28",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": "سعيد حناوي, Mahmoud Idrees",
+      "cast": [
+        {
+          "name": "سلوم حداد",
+          "character": "رياض",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3RPqqMSYYUl33ChPo3TzygWY53U.jpg"
+        },
+        {
+          "name": "باسم ياخور",
+          "character": "عاصم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bGH42YnqKpvcoNi4Q9ENoZtSs2I.jpg"
+        },
+        {
+          "name": "شكران مرتجى",
+          "character": "رندة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mMVEvrN2tCOZuAv4ffMuhRISyqT.jpg"
+        },
+        {
+          "name": "أنس طيارة",
+          "character": "طلال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/13xIHTbcDEOPbIfDEtO6JhjIteh.jpg"
+        },
+        {
+          "name": "صفاء سلطان",
+          "character": "ليلى",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sYQmOGbmRNbbZwICQakjj3MHwFl.jpg"
+        },
+        {
+          "name": "طارق مرعشلي",
+          "character": "أبو المجد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6LCFXQ8Quj9qy60WX2jj5kelWQJ.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/7l1DJymPLjGdyBRWVDfpE6JDVin.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/bpUmoa7zc2IUj04sJDgm7u8aV9d.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/7l1DJymPLjGdyBRWVDfpE6JDVin.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "الجديد",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301320,
+      "title": "أولاد الراعي",
+      "clean_title": "أولاد الراعي",
+      "original_title": "أولاد الراعي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "من نقطة الصفر وجذور بسيطة، ينطلق ثلاثة أشقاء في رحلة كفاح مريرة لبناء إمبراطورية تجارية تهز عالم المال. ومع تضخم الثروة والنفوذ، يتحول النجاح إلى اختبار قاسٍ لروابط الدم؛ حيث تتشابك المصالح وتنفجر صراعات السلطة والولاء بينهم. يضعهم العمل أمام خيارات مصيرية تهدد الكيان الذي بنوه معاً، كاشفاً كيف يمكن للمال أن يغير القلوب ويقلب الأشقاء إلى خصوم في ساحة معركة لا ترحم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمود شكري, خالد شكري",
+      "cast": [
+        {
+          "name": "ماجد المصري",
+          "character": "راغب الراعي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hCFDKcAiotPNs5cvlhHXgFS6dX0.jpg"
+        },
+        {
+          "name": "أحمد عيد",
+          "character": "نديم الراعي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8mkmyIoo0EAfZ00YbLetFsUCirY.jpg"
+        },
+        {
+          "name": "خالد الصاوي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/t4Z5PVsbFgN6RsN1bksjDwZlkhc.jpg"
+        },
+        {
+          "name": "إيهاب فهمي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/upDuaN9GI86Ch5spYI9iAqj5hqt.jpg"
+        },
+        {
+          "name": "نيرمين الفقي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/uyQ74Sa0wacujf01tGpCkDaH8U5.jpg"
+        },
+        {
+          "name": "إيمان يوسف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/WsvQNRX2JonqHZwm7jibkfZz3a.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=LWChudOrCWU",
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/biAvwA8P2h348GLYLMbykmiNOBI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cQsRSF61ME6AyLpkLCJ8teFflMy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/biAvwA8P2h348GLYLMbykmiNOBI.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T19:40:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 107415,
+      "title": "Aile Sirketi S2",
+      "clean_title": "Aile Sirketi",
+      "original_title": "Aile Şirketi",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "يتقدم هارون لطلب الزواج من بادي، ومنذ تلك اللحظة يتحول إلى رجل مختلف تمامًا، حيث يتفاجئ الجميع بشخصيته الجديدة مما يجعل الأمور في هاي تور تتغير عما كانت.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 6.3,
+      "vote_count": 7,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-08-06",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Emrah Kaman",
+          "character": "Harun Boz",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jY4pd7c8V5YnDOkYvdwpm5sL5ED.jpg"
+        },
+        {
+          "name": "Eslem Akar",
+          "character": "Bade Işıl Yüce",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mXW4bNC5NkkkjQtsjSEbnJ0moo2.jpg"
+        },
+        {
+          "name": "Özlem Öçalmaz",
+          "character": "Hande",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kCioOxqWq9S98fFoxRiOFCtbzjO.jpg"
+        },
+        {
+          "name": "Can Sipahi",
+          "character": "Burak",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jZ90IsLrradvOnhl97qhULxOx6f.jpg"
+        },
+        {
+          "name": "Cihan Durmaz",
+          "character": "Baki",
+          "profile_image": null
+        },
+        {
+          "name": "Müfit Kayacan",
+          "character": "Şenol",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2QVDWWQj45uOgnD2DUkB1tC5LWt.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T15:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oU9qFJRj3d7pda2gWL3XiXMeLc8.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 107415,
+      "title": "Aile Sirketi S2",
+      "clean_title": "Aile Sirketi",
+      "original_title": "Aile Şirketi",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "يتقدم هارون لطلب الزواج من بادي، ومنذ تلك اللحظة يتحول إلى رجل مختلف تمامًا، حيث يتفاجئ الجميع بشخصيته الجديدة مما يجعل الأمور في هاي تور تتغير عما كانت.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 6.3,
+      "vote_count": 7,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-08-06",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Emrah Kaman",
+          "character": "Harun Boz",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jY4pd7c8V5YnDOkYvdwpm5sL5ED.jpg"
+        },
+        {
+          "name": "Eslem Akar",
+          "character": "Bade Işıl Yüce",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mXW4bNC5NkkkjQtsjSEbnJ0moo2.jpg"
+        },
+        {
+          "name": "Özlem Öçalmaz",
+          "character": "Hande",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kCioOxqWq9S98fFoxRiOFCtbzjO.jpg"
+        },
+        {
+          "name": "Can Sipahi",
+          "character": "Burak",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jZ90IsLrradvOnhl97qhULxOx6f.jpg"
+        },
+        {
+          "name": "Cihan Durmaz",
+          "character": "Baki",
+          "profile_image": null
+        },
+        {
+          "name": "Müfit Kayacan",
+          "character": "Şenol",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2QVDWWQj45uOgnD2DUkB1tC5LWt.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T15:30:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oU9qFJRj3d7pda2gWL3XiXMeLc8.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 243537,
+      "title": "حياة لا تشبهني",
+      "clean_title": "حياة لا تشبهني",
+      "original_title": "حياة لا تشبهني",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 31,
+      "description": "تدور الأحداث في سنوات سبعينيات وثمانينيات القرن العشرين، داخل أسرة كبيرة تعيش في منزل واحد، ويعيش كل أفراد هذه الأسرة في واقع لا يشبه أحلامهم وطموحاتهم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-01-03",
+      "status": "Returning Series",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": "أنفال الدويسان",
+      "cast": [
+        {
+          "name": "جاسم النبهان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xsLXbhBUe5Kr0H8UU92NNzQJjp.jpg"
+        },
+        {
+          "name": "أسمهان توفيق",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hAsOFW3bLYqAEyZcUcsV7cjeETs.jpg"
+        },
+        {
+          "name": "سماح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dN8qXrZcep3t9mvxl9SHCshiztQ.jpg"
+        },
+        {
+          "name": "هبة الدري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/wQ9UtCHH0cyCNewEms1Fk2ahaN0.jpg"
+        },
+        {
+          "name": "حمد العماني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dxty7GdQU3BPRiRnIq4IIaFlBGB.jpg"
+        },
+        {
+          "name": "عبدالله التركماني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hQXXR94A5etiq3dAVqbvZ3mKNkO.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/987VbxoUrlZxDSlGKeXpmwUfFJ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vCE3kwRcjLkFTZEjvWsQ8IkBsGl.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/987VbxoUrlZxDSlGKeXpmwUfFJ3.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 247965,
+      "title": "نظرة حب",
+      "clean_title": "نظرة حب",
+      "original_title": "نظرة حب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "قصة حب تولد بسبب بالصدفة ويؤججها الصراع والغموض، تقع بين قمر و بحر، وتحدث بينهما تغييرات كبيرة في حياتهما.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-03-11",
+      "status": "Ended",
+      "country": "لبنان",
+      "language": "العربية",
+      "director": "رافي وهبي",
+      "cast": [
+        {
+          "name": "باسل خياط",
+          "character": "بحر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3e5iMDJTQdzy4tyCyRulPEAY0Ml.jpg"
+        },
+        {
+          "name": "كارمن بصيبص",
+          "character": "قمر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tXvJF3YbadoNVzXH9XWOuKMVSBP.jpg"
+        },
+        {
+          "name": "Michel El Hourany",
+          "character": "نبيل",
+          "profile_image": null
+        },
+        {
+          "name": "آمال سعد الدين",
+          "character": "كاميليا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sus4RnIZRd3NxyxwDaBKLbmViFO.jpg"
+        },
+        {
+          "name": "Jamal El Ali",
+          "character": "جميل",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4m4Y2x2pDTl0aqaWKLn38AWMPtV.jpg"
+        },
+        {
+          "name": "طيف إبراهيم",
+          "character": "منصور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hmpUmqyniPxlYjmt6KEw85XwPo9.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/r6wrKgylx25nwVdUeTQIJvqgP67.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/acpOYT5AIOJyapyxWF8dHViXXnn.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/r6wrKgylx25nwVdUeTQIJvqgP67.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 205593,
+      "title": "Var Bunlar S2",
+      "clean_title": "Var Bunlar",
+      "original_title": "Var Bunlar",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "في الموسم الثاني، يواجه الصديقين المقربين (صمد) و(طوفان) تحديات جديدة في حياتهما اليومية، لكن يتبعهما الحظ السيئ في كل ما يفعلانه، ويبذلان قصارى جهدهما لإعجاب الفتيات اللاتي يشعران بالإعجاب نحوهن، بينما يسعيان إلى السلام والراحة بطرقهما الخاصة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 8.2,
+      "vote_count": 26,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-07-21",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Kerem Özdoğan, Giray Altınok",
+      "cast": [
+        {
+          "name": "Giray Altınok",
+          "character": "Tufan Ardıç",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iolGwjRfGAAVbetnNkA2E50pF4b.jpg"
+        },
+        {
+          "name": "Kerem Özdoğan",
+          "character": "Samet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9kbvvUP23yzqLvEHmXblYBgo5Kr.jpg"
+        },
+        {
+          "name": "Cansu Diktaş",
+          "character": "Buket",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ii87KTFpcj2OyhelLwJHI9ilhz.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T18:00:00+00:00",
+      "stop": "2026-11-16T18:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/53wHILjWp4JqXAS5MkwMKsA2oek.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 205593,
+      "title": "Var Bunlar S2",
+      "clean_title": "Var Bunlar",
+      "original_title": "Var Bunlar",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "في الموسم الثاني، يواجه الصديقين المقربين (صمد) و(طوفان) تحديات جديدة في حياتهما اليومية، لكن يتبعهما الحظ السيئ في كل ما يفعلانه، ويبذلان قصارى جهدهما لإعجاب الفتيات اللاتي يشعران بالإعجاب نحوهن، بينما يسعيان إلى السلام والراحة بطرقهما الخاصة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 8.2,
+      "vote_count": 26,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-07-21",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Kerem Özdoğan, Giray Altınok",
+      "cast": [
+        {
+          "name": "Giray Altınok",
+          "character": "Tufan Ardıç",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iolGwjRfGAAVbetnNkA2E50pF4b.jpg"
+        },
+        {
+          "name": "Kerem Özdoğan",
+          "character": "Samet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9kbvvUP23yzqLvEHmXblYBgo5Kr.jpg"
+        },
+        {
+          "name": "Cansu Diktaş",
+          "character": "Buket",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ii87KTFpcj2OyhelLwJHI9ilhz.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T18:30:00+00:00",
+      "stop": "2026-11-16T19:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/53wHILjWp4JqXAS5MkwMKsA2oek.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 283986,
+      "title": "قطع وريد",
+      "clean_title": "قطع وريد",
+      "original_title": "قطع وريد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "تحدث جريمة قتل غامضة في قرية قريبة من دمشق تُدعى (المفرق)، ثم يبدأ التحقيق للبحث عن الجاني بين أفراد عائلتين تعيشان في القرية، لتكشف التحقيقات عن أسرار وتفاصيل صادمة وغير متوقعة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-02-28",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": "سعيد حناوي, Mahmoud Idrees",
+      "cast": [
+        {
+          "name": "سلوم حداد",
+          "character": "رياض",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3RPqqMSYYUl33ChPo3TzygWY53U.jpg"
+        },
+        {
+          "name": "باسم ياخور",
+          "character": "عاصم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bGH42YnqKpvcoNi4Q9ENoZtSs2I.jpg"
+        },
+        {
+          "name": "شكران مرتجى",
+          "character": "رندة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mMVEvrN2tCOZuAv4ffMuhRISyqT.jpg"
+        },
+        {
+          "name": "أنس طيارة",
+          "character": "طلال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/13xIHTbcDEOPbIfDEtO6JhjIteh.jpg"
+        },
+        {
+          "name": "صفاء سلطان",
+          "character": "ليلى",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sYQmOGbmRNbbZwICQakjj3MHwFl.jpg"
+        },
+        {
+          "name": "طارق مرعشلي",
+          "character": "أبو المجد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6LCFXQ8Quj9qy60WX2jj5kelWQJ.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T19:00:00+00:00",
+      "stop": "2026-11-16T19:40:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/7l1DJymPLjGdyBRWVDfpE6JDVin.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/bpUmoa7zc2IUj04sJDgm7u8aV9d.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/7l1DJymPLjGdyBRWVDfpE6JDVin.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 15379,
+      "title": "برنامج beIN Action",
+      "clean_title": "beIN Action",
+      "original_title": "Missing in Action",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد فراره من معسكر أسرى في فيتنام، يعود عقيد في القوات الخاصة في مهمة لتحديد مكان الجنود الأمريكيين المفقودين الذين لا يزالون محتجزين وإنقاذهم.",
+      "category": "General",
+      "genres": [
+        "General",
+        "حركة",
+        "مغامرة",
+        "إثارة",
+        "حرب"
+      ],
+      "rating": 5.9,
+      "vote_count": 608,
+      "age_rating": "R",
+      "year": "1984",
+      "release_date": "1984-11-16",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Joseph Zito",
+      "cast": [
+        {
+          "name": "تشاك نوريس",
+          "character": "Col. James Braddock",
+          "profile_image": "https://image.tmdb.org/t/p/w185/m3uLikdhi9qObRvGVHsKX5H93lR.jpg"
+        },
+        {
+          "name": "مايكل إيمت ولش",
+          "character": "Tuck",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fVWvBxvwyk4aTA9vKZOV9qHRNNk.jpg"
+        },
+        {
+          "name": "David Tress",
+          "character": "Sen. Porter",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gLyDdtF4CbKj8hxJ5LLP3ZRnjnJ.jpg"
+        },
+        {
+          "name": "Lenore Kasdorf",
+          "character": "Ann",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zyU2cEF8RUC8Zx11SmVBYIPQ62a.jpg"
+        },
+        {
+          "name": "James Hong",
+          "character": "Gen. Trau",
+          "profile_image": "https://image.tmdb.org/t/p/w185/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+        },
+        {
+          "name": "Pierrino Mascarino",
+          "character": "Jacques",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5ZD0q5LEsVXYSUPFoCHBRSeZTaD.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T19:40:00+00:00",
+      "stop": "2026-11-16T20:00:00+00:00",
+      "duration_minutes": 20,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/nBrDcnNQca88ed1gRwZ1Q5cjNxE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8GVHeU77wFodIkwetIufkTVPgOF.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/nBrDcnNQca88ed1gRwZ1Q5cjNxE.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T13:40:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T19:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301320,
+      "title": "أولاد الراعي",
+      "clean_title": "أولاد الراعي",
+      "original_title": "أولاد الراعي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "من نقطة الصفر وجذور بسيطة، ينطلق ثلاثة أشقاء في رحلة كفاح مريرة لبناء إمبراطورية تجارية تهز عالم المال. ومع تضخم الثروة والنفوذ، يتحول النجاح إلى اختبار قاسٍ لروابط الدم؛ حيث تتشابك المصالح وتنفجر صراعات السلطة والولاء بينهم. يضعهم العمل أمام خيارات مصيرية تهدد الكيان الذي بنوه معاً، كاشفاً كيف يمكن للمال أن يغير القلوب ويقلب الأشقاء إلى خصوم في ساحة معركة لا ترحم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمود شكري, خالد شكري",
+      "cast": [
+        {
+          "name": "ماجد المصري",
+          "character": "راغب الراعي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hCFDKcAiotPNs5cvlhHXgFS6dX0.jpg"
+        },
+        {
+          "name": "أحمد عيد",
+          "character": "نديم الراعي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8mkmyIoo0EAfZ00YbLetFsUCirY.jpg"
+        },
+        {
+          "name": "خالد الصاوي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/t4Z5PVsbFgN6RsN1bksjDwZlkhc.jpg"
+        },
+        {
+          "name": "إيهاب فهمي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/upDuaN9GI86Ch5spYI9iAqj5hqt.jpg"
+        },
+        {
+          "name": "نيرمين الفقي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/uyQ74Sa0wacujf01tGpCkDaH8U5.jpg"
+        },
+        {
+          "name": "إيمان يوسف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/WsvQNRX2JonqHZwm7jibkfZz3a.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=LWChudOrCWU",
+      "start": "2026-11-16T20:00:00+00:00",
+      "stop": "2026-11-16T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/biAvwA8P2h348GLYLMbykmiNOBI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cQsRSF61ME6AyLpkLCJ8teFflMy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/biAvwA8P2h348GLYLMbykmiNOBI.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T19:40:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 107415,
+      "title": "Aile Sirketi S2",
+      "clean_title": "Aile Sirketi",
+      "original_title": "Aile Şirketi",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "يتقدم هارون لطلب الزواج من بادي، ومنذ تلك اللحظة يتحول إلى رجل مختلف تمامًا، حيث يتفاجئ الجميع بشخصيته الجديدة مما يجعل الأمور في هاي تور تتغير عما كانت.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 6.3,
+      "vote_count": 7,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-08-06",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Emrah Kaman",
+          "character": "Harun Boz",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jY4pd7c8V5YnDOkYvdwpm5sL5ED.jpg"
+        },
+        {
+          "name": "Eslem Akar",
+          "character": "Bade Işıl Yüce",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mXW4bNC5NkkkjQtsjSEbnJ0moo2.jpg"
+        },
+        {
+          "name": "Özlem Öçalmaz",
+          "character": "Hande",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kCioOxqWq9S98fFoxRiOFCtbzjO.jpg"
+        },
+        {
+          "name": "Can Sipahi",
+          "character": "Burak",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jZ90IsLrradvOnhl97qhULxOx6f.jpg"
+        },
+        {
+          "name": "Cihan Durmaz",
+          "character": "Baki",
+          "profile_image": null
+        },
+        {
+          "name": "Müfit Kayacan",
+          "character": "Şenol",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2QVDWWQj45uOgnD2DUkB1tC5LWt.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T21:00:00+00:00",
+      "stop": "2026-11-16T21:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oU9qFJRj3d7pda2gWL3XiXMeLc8.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 107415,
+      "title": "Aile Sirketi S2",
+      "clean_title": "Aile Sirketi",
+      "original_title": "Aile Şirketi",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "يتقدم هارون لطلب الزواج من بادي، ومنذ تلك اللحظة يتحول إلى رجل مختلف تمامًا، حيث يتفاجئ الجميع بشخصيته الجديدة مما يجعل الأمور في هاي تور تتغير عما كانت.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 6.3,
+      "vote_count": 7,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-08-06",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Emrah Kaman",
+          "character": "Harun Boz",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jY4pd7c8V5YnDOkYvdwpm5sL5ED.jpg"
+        },
+        {
+          "name": "Eslem Akar",
+          "character": "Bade Işıl Yüce",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mXW4bNC5NkkkjQtsjSEbnJ0moo2.jpg"
+        },
+        {
+          "name": "Özlem Öçalmaz",
+          "character": "Hande",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kCioOxqWq9S98fFoxRiOFCtbzjO.jpg"
+        },
+        {
+          "name": "Can Sipahi",
+          "character": "Burak",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jZ90IsLrradvOnhl97qhULxOx6f.jpg"
+        },
+        {
+          "name": "Cihan Durmaz",
+          "character": "Baki",
+          "profile_image": null
+        },
+        {
+          "name": "Müfit Kayacan",
+          "character": "Şenol",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2QVDWWQj45uOgnD2DUkB1tC5LWt.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T21:30:00+00:00",
+      "stop": "2026-11-16T22:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oU9qFJRj3d7pda2gWL3XiXMeLc8.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 247965,
+      "title": "نظرة حب",
+      "clean_title": "نظرة حب",
+      "original_title": "نظرة حب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "قصة حب تولد بسبب بالصدفة ويؤججها الصراع والغموض، تقع بين قمر و بحر، وتحدث بينهما تغييرات كبيرة في حياتهما.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-03-11",
+      "status": "Ended",
+      "country": "لبنان",
+      "language": "العربية",
+      "director": "رافي وهبي",
+      "cast": [
+        {
+          "name": "باسل خياط",
+          "character": "بحر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3e5iMDJTQdzy4tyCyRulPEAY0Ml.jpg"
+        },
+        {
+          "name": "كارمن بصيبص",
+          "character": "قمر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tXvJF3YbadoNVzXH9XWOuKMVSBP.jpg"
+        },
+        {
+          "name": "Michel El Hourany",
+          "character": "نبيل",
+          "profile_image": null
+        },
+        {
+          "name": "آمال سعد الدين",
+          "character": "كاميليا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sus4RnIZRd3NxyxwDaBKLbmViFO.jpg"
+        },
+        {
+          "name": "Jamal El Ali",
+          "character": "جميل",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4m4Y2x2pDTl0aqaWKLn38AWMPtV.jpg"
+        },
+        {
+          "name": "طيف إبراهيم",
+          "character": "منصور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hmpUmqyniPxlYjmt6KEw85XwPo9.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T23:00:00+00:00",
+      "stop": "2026-11-17T00:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/r6wrKgylx25nwVdUeTQIJvqgP67.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/acpOYT5AIOJyapyxWF8dHViXXnn.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/r6wrKgylx25nwVdUeTQIJvqgP67.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 205593,
+      "title": "Var Bunlar S2",
+      "clean_title": "Var Bunlar",
+      "original_title": "Var Bunlar",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "في الموسم الثاني، يواجه الصديقين المقربين (صمد) و(طوفان) تحديات جديدة في حياتهما اليومية، لكن يتبعهما الحظ السيئ في كل ما يفعلانه، ويبذلان قصارى جهدهما لإعجاب الفتيات اللاتي يشعران بالإعجاب نحوهن، بينما يسعيان إلى السلام والراحة بطرقهما الخاصة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 8.2,
+      "vote_count": 26,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-07-21",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Kerem Özdoğan, Giray Altınok",
+      "cast": [
+        {
+          "name": "Giray Altınok",
+          "character": "Tufan Ardıç",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iolGwjRfGAAVbetnNkA2E50pF4b.jpg"
+        },
+        {
+          "name": "Kerem Özdoğan",
+          "character": "Samet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9kbvvUP23yzqLvEHmXblYBgo5Kr.jpg"
+        },
+        {
+          "name": "Cansu Diktaş",
+          "character": "Buket",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ii87KTFpcj2OyhelLwJHI9ilhz.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T00:00:00+00:00",
+      "stop": "2026-11-17T00:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/53wHILjWp4JqXAS5MkwMKsA2oek.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 205593,
+      "title": "Var Bunlar S2",
+      "clean_title": "Var Bunlar",
+      "original_title": "Var Bunlar",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "في الموسم الثاني، يواجه الصديقين المقربين (صمد) و(طوفان) تحديات جديدة في حياتهما اليومية، لكن يتبعهما الحظ السيئ في كل ما يفعلانه، ويبذلان قصارى جهدهما لإعجاب الفتيات اللاتي يشعران بالإعجاب نحوهن، بينما يسعيان إلى السلام والراحة بطرقهما الخاصة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 8.2,
+      "vote_count": 26,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-07-21",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Kerem Özdoğan, Giray Altınok",
+      "cast": [
+        {
+          "name": "Giray Altınok",
+          "character": "Tufan Ardıç",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iolGwjRfGAAVbetnNkA2E50pF4b.jpg"
+        },
+        {
+          "name": "Kerem Özdoğan",
+          "character": "Samet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9kbvvUP23yzqLvEHmXblYBgo5Kr.jpg"
+        },
+        {
+          "name": "Cansu Diktaş",
+          "character": "Buket",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ii87KTFpcj2OyhelLwJHI9ilhz.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T00:30:00+00:00",
+      "stop": "2026-11-17T01:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/53wHILjWp4JqXAS5MkwMKsA2oek.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 283986,
+      "title": "قطع وريد",
+      "clean_title": "قطع وريد",
+      "original_title": "قطع وريد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "تحدث جريمة قتل غامضة في قرية قريبة من دمشق تُدعى (المفرق)، ثم يبدأ التحقيق للبحث عن الجاني بين أفراد عائلتين تعيشان في القرية، لتكشف التحقيقات عن أسرار وتفاصيل صادمة وغير متوقعة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-02-28",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": "سعيد حناوي, Mahmoud Idrees",
+      "cast": [
+        {
+          "name": "سلوم حداد",
+          "character": "رياض",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3RPqqMSYYUl33ChPo3TzygWY53U.jpg"
+        },
+        {
+          "name": "باسم ياخور",
+          "character": "عاصم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bGH42YnqKpvcoNi4Q9ENoZtSs2I.jpg"
+        },
+        {
+          "name": "شكران مرتجى",
+          "character": "رندة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mMVEvrN2tCOZuAv4ffMuhRISyqT.jpg"
+        },
+        {
+          "name": "أنس طيارة",
+          "character": "طلال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/13xIHTbcDEOPbIfDEtO6JhjIteh.jpg"
+        },
+        {
+          "name": "صفاء سلطان",
+          "character": "ليلى",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sYQmOGbmRNbbZwICQakjj3MHwFl.jpg"
+        },
+        {
+          "name": "طارق مرعشلي",
+          "character": "أبو المجد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6LCFXQ8Quj9qy60WX2jj5kelWQJ.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T01:00:00+00:00",
+      "stop": "2026-11-17T02:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/7l1DJymPLjGdyBRWVDfpE6JDVin.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/bpUmoa7zc2IUj04sJDgm7u8aV9d.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/7l1DJymPLjGdyBRWVDfpE6JDVin.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301320,
+      "title": "أولاد الراعي",
+      "clean_title": "أولاد الراعي",
+      "original_title": "أولاد الراعي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "من نقطة الصفر وجذور بسيطة، ينطلق ثلاثة أشقاء في رحلة كفاح مريرة لبناء إمبراطورية تجارية تهز عالم المال. ومع تضخم الثروة والنفوذ، يتحول النجاح إلى اختبار قاسٍ لروابط الدم؛ حيث تتشابك المصالح وتنفجر صراعات السلطة والولاء بينهم. يضعهم العمل أمام خيارات مصيرية تهدد الكيان الذي بنوه معاً، كاشفاً كيف يمكن للمال أن يغير القلوب ويقلب الأشقاء إلى خصوم في ساحة معركة لا ترحم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمود شكري, خالد شكري",
+      "cast": [
+        {
+          "name": "ماجد المصري",
+          "character": "راغب الراعي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hCFDKcAiotPNs5cvlhHXgFS6dX0.jpg"
+        },
+        {
+          "name": "أحمد عيد",
+          "character": "نديم الراعي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8mkmyIoo0EAfZ00YbLetFsUCirY.jpg"
+        },
+        {
+          "name": "خالد الصاوي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/t4Z5PVsbFgN6RsN1bksjDwZlkhc.jpg"
+        },
+        {
+          "name": "إيهاب فهمي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/upDuaN9GI86Ch5spYI9iAqj5hqt.jpg"
+        },
+        {
+          "name": "نيرمين الفقي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/uyQ74Sa0wacujf01tGpCkDaH8U5.jpg"
+        },
+        {
+          "name": "إيمان يوسف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/WsvQNRX2JonqHZwm7jibkfZz3a.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=LWChudOrCWU",
+      "start": "2026-11-17T02:00:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/biAvwA8P2h348GLYLMbykmiNOBI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cQsRSF61ME6AyLpkLCJ8teFflMy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/biAvwA8P2h348GLYLMbykmiNOBI.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T19:40:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 107415,
+      "title": "Aile Sirketi S2",
+      "clean_title": "Aile Sirketi",
+      "original_title": "Aile Şirketi",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "يتقدم هارون لطلب الزواج من بادي، ومنذ تلك اللحظة يتحول إلى رجل مختلف تمامًا، حيث يتفاجئ الجميع بشخصيته الجديدة مما يجعل الأمور في هاي تور تتغير عما كانت.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 6.3,
+      "vote_count": 7,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-08-06",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Emrah Kaman",
+          "character": "Harun Boz",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jY4pd7c8V5YnDOkYvdwpm5sL5ED.jpg"
+        },
+        {
+          "name": "Eslem Akar",
+          "character": "Bade Işıl Yüce",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mXW4bNC5NkkkjQtsjSEbnJ0moo2.jpg"
+        },
+        {
+          "name": "Özlem Öçalmaz",
+          "character": "Hande",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kCioOxqWq9S98fFoxRiOFCtbzjO.jpg"
+        },
+        {
+          "name": "Can Sipahi",
+          "character": "Burak",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jZ90IsLrradvOnhl97qhULxOx6f.jpg"
+        },
+        {
+          "name": "Cihan Durmaz",
+          "character": "Baki",
+          "profile_image": null
+        },
+        {
+          "name": "Müfit Kayacan",
+          "character": "Şenol",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2QVDWWQj45uOgnD2DUkB1tC5LWt.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T03:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oU9qFJRj3d7pda2gWL3XiXMeLc8.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 107415,
+      "title": "Aile Sirketi S2",
+      "clean_title": "Aile Sirketi",
+      "original_title": "Aile Şirketi",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "يتقدم هارون لطلب الزواج من بادي، ومنذ تلك اللحظة يتحول إلى رجل مختلف تمامًا، حيث يتفاجئ الجميع بشخصيته الجديدة مما يجعل الأمور في هاي تور تتغير عما كانت.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 6.3,
+      "vote_count": 7,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-08-06",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Emrah Kaman",
+          "character": "Harun Boz",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jY4pd7c8V5YnDOkYvdwpm5sL5ED.jpg"
+        },
+        {
+          "name": "Eslem Akar",
+          "character": "Bade Işıl Yüce",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mXW4bNC5NkkkjQtsjSEbnJ0moo2.jpg"
+        },
+        {
+          "name": "Özlem Öçalmaz",
+          "character": "Hande",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kCioOxqWq9S98fFoxRiOFCtbzjO.jpg"
+        },
+        {
+          "name": "Can Sipahi",
+          "character": "Burak",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jZ90IsLrradvOnhl97qhULxOx6f.jpg"
+        },
+        {
+          "name": "Cihan Durmaz",
+          "character": "Baki",
+          "profile_image": null
+        },
+        {
+          "name": "Müfit Kayacan",
+          "character": "Şenol",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2QVDWWQj45uOgnD2DUkB1tC5LWt.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T03:30:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oU9qFJRj3d7pda2gWL3XiXMeLc8.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 243537,
+      "title": "حياة لا تشبهني",
+      "clean_title": "حياة لا تشبهني",
+      "original_title": "حياة لا تشبهني",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 31,
+      "description": "تدور الأحداث في سنوات سبعينيات وثمانينيات القرن العشرين، داخل أسرة كبيرة تعيش في منزل واحد، ويعيش كل أفراد هذه الأسرة في واقع لا يشبه أحلامهم وطموحاتهم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-01-03",
+      "status": "Returning Series",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": "أنفال الدويسان",
+      "cast": [
+        {
+          "name": "جاسم النبهان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xsLXbhBUe5Kr0H8UU92NNzQJjp.jpg"
+        },
+        {
+          "name": "أسمهان توفيق",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hAsOFW3bLYqAEyZcUcsV7cjeETs.jpg"
+        },
+        {
+          "name": "سماح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dN8qXrZcep3t9mvxl9SHCshiztQ.jpg"
+        },
+        {
+          "name": "هبة الدري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/wQ9UtCHH0cyCNewEms1Fk2ahaN0.jpg"
+        },
+        {
+          "name": "حمد العماني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dxty7GdQU3BPRiRnIq4IIaFlBGB.jpg"
+        },
+        {
+          "name": "عبدالله التركماني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hQXXR94A5etiq3dAVqbvZ3mKNkO.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/987VbxoUrlZxDSlGKeXpmwUfFJ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vCE3kwRcjLkFTZEjvWsQ8IkBsGl.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/987VbxoUrlZxDSlGKeXpmwUfFJ3.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 247965,
+      "title": "نظرة حب",
+      "clean_title": "نظرة حب",
+      "original_title": "نظرة حب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "قصة حب تولد بسبب بالصدفة ويؤججها الصراع والغموض، تقع بين قمر و بحر، وتحدث بينهما تغييرات كبيرة في حياتهما.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-03-11",
+      "status": "Ended",
+      "country": "لبنان",
+      "language": "العربية",
+      "director": "رافي وهبي",
+      "cast": [
+        {
+          "name": "باسل خياط",
+          "character": "بحر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3e5iMDJTQdzy4tyCyRulPEAY0Ml.jpg"
+        },
+        {
+          "name": "كارمن بصيبص",
+          "character": "قمر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tXvJF3YbadoNVzXH9XWOuKMVSBP.jpg"
+        },
+        {
+          "name": "Michel El Hourany",
+          "character": "نبيل",
+          "profile_image": null
+        },
+        {
+          "name": "آمال سعد الدين",
+          "character": "كاميليا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sus4RnIZRd3NxyxwDaBKLbmViFO.jpg"
+        },
+        {
+          "name": "Jamal El Ali",
+          "character": "جميل",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4m4Y2x2pDTl0aqaWKLn38AWMPtV.jpg"
+        },
+        {
+          "name": "طيف إبراهيم",
+          "character": "منصور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hmpUmqyniPxlYjmt6KEw85XwPo9.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T05:00:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/r6wrKgylx25nwVdUeTQIJvqgP67.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/acpOYT5AIOJyapyxWF8dHViXXnn.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/r6wrKgylx25nwVdUeTQIJvqgP67.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 205593,
+      "title": "Var Bunlar S2",
+      "clean_title": "Var Bunlar",
+      "original_title": "Var Bunlar",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "في الموسم الثاني، يواجه الصديقين المقربين (صمد) و(طوفان) تحديات جديدة في حياتهما اليومية، لكن يتبعهما الحظ السيئ في كل ما يفعلانه، ويبذلان قصارى جهدهما لإعجاب الفتيات اللاتي يشعران بالإعجاب نحوهن، بينما يسعيان إلى السلام والراحة بطرقهما الخاصة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 8.2,
+      "vote_count": 26,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-07-21",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Kerem Özdoğan, Giray Altınok",
+      "cast": [
+        {
+          "name": "Giray Altınok",
+          "character": "Tufan Ardıç",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iolGwjRfGAAVbetnNkA2E50pF4b.jpg"
+        },
+        {
+          "name": "Kerem Özdoğan",
+          "character": "Samet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9kbvvUP23yzqLvEHmXblYBgo5Kr.jpg"
+        },
+        {
+          "name": "Cansu Diktaş",
+          "character": "Buket",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ii87KTFpcj2OyhelLwJHI9ilhz.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T06:00:00+00:00",
+      "stop": "2026-11-17T06:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/53wHILjWp4JqXAS5MkwMKsA2oek.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 205593,
+      "title": "Var Bunlar S2",
+      "clean_title": "Var Bunlar",
+      "original_title": "Var Bunlar",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "في الموسم الثاني، يواجه الصديقين المقربين (صمد) و(طوفان) تحديات جديدة في حياتهما اليومية، لكن يتبعهما الحظ السيئ في كل ما يفعلانه، ويبذلان قصارى جهدهما لإعجاب الفتيات اللاتي يشعران بالإعجاب نحوهن، بينما يسعيان إلى السلام والراحة بطرقهما الخاصة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 8.2,
+      "vote_count": 26,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-07-21",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Kerem Özdoğan, Giray Altınok",
+      "cast": [
+        {
+          "name": "Giray Altınok",
+          "character": "Tufan Ardıç",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iolGwjRfGAAVbetnNkA2E50pF4b.jpg"
+        },
+        {
+          "name": "Kerem Özdoğan",
+          "character": "Samet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9kbvvUP23yzqLvEHmXblYBgo5Kr.jpg"
+        },
+        {
+          "name": "Cansu Diktaş",
+          "character": "Buket",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ii87KTFpcj2OyhelLwJHI9ilhz.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T06:30:00+00:00",
+      "stop": "2026-11-17T07:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/53wHILjWp4JqXAS5MkwMKsA2oek.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 283986,
+      "title": "قطع وريد",
+      "clean_title": "قطع وريد",
+      "original_title": "قطع وريد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "تحدث جريمة قتل غامضة في قرية قريبة من دمشق تُدعى (المفرق)، ثم يبدأ التحقيق للبحث عن الجاني بين أفراد عائلتين تعيشان في القرية، لتكشف التحقيقات عن أسرار وتفاصيل صادمة وغير متوقعة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-02-28",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": "سعيد حناوي, Mahmoud Idrees",
+      "cast": [
+        {
+          "name": "سلوم حداد",
+          "character": "رياض",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3RPqqMSYYUl33ChPo3TzygWY53U.jpg"
+        },
+        {
+          "name": "باسم ياخور",
+          "character": "عاصم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bGH42YnqKpvcoNi4Q9ENoZtSs2I.jpg"
+        },
+        {
+          "name": "شكران مرتجى",
+          "character": "رندة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mMVEvrN2tCOZuAv4ffMuhRISyqT.jpg"
+        },
+        {
+          "name": "أنس طيارة",
+          "character": "طلال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/13xIHTbcDEOPbIfDEtO6JhjIteh.jpg"
+        },
+        {
+          "name": "صفاء سلطان",
+          "character": "ليلى",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sYQmOGbmRNbbZwICQakjj3MHwFl.jpg"
+        },
+        {
+          "name": "طارق مرعشلي",
+          "character": "أبو المجد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6LCFXQ8Quj9qy60WX2jj5kelWQJ.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T08:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/7l1DJymPLjGdyBRWVDfpE6JDVin.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/bpUmoa7zc2IUj04sJDgm7u8aV9d.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/7l1DJymPLjGdyBRWVDfpE6JDVin.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301320,
+      "title": "أولاد الراعي",
+      "clean_title": "أولاد الراعي",
+      "original_title": "أولاد الراعي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "من نقطة الصفر وجذور بسيطة، ينطلق ثلاثة أشقاء في رحلة كفاح مريرة لبناء إمبراطورية تجارية تهز عالم المال. ومع تضخم الثروة والنفوذ، يتحول النجاح إلى اختبار قاسٍ لروابط الدم؛ حيث تتشابك المصالح وتنفجر صراعات السلطة والولاء بينهم. يضعهم العمل أمام خيارات مصيرية تهدد الكيان الذي بنوه معاً، كاشفاً كيف يمكن للمال أن يغير القلوب ويقلب الأشقاء إلى خصوم في ساحة معركة لا ترحم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمود شكري, خالد شكري",
+      "cast": [
+        {
+          "name": "ماجد المصري",
+          "character": "راغب الراعي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hCFDKcAiotPNs5cvlhHXgFS6dX0.jpg"
+        },
+        {
+          "name": "أحمد عيد",
+          "character": "نديم الراعي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8mkmyIoo0EAfZ00YbLetFsUCirY.jpg"
+        },
+        {
+          "name": "خالد الصاوي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/t4Z5PVsbFgN6RsN1bksjDwZlkhc.jpg"
+        },
+        {
+          "name": "إيهاب فهمي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/upDuaN9GI86Ch5spYI9iAqj5hqt.jpg"
+        },
+        {
+          "name": "نيرمين الفقي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/uyQ74Sa0wacujf01tGpCkDaH8U5.jpg"
+        },
+        {
+          "name": "إيمان يوسف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/WsvQNRX2JonqHZwm7jibkfZz3a.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=LWChudOrCWU",
+      "start": "2026-11-17T08:00:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/biAvwA8P2h348GLYLMbykmiNOBI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cQsRSF61ME6AyLpkLCJ8teFflMy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/biAvwA8P2h348GLYLMbykmiNOBI.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T19:40:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 107415,
+      "title": "Aile Sirketi S2",
+      "clean_title": "Aile Sirketi",
+      "original_title": "Aile Şirketi",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "يتقدم هارون لطلب الزواج من بادي، ومنذ تلك اللحظة يتحول إلى رجل مختلف تمامًا، حيث يتفاجئ الجميع بشخصيته الجديدة مما يجعل الأمور في هاي تور تتغير عما كانت.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 6.3,
+      "vote_count": 7,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-08-06",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Emrah Kaman",
+          "character": "Harun Boz",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jY4pd7c8V5YnDOkYvdwpm5sL5ED.jpg"
+        },
+        {
+          "name": "Eslem Akar",
+          "character": "Bade Işıl Yüce",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mXW4bNC5NkkkjQtsjSEbnJ0moo2.jpg"
+        },
+        {
+          "name": "Özlem Öçalmaz",
+          "character": "Hande",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kCioOxqWq9S98fFoxRiOFCtbzjO.jpg"
+        },
+        {
+          "name": "Can Sipahi",
+          "character": "Burak",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jZ90IsLrradvOnhl97qhULxOx6f.jpg"
+        },
+        {
+          "name": "Cihan Durmaz",
+          "character": "Baki",
+          "profile_image": null
+        },
+        {
+          "name": "Müfit Kayacan",
+          "character": "Şenol",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2QVDWWQj45uOgnD2DUkB1tC5LWt.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T09:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oU9qFJRj3d7pda2gWL3XiXMeLc8.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 107415,
+      "title": "Aile Sirketi S2",
+      "clean_title": "Aile Sirketi",
+      "original_title": "Aile Şirketi",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "يتقدم هارون لطلب الزواج من بادي، ومنذ تلك اللحظة يتحول إلى رجل مختلف تمامًا، حيث يتفاجئ الجميع بشخصيته الجديدة مما يجعل الأمور في هاي تور تتغير عما كانت.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 6.3,
+      "vote_count": 7,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-08-06",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Emrah Kaman",
+          "character": "Harun Boz",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jY4pd7c8V5YnDOkYvdwpm5sL5ED.jpg"
+        },
+        {
+          "name": "Eslem Akar",
+          "character": "Bade Işıl Yüce",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mXW4bNC5NkkkjQtsjSEbnJ0moo2.jpg"
+        },
+        {
+          "name": "Özlem Öçalmaz",
+          "character": "Hande",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kCioOxqWq9S98fFoxRiOFCtbzjO.jpg"
+        },
+        {
+          "name": "Can Sipahi",
+          "character": "Burak",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jZ90IsLrradvOnhl97qhULxOx6f.jpg"
+        },
+        {
+          "name": "Cihan Durmaz",
+          "character": "Baki",
+          "profile_image": null
+        },
+        {
+          "name": "Müfit Kayacan",
+          "character": "Şenol",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2QVDWWQj45uOgnD2DUkB1tC5LWt.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T09:30:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oU9qFJRj3d7pda2gWL3XiXMeLc8.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 243537,
+      "title": "حياة لا تشبهني",
+      "clean_title": "حياة لا تشبهني",
+      "original_title": "حياة لا تشبهني",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 31,
+      "description": "تدور الأحداث في سنوات سبعينيات وثمانينيات القرن العشرين، داخل أسرة كبيرة تعيش في منزل واحد، ويعيش كل أفراد هذه الأسرة في واقع لا يشبه أحلامهم وطموحاتهم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-01-03",
+      "status": "Returning Series",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": "أنفال الدويسان",
+      "cast": [
+        {
+          "name": "جاسم النبهان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xsLXbhBUe5Kr0H8UU92NNzQJjp.jpg"
+        },
+        {
+          "name": "أسمهان توفيق",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hAsOFW3bLYqAEyZcUcsV7cjeETs.jpg"
+        },
+        {
+          "name": "سماح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dN8qXrZcep3t9mvxl9SHCshiztQ.jpg"
+        },
+        {
+          "name": "هبة الدري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/wQ9UtCHH0cyCNewEms1Fk2ahaN0.jpg"
+        },
+        {
+          "name": "حمد العماني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dxty7GdQU3BPRiRnIq4IIaFlBGB.jpg"
+        },
+        {
+          "name": "عبدالله التركماني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hQXXR94A5etiq3dAVqbvZ3mKNkO.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T11:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/987VbxoUrlZxDSlGKeXpmwUfFJ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vCE3kwRcjLkFTZEjvWsQ8IkBsGl.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/987VbxoUrlZxDSlGKeXpmwUfFJ3.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 247965,
+      "title": "نظرة حب",
+      "clean_title": "نظرة حب",
+      "original_title": "نظرة حب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "قصة حب تولد بسبب بالصدفة ويؤججها الصراع والغموض، تقع بين قمر و بحر، وتحدث بينهما تغييرات كبيرة في حياتهما.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-03-11",
+      "status": "Ended",
+      "country": "لبنان",
+      "language": "العربية",
+      "director": "رافي وهبي",
+      "cast": [
+        {
+          "name": "باسل خياط",
+          "character": "بحر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3e5iMDJTQdzy4tyCyRulPEAY0Ml.jpg"
+        },
+        {
+          "name": "كارمن بصيبص",
+          "character": "قمر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tXvJF3YbadoNVzXH9XWOuKMVSBP.jpg"
+        },
+        {
+          "name": "Michel El Hourany",
+          "character": "نبيل",
+          "profile_image": null
+        },
+        {
+          "name": "آمال سعد الدين",
+          "character": "كاميليا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sus4RnIZRd3NxyxwDaBKLbmViFO.jpg"
+        },
+        {
+          "name": "Jamal El Ali",
+          "character": "جميل",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4m4Y2x2pDTl0aqaWKLn38AWMPtV.jpg"
+        },
+        {
+          "name": "طيف إبراهيم",
+          "character": "منصور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hmpUmqyniPxlYjmt6KEw85XwPo9.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T11:00:00+00:00",
+      "stop": "2026-11-17T12:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/r6wrKgylx25nwVdUeTQIJvqgP67.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/acpOYT5AIOJyapyxWF8dHViXXnn.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/r6wrKgylx25nwVdUeTQIJvqgP67.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 205593,
+      "title": "Var Bunlar S2",
+      "clean_title": "Var Bunlar",
+      "original_title": "Var Bunlar",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "في الموسم الثاني، يواجه الصديقين المقربين (صمد) و(طوفان) تحديات جديدة في حياتهما اليومية، لكن يتبعهما الحظ السيئ في كل ما يفعلانه، ويبذلان قصارى جهدهما لإعجاب الفتيات اللاتي يشعران بالإعجاب نحوهن، بينما يسعيان إلى السلام والراحة بطرقهما الخاصة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 8.2,
+      "vote_count": 26,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-07-21",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Kerem Özdoğan, Giray Altınok",
+      "cast": [
+        {
+          "name": "Giray Altınok",
+          "character": "Tufan Ardıç",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iolGwjRfGAAVbetnNkA2E50pF4b.jpg"
+        },
+        {
+          "name": "Kerem Özdoğan",
+          "character": "Samet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9kbvvUP23yzqLvEHmXblYBgo5Kr.jpg"
+        },
+        {
+          "name": "Cansu Diktaş",
+          "character": "Buket",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ii87KTFpcj2OyhelLwJHI9ilhz.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T12:00:00+00:00",
+      "stop": "2026-11-17T12:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/53wHILjWp4JqXAS5MkwMKsA2oek.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 205593,
+      "title": "Var Bunlar S2",
+      "clean_title": "Var Bunlar",
+      "original_title": "Var Bunlar",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "في الموسم الثاني، يواجه الصديقين المقربين (صمد) و(طوفان) تحديات جديدة في حياتهما اليومية، لكن يتبعهما الحظ السيئ في كل ما يفعلانه، ويبذلان قصارى جهدهما لإعجاب الفتيات اللاتي يشعران بالإعجاب نحوهن، بينما يسعيان إلى السلام والراحة بطرقهما الخاصة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 8.2,
+      "vote_count": 26,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-07-21",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Kerem Özdoğan, Giray Altınok",
+      "cast": [
+        {
+          "name": "Giray Altınok",
+          "character": "Tufan Ardıç",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iolGwjRfGAAVbetnNkA2E50pF4b.jpg"
+        },
+        {
+          "name": "Kerem Özdoğan",
+          "character": "Samet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9kbvvUP23yzqLvEHmXblYBgo5Kr.jpg"
+        },
+        {
+          "name": "Cansu Diktaş",
+          "character": "Buket",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ii87KTFpcj2OyhelLwJHI9ilhz.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T12:30:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/53wHILjWp4JqXAS5MkwMKsA2oek.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 283986,
+      "title": "قطع وريد",
+      "clean_title": "قطع وريد",
+      "original_title": "قطع وريد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "تحدث جريمة قتل غامضة في قرية قريبة من دمشق تُدعى (المفرق)، ثم يبدأ التحقيق للبحث عن الجاني بين أفراد عائلتين تعيشان في القرية، لتكشف التحقيقات عن أسرار وتفاصيل صادمة وغير متوقعة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-02-28",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": "سعيد حناوي, Mahmoud Idrees",
+      "cast": [
+        {
+          "name": "سلوم حداد",
+          "character": "رياض",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3RPqqMSYYUl33ChPo3TzygWY53U.jpg"
+        },
+        {
+          "name": "باسم ياخور",
+          "character": "عاصم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bGH42YnqKpvcoNi4Q9ENoZtSs2I.jpg"
+        },
+        {
+          "name": "شكران مرتجى",
+          "character": "رندة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mMVEvrN2tCOZuAv4ffMuhRISyqT.jpg"
+        },
+        {
+          "name": "أنس طيارة",
+          "character": "طلال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/13xIHTbcDEOPbIfDEtO6JhjIteh.jpg"
+        },
+        {
+          "name": "صفاء سلطان",
+          "character": "ليلى",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sYQmOGbmRNbbZwICQakjj3MHwFl.jpg"
+        },
+        {
+          "name": "طارق مرعشلي",
+          "character": "أبو المجد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6LCFXQ8Quj9qy60WX2jj5kelWQJ.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T13:40:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/7l1DJymPLjGdyBRWVDfpE6JDVin.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/bpUmoa7zc2IUj04sJDgm7u8aV9d.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/7l1DJymPLjGdyBRWVDfpE6JDVin.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 15379,
+      "title": "برنامج beIN Action",
+      "clean_title": "beIN Action",
+      "original_title": "Missing in Action",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد فراره من معسكر أسرى في فيتنام، يعود عقيد في القوات الخاصة في مهمة لتحديد مكان الجنود الأمريكيين المفقودين الذين لا يزالون محتجزين وإنقاذهم.",
+      "category": "General",
+      "genres": [
+        "General",
+        "حركة",
+        "مغامرة",
+        "إثارة",
+        "حرب"
+      ],
+      "rating": 5.9,
+      "vote_count": 608,
+      "age_rating": "R",
+      "year": "1984",
+      "release_date": "1984-11-16",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Joseph Zito",
+      "cast": [
+        {
+          "name": "تشاك نوريس",
+          "character": "Col. James Braddock",
+          "profile_image": "https://image.tmdb.org/t/p/w185/m3uLikdhi9qObRvGVHsKX5H93lR.jpg"
+        },
+        {
+          "name": "مايكل إيمت ولش",
+          "character": "Tuck",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fVWvBxvwyk4aTA9vKZOV9qHRNNk.jpg"
+        },
+        {
+          "name": "David Tress",
+          "character": "Sen. Porter",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gLyDdtF4CbKj8hxJ5LLP3ZRnjnJ.jpg"
+        },
+        {
+          "name": "Lenore Kasdorf",
+          "character": "Ann",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zyU2cEF8RUC8Zx11SmVBYIPQ62a.jpg"
+        },
+        {
+          "name": "James Hong",
+          "character": "Gen. Trau",
+          "profile_image": "https://image.tmdb.org/t/p/w185/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+        },
+        {
+          "name": "Pierrino Mascarino",
+          "character": "Jacques",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5ZD0q5LEsVXYSUPFoCHBRSeZTaD.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T13:40:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
+      "duration_minutes": 20,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/nBrDcnNQca88ed1gRwZ1Q5cjNxE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8GVHeU77wFodIkwetIufkTVPgOF.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/nBrDcnNQca88ed1gRwZ1Q5cjNxE.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T19:40:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T19:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301320,
+      "title": "أولاد الراعي",
+      "clean_title": "أولاد الراعي",
+      "original_title": "أولاد الراعي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "من نقطة الصفر وجذور بسيطة، ينطلق ثلاثة أشقاء في رحلة كفاح مريرة لبناء إمبراطورية تجارية تهز عالم المال. ومع تضخم الثروة والنفوذ، يتحول النجاح إلى اختبار قاسٍ لروابط الدم؛ حيث تتشابك المصالح وتنفجر صراعات السلطة والولاء بينهم. يضعهم العمل أمام خيارات مصيرية تهدد الكيان الذي بنوه معاً، كاشفاً كيف يمكن للمال أن يغير القلوب ويقلب الأشقاء إلى خصوم في ساحة معركة لا ترحم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمود شكري, خالد شكري",
+      "cast": [
+        {
+          "name": "ماجد المصري",
+          "character": "راغب الراعي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hCFDKcAiotPNs5cvlhHXgFS6dX0.jpg"
+        },
+        {
+          "name": "أحمد عيد",
+          "character": "نديم الراعي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8mkmyIoo0EAfZ00YbLetFsUCirY.jpg"
+        },
+        {
+          "name": "خالد الصاوي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/t4Z5PVsbFgN6RsN1bksjDwZlkhc.jpg"
+        },
+        {
+          "name": "إيهاب فهمي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/upDuaN9GI86Ch5spYI9iAqj5hqt.jpg"
+        },
+        {
+          "name": "نيرمين الفقي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/uyQ74Sa0wacujf01tGpCkDaH8U5.jpg"
+        },
+        {
+          "name": "إيمان يوسف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/WsvQNRX2JonqHZwm7jibkfZz3a.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=LWChudOrCWU",
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/biAvwA8P2h348GLYLMbykmiNOBI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cQsRSF61ME6AyLpkLCJ8teFflMy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/biAvwA8P2h348GLYLMbykmiNOBI.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T19:40:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 107415,
+      "title": "Aile Sirketi S2",
+      "clean_title": "Aile Sirketi",
+      "original_title": "Aile Şirketi",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "يتقدم هارون لطلب الزواج من بادي، ومنذ تلك اللحظة يتحول إلى رجل مختلف تمامًا، حيث يتفاجئ الجميع بشخصيته الجديدة مما يجعل الأمور في هاي تور تتغير عما كانت.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 6.3,
+      "vote_count": 7,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-08-06",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Emrah Kaman",
+          "character": "Harun Boz",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jY4pd7c8V5YnDOkYvdwpm5sL5ED.jpg"
+        },
+        {
+          "name": "Eslem Akar",
+          "character": "Bade Işıl Yüce",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mXW4bNC5NkkkjQtsjSEbnJ0moo2.jpg"
+        },
+        {
+          "name": "Özlem Öçalmaz",
+          "character": "Hande",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kCioOxqWq9S98fFoxRiOFCtbzjO.jpg"
+        },
+        {
+          "name": "Can Sipahi",
+          "character": "Burak",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jZ90IsLrradvOnhl97qhULxOx6f.jpg"
+        },
+        {
+          "name": "Cihan Durmaz",
+          "character": "Baki",
+          "profile_image": null
+        },
+        {
+          "name": "Müfit Kayacan",
+          "character": "Şenol",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2QVDWWQj45uOgnD2DUkB1tC5LWt.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T15:00:00+00:00",
+      "stop": "2026-11-17T15:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oU9qFJRj3d7pda2gWL3XiXMeLc8.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 107415,
+      "title": "Aile Sirketi S2",
+      "clean_title": "Aile Sirketi",
+      "original_title": "Aile Şirketi",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "يتقدم هارون لطلب الزواج من بادي، ومنذ تلك اللحظة يتحول إلى رجل مختلف تمامًا، حيث يتفاجئ الجميع بشخصيته الجديدة مما يجعل الأمور في هاي تور تتغير عما كانت.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 6.3,
+      "vote_count": 7,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-08-06",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Emrah Kaman",
+          "character": "Harun Boz",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jY4pd7c8V5YnDOkYvdwpm5sL5ED.jpg"
+        },
+        {
+          "name": "Eslem Akar",
+          "character": "Bade Işıl Yüce",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mXW4bNC5NkkkjQtsjSEbnJ0moo2.jpg"
+        },
+        {
+          "name": "Özlem Öçalmaz",
+          "character": "Hande",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kCioOxqWq9S98fFoxRiOFCtbzjO.jpg"
+        },
+        {
+          "name": "Can Sipahi",
+          "character": "Burak",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jZ90IsLrradvOnhl97qhULxOx6f.jpg"
+        },
+        {
+          "name": "Cihan Durmaz",
+          "character": "Baki",
+          "profile_image": null
+        },
+        {
+          "name": "Müfit Kayacan",
+          "character": "Şenol",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2QVDWWQj45uOgnD2DUkB1tC5LWt.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T15:30:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oU9qFJRj3d7pda2gWL3XiXMeLc8.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 243537,
+      "title": "حياة لا تشبهني",
+      "clean_title": "حياة لا تشبهني",
+      "original_title": "حياة لا تشبهني",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 31,
+      "description": "تدور الأحداث في سنوات سبعينيات وثمانينيات القرن العشرين، داخل أسرة كبيرة تعيش في منزل واحد، ويعيش كل أفراد هذه الأسرة في واقع لا يشبه أحلامهم وطموحاتهم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-01-03",
+      "status": "Returning Series",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": "أنفال الدويسان",
+      "cast": [
+        {
+          "name": "جاسم النبهان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xsLXbhBUe5Kr0H8UU92NNzQJjp.jpg"
+        },
+        {
+          "name": "أسمهان توفيق",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hAsOFW3bLYqAEyZcUcsV7cjeETs.jpg"
+        },
+        {
+          "name": "سماح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dN8qXrZcep3t9mvxl9SHCshiztQ.jpg"
+        },
+        {
+          "name": "هبة الدري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/wQ9UtCHH0cyCNewEms1Fk2ahaN0.jpg"
+        },
+        {
+          "name": "حمد العماني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dxty7GdQU3BPRiRnIq4IIaFlBGB.jpg"
+        },
+        {
+          "name": "عبدالله التركماني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hQXXR94A5etiq3dAVqbvZ3mKNkO.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/987VbxoUrlZxDSlGKeXpmwUfFJ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vCE3kwRcjLkFTZEjvWsQ8IkBsGl.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/987VbxoUrlZxDSlGKeXpmwUfFJ3.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 247965,
+      "title": "نظرة حب",
+      "clean_title": "نظرة حب",
+      "original_title": "نظرة حب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "قصة حب تولد بسبب بالصدفة ويؤججها الصراع والغموض، تقع بين قمر و بحر، وتحدث بينهما تغييرات كبيرة في حياتهما.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-03-11",
+      "status": "Ended",
+      "country": "لبنان",
+      "language": "العربية",
+      "director": "رافي وهبي",
+      "cast": [
+        {
+          "name": "باسل خياط",
+          "character": "بحر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3e5iMDJTQdzy4tyCyRulPEAY0Ml.jpg"
+        },
+        {
+          "name": "كارمن بصيبص",
+          "character": "قمر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tXvJF3YbadoNVzXH9XWOuKMVSBP.jpg"
+        },
+        {
+          "name": "Michel El Hourany",
+          "character": "نبيل",
+          "profile_image": null
+        },
+        {
+          "name": "آمال سعد الدين",
+          "character": "كاميليا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sus4RnIZRd3NxyxwDaBKLbmViFO.jpg"
+        },
+        {
+          "name": "Jamal El Ali",
+          "character": "جميل",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4m4Y2x2pDTl0aqaWKLn38AWMPtV.jpg"
+        },
+        {
+          "name": "طيف إبراهيم",
+          "character": "منصور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hmpUmqyniPxlYjmt6KEw85XwPo9.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/r6wrKgylx25nwVdUeTQIJvqgP67.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/acpOYT5AIOJyapyxWF8dHViXXnn.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/r6wrKgylx25nwVdUeTQIJvqgP67.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 205593,
+      "title": "Var Bunlar S2",
+      "clean_title": "Var Bunlar",
+      "original_title": "Var Bunlar",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "في الموسم الثاني، يواجه الصديقين المقربين (صمد) و(طوفان) تحديات جديدة في حياتهما اليومية، لكن يتبعهما الحظ السيئ في كل ما يفعلانه، ويبذلان قصارى جهدهما لإعجاب الفتيات اللاتي يشعران بالإعجاب نحوهن، بينما يسعيان إلى السلام والراحة بطرقهما الخاصة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 8.2,
+      "vote_count": 26,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-07-21",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Kerem Özdoğan, Giray Altınok",
+      "cast": [
+        {
+          "name": "Giray Altınok",
+          "character": "Tufan Ardıç",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iolGwjRfGAAVbetnNkA2E50pF4b.jpg"
+        },
+        {
+          "name": "Kerem Özdoğan",
+          "character": "Samet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9kbvvUP23yzqLvEHmXblYBgo5Kr.jpg"
+        },
+        {
+          "name": "Cansu Diktaş",
+          "character": "Buket",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ii87KTFpcj2OyhelLwJHI9ilhz.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T18:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/53wHILjWp4JqXAS5MkwMKsA2oek.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 205593,
+      "title": "Var Bunlar S2",
+      "clean_title": "Var Bunlar",
+      "original_title": "Var Bunlar",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "في الموسم الثاني، يواجه الصديقين المقربين (صمد) و(طوفان) تحديات جديدة في حياتهما اليومية، لكن يتبعهما الحظ السيئ في كل ما يفعلانه، ويبذلان قصارى جهدهما لإعجاب الفتيات اللاتي يشعران بالإعجاب نحوهن، بينما يسعيان إلى السلام والراحة بطرقهما الخاصة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 8.2,
+      "vote_count": 26,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-07-21",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Kerem Özdoğan, Giray Altınok",
+      "cast": [
+        {
+          "name": "Giray Altınok",
+          "character": "Tufan Ardıç",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iolGwjRfGAAVbetnNkA2E50pF4b.jpg"
+        },
+        {
+          "name": "Kerem Özdoğan",
+          "character": "Samet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9kbvvUP23yzqLvEHmXblYBgo5Kr.jpg"
+        },
+        {
+          "name": "Cansu Diktaş",
+          "character": "Buket",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ii87KTFpcj2OyhelLwJHI9ilhz.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T18:30:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/53wHILjWp4JqXAS5MkwMKsA2oek.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2eM1QIbJCz1OZ2APXMfwAPjh3nS.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 283986,
+      "title": "قطع وريد",
+      "clean_title": "قطع وريد",
+      "original_title": "قطع وريد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "تحدث جريمة قتل غامضة في قرية قريبة من دمشق تُدعى (المفرق)، ثم يبدأ التحقيق للبحث عن الجاني بين أفراد عائلتين تعيشان في القرية، لتكشف التحقيقات عن أسرار وتفاصيل صادمة وغير متوقعة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-02-28",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": "سعيد حناوي, Mahmoud Idrees",
+      "cast": [
+        {
+          "name": "سلوم حداد",
+          "character": "رياض",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3RPqqMSYYUl33ChPo3TzygWY53U.jpg"
+        },
+        {
+          "name": "باسم ياخور",
+          "character": "عاصم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bGH42YnqKpvcoNi4Q9ENoZtSs2I.jpg"
+        },
+        {
+          "name": "شكران مرتجى",
+          "character": "رندة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mMVEvrN2tCOZuAv4ffMuhRISyqT.jpg"
+        },
+        {
+          "name": "أنس طيارة",
+          "character": "طلال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/13xIHTbcDEOPbIfDEtO6JhjIteh.jpg"
+        },
+        {
+          "name": "صفاء سلطان",
+          "character": "ليلى",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sYQmOGbmRNbbZwICQakjj3MHwFl.jpg"
+        },
+        {
+          "name": "طارق مرعشلي",
+          "character": "أبو المجد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6LCFXQ8Quj9qy60WX2jj5kelWQJ.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/7l1DJymPLjGdyBRWVDfpE6JDVin.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/bpUmoa7zc2IUj04sJDgm7u8aV9d.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/7l1DJymPLjGdyBRWVDfpE6JDVin.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301320,
+      "title": "أولاد الراعي",
+      "clean_title": "أولاد الراعي",
+      "original_title": "أولاد الراعي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "من نقطة الصفر وجذور بسيطة، ينطلق ثلاثة أشقاء في رحلة كفاح مريرة لبناء إمبراطورية تجارية تهز عالم المال. ومع تضخم الثروة والنفوذ، يتحول النجاح إلى اختبار قاسٍ لروابط الدم؛ حيث تتشابك المصالح وتنفجر صراعات السلطة والولاء بينهم. يضعهم العمل أمام خيارات مصيرية تهدد الكيان الذي بنوه معاً، كاشفاً كيف يمكن للمال أن يغير القلوب ويقلب الأشقاء إلى خصوم في ساحة معركة لا ترحم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمود شكري, خالد شكري",
+      "cast": [
+        {
+          "name": "ماجد المصري",
+          "character": "راغب الراعي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hCFDKcAiotPNs5cvlhHXgFS6dX0.jpg"
+        },
+        {
+          "name": "أحمد عيد",
+          "character": "نديم الراعي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8mkmyIoo0EAfZ00YbLetFsUCirY.jpg"
+        },
+        {
+          "name": "خالد الصاوي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/t4Z5PVsbFgN6RsN1bksjDwZlkhc.jpg"
+        },
+        {
+          "name": "إيهاب فهمي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/upDuaN9GI86Ch5spYI9iAqj5hqt.jpg"
+        },
+        {
+          "name": "نيرمين الفقي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/uyQ74Sa0wacujf01tGpCkDaH8U5.jpg"
+        },
+        {
+          "name": "إيمان يوسف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/WsvQNRX2JonqHZwm7jibkfZz3a.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=LWChudOrCWU",
+      "start": "2026-11-17T20:00:00+00:00",
+      "stop": "2026-11-17T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/biAvwA8P2h348GLYLMbykmiNOBI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cQsRSF61ME6AyLpkLCJ8teFflMy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/biAvwA8P2h348GLYLMbykmiNOBI.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T19:40:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 107415,
+      "title": "Aile Sirketi S2",
+      "clean_title": "Aile Sirketi",
+      "original_title": "Aile Şirketi",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "يتقدم هارون لطلب الزواج من بادي، ومنذ تلك اللحظة يتحول إلى رجل مختلف تمامًا، حيث يتفاجئ الجميع بشخصيته الجديدة مما يجعل الأمور في هاي تور تتغير عما كانت.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 6.3,
+      "vote_count": 7,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-08-06",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Emrah Kaman",
+          "character": "Harun Boz",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jY4pd7c8V5YnDOkYvdwpm5sL5ED.jpg"
+        },
+        {
+          "name": "Eslem Akar",
+          "character": "Bade Işıl Yüce",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mXW4bNC5NkkkjQtsjSEbnJ0moo2.jpg"
+        },
+        {
+          "name": "Özlem Öçalmaz",
+          "character": "Hande",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kCioOxqWq9S98fFoxRiOFCtbzjO.jpg"
+        },
+        {
+          "name": "Can Sipahi",
+          "character": "Burak",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jZ90IsLrradvOnhl97qhULxOx6f.jpg"
+        },
+        {
+          "name": "Cihan Durmaz",
+          "character": "Baki",
+          "profile_image": null
+        },
+        {
+          "name": "Müfit Kayacan",
+          "character": "Şenol",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2QVDWWQj45uOgnD2DUkB1tC5LWt.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T21:00:00+00:00",
+      "stop": "2026-11-17T21:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oU9qFJRj3d7pda2gWL3XiXMeLc8.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 107415,
+      "title": "Aile Sirketi S2",
+      "clean_title": "Aile Sirketi",
+      "original_title": "Aile Şirketi",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "يتقدم هارون لطلب الزواج من بادي، ومنذ تلك اللحظة يتحول إلى رجل مختلف تمامًا، حيث يتفاجئ الجميع بشخصيته الجديدة مما يجعل الأمور في هاي تور تتغير عما كانت.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 6.3,
+      "vote_count": 7,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-08-06",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Emrah Kaman",
+          "character": "Harun Boz",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jY4pd7c8V5YnDOkYvdwpm5sL5ED.jpg"
+        },
+        {
+          "name": "Eslem Akar",
+          "character": "Bade Işıl Yüce",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mXW4bNC5NkkkjQtsjSEbnJ0moo2.jpg"
+        },
+        {
+          "name": "Özlem Öçalmaz",
+          "character": "Hande",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kCioOxqWq9S98fFoxRiOFCtbzjO.jpg"
+        },
+        {
+          "name": "Can Sipahi",
+          "character": "Burak",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jZ90IsLrradvOnhl97qhULxOx6f.jpg"
+        },
+        {
+          "name": "Cihan Durmaz",
+          "character": "Baki",
+          "profile_image": null
+        },
+        {
+          "name": "Müfit Kayacan",
+          "character": "Şenol",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2QVDWWQj45uOgnD2DUkB1tC5LWt.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T21:30:00+00:00",
+      "stop": "2026-11-17T22:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oU9qFJRj3d7pda2gWL3XiXMeLc8.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/gKFOcQ1o5V0mg5LgCAfUu2FAZqX.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 243537,
+      "title": "حياة لا تشبهني",
+      "clean_title": "حياة لا تشبهني",
+      "original_title": "حياة لا تشبهني",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 31,
+      "description": "تدور الأحداث في سنوات سبعينيات وثمانينيات القرن العشرين، داخل أسرة كبيرة تعيش في منزل واحد، ويعيش كل أفراد هذه الأسرة في واقع لا يشبه أحلامهم وطموحاتهم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-01-03",
+      "status": "Returning Series",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": "أنفال الدويسان",
+      "cast": [
+        {
+          "name": "جاسم النبهان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xsLXbhBUe5Kr0H8UU92NNzQJjp.jpg"
+        },
+        {
+          "name": "أسمهان توفيق",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hAsOFW3bLYqAEyZcUcsV7cjeETs.jpg"
+        },
+        {
+          "name": "سماح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dN8qXrZcep3t9mvxl9SHCshiztQ.jpg"
+        },
+        {
+          "name": "هبة الدري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/wQ9UtCHH0cyCNewEms1Fk2ahaN0.jpg"
+        },
+        {
+          "name": "حمد العماني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dxty7GdQU3BPRiRnIq4IIaFlBGB.jpg"
+        },
+        {
+          "name": "عبدالله التركماني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hQXXR94A5etiq3dAVqbvZ3mKNkO.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T22:00:00+00:00",
+      "stop": "2026-11-17T23:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/987VbxoUrlZxDSlGKeXpmwUfFJ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vCE3kwRcjLkFTZEjvWsQ8IkBsGl.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/987VbxoUrlZxDSlGKeXpmwUfFJ3.jpg",
+      "channel_icon": "https://i.imgur.com/d6AGFro.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

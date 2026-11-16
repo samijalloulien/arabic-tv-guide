@@ -1,0 +1,3456 @@
+{
+  "channel_id": "beINSeries2.qa@SD",
+  "channel_name": "بي إن سيريس إتش...",
+  "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+  "programs": [
+    {
+      "tmdb_id": 239618,
+      "title": "American Hostage",
+      "clean_title": "American Hostage",
+      "original_title": "American Hostage",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "description": "يجد مراسل الإذاعة المحبوب في إنديانابوليس، (فريد هيكمان)، نفسه وسط أزمة تهدد حياة الجميع عندما يطالب محتجز الرهائن، (توني كيريتسيس)، بإجراء مقابلة معه عبر برنامجه الإخباري الإذاعي الشهير.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "جريمة",
+        "دراما"
+      ],
+      "rating": 6.8,
+      "vote_count": 20,
+      "age_rating": "TV-MA",
+      "year": "2026",
+      "release_date": "2026-09-20",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "شون ريان, Eileen Myers",
+      "cast": [
+        {
+          "name": "جون هام",
+          "character": "Fred Heckman",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+        },
+        {
+          "name": "Giovanni Ribisi",
+          "character": "Tony Kiritsis",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg"
+        },
+        {
+          "name": "Kristoffer Polaha",
+          "character": "Dick Hall",
+          "profile_image": "https://image.tmdb.org/t/p/w185/u7SIxQzDwzU1av7tJoHG62NzN1Y.jpg"
+        },
+        {
+          "name": "ويليام هاربر",
+          "character": "Ben Hairston",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5Oy037YttIweiqNGaErkalNmH0G.jpg"
+        },
+        {
+          "name": "ميرايل إينوس",
+          "character": "Barbara Heckman",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zza8XezUz4I5Is55H2totMbGLeG.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kYnwghwr5oWAEMx2pLtUNG5oIkz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kYnwghwr5oWAEMx2pLtUNG5oIkz.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 219971,
+      "title": "The Agency: Central Intelligence",
+      "clean_title": "The Agency: Central Intelligence",
+      "original_title": "The Agency",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 20,
+      "description": "يتعمق المسلسل في إطار درامي داخل عالم من المؤامرات والحيل، حيث تخوض الشخصيات معاركها الداخلية الخاصة بالإضافة إلى محاربة التهديدات الموجهة للأمة والعالم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "غموض"
+      ],
+      "rating": 7.3,
+      "vote_count": 316,
+      "age_rating": "TV-MA",
+      "year": "2024",
+      "release_date": "2024-12-01",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Jez Butterworth, John-Henry Butterworth",
+      "cast": [
+        {
+          "name": "مايكل فاسبندر",
+          "character": "Brandon 'Martian' Colby / Paul Lewis",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg"
+        },
+        {
+          "name": "جيفري رايت",
+          "character": "Henry Ogletree",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yGcuHGW4glqRpOPxgiCvjcren7F.jpg"
+        },
+        {
+          "name": "جودي تيرنر-سميث",
+          "character": "Dr Samia 'Sami' Zahir",
+          "profile_image": "https://image.tmdb.org/t/p/w185/801hOIFSiYfakVDkX0U3vEAHAMt.jpg"
+        },
+        {
+          "name": "Katherine Waterston",
+          "character": "Naomi Ford",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zaqbXjr5jE1DnEoyAHokUDoCKOM.jpg"
+        },
+        {
+          "name": "Harriet Sansom Harris",
+          "character": "Dr Rachel Blake",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1ShvYCWkZycAGb27ZivGrLx1PhS.jpg"
+        },
+        {
+          "name": "John Magaro",
+          "character": "Owen Lublin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ah4Jm4Lmrgab9xdHwRId80S4REd.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/yENyueA8Vxrr22pQyjoIYBUpBbS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/o9gr7EoGPDU1IIv8Buzm2neklUM.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/yENyueA8Vxrr22pQyjoIYBUpBbS.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 257631,
+      "title": "The Real CSI: Miami",
+      "clean_title": "The Real CSI: Miami",
+      "original_title": "The Real CSI: Miami",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "description": "يسلط المسلسل الضوء على الضحايا وعائلاتهم، الذين يسعون إلى تحقيق العدالة في كل جريمة حقيقية، إلى جانب إبراز العلوم الجنائية المتطورة المستخدمة في حل القضايا.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "جريمة",
+        "وثائقي"
+      ],
+      "rating": 5.2,
+      "vote_count": 4,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-06-26",
+      "status": "Canceled",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "جيري بروكهايمر, Anthony E. Zuiker",
+      "cast": [
+        {
+          "name": "Crux Conception",
+          "character": "Self - CSI Expert",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3MHy5sZwTKNYfQRfs91DxuFDa1Q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mrt9ZT8H4yVxnPAVDXRacHGUXT7.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3MHy5sZwTKNYfQRfs91DxuFDa1Q.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 97951,
+      "title": "Mayor of Kingstown S2",
+      "clean_title": "Mayor of Kingstown",
+      "original_title": "Mayor of Kingstown",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 5,
+      "episodes_count": 48,
+      "description": "بعد أعمال شغب سجن كينجستون تجتاح الفوضى المدينة، ويضع (مايك) خطة لاستعادة السيطرة على الوضع، بينما يبدأ (كايل) عمله الجديد في شرطة ولاية ميشيجان، قبل أن يجد نفسه في موقف بالغ الخطورة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 8,
+      "vote_count": 709,
+      "age_rating": "TV-MA",
+      "year": "2021",
+      "release_date": "2021-11-14",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Hugh Dillon, تايلور شيريدان",
+      "cast": [
+        {
+          "name": "جيرمي رينر",
+          "character": "Mike McLusky",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+        },
+        {
+          "name": "Hugh Dillon",
+          "character": "Ian Ferguson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/npY8dF5b1j5pUqt11sDBi89BDTi.jpg"
+        },
+        {
+          "name": "Tobi Bamtefa",
+          "character": "Deverin 'Bunny' Washington",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cjGQVrqpG7EfpFQz194tuFHHuih.jpg"
+        },
+        {
+          "name": "Taylor Handley",
+          "character": "Kyle McClusky",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4LHuGBcwUOL0iwjtBXNPQOsSfC9.jpg"
+        },
+        {
+          "name": "Necar Zadegan",
+          "character": "Assistant D.A. Evelyn Foley",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tKmbHsYfFlxi69mADlQkXN9Kw2j.jpg"
+        },
+        {
+          "name": "Derek Webster",
+          "character": "Stevie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/q2wo9lI656Chxejpqov5i8EU1ZO.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/waMXdk42mtxLUFG2V9ceZtKNOCx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/waMXdk42mtxLUFG2V9ceZtKNOCx.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 157732,
+      "title": "Lawmen: Bass Reeves",
+      "clean_title": "Lawmen: Bass Reeves",
+      "original_title": "Lawmen: Bass Reeves",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "description": "يتبع العمل قصة ضابط الشرطة الأمريكي باس ريفيس، والذي يُعد وأحد من أشهر الأبطال من أصحاب البشرة السمراء في تاريخ ولاية ميسيسيبي.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 195,
+      "age_rating": "TV-MA",
+      "year": "2023",
+      "release_date": "2023-11-05",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Chad Feehan",
+      "cast": [
+        {
+          "name": "ديفيد أويلو",
+          "character": "Bass Reeves",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7UZHRwOKe2cYxj8SeNUklyPYkns.jpg"
+        },
+        {
+          "name": "Lauren E. Banks",
+          "character": "Jennie Reeves",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iWYwCbLAH2Oh2iT5dqIOjhejN9c.jpg"
+        },
+        {
+          "name": "Demi Singleton",
+          "character": "Sally Reeves",
+          "profile_image": "https://image.tmdb.org/t/p/w185/A11knIgd0doXeZYdiwIpNkskRoy.jpg"
+        },
+        {
+          "name": "Forrest Goodluck",
+          "character": "Billy Crow",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4xjRFmyJqYZRtLODw22baOla2Ub.jpg"
+        },
+        {
+          "name": "Barry Pepper",
+          "character": "Esau Pierce",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xBvW4dMoz496rItLQU6TGteYCEP.jpg"
+        },
+        {
+          "name": "دينيس كويد",
+          "character": "Marshal Sherrill Lynn",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/KwKRSJ1bSES8hORdQQn34QwH3V.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 73223,
+      "title": "Black Clover S2",
+      "clean_title": "Black Clover",
+      "original_title": "ブラッククローバー",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 196,
+      "description": "في الموسم الثاني، يُرسّخ (آستا) و(يونو) تنافسهما ويزدادان قوة، ويسعى كلاهما للوصول إلى عرش ملك السحرة، بينما يصعد الجان ويبدأون بالانتقام. وعندما تتأثر قرية (آستا) و(يونو) بسبب الفوضى التي تجتاح مملكة كلوفر، يصممان على القتال من أجلها ضد فرسان السحر.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "حركة ومغامرة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.5,
+      "vote_count": 2318,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "غاكوتو كاجيوارا",
+          "character": "Asta (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kUer38jXf7vTD2TGGxJMZVYL5Te.jpg"
+        },
+        {
+          "name": "نوبوناغا شيمازاكي",
+          "character": "Yuno (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+        },
+        {
+          "name": "كانا يوكي",
+          "character": "Noelle Silva (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gnKY83EbfaJWi1y47dgOtiRegAK.jpg"
+        },
+        {
+          "name": "جونيتشي سوابي",
+          "character": "Yami Sukehiro (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg"
+        },
+        {
+          "name": "غينكي مورو",
+          "character": "Magna Swing (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6YF881kJuP2HaSb5PXRO4hWTZA.jpg"
+        },
+        {
+          "name": "村瀬歩",
+          "character": "Luck Voltia (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3aGM6KpcCIEKOXP9510tzaKc8uw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T18:00:00+00:00",
+      "stop": "2026-11-16T18:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 73223,
+      "title": "Black Clover S2",
+      "clean_title": "Black Clover",
+      "original_title": "ブラッククローバー",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 196,
+      "description": "في الموسم الثاني، يُرسّخ (آستا) و(يونو) تنافسهما ويزدادان قوة، ويسعى كلاهما للوصول إلى عرش ملك السحرة، بينما يصعد الجان ويبدأون بالانتقام. وعندما تتأثر قرية (آستا) و(يونو) بسبب الفوضى التي تجتاح مملكة كلوفر، يصممان على القتال من أجلها ضد فرسان السحر.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "حركة ومغامرة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.5,
+      "vote_count": 2318,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "غاكوتو كاجيوارا",
+          "character": "Asta (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kUer38jXf7vTD2TGGxJMZVYL5Te.jpg"
+        },
+        {
+          "name": "نوبوناغا شيمازاكي",
+          "character": "Yuno (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+        },
+        {
+          "name": "كانا يوكي",
+          "character": "Noelle Silva (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gnKY83EbfaJWi1y47dgOtiRegAK.jpg"
+        },
+        {
+          "name": "جونيتشي سوابي",
+          "character": "Yami Sukehiro (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg"
+        },
+        {
+          "name": "غينكي مورو",
+          "character": "Magna Swing (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6YF881kJuP2HaSb5PXRO4hWTZA.jpg"
+        },
+        {
+          "name": "村瀬歩",
+          "character": "Luck Voltia (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3aGM6KpcCIEKOXP9510tzaKc8uw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T18:30:00+00:00",
+      "stop": "2026-11-16T19:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 67198,
+      "title": "Star Trek: Discovery S5",
+      "clean_title": "Star Trek: Discovery",
+      "original_title": "Star Trek: Discovery",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 5,
+      "episode": null,
+      "seasons_count": 5,
+      "episodes_count": 65,
+      "description": "تكتشف الكابتن (بيرنهام) وطاقمها في الموسم الخامس لغزاً خطيراً يدفعهم إلى مغامرة ملحمية عبر المجرة للبحث عن قوة قديمة تم إخفائها عمداً لقرون، إلا أنهم يواجهون أعداء يبذلون قصارى جهدهم لانتزاع الجائزة لأنفسهم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "خيال علمي وفانتازيا",
+        "حركة ومغامرة",
+        "دراما"
+      ],
+      "rating": 6.9,
+      "vote_count": 2145,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-09-24",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Bryan Fuller, أليكس كورتزمان",
+      "cast": [
+        {
+          "name": "Sonequa Martin-Green",
+          "character": "Michael Burnham",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xhxKESzX3R47VXLIN3lCHYHHaY7.jpg"
+        },
+        {
+          "name": "Doug Jones",
+          "character": "Saru",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rpvvWATYWHGjedJea0G97XufOwU.jpg"
+        },
+        {
+          "name": "ماري وايزمان",
+          "character": "Sylvia Tilly",
+          "profile_image": "https://image.tmdb.org/t/p/w185/85uKEsrzJ0pWMDKKwAQtYdMbnq4.jpg"
+        },
+        {
+          "name": "Anthony Rapp",
+          "character": "Paul Stamets",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9Pj11mrX2MsWsOiHRjVDxYS93K5.jpg"
+        },
+        {
+          "name": "Wilson Cruz",
+          "character": "Hugh Culber",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kLLfJsyDOY6jPCWtT3etnbp9ZKL.jpg"
+        },
+        {
+          "name": "Blu del Barrio",
+          "character": "Adira Tal",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nwbX8tJ5VcDxhl2eJr3ikA6jiNS.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T19:00:00+00:00",
+      "stop": "2026-11-16T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ePr0k72sypMpZYubz6w34dcW68Y.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 103516,
+      "title": "Star Trek: Strange New Worlds S4",
+      "clean_title": "Star Trek: Strange New Worlds",
+      "original_title": "Star Trek: Strange New Worlds",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 4,
+      "episode": null,
+      "seasons_count": 4,
+      "episodes_count": 40,
+      "description": "يقود بايك في الجزء الرابع طاقم سفينة يو إس إس إنتربرايز في مغامرات جديدة ومثيرة عبر الكواكب، حيث يواجه الطاقم خلال رحلتهم تحديات شخصية وتهديدات خارجية، إلى جانب إعادة التواصل مع الوجوه المألوفة من الماضي، ومحاربة الكائنات الفضائية الجديدة المرعبة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "خيال علمي وفانتازيا",
+        "دراما"
+      ],
+      "rating": 7.9,
+      "vote_count": 888,
+      "age_rating": "TV-14",
+      "year": "2022",
+      "release_date": "2022-05-05",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Jenny Lumet, أليكس كورتزمان",
+      "cast": [
+        {
+          "name": "Anson Mount",
+          "character": "Captain Christopher Pike",
+          "profile_image": "https://image.tmdb.org/t/p/w185/A4YBdwnzJKRcZXfodjT4UalHOK9.jpg"
+        },
+        {
+          "name": "Ethan Peck",
+          "character": "Spock",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9KaxSgpbx9Zj827xXLML3bWknNV.jpg"
+        },
+        {
+          "name": "Jess Bush",
+          "character": "Christine Chapel",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qAsdLipL5Gd54IHd813lN5HQFwn.jpg"
+        },
+        {
+          "name": "Christina Chong",
+          "character": "La'An Noonien-Singh",
+          "profile_image": "https://image.tmdb.org/t/p/w185/h2uyfyfLVShJpW7rUCtethhZcT1.jpg"
+        },
+        {
+          "name": "Celia Rose Gooding",
+          "character": "Nyota Uhura",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vIk0g2FnDGmBGEAX7veFCOg0hM1.jpg"
+        },
+        {
+          "name": "Melissa Navia",
+          "character": "Erica Ortegas",
+          "profile_image": "https://image.tmdb.org/t/p/w185/b8qF20FtJby02fGAeWSp9XJDHbw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T20:00:00+00:00",
+      "stop": "2026-11-16T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/bATm9ZqdkPGizpO9YGCm1E98XV3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/bATm9ZqdkPGizpO9YGCm1E98XV3.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 257631,
+      "title": "The Real CSI: Miami",
+      "clean_title": "The Real CSI: Miami",
+      "original_title": "The Real CSI: Miami",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "description": "يسلط المسلسل الضوء على الضحايا وعائلاتهم، الذين يسعون إلى تحقيق العدالة في كل جريمة حقيقية، إلى جانب إبراز العلوم الجنائية المتطورة المستخدمة في حل القضايا.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "جريمة",
+        "وثائقي"
+      ],
+      "rating": 5.2,
+      "vote_count": 4,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-06-26",
+      "status": "Canceled",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "جيري بروكهايمر, Anthony E. Zuiker",
+      "cast": [
+        {
+          "name": "Crux Conception",
+          "character": "Self - CSI Expert",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T21:00:00+00:00",
+      "stop": "2026-11-16T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3MHy5sZwTKNYfQRfs91DxuFDa1Q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mrt9ZT8H4yVxnPAVDXRacHGUXT7.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3MHy5sZwTKNYfQRfs91DxuFDa1Q.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 157732,
+      "title": "Lawmen: Bass Reeves",
+      "clean_title": "Lawmen: Bass Reeves",
+      "original_title": "Lawmen: Bass Reeves",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "description": "يتبع العمل قصة ضابط الشرطة الأمريكي باس ريفيس، والذي يُعد وأحد من أشهر الأبطال من أصحاب البشرة السمراء في تاريخ ولاية ميسيسيبي.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 195,
+      "age_rating": "TV-MA",
+      "year": "2023",
+      "release_date": "2023-11-05",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Chad Feehan",
+      "cast": [
+        {
+          "name": "ديفيد أويلو",
+          "character": "Bass Reeves",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7UZHRwOKe2cYxj8SeNUklyPYkns.jpg"
+        },
+        {
+          "name": "Lauren E. Banks",
+          "character": "Jennie Reeves",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iWYwCbLAH2Oh2iT5dqIOjhejN9c.jpg"
+        },
+        {
+          "name": "Demi Singleton",
+          "character": "Sally Reeves",
+          "profile_image": "https://image.tmdb.org/t/p/w185/A11knIgd0doXeZYdiwIpNkskRoy.jpg"
+        },
+        {
+          "name": "Forrest Goodluck",
+          "character": "Billy Crow",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4xjRFmyJqYZRtLODw22baOla2Ub.jpg"
+        },
+        {
+          "name": "Barry Pepper",
+          "character": "Esau Pierce",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xBvW4dMoz496rItLQU6TGteYCEP.jpg"
+        },
+        {
+          "name": "دينيس كويد",
+          "character": "Marshal Sherrill Lynn",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T23:00:00+00:00",
+      "stop": "2026-11-17T00:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/KwKRSJ1bSES8hORdQQn34QwH3V.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 73223,
+      "title": "Black Clover S2",
+      "clean_title": "Black Clover",
+      "original_title": "ブラッククローバー",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 196,
+      "description": "في الموسم الثاني، يُرسّخ (آستا) و(يونو) تنافسهما ويزدادان قوة، ويسعى كلاهما للوصول إلى عرش ملك السحرة، بينما يصعد الجان ويبدأون بالانتقام. وعندما تتأثر قرية (آستا) و(يونو) بسبب الفوضى التي تجتاح مملكة كلوفر، يصممان على القتال من أجلها ضد فرسان السحر.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "حركة ومغامرة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.5,
+      "vote_count": 2318,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "غاكوتو كاجيوارا",
+          "character": "Asta (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kUer38jXf7vTD2TGGxJMZVYL5Te.jpg"
+        },
+        {
+          "name": "نوبوناغا شيمازاكي",
+          "character": "Yuno (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+        },
+        {
+          "name": "كانا يوكي",
+          "character": "Noelle Silva (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gnKY83EbfaJWi1y47dgOtiRegAK.jpg"
+        },
+        {
+          "name": "جونيتشي سوابي",
+          "character": "Yami Sukehiro (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg"
+        },
+        {
+          "name": "غينكي مورو",
+          "character": "Magna Swing (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6YF881kJuP2HaSb5PXRO4hWTZA.jpg"
+        },
+        {
+          "name": "村瀬歩",
+          "character": "Luck Voltia (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3aGM6KpcCIEKOXP9510tzaKc8uw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T00:00:00+00:00",
+      "stop": "2026-11-17T00:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 73223,
+      "title": "Black Clover S2",
+      "clean_title": "Black Clover",
+      "original_title": "ブラッククローバー",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 196,
+      "description": "في الموسم الثاني، يُرسّخ (آستا) و(يونو) تنافسهما ويزدادان قوة، ويسعى كلاهما للوصول إلى عرش ملك السحرة، بينما يصعد الجان ويبدأون بالانتقام. وعندما تتأثر قرية (آستا) و(يونو) بسبب الفوضى التي تجتاح مملكة كلوفر، يصممان على القتال من أجلها ضد فرسان السحر.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "حركة ومغامرة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.5,
+      "vote_count": 2318,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "غاكوتو كاجيوارا",
+          "character": "Asta (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kUer38jXf7vTD2TGGxJMZVYL5Te.jpg"
+        },
+        {
+          "name": "نوبوناغا شيمازاكي",
+          "character": "Yuno (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+        },
+        {
+          "name": "كانا يوكي",
+          "character": "Noelle Silva (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gnKY83EbfaJWi1y47dgOtiRegAK.jpg"
+        },
+        {
+          "name": "جونيتشي سوابي",
+          "character": "Yami Sukehiro (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg"
+        },
+        {
+          "name": "غينكي مورو",
+          "character": "Magna Swing (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6YF881kJuP2HaSb5PXRO4hWTZA.jpg"
+        },
+        {
+          "name": "村瀬歩",
+          "character": "Luck Voltia (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3aGM6KpcCIEKOXP9510tzaKc8uw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T00:30:00+00:00",
+      "stop": "2026-11-17T01:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 67198,
+      "title": "Star Trek: Discovery S5",
+      "clean_title": "Star Trek: Discovery",
+      "original_title": "Star Trek: Discovery",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 5,
+      "episode": null,
+      "seasons_count": 5,
+      "episodes_count": 65,
+      "description": "تكتشف الكابتن (بيرنهام) وطاقمها في الموسم الخامس لغزاً خطيراً يدفعهم إلى مغامرة ملحمية عبر المجرة للبحث عن قوة قديمة تم إخفائها عمداً لقرون، إلا أنهم يواجهون أعداء يبذلون قصارى جهدهم لانتزاع الجائزة لأنفسهم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "خيال علمي وفانتازيا",
+        "حركة ومغامرة",
+        "دراما"
+      ],
+      "rating": 6.9,
+      "vote_count": 2145,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-09-24",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Bryan Fuller, أليكس كورتزمان",
+      "cast": [
+        {
+          "name": "Sonequa Martin-Green",
+          "character": "Michael Burnham",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xhxKESzX3R47VXLIN3lCHYHHaY7.jpg"
+        },
+        {
+          "name": "Doug Jones",
+          "character": "Saru",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rpvvWATYWHGjedJea0G97XufOwU.jpg"
+        },
+        {
+          "name": "ماري وايزمان",
+          "character": "Sylvia Tilly",
+          "profile_image": "https://image.tmdb.org/t/p/w185/85uKEsrzJ0pWMDKKwAQtYdMbnq4.jpg"
+        },
+        {
+          "name": "Anthony Rapp",
+          "character": "Paul Stamets",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9Pj11mrX2MsWsOiHRjVDxYS93K5.jpg"
+        },
+        {
+          "name": "Wilson Cruz",
+          "character": "Hugh Culber",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kLLfJsyDOY6jPCWtT3etnbp9ZKL.jpg"
+        },
+        {
+          "name": "Blu del Barrio",
+          "character": "Adira Tal",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nwbX8tJ5VcDxhl2eJr3ikA6jiNS.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T01:00:00+00:00",
+      "stop": "2026-11-17T02:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ePr0k72sypMpZYubz6w34dcW68Y.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 103516,
+      "title": "Star Trek: Strange New Worlds S4",
+      "clean_title": "Star Trek: Strange New Worlds",
+      "original_title": "Star Trek: Strange New Worlds",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 4,
+      "episode": null,
+      "seasons_count": 4,
+      "episodes_count": 40,
+      "description": "يقود بايك في الجزء الرابع طاقم سفينة يو إس إس إنتربرايز في مغامرات جديدة ومثيرة عبر الكواكب، حيث يواجه الطاقم خلال رحلتهم تحديات شخصية وتهديدات خارجية، إلى جانب إعادة التواصل مع الوجوه المألوفة من الماضي، ومحاربة الكائنات الفضائية الجديدة المرعبة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "خيال علمي وفانتازيا",
+        "دراما"
+      ],
+      "rating": 7.9,
+      "vote_count": 888,
+      "age_rating": "TV-14",
+      "year": "2022",
+      "release_date": "2022-05-05",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Jenny Lumet, أليكس كورتزمان",
+      "cast": [
+        {
+          "name": "Anson Mount",
+          "character": "Captain Christopher Pike",
+          "profile_image": "https://image.tmdb.org/t/p/w185/A4YBdwnzJKRcZXfodjT4UalHOK9.jpg"
+        },
+        {
+          "name": "Ethan Peck",
+          "character": "Spock",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9KaxSgpbx9Zj827xXLML3bWknNV.jpg"
+        },
+        {
+          "name": "Jess Bush",
+          "character": "Christine Chapel",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qAsdLipL5Gd54IHd813lN5HQFwn.jpg"
+        },
+        {
+          "name": "Christina Chong",
+          "character": "La'An Noonien-Singh",
+          "profile_image": "https://image.tmdb.org/t/p/w185/h2uyfyfLVShJpW7rUCtethhZcT1.jpg"
+        },
+        {
+          "name": "Celia Rose Gooding",
+          "character": "Nyota Uhura",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vIk0g2FnDGmBGEAX7veFCOg0hM1.jpg"
+        },
+        {
+          "name": "Melissa Navia",
+          "character": "Erica Ortegas",
+          "profile_image": "https://image.tmdb.org/t/p/w185/b8qF20FtJby02fGAeWSp9XJDHbw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T02:00:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/bATm9ZqdkPGizpO9YGCm1E98XV3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/bATm9ZqdkPGizpO9YGCm1E98XV3.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 257631,
+      "title": "The Real CSI: Miami",
+      "clean_title": "The Real CSI: Miami",
+      "original_title": "The Real CSI: Miami",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "description": "يسلط المسلسل الضوء على الضحايا وعائلاتهم، الذين يسعون إلى تحقيق العدالة في كل جريمة حقيقية، إلى جانب إبراز العلوم الجنائية المتطورة المستخدمة في حل القضايا.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "جريمة",
+        "وثائقي"
+      ],
+      "rating": 5.2,
+      "vote_count": 4,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-06-26",
+      "status": "Canceled",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "جيري بروكهايمر, Anthony E. Zuiker",
+      "cast": [
+        {
+          "name": "Crux Conception",
+          "character": "Self - CSI Expert",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3MHy5sZwTKNYfQRfs91DxuFDa1Q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mrt9ZT8H4yVxnPAVDXRacHGUXT7.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3MHy5sZwTKNYfQRfs91DxuFDa1Q.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 97951,
+      "title": "Mayor of Kingstown S2",
+      "clean_title": "Mayor of Kingstown",
+      "original_title": "Mayor of Kingstown",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 5,
+      "episodes_count": 48,
+      "description": "بعد أعمال شغب سجن كينجستون تجتاح الفوضى المدينة، ويضع (مايك) خطة لاستعادة السيطرة على الوضع، بينما يبدأ (كايل) عمله الجديد في شرطة ولاية ميشيجان، قبل أن يجد نفسه في موقف بالغ الخطورة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 8,
+      "vote_count": 709,
+      "age_rating": "TV-MA",
+      "year": "2021",
+      "release_date": "2021-11-14",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Hugh Dillon, تايلور شيريدان",
+      "cast": [
+        {
+          "name": "جيرمي رينر",
+          "character": "Mike McLusky",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+        },
+        {
+          "name": "Hugh Dillon",
+          "character": "Ian Ferguson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/npY8dF5b1j5pUqt11sDBi89BDTi.jpg"
+        },
+        {
+          "name": "Tobi Bamtefa",
+          "character": "Deverin 'Bunny' Washington",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cjGQVrqpG7EfpFQz194tuFHHuih.jpg"
+        },
+        {
+          "name": "Taylor Handley",
+          "character": "Kyle McClusky",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4LHuGBcwUOL0iwjtBXNPQOsSfC9.jpg"
+        },
+        {
+          "name": "Necar Zadegan",
+          "character": "Assistant D.A. Evelyn Foley",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tKmbHsYfFlxi69mADlQkXN9Kw2j.jpg"
+        },
+        {
+          "name": "Derek Webster",
+          "character": "Stevie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/q2wo9lI656Chxejpqov5i8EU1ZO.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/waMXdk42mtxLUFG2V9ceZtKNOCx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/waMXdk42mtxLUFG2V9ceZtKNOCx.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 157732,
+      "title": "Lawmen: Bass Reeves",
+      "clean_title": "Lawmen: Bass Reeves",
+      "original_title": "Lawmen: Bass Reeves",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "description": "يتبع العمل قصة ضابط الشرطة الأمريكي باس ريفيس، والذي يُعد وأحد من أشهر الأبطال من أصحاب البشرة السمراء في تاريخ ولاية ميسيسيبي.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 195,
+      "age_rating": "TV-MA",
+      "year": "2023",
+      "release_date": "2023-11-05",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Chad Feehan",
+      "cast": [
+        {
+          "name": "ديفيد أويلو",
+          "character": "Bass Reeves",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7UZHRwOKe2cYxj8SeNUklyPYkns.jpg"
+        },
+        {
+          "name": "Lauren E. Banks",
+          "character": "Jennie Reeves",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iWYwCbLAH2Oh2iT5dqIOjhejN9c.jpg"
+        },
+        {
+          "name": "Demi Singleton",
+          "character": "Sally Reeves",
+          "profile_image": "https://image.tmdb.org/t/p/w185/A11knIgd0doXeZYdiwIpNkskRoy.jpg"
+        },
+        {
+          "name": "Forrest Goodluck",
+          "character": "Billy Crow",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4xjRFmyJqYZRtLODw22baOla2Ub.jpg"
+        },
+        {
+          "name": "Barry Pepper",
+          "character": "Esau Pierce",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xBvW4dMoz496rItLQU6TGteYCEP.jpg"
+        },
+        {
+          "name": "دينيس كويد",
+          "character": "Marshal Sherrill Lynn",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T05:00:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/KwKRSJ1bSES8hORdQQn34QwH3V.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 73223,
+      "title": "Black Clover S2",
+      "clean_title": "Black Clover",
+      "original_title": "ブラッククローバー",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 196,
+      "description": "في الموسم الثاني، يُرسّخ (آستا) و(يونو) تنافسهما ويزدادان قوة، ويسعى كلاهما للوصول إلى عرش ملك السحرة، بينما يصعد الجان ويبدأون بالانتقام. وعندما تتأثر قرية (آستا) و(يونو) بسبب الفوضى التي تجتاح مملكة كلوفر، يصممان على القتال من أجلها ضد فرسان السحر.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "حركة ومغامرة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.5,
+      "vote_count": 2318,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "غاكوتو كاجيوارا",
+          "character": "Asta (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kUer38jXf7vTD2TGGxJMZVYL5Te.jpg"
+        },
+        {
+          "name": "نوبوناغا شيمازاكي",
+          "character": "Yuno (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+        },
+        {
+          "name": "كانا يوكي",
+          "character": "Noelle Silva (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gnKY83EbfaJWi1y47dgOtiRegAK.jpg"
+        },
+        {
+          "name": "جونيتشي سوابي",
+          "character": "Yami Sukehiro (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg"
+        },
+        {
+          "name": "غينكي مورو",
+          "character": "Magna Swing (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6YF881kJuP2HaSb5PXRO4hWTZA.jpg"
+        },
+        {
+          "name": "村瀬歩",
+          "character": "Luck Voltia (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3aGM6KpcCIEKOXP9510tzaKc8uw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T06:00:00+00:00",
+      "stop": "2026-11-17T06:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 73223,
+      "title": "Black Clover S2",
+      "clean_title": "Black Clover",
+      "original_title": "ブラッククローバー",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 196,
+      "description": "في الموسم الثاني، يُرسّخ (آستا) و(يونو) تنافسهما ويزدادان قوة، ويسعى كلاهما للوصول إلى عرش ملك السحرة، بينما يصعد الجان ويبدأون بالانتقام. وعندما تتأثر قرية (آستا) و(يونو) بسبب الفوضى التي تجتاح مملكة كلوفر، يصممان على القتال من أجلها ضد فرسان السحر.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "حركة ومغامرة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.5,
+      "vote_count": 2318,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "غاكوتو كاجيوارا",
+          "character": "Asta (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kUer38jXf7vTD2TGGxJMZVYL5Te.jpg"
+        },
+        {
+          "name": "نوبوناغا شيمازاكي",
+          "character": "Yuno (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+        },
+        {
+          "name": "كانا يوكي",
+          "character": "Noelle Silva (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gnKY83EbfaJWi1y47dgOtiRegAK.jpg"
+        },
+        {
+          "name": "جونيتشي سوابي",
+          "character": "Yami Sukehiro (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg"
+        },
+        {
+          "name": "غينكي مورو",
+          "character": "Magna Swing (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6YF881kJuP2HaSb5PXRO4hWTZA.jpg"
+        },
+        {
+          "name": "村瀬歩",
+          "character": "Luck Voltia (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3aGM6KpcCIEKOXP9510tzaKc8uw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T06:30:00+00:00",
+      "stop": "2026-11-17T07:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 67198,
+      "title": "Star Trek: Discovery S5",
+      "clean_title": "Star Trek: Discovery",
+      "original_title": "Star Trek: Discovery",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 5,
+      "episode": null,
+      "seasons_count": 5,
+      "episodes_count": 65,
+      "description": "تكتشف الكابتن (بيرنهام) وطاقمها في الموسم الخامس لغزاً خطيراً يدفعهم إلى مغامرة ملحمية عبر المجرة للبحث عن قوة قديمة تم إخفائها عمداً لقرون، إلا أنهم يواجهون أعداء يبذلون قصارى جهدهم لانتزاع الجائزة لأنفسهم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "خيال علمي وفانتازيا",
+        "حركة ومغامرة",
+        "دراما"
+      ],
+      "rating": 6.9,
+      "vote_count": 2145,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-09-24",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Bryan Fuller, أليكس كورتزمان",
+      "cast": [
+        {
+          "name": "Sonequa Martin-Green",
+          "character": "Michael Burnham",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xhxKESzX3R47VXLIN3lCHYHHaY7.jpg"
+        },
+        {
+          "name": "Doug Jones",
+          "character": "Saru",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rpvvWATYWHGjedJea0G97XufOwU.jpg"
+        },
+        {
+          "name": "ماري وايزمان",
+          "character": "Sylvia Tilly",
+          "profile_image": "https://image.tmdb.org/t/p/w185/85uKEsrzJ0pWMDKKwAQtYdMbnq4.jpg"
+        },
+        {
+          "name": "Anthony Rapp",
+          "character": "Paul Stamets",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9Pj11mrX2MsWsOiHRjVDxYS93K5.jpg"
+        },
+        {
+          "name": "Wilson Cruz",
+          "character": "Hugh Culber",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kLLfJsyDOY6jPCWtT3etnbp9ZKL.jpg"
+        },
+        {
+          "name": "Blu del Barrio",
+          "character": "Adira Tal",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nwbX8tJ5VcDxhl2eJr3ikA6jiNS.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T08:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ePr0k72sypMpZYubz6w34dcW68Y.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 103516,
+      "title": "Star Trek: Strange New Worlds S4",
+      "clean_title": "Star Trek: Strange New Worlds",
+      "original_title": "Star Trek: Strange New Worlds",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 4,
+      "episode": null,
+      "seasons_count": 4,
+      "episodes_count": 40,
+      "description": "يقود بايك في الجزء الرابع طاقم سفينة يو إس إس إنتربرايز في مغامرات جديدة ومثيرة عبر الكواكب، حيث يواجه الطاقم خلال رحلتهم تحديات شخصية وتهديدات خارجية، إلى جانب إعادة التواصل مع الوجوه المألوفة من الماضي، ومحاربة الكائنات الفضائية الجديدة المرعبة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "خيال علمي وفانتازيا",
+        "دراما"
+      ],
+      "rating": 7.9,
+      "vote_count": 888,
+      "age_rating": "TV-14",
+      "year": "2022",
+      "release_date": "2022-05-05",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Jenny Lumet, أليكس كورتزمان",
+      "cast": [
+        {
+          "name": "Anson Mount",
+          "character": "Captain Christopher Pike",
+          "profile_image": "https://image.tmdb.org/t/p/w185/A4YBdwnzJKRcZXfodjT4UalHOK9.jpg"
+        },
+        {
+          "name": "Ethan Peck",
+          "character": "Spock",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9KaxSgpbx9Zj827xXLML3bWknNV.jpg"
+        },
+        {
+          "name": "Jess Bush",
+          "character": "Christine Chapel",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qAsdLipL5Gd54IHd813lN5HQFwn.jpg"
+        },
+        {
+          "name": "Christina Chong",
+          "character": "La'An Noonien-Singh",
+          "profile_image": "https://image.tmdb.org/t/p/w185/h2uyfyfLVShJpW7rUCtethhZcT1.jpg"
+        },
+        {
+          "name": "Celia Rose Gooding",
+          "character": "Nyota Uhura",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vIk0g2FnDGmBGEAX7veFCOg0hM1.jpg"
+        },
+        {
+          "name": "Melissa Navia",
+          "character": "Erica Ortegas",
+          "profile_image": "https://image.tmdb.org/t/p/w185/b8qF20FtJby02fGAeWSp9XJDHbw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T08:00:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/bATm9ZqdkPGizpO9YGCm1E98XV3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/bATm9ZqdkPGizpO9YGCm1E98XV3.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 257631,
+      "title": "The Real CSI: Miami",
+      "clean_title": "The Real CSI: Miami",
+      "original_title": "The Real CSI: Miami",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "description": "يسلط المسلسل الضوء على الضحايا وعائلاتهم، الذين يسعون إلى تحقيق العدالة في كل جريمة حقيقية، إلى جانب إبراز العلوم الجنائية المتطورة المستخدمة في حل القضايا.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "جريمة",
+        "وثائقي"
+      ],
+      "rating": 5.2,
+      "vote_count": 4,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-06-26",
+      "status": "Canceled",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "جيري بروكهايمر, Anthony E. Zuiker",
+      "cast": [
+        {
+          "name": "Crux Conception",
+          "character": "Self - CSI Expert",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3MHy5sZwTKNYfQRfs91DxuFDa1Q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mrt9ZT8H4yVxnPAVDXRacHGUXT7.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3MHy5sZwTKNYfQRfs91DxuFDa1Q.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 97951,
+      "title": "Mayor of Kingstown S2",
+      "clean_title": "Mayor of Kingstown",
+      "original_title": "Mayor of Kingstown",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 5,
+      "episodes_count": 48,
+      "description": "بعد أعمال شغب سجن كينجستون تجتاح الفوضى المدينة، ويضع (مايك) خطة لاستعادة السيطرة على الوضع، بينما يبدأ (كايل) عمله الجديد في شرطة ولاية ميشيجان، قبل أن يجد نفسه في موقف بالغ الخطورة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 8,
+      "vote_count": 709,
+      "age_rating": "TV-MA",
+      "year": "2021",
+      "release_date": "2021-11-14",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Hugh Dillon, تايلور شيريدان",
+      "cast": [
+        {
+          "name": "جيرمي رينر",
+          "character": "Mike McLusky",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+        },
+        {
+          "name": "Hugh Dillon",
+          "character": "Ian Ferguson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/npY8dF5b1j5pUqt11sDBi89BDTi.jpg"
+        },
+        {
+          "name": "Tobi Bamtefa",
+          "character": "Deverin 'Bunny' Washington",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cjGQVrqpG7EfpFQz194tuFHHuih.jpg"
+        },
+        {
+          "name": "Taylor Handley",
+          "character": "Kyle McClusky",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4LHuGBcwUOL0iwjtBXNPQOsSfC9.jpg"
+        },
+        {
+          "name": "Necar Zadegan",
+          "character": "Assistant D.A. Evelyn Foley",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tKmbHsYfFlxi69mADlQkXN9Kw2j.jpg"
+        },
+        {
+          "name": "Derek Webster",
+          "character": "Stevie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/q2wo9lI656Chxejpqov5i8EU1ZO.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T11:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/waMXdk42mtxLUFG2V9ceZtKNOCx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/waMXdk42mtxLUFG2V9ceZtKNOCx.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 157732,
+      "title": "Lawmen: Bass Reeves",
+      "clean_title": "Lawmen: Bass Reeves",
+      "original_title": "Lawmen: Bass Reeves",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "description": "يتبع العمل قصة ضابط الشرطة الأمريكي باس ريفيس، والذي يُعد وأحد من أشهر الأبطال من أصحاب البشرة السمراء في تاريخ ولاية ميسيسيبي.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 195,
+      "age_rating": "TV-MA",
+      "year": "2023",
+      "release_date": "2023-11-05",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Chad Feehan",
+      "cast": [
+        {
+          "name": "ديفيد أويلو",
+          "character": "Bass Reeves",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7UZHRwOKe2cYxj8SeNUklyPYkns.jpg"
+        },
+        {
+          "name": "Lauren E. Banks",
+          "character": "Jennie Reeves",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iWYwCbLAH2Oh2iT5dqIOjhejN9c.jpg"
+        },
+        {
+          "name": "Demi Singleton",
+          "character": "Sally Reeves",
+          "profile_image": "https://image.tmdb.org/t/p/w185/A11knIgd0doXeZYdiwIpNkskRoy.jpg"
+        },
+        {
+          "name": "Forrest Goodluck",
+          "character": "Billy Crow",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4xjRFmyJqYZRtLODw22baOla2Ub.jpg"
+        },
+        {
+          "name": "Barry Pepper",
+          "character": "Esau Pierce",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xBvW4dMoz496rItLQU6TGteYCEP.jpg"
+        },
+        {
+          "name": "دينيس كويد",
+          "character": "Marshal Sherrill Lynn",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T11:00:00+00:00",
+      "stop": "2026-11-17T12:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/KwKRSJ1bSES8hORdQQn34QwH3V.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 73223,
+      "title": "Black Clover S2",
+      "clean_title": "Black Clover",
+      "original_title": "ブラッククローバー",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 196,
+      "description": "في الموسم الثاني، يُرسّخ (آستا) و(يونو) تنافسهما ويزدادان قوة، ويسعى كلاهما للوصول إلى عرش ملك السحرة، بينما يصعد الجان ويبدأون بالانتقام. وعندما تتأثر قرية (آستا) و(يونو) بسبب الفوضى التي تجتاح مملكة كلوفر، يصممان على القتال من أجلها ضد فرسان السحر.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "حركة ومغامرة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.5,
+      "vote_count": 2318,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "غاكوتو كاجيوارا",
+          "character": "Asta (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kUer38jXf7vTD2TGGxJMZVYL5Te.jpg"
+        },
+        {
+          "name": "نوبوناغا شيمازاكي",
+          "character": "Yuno (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+        },
+        {
+          "name": "كانا يوكي",
+          "character": "Noelle Silva (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gnKY83EbfaJWi1y47dgOtiRegAK.jpg"
+        },
+        {
+          "name": "جونيتشي سوابي",
+          "character": "Yami Sukehiro (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg"
+        },
+        {
+          "name": "غينكي مورو",
+          "character": "Magna Swing (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6YF881kJuP2HaSb5PXRO4hWTZA.jpg"
+        },
+        {
+          "name": "村瀬歩",
+          "character": "Luck Voltia (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3aGM6KpcCIEKOXP9510tzaKc8uw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T12:00:00+00:00",
+      "stop": "2026-11-17T12:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 73223,
+      "title": "Black Clover S2",
+      "clean_title": "Black Clover",
+      "original_title": "ブラッククローバー",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 196,
+      "description": "في الموسم الثاني، يُرسّخ (آستا) و(يونو) تنافسهما ويزدادان قوة، ويسعى كلاهما للوصول إلى عرش ملك السحرة، بينما يصعد الجان ويبدأون بالانتقام. وعندما تتأثر قرية (آستا) و(يونو) بسبب الفوضى التي تجتاح مملكة كلوفر، يصممان على القتال من أجلها ضد فرسان السحر.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "حركة ومغامرة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.5,
+      "vote_count": 2318,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "غاكوتو كاجيوارا",
+          "character": "Asta (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kUer38jXf7vTD2TGGxJMZVYL5Te.jpg"
+        },
+        {
+          "name": "نوبوناغا شيمازاكي",
+          "character": "Yuno (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+        },
+        {
+          "name": "كانا يوكي",
+          "character": "Noelle Silva (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gnKY83EbfaJWi1y47dgOtiRegAK.jpg"
+        },
+        {
+          "name": "جونيتشي سوابي",
+          "character": "Yami Sukehiro (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg"
+        },
+        {
+          "name": "غينكي مورو",
+          "character": "Magna Swing (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6YF881kJuP2HaSb5PXRO4hWTZA.jpg"
+        },
+        {
+          "name": "村瀬歩",
+          "character": "Luck Voltia (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3aGM6KpcCIEKOXP9510tzaKc8uw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T12:30:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 67198,
+      "title": "Star Trek: Discovery S5",
+      "clean_title": "Star Trek: Discovery",
+      "original_title": "Star Trek: Discovery",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 5,
+      "episode": null,
+      "seasons_count": 5,
+      "episodes_count": 65,
+      "description": "تكتشف الكابتن (بيرنهام) وطاقمها في الموسم الخامس لغزاً خطيراً يدفعهم إلى مغامرة ملحمية عبر المجرة للبحث عن قوة قديمة تم إخفائها عمداً لقرون، إلا أنهم يواجهون أعداء يبذلون قصارى جهدهم لانتزاع الجائزة لأنفسهم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "خيال علمي وفانتازيا",
+        "حركة ومغامرة",
+        "دراما"
+      ],
+      "rating": 6.9,
+      "vote_count": 2145,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-09-24",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Bryan Fuller, أليكس كورتزمان",
+      "cast": [
+        {
+          "name": "Sonequa Martin-Green",
+          "character": "Michael Burnham",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xhxKESzX3R47VXLIN3lCHYHHaY7.jpg"
+        },
+        {
+          "name": "Doug Jones",
+          "character": "Saru",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rpvvWATYWHGjedJea0G97XufOwU.jpg"
+        },
+        {
+          "name": "ماري وايزمان",
+          "character": "Sylvia Tilly",
+          "profile_image": "https://image.tmdb.org/t/p/w185/85uKEsrzJ0pWMDKKwAQtYdMbnq4.jpg"
+        },
+        {
+          "name": "Anthony Rapp",
+          "character": "Paul Stamets",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9Pj11mrX2MsWsOiHRjVDxYS93K5.jpg"
+        },
+        {
+          "name": "Wilson Cruz",
+          "character": "Hugh Culber",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kLLfJsyDOY6jPCWtT3etnbp9ZKL.jpg"
+        },
+        {
+          "name": "Blu del Barrio",
+          "character": "Adira Tal",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nwbX8tJ5VcDxhl2eJr3ikA6jiNS.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ePr0k72sypMpZYubz6w34dcW68Y.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T07:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 103516,
+      "title": "Star Trek: Strange New Worlds S4",
+      "clean_title": "Star Trek: Strange New Worlds",
+      "original_title": "Star Trek: Strange New Worlds",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 4,
+      "episode": null,
+      "seasons_count": 4,
+      "episodes_count": 40,
+      "description": "يقود بايك في الجزء الرابع طاقم سفينة يو إس إس إنتربرايز في مغامرات جديدة ومثيرة عبر الكواكب، حيث يواجه الطاقم خلال رحلتهم تحديات شخصية وتهديدات خارجية، إلى جانب إعادة التواصل مع الوجوه المألوفة من الماضي، ومحاربة الكائنات الفضائية الجديدة المرعبة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "خيال علمي وفانتازيا",
+        "دراما"
+      ],
+      "rating": 7.9,
+      "vote_count": 888,
+      "age_rating": "TV-14",
+      "year": "2022",
+      "release_date": "2022-05-05",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Jenny Lumet, أليكس كورتزمان",
+      "cast": [
+        {
+          "name": "Anson Mount",
+          "character": "Captain Christopher Pike",
+          "profile_image": "https://image.tmdb.org/t/p/w185/A4YBdwnzJKRcZXfodjT4UalHOK9.jpg"
+        },
+        {
+          "name": "Ethan Peck",
+          "character": "Spock",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9KaxSgpbx9Zj827xXLML3bWknNV.jpg"
+        },
+        {
+          "name": "Jess Bush",
+          "character": "Christine Chapel",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qAsdLipL5Gd54IHd813lN5HQFwn.jpg"
+        },
+        {
+          "name": "Christina Chong",
+          "character": "La'An Noonien-Singh",
+          "profile_image": "https://image.tmdb.org/t/p/w185/h2uyfyfLVShJpW7rUCtethhZcT1.jpg"
+        },
+        {
+          "name": "Celia Rose Gooding",
+          "character": "Nyota Uhura",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vIk0g2FnDGmBGEAX7veFCOg0hM1.jpg"
+        },
+        {
+          "name": "Melissa Navia",
+          "character": "Erica Ortegas",
+          "profile_image": "https://image.tmdb.org/t/p/w185/b8qF20FtJby02fGAeWSp9XJDHbw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/bATm9ZqdkPGizpO9YGCm1E98XV3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/bATm9ZqdkPGizpO9YGCm1E98XV3.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 257631,
+      "title": "The Real CSI: Miami",
+      "clean_title": "The Real CSI: Miami",
+      "original_title": "The Real CSI: Miami",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "description": "يسلط المسلسل الضوء على الضحايا وعائلاتهم، الذين يسعون إلى تحقيق العدالة في كل جريمة حقيقية، إلى جانب إبراز العلوم الجنائية المتطورة المستخدمة في حل القضايا.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "جريمة",
+        "وثائقي"
+      ],
+      "rating": 5.2,
+      "vote_count": 4,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-06-26",
+      "status": "Canceled",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "جيري بروكهايمر, Anthony E. Zuiker",
+      "cast": [
+        {
+          "name": "Crux Conception",
+          "character": "Self - CSI Expert",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T15:00:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3MHy5sZwTKNYfQRfs91DxuFDa1Q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mrt9ZT8H4yVxnPAVDXRacHGUXT7.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3MHy5sZwTKNYfQRfs91DxuFDa1Q.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 97951,
+      "title": "Mayor of Kingstown S2",
+      "clean_title": "Mayor of Kingstown",
+      "original_title": "Mayor of Kingstown",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 5,
+      "episodes_count": 48,
+      "description": "بعد أعمال شغب سجن كينجستون تجتاح الفوضى المدينة، ويضع (مايك) خطة لاستعادة السيطرة على الوضع، بينما يبدأ (كايل) عمله الجديد في شرطة ولاية ميشيجان، قبل أن يجد نفسه في موقف بالغ الخطورة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 8,
+      "vote_count": 709,
+      "age_rating": "TV-MA",
+      "year": "2021",
+      "release_date": "2021-11-14",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Hugh Dillon, تايلور شيريدان",
+      "cast": [
+        {
+          "name": "جيرمي رينر",
+          "character": "Mike McLusky",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+        },
+        {
+          "name": "Hugh Dillon",
+          "character": "Ian Ferguson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/npY8dF5b1j5pUqt11sDBi89BDTi.jpg"
+        },
+        {
+          "name": "Tobi Bamtefa",
+          "character": "Deverin 'Bunny' Washington",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cjGQVrqpG7EfpFQz194tuFHHuih.jpg"
+        },
+        {
+          "name": "Taylor Handley",
+          "character": "Kyle McClusky",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4LHuGBcwUOL0iwjtBXNPQOsSfC9.jpg"
+        },
+        {
+          "name": "Necar Zadegan",
+          "character": "Assistant D.A. Evelyn Foley",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tKmbHsYfFlxi69mADlQkXN9Kw2j.jpg"
+        },
+        {
+          "name": "Derek Webster",
+          "character": "Stevie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/q2wo9lI656Chxejpqov5i8EU1ZO.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/waMXdk42mtxLUFG2V9ceZtKNOCx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/waMXdk42mtxLUFG2V9ceZtKNOCx.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 157732,
+      "title": "Lawmen: Bass Reeves",
+      "clean_title": "Lawmen: Bass Reeves",
+      "original_title": "Lawmen: Bass Reeves",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "description": "يتبع العمل قصة ضابط الشرطة الأمريكي باس ريفيس، والذي يُعد وأحد من أشهر الأبطال من أصحاب البشرة السمراء في تاريخ ولاية ميسيسيبي.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 195,
+      "age_rating": "TV-MA",
+      "year": "2023",
+      "release_date": "2023-11-05",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Chad Feehan",
+      "cast": [
+        {
+          "name": "ديفيد أويلو",
+          "character": "Bass Reeves",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7UZHRwOKe2cYxj8SeNUklyPYkns.jpg"
+        },
+        {
+          "name": "Lauren E. Banks",
+          "character": "Jennie Reeves",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iWYwCbLAH2Oh2iT5dqIOjhejN9c.jpg"
+        },
+        {
+          "name": "Demi Singleton",
+          "character": "Sally Reeves",
+          "profile_image": "https://image.tmdb.org/t/p/w185/A11knIgd0doXeZYdiwIpNkskRoy.jpg"
+        },
+        {
+          "name": "Forrest Goodluck",
+          "character": "Billy Crow",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4xjRFmyJqYZRtLODw22baOla2Ub.jpg"
+        },
+        {
+          "name": "Barry Pepper",
+          "character": "Esau Pierce",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xBvW4dMoz496rItLQU6TGteYCEP.jpg"
+        },
+        {
+          "name": "دينيس كويد",
+          "character": "Marshal Sherrill Lynn",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/KwKRSJ1bSES8hORdQQn34QwH3V.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 73223,
+      "title": "Black Clover S2",
+      "clean_title": "Black Clover",
+      "original_title": "ブラッククローバー",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 196,
+      "description": "في الموسم الثاني، يُرسّخ (آستا) و(يونو) تنافسهما ويزدادان قوة، ويسعى كلاهما للوصول إلى عرش ملك السحرة، بينما يصعد الجان ويبدأون بالانتقام. وعندما تتأثر قرية (آستا) و(يونو) بسبب الفوضى التي تجتاح مملكة كلوفر، يصممان على القتال من أجلها ضد فرسان السحر.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "حركة ومغامرة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.5,
+      "vote_count": 2318,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "غاكوتو كاجيوارا",
+          "character": "Asta (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kUer38jXf7vTD2TGGxJMZVYL5Te.jpg"
+        },
+        {
+          "name": "نوبوناغا شيمازاكي",
+          "character": "Yuno (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+        },
+        {
+          "name": "كانا يوكي",
+          "character": "Noelle Silva (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gnKY83EbfaJWi1y47dgOtiRegAK.jpg"
+        },
+        {
+          "name": "جونيتشي سوابي",
+          "character": "Yami Sukehiro (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg"
+        },
+        {
+          "name": "غينكي مورو",
+          "character": "Magna Swing (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6YF881kJuP2HaSb5PXRO4hWTZA.jpg"
+        },
+        {
+          "name": "村瀬歩",
+          "character": "Luck Voltia (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3aGM6KpcCIEKOXP9510tzaKc8uw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T18:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 73223,
+      "title": "Black Clover S2",
+      "clean_title": "Black Clover",
+      "original_title": "ブラッククローバー",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 196,
+      "description": "في الموسم الثاني، يُرسّخ (آستا) و(يونو) تنافسهما ويزدادان قوة، ويسعى كلاهما للوصول إلى عرش ملك السحرة، بينما يصعد الجان ويبدأون بالانتقام. وعندما تتأثر قرية (آستا) و(يونو) بسبب الفوضى التي تجتاح مملكة كلوفر، يصممان على القتال من أجلها ضد فرسان السحر.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "حركة ومغامرة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.5,
+      "vote_count": 2318,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "غاكوتو كاجيوارا",
+          "character": "Asta (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kUer38jXf7vTD2TGGxJMZVYL5Te.jpg"
+        },
+        {
+          "name": "نوبوناغا شيمازاكي",
+          "character": "Yuno (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+        },
+        {
+          "name": "كانا يوكي",
+          "character": "Noelle Silva (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gnKY83EbfaJWi1y47dgOtiRegAK.jpg"
+        },
+        {
+          "name": "جونيتشي سوابي",
+          "character": "Yami Sukehiro (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg"
+        },
+        {
+          "name": "غينكي مورو",
+          "character": "Magna Swing (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6YF881kJuP2HaSb5PXRO4hWTZA.jpg"
+        },
+        {
+          "name": "村瀬歩",
+          "character": "Luck Voltia (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3aGM6KpcCIEKOXP9510tzaKc8uw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T18:30:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/yFw4Jmar4hixDeogAEKP9Z1zIqO.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 240558,
+      "title": "King & Conqueror",
+      "clean_title": "King & Conqueror",
+      "original_title": "King & Conqueror",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "description": "يلتقي ويليام من نورماندي وهاورلد من ويسيكس خلال معركة هاستينجز عام 1066، فيصبحان حليفين بلا حق في الملكية البريطانية، لكن القدر يقودهما لاحقًا إلى الصراع على السلطة والعرش.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حركة ومغامرة",
+        "حرب وسياسة"
+      ],
+      "rating": 7.2,
+      "vote_count": 86,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-08-24",
+      "status": "Ended",
+      "country": "المملكة المتحدة",
+      "language": "الإنجليزية",
+      "director": "Michael Robert Johnson",
+      "cast": [
+        {
+          "name": "نيكولاي كوستر والداو",
+          "character": "William of Normandy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rpFOERbHkj7GWxkinUNiQ76sSGk.jpg"
+        },
+        {
+          "name": "جيمس نورتون",
+          "character": "Harold Godwinson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9aoZjSVw6jTvV4ioi7KdH1wfgC2.jpg"
+        },
+        {
+          "name": "كليمونس بويزي",
+          "character": "Matilda of Normandy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/slWxRBAGLGmk4c2lLKYH7EfSXZ2.jpg"
+        },
+        {
+          "name": "Emily Beecham",
+          "character": "Edith Swanneck",
+          "profile_image": "https://image.tmdb.org/t/p/w185/u3Jgk4v7L23lKRQ9qxGJYmRkY4m.jpg"
+        },
+        {
+          "name": "كلير هولمان",
+          "character": "Gytha",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mVpH5xGx0ezmqE12GmbtaG3wjLv.jpg"
+        },
+        {
+          "name": "Bo Bragason",
+          "character": "Queen Gunhild",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rokw2EUwUfQWuDbVGwIeQZBIQQc.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T19:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/8SW0c0tUFWjpWBz2UYr0U57a8kB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/bEhOXB2Pmda0tgRya5tLEaDr1qY.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/8SW0c0tUFWjpWBz2UYr0U57a8kB.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 15379,
+      "title": "برنامج beIN Action",
+      "clean_title": "beIN Action",
+      "original_title": "Missing in Action",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد فراره من معسكر أسرى في فيتنام، يعود عقيد في القوات الخاصة في مهمة لتحديد مكان الجنود الأمريكيين المفقودين الذين لا يزالون محتجزين وإنقاذهم.",
+      "category": "General",
+      "genres": [
+        "General",
+        "حركة",
+        "مغامرة",
+        "إثارة",
+        "حرب"
+      ],
+      "rating": 5.9,
+      "vote_count": 608,
+      "age_rating": "R",
+      "year": "1984",
+      "release_date": "1984-11-16",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Joseph Zito",
+      "cast": [
+        {
+          "name": "تشاك نوريس",
+          "character": "Col. James Braddock",
+          "profile_image": "https://image.tmdb.org/t/p/w185/m3uLikdhi9qObRvGVHsKX5H93lR.jpg"
+        },
+        {
+          "name": "مايكل إيمت ولش",
+          "character": "Tuck",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fVWvBxvwyk4aTA9vKZOV9qHRNNk.jpg"
+        },
+        {
+          "name": "David Tress",
+          "character": "Sen. Porter",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gLyDdtF4CbKj8hxJ5LLP3ZRnjnJ.jpg"
+        },
+        {
+          "name": "Lenore Kasdorf",
+          "character": "Ann",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zyU2cEF8RUC8Zx11SmVBYIPQ62a.jpg"
+        },
+        {
+          "name": "James Hong",
+          "character": "Gen. Trau",
+          "profile_image": "https://image.tmdb.org/t/p/w185/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+        },
+        {
+          "name": "Pierrino Mascarino",
+          "character": "Jacques",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5ZD0q5LEsVXYSUPFoCHBRSeZTaD.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T19:45:00+00:00",
+      "stop": "2026-11-17T20:00:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/nBrDcnNQca88ed1gRwZ1Q5cjNxE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8GVHeU77wFodIkwetIufkTVPgOF.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/nBrDcnNQca88ed1gRwZ1Q5cjNxE.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T19:40:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T13:40:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 259909,
+      "title": "Dexter: Resurrection",
+      "clean_title": "Dexter: Resurrection",
+      "original_title": "Dexter: Resurrection",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 20,
+      "description": "يستفيق (دكستر مورجان) من غيبوبته ويبدأ رحلة إلى نيويورك بحثًا عن ابنه (هاريسون) لمحاولة إصلاح علاقتهما، لكنه يصطدم بالمحقق (أنجيل باتيستا) الذي يعيد فتح أبواب الماضي، ما يدفع (دكستر) لمواجهة أشباحه القديمة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "جريمة",
+        "دراما",
+        "غموض"
+      ],
+      "rating": 8.5,
+      "vote_count": 761,
+      "age_rating": "TV-MA",
+      "year": "2025",
+      "release_date": "2025-07-13",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "كلايد فيليبس",
+      "cast": [
+        {
+          "name": "مايكل ك. هول",
+          "character": "Dexter Morgan",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
+        },
+        {
+          "name": "أوما ثورمان",
+          "character": "Charley Brown",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg"
+        },
+        {
+          "name": "Jack Alcott",
+          "character": "Harrison Morgan",
+          "profile_image": "https://image.tmdb.org/t/p/w185/65KEuv3LIBEaeIkqhyps6heZ9aa.jpg"
+        },
+        {
+          "name": "دان ستيفنز",
+          "character": "The Five Borough Killer",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fFsgginZKH527o38ZfdDxuzx7Ew.jpg"
+        },
+        {
+          "name": "بوكيم وودبين",
+          "character": "Captain Mixon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pnPyA5pJn94zUzuLWTNkGBNZxza.jpg"
+        },
+        {
+          "name": "Ntare Guma Mbaho Mwine",
+          "character": "Blessing Kamara",
+          "profile_image": "https://image.tmdb.org/t/p/w185/woNUJoFwwiX67Ge20Sr4KWXuJvb.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T20:00:00+00:00",
+      "stop": "2026-11-17T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/xcNg0PJiywJ2dfWL0E3Uq8BfpJx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/xcNg0PJiywJ2dfWL0E3Uq8BfpJx.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 257631,
+      "title": "The Real CSI: Miami",
+      "clean_title": "The Real CSI: Miami",
+      "original_title": "The Real CSI: Miami",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "description": "يسلط المسلسل الضوء على الضحايا وعائلاتهم، الذين يسعون إلى تحقيق العدالة في كل جريمة حقيقية، إلى جانب إبراز العلوم الجنائية المتطورة المستخدمة في حل القضايا.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "جريمة",
+        "وثائقي"
+      ],
+      "rating": 5.2,
+      "vote_count": 4,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-06-26",
+      "status": "Canceled",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "جيري بروكهايمر, Anthony E. Zuiker",
+      "cast": [
+        {
+          "name": "Crux Conception",
+          "character": "Self - CSI Expert",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T21:00:00+00:00",
+      "stop": "2026-11-17T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3MHy5sZwTKNYfQRfs91DxuFDa1Q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mrt9ZT8H4yVxnPAVDXRacHGUXT7.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3MHy5sZwTKNYfQRfs91DxuFDa1Q.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 97951,
+      "title": "Mayor of Kingstown S2",
+      "clean_title": "Mayor of Kingstown",
+      "original_title": "Mayor of Kingstown",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 5,
+      "episodes_count": 48,
+      "description": "بعد أعمال شغب سجن كينجستون تجتاح الفوضى المدينة، ويضع (مايك) خطة لاستعادة السيطرة على الوضع، بينما يبدأ (كايل) عمله الجديد في شرطة ولاية ميشيجان، قبل أن يجد نفسه في موقف بالغ الخطورة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 8,
+      "vote_count": 709,
+      "age_rating": "TV-MA",
+      "year": "2021",
+      "release_date": "2021-11-14",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Hugh Dillon, تايلور شيريدان",
+      "cast": [
+        {
+          "name": "جيرمي رينر",
+          "character": "Mike McLusky",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+        },
+        {
+          "name": "Hugh Dillon",
+          "character": "Ian Ferguson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/npY8dF5b1j5pUqt11sDBi89BDTi.jpg"
+        },
+        {
+          "name": "Tobi Bamtefa",
+          "character": "Deverin 'Bunny' Washington",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cjGQVrqpG7EfpFQz194tuFHHuih.jpg"
+        },
+        {
+          "name": "Taylor Handley",
+          "character": "Kyle McClusky",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4LHuGBcwUOL0iwjtBXNPQOsSfC9.jpg"
+        },
+        {
+          "name": "Necar Zadegan",
+          "character": "Assistant D.A. Evelyn Foley",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tKmbHsYfFlxi69mADlQkXN9Kw2j.jpg"
+        },
+        {
+          "name": "Derek Webster",
+          "character": "Stevie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/q2wo9lI656Chxejpqov5i8EU1ZO.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T22:00:00+00:00",
+      "stop": "2026-11-17T23:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/waMXdk42mtxLUFG2V9ceZtKNOCx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/waMXdk42mtxLUFG2V9ceZtKNOCx.jpg",
+      "channel_icon": "https://i.imgur.com/c0B8bmf.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

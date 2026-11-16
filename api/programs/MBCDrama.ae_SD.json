@@ -1,0 +1,3234 @@
+{
+  "channel_id": "MBCDrama.ae@SD",
+  "channel_name": "MBC Drama",
+  "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+  "programs": [
+    {
+      "tmdb_id": 74823,
+      "title": "الحفرة موسم 4 حلقة 339",
+      "clean_title": "الحفرة",
+      "original_title": "Çukur",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 4,
+      "episode": 339,
+      "seasons_count": 4,
+      "episodes_count": 131,
+      "description": "بينما تزداد حدة الصراع بين العائلتين من أجل التحكم بالحي، يغير وافد جديد قوانين اللعبة.",
+      "category": "إثارة",
+      "genres": [
+        "إثارة",
+        "جريمة",
+        "حركة ومغامرة",
+        "دراما"
+      ],
+      "rating": 7.5,
+      "vote_count": 95,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-10-23",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Barbaros Bilgin, Gökhan Horzum",
+      "cast": [
+        {
+          "name": "أراس بولوت إينيملي",
+          "character": "Yamaç Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bAWgmcF26tPZv4gcwc9jmaNB9py.jpg"
+        },
+        {
+          "name": "أركان كولتشاك كوستنديل",
+          "character": "Vartolu Saadettin/Salih Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xC1vhHLwWjg5LNUY84t61tt3IcW.jpg"
+        },
+        {
+          "name": "Necip Memili",
+          "character": "Cumali Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/d1jeBnsh30FkL5I196HHz85dz7h.jpg"
+        },
+        {
+          "name": "Kadir Çermik",
+          "character": "Emmi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rqikGrXOhzdISEi8u1v8RJ9ZmOF.jpg"
+        },
+        {
+          "name": "بريهان سافاش",
+          "character": "Sultan Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/41useDyDAnYkROisShCF06O7jV3.jpg"
+        },
+        {
+          "name": "Mustafa Kırantepe",
+          "character": "Medet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bQgi4OzHDFcvR0daHXk6ubDCCGR.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T00:00:00+00:00",
+      "stop": "2026-11-16T01:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/dyFmwlAQCEUNQ1JuFothxO1G0zz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xtCzLQOocIajjQ5Mhwp834BQhVX.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/dyFmwlAQCEUNQ1JuFothxO1G0zz.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T08:04:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 30695,
+      "title": "باب الحارة",
+      "clean_title": "باب الحارة",
+      "original_title": "باب الحارة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 13,
+      "episodes_count": 402,
+      "description": "تدخل ناديا حارة الضبع وسط أنظار واستغراب أهل الحارة ورجالها المحافظين كي تطمئن على أبي عصام، فتتردد الأقاويل في أروقة الحارة حول علاقته بها، ترى كيف سيواجه أبو عصام الشائعات وكيف سيفسر ظهور ناديا في حياته بشكل مفاجئ؟ وما السر وراء تلك الشخصية؟",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": 7.4,
+      "vote_count": 15,
+      "age_rating": null,
+      "year": "2006",
+      "release_date": "2006-09-23",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:00:00+00:00",
+      "stop": "2026-11-16T02:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/mjnLbyDWHadRp2vuEejTKJ1AxWz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nXnL3OwMB1RNPG7pAl3GgWLXRKP.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/mjnLbyDWHadRp2vuEejTKJ1AxWz.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "المداح: أسطورة العهد",
+      "clean_title": "المداح: أسطورة العهد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعود صابر من الموت ليواجه أعظم شر عرفته الأرض: بنات إبليس! اجتمعن لتنفيذ مهمة مدمرة للبشرية، وهي تحرير سيدهن الأعظم إبليس بأي وسيلة ممكنة…",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T02:00:00+00:00",
+      "stop": "2026-11-16T02:59:00+00:00",
+      "duration_minutes": 59,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T07:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 111453,
+      "title": "حبيبتي.. من تكون؟ موسم 2 حلقة 25",
+      "clean_title": "حبيبتي.. من تكون؟",
+      "original_title": "घुम है किसिकी प्यार में",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": 25,
+      "seasons_count": 3,
+      "episodes_count": 995,
+      "description": "يحاول فيرات إيجاد الخلاص من معاناته في إحدى الكنائس، ويقرر مواجهة باكهي عند محاولتها تحريض فينو ضد ساي. أما بهافاني فتتخذ قرارا تبدي به مصلحة فينو.",
+      "category": "دراما",
+      "genres": [
+        "دراما",
+        "أوبرا صابونية",
+        "عائلي"
+      ],
+      "rating": 5.7,
+      "vote_count": 70,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-10-05",
+      "status": "Ended",
+      "country": "الهند",
+      "language": "الهندية",
+      "director": "Leena Gangopadhyay",
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T02:59:00+00:00",
+      "stop": "2026-11-16T03:55:00+00:00",
+      "duration_minutes": 56,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ApjQvGVoqANC2KLRMKZUIoQViwT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/d1ujVe5yWPJ6mtepghxidUYIJa5.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ApjQvGVoqANC2KLRMKZUIoQViwT.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301322,
+      "title": "إفراج",
+      "clean_title": "إفراج",
+      "original_title": "إفراج",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "بعد 12 عاما خلف القضبان، يخرج عباس الريس إلى الحرية، ملطخا بدماء أقرب الناس إليه. وفي رحلته للبحث عن الغفران بمساعدة ابن عمه شداد، يصطدم بعالم أشد ظلمة من زنزانة السجن...",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": 6,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-19",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "Qalam Workshop, Ahmed Helba",
+      "cast": [
+        {
+          "name": "عمرو سعد",
+          "character": "عباس الريس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ii5oJije7WOfqBwyxAt4YettAnj.jpg"
+        },
+        {
+          "name": "تارا عماد",
+          "character": "كريمة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oNS3ui8NT6VWPIDERi2igvN82Tf.jpg"
+        },
+        {
+          "name": "عبدالعزيز مخيون",
+          "character": "عليان الريس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bNVEnr8LO2MzDL0XrYVp1GyvTnO.jpg"
+        },
+        {
+          "name": "حاتم صلاح",
+          "character": "شداد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oMKk9Z3Jbmk5JLpLBP3Nsnd5JNc.jpg"
+        },
+        {
+          "name": "علاء مرسي",
+          "character": "ذكي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wE5NLHpCy3iJa77wDbZmFKhoHsR.jpg"
+        },
+        {
+          "name": "سما إبراهيم",
+          "character": "أم عباس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xdwK3yp1sGur9AV635GLddULs1W.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=YgQ0Lze33lY",
+      "start": "2026-11-16T03:55:00+00:00",
+      "stop": "2026-11-16T05:00:00+00:00",
+      "duration_minutes": 65,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/qpbB7nptAW47OcR7gZ2vduCR8uK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xhC1EoSiC22Z24QTKGtw45O5Nb6.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/qpbB7nptAW47OcR7gZ2vduCR8uK.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T15:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T15:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 119692,
+      "title": "أبشر بالسعد",
+      "clean_title": "أبشر بالسعد",
+      "original_title": "أبشر بالسعد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 30,
+      "description": "في سعيه لكسب المال والنفوذ، يسعى محام يتمتع بالحنكة يدعى سعد لكسب عملاء جدد وتوسيع مكتب المحاماة الخاص به بكافة الوسائل.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-02-27",
+      "status": "Returning Series",
+      "country": null,
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "نايف راشد",
+          "character": "سعد المرتوي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/d6AayUvVXCVpM5H4oxOXK3eAN4V.jpg"
+        },
+        {
+          "name": "مريم الصالح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/q3v79Lix0H1EovszldBUnEl1AP1.jpg"
+        },
+        {
+          "name": "حسين المنصور",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3LlIjzfoyEfwMgZS0ZTRJOhkM12.jpg"
+        },
+        {
+          "name": "عبير أحمد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/m8PK5NOOQMOt5M5MMBSITRP9IwD.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T05:00:00+00:00",
+      "stop": "2026-11-16T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/nefG1cZO7NXi81p9avzfDQ3GfkB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/x2vbptYv7dsbAR26RbeIpyZ4L9d.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/nefG1cZO7NXi81p9avzfDQ3GfkB.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T11:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T04:59:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T11:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 30695,
+      "title": "باب الحارة",
+      "clean_title": "باب الحارة",
+      "original_title": "باب الحارة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 13,
+      "episodes_count": 402,
+      "description": "تدخل ناديا حارة الضبع وسط أنظار واستغراب أهل الحارة ورجالها المحافظين كي تطمئن على أبي عصام، فتتردد الأقاويل في أروقة الحارة حول علاقته بها، ترى كيف سيواجه أبو عصام الشائعات وكيف سيفسر ظهور ناديا في حياته بشكل مفاجئ؟ وما السر وراء تلك الشخصية؟",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": 7.4,
+      "vote_count": 15,
+      "age_rating": null,
+      "year": "2006",
+      "release_date": "2006-09-23",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T06:00:00+00:00",
+      "stop": "2026-11-16T07:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/mjnLbyDWHadRp2vuEejTKJ1AxWz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nXnL3OwMB1RNPG7pAl3GgWLXRKP.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/mjnLbyDWHadRp2vuEejTKJ1AxWz.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T01:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "المداح: أسطورة العهد",
+      "clean_title": "المداح: أسطورة العهد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعود صابر من الموت ليواجه أعظم شر عرفته الأرض: بنات إبليس! اجتمعن لتنفيذ مهمة مدمرة للبشرية، وهي تحرير سيدهن الأعظم إبليس بأي وسيلة ممكنة…",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T07:00:00+00:00",
+      "stop": "2026-11-16T08:04:00+00:00",
+      "duration_minutes": 64,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T02:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 74823,
+      "title": "الحفرة موسم 4 حلقة 339",
+      "clean_title": "الحفرة",
+      "original_title": "Çukur",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 4,
+      "episode": 339,
+      "seasons_count": 4,
+      "episodes_count": 131,
+      "description": "بينما تزداد حدة الصراع بين العائلتين من أجل التحكم بالحي، يغير وافد جديد قوانين اللعبة.",
+      "category": "إثارة",
+      "genres": [
+        "إثارة",
+        "جريمة",
+        "حركة ومغامرة",
+        "دراما"
+      ],
+      "rating": 7.5,
+      "vote_count": 95,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-10-23",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Barbaros Bilgin, Gökhan Horzum",
+      "cast": [
+        {
+          "name": "أراس بولوت إينيملي",
+          "character": "Yamaç Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bAWgmcF26tPZv4gcwc9jmaNB9py.jpg"
+        },
+        {
+          "name": "أركان كولتشاك كوستنديل",
+          "character": "Vartolu Saadettin/Salih Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xC1vhHLwWjg5LNUY84t61tt3IcW.jpg"
+        },
+        {
+          "name": "Necip Memili",
+          "character": "Cumali Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/d1jeBnsh30FkL5I196HHz85dz7h.jpg"
+        },
+        {
+          "name": "Kadir Çermik",
+          "character": "Emmi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rqikGrXOhzdISEi8u1v8RJ9ZmOF.jpg"
+        },
+        {
+          "name": "بريهان سافاش",
+          "character": "Sultan Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/41useDyDAnYkROisShCF06O7jV3.jpg"
+        },
+        {
+          "name": "Mustafa Kırantepe",
+          "character": "Medet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bQgi4OzHDFcvR0daHXk6ubDCCGR.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T08:04:00+00:00",
+      "stop": "2026-11-16T09:00:00+00:00",
+      "duration_minutes": 56,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/dyFmwlAQCEUNQ1JuFothxO1G0zz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xtCzLQOocIajjQ5Mhwp834BQhVX.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/dyFmwlAQCEUNQ1JuFothxO1G0zz.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301322,
+      "title": "إفراج",
+      "clean_title": "إفراج",
+      "original_title": "إفراج",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "بعد 12 عاما خلف القضبان، يخرج عباس الريس إلى الحرية، ملطخا بدماء أقرب الناس إليه. وفي رحلته للبحث عن الغفران بمساعدة ابن عمه شداد، يصطدم بعالم أشد ظلمة من زنزانة السجن...",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": 6,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-19",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "Qalam Workshop, Ahmed Helba",
+      "cast": [
+        {
+          "name": "عمرو سعد",
+          "character": "عباس الريس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ii5oJije7WOfqBwyxAt4YettAnj.jpg"
+        },
+        {
+          "name": "تارا عماد",
+          "character": "كريمة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oNS3ui8NT6VWPIDERi2igvN82Tf.jpg"
+        },
+        {
+          "name": "عبدالعزيز مخيون",
+          "character": "عليان الريس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bNVEnr8LO2MzDL0XrYVp1GyvTnO.jpg"
+        },
+        {
+          "name": "حاتم صلاح",
+          "character": "شداد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oMKk9Z3Jbmk5JLpLBP3Nsnd5JNc.jpg"
+        },
+        {
+          "name": "علاء مرسي",
+          "character": "ذكي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wE5NLHpCy3iJa77wDbZmFKhoHsR.jpg"
+        },
+        {
+          "name": "سما إبراهيم",
+          "character": "أم عباس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xdwK3yp1sGur9AV635GLddULs1W.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=YgQ0Lze33lY",
+      "start": "2026-11-16T09:00:00+00:00",
+      "stop": "2026-11-16T09:54:00+00:00",
+      "duration_minutes": 54,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/qpbB7nptAW47OcR7gZ2vduCR8uK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xhC1EoSiC22Z24QTKGtw45O5Nb6.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/qpbB7nptAW47OcR7gZ2vduCR8uK.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T03:55:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T15:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T15:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "شجر الحور موسم 3 حلقة 13",
+      "clean_title": "شجر الحور",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 3,
+      "episode": 13,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تنوي كورينا إخبار أكيلاس أن ميليتيس كان على علاقة ببينيلوبي. يطلب جايتانيس من فايوس التقرب من لامبروس وأصدقائه لمعرفة أخبارهم والتجسس عليهم.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T09:54:00+00:00",
+      "stop": "2026-11-16T11:05:00+00:00",
+      "duration_minutes": 71,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 119692,
+      "title": "أبشر بالسعد",
+      "clean_title": "أبشر بالسعد",
+      "original_title": "أبشر بالسعد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 30,
+      "description": "في سعيه لكسب المال والنفوذ، يسعى محام يتمتع بالحنكة يدعى سعد لكسب عملاء جدد وتوسيع مكتب المحاماة الخاص به بكافة الوسائل.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-02-27",
+      "status": "Returning Series",
+      "country": null,
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "نايف راشد",
+          "character": "سعد المرتوي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/d6AayUvVXCVpM5H4oxOXK3eAN4V.jpg"
+        },
+        {
+          "name": "مريم الصالح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/q3v79Lix0H1EovszldBUnEl1AP1.jpg"
+        },
+        {
+          "name": "حسين المنصور",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3LlIjzfoyEfwMgZS0ZTRJOhkM12.jpg"
+        },
+        {
+          "name": "عبير أحمد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/m8PK5NOOQMOt5M5MMBSITRP9IwD.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T11:05:00+00:00",
+      "stop": "2026-11-16T12:00:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/nefG1cZO7NXi81p9avzfDQ3GfkB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/x2vbptYv7dsbAR26RbeIpyZ4L9d.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/nefG1cZO7NXi81p9avzfDQ3GfkB.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T04:59:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T11:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 111453,
+      "title": "حبيبتي.. من تكون؟ موسم 2 حلقة 25",
+      "clean_title": "حبيبتي.. من تكون؟",
+      "original_title": "घुम है किसिकी प्यार में",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": 25,
+      "seasons_count": 3,
+      "episodes_count": 995,
+      "description": "يحاول فيرات إيجاد الخلاص من معاناته في إحدى الكنائس، ويقرر مواجهة باكهي عند محاولتها تحريض فينو ضد ساي. أما بهافاني فتتخذ قرارا تبدي به مصلحة فينو.",
+      "category": "دراما",
+      "genres": [
+        "دراما",
+        "أوبرا صابونية",
+        "عائلي"
+      ],
+      "rating": 5.7,
+      "vote_count": 70,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-10-05",
+      "status": "Ended",
+      "country": "الهند",
+      "language": "الهندية",
+      "director": "Leena Gangopadhyay",
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:00:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ApjQvGVoqANC2KLRMKZUIoQViwT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/d1ujVe5yWPJ6mtepghxidUYIJa5.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ApjQvGVoqANC2KLRMKZUIoQViwT.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T02:59:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 226177,
+      "title": "لا موسيقى في الأحمدي",
+      "clean_title": "لا موسيقى في الأحمدي",
+      "original_title": "لا موسيقى في الأحمدي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "بعد أن زوجه والده عضيبان زواجاً تقليدياً لابنة عمه، يقع حمد في غرام امرأة أخرى من عائلة متحررة، ويصر على الزواج منها، ولكن الحياة لن تكون وردية كما كان يتصور.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": "2019-05-06",
+      "status": "Returning Series",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/pQ7S9ItZkI6IVprO2mwWKh9Y2L5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5XM1ME9ByeS70wofdyrzHW9WEox.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/pQ7S9ItZkI6IVprO2mwWKh9Y2L5.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T23:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T23:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "شجر الحور موسم 3 حلقة 14",
+      "clean_title": "شجر الحور",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 3,
+      "episode": 14,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تساعد أنثي لامبروس في إرسال رسائله إلى خارج السجن، فيما يحاول فايوس استراق السمع أثناء حديثهما.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:05:00+00:00",
+      "duration_minutes": 65,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T22:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301322,
+      "title": "إفراج",
+      "clean_title": "إفراج",
+      "original_title": "إفراج",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "بعد 12 عاما خلف القضبان، يخرج عباس الريس إلى الحرية، ملطخا بدماء أقرب الناس إليه. وفي رحلته للبحث عن الغفران بمساعدة ابن عمه شداد، يصطدم بعالم أشد ظلمة من زنزانة السجن...",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": 6,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-19",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "Qalam Workshop, Ahmed Helba",
+      "cast": [
+        {
+          "name": "عمرو سعد",
+          "character": "عباس الريس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ii5oJije7WOfqBwyxAt4YettAnj.jpg"
+        },
+        {
+          "name": "تارا عماد",
+          "character": "كريمة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oNS3ui8NT6VWPIDERi2igvN82Tf.jpg"
+        },
+        {
+          "name": "عبدالعزيز مخيون",
+          "character": "عليان الريس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bNVEnr8LO2MzDL0XrYVp1GyvTnO.jpg"
+        },
+        {
+          "name": "حاتم صلاح",
+          "character": "شداد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oMKk9Z3Jbmk5JLpLBP3Nsnd5JNc.jpg"
+        },
+        {
+          "name": "علاء مرسي",
+          "character": "ذكي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wE5NLHpCy3iJa77wDbZmFKhoHsR.jpg"
+        },
+        {
+          "name": "سما إبراهيم",
+          "character": "أم عباس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xdwK3yp1sGur9AV635GLddULs1W.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=YgQ0Lze33lY",
+      "start": "2026-11-16T15:05:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/qpbB7nptAW47OcR7gZ2vduCR8uK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xhC1EoSiC22Z24QTKGtw45O5Nb6.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/qpbB7nptAW47OcR7gZ2vduCR8uK.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T03:55:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T15:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 119692,
+      "title": "أبشر بالسعد",
+      "clean_title": "أبشر بالسعد",
+      "original_title": "أبشر بالسعد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 30,
+      "description": "في سعيه لكسب المال والنفوذ، يسعى محام يتمتع بالحنكة يدعى سعد لكسب عملاء جدد وتوسيع مكتب المحاماة الخاص به بكافة الوسائل.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-02-27",
+      "status": "Returning Series",
+      "country": null,
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "نايف راشد",
+          "character": "سعد المرتوي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/d6AayUvVXCVpM5H4oxOXK3eAN4V.jpg"
+        },
+        {
+          "name": "مريم الصالح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/q3v79Lix0H1EovszldBUnEl1AP1.jpg"
+        },
+        {
+          "name": "حسين المنصور",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3LlIjzfoyEfwMgZS0ZTRJOhkM12.jpg"
+        },
+        {
+          "name": "عبير أحمد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/m8PK5NOOQMOt5M5MMBSITRP9IwD.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/nefG1cZO7NXi81p9avzfDQ3GfkB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/x2vbptYv7dsbAR26RbeIpyZ4L9d.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/nefG1cZO7NXi81p9avzfDQ3GfkB.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T11:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T04:59:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T11:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 74823,
+      "title": "الحفرة موسم 4 حلقة 340",
+      "clean_title": "الحفرة",
+      "original_title": "Çukur",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 4,
+      "episode": 340,
+      "seasons_count": 4,
+      "episodes_count": 131,
+      "description": "بينما تزداد حدة الصراع بين العائلتين من أجل التحكم بالحي، يغير وافد جديد قوانين اللعبة.",
+      "category": "إثارة",
+      "genres": [
+        "إثارة",
+        "جريمة",
+        "حركة ومغامرة",
+        "دراما"
+      ],
+      "rating": 7.5,
+      "vote_count": 95,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-10-23",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Barbaros Bilgin, Gökhan Horzum",
+      "cast": [
+        {
+          "name": "أراس بولوت إينيملي",
+          "character": "Yamaç Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bAWgmcF26tPZv4gcwc9jmaNB9py.jpg"
+        },
+        {
+          "name": "أركان كولتشاك كوستنديل",
+          "character": "Vartolu Saadettin/Salih Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xC1vhHLwWjg5LNUY84t61tt3IcW.jpg"
+        },
+        {
+          "name": "Necip Memili",
+          "character": "Cumali Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/d1jeBnsh30FkL5I196HHz85dz7h.jpg"
+        },
+        {
+          "name": "Kadir Çermik",
+          "character": "Emmi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rqikGrXOhzdISEi8u1v8RJ9ZmOF.jpg"
+        },
+        {
+          "name": "بريهان سافاش",
+          "character": "Sultan Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/41useDyDAnYkROisShCF06O7jV3.jpg"
+        },
+        {
+          "name": "Mustafa Kırantepe",
+          "character": "Medet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bQgi4OzHDFcvR0daHXk6ubDCCGR.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/dyFmwlAQCEUNQ1JuFothxO1G0zz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xtCzLQOocIajjQ5Mhwp834BQhVX.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/dyFmwlAQCEUNQ1JuFothxO1G0zz.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 226177,
+      "title": "لا موسيقى في الأحمدي",
+      "clean_title": "لا موسيقى في الأحمدي",
+      "original_title": "لا موسيقى في الأحمدي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "بعد أن زوجه والده عضيبان زواجاً تقليدياً لابنة عمه، يقع حمد في غرام امرأة أخرى من عائلة متحررة، ويصر على الزواج منها، ولكن الحياة لن تكون وردية كما كان يتصور.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": "2019-05-06",
+      "status": "Returning Series",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:00:00+00:00",
+      "stop": "2026-11-16T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/pQ7S9ItZkI6IVprO2mwWKh9Y2L5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5XM1ME9ByeS70wofdyrzHW9WEox.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/pQ7S9ItZkI6IVprO2mwWKh9Y2L5.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T23:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T23:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 111453,
+      "title": "حبيبتي.. من تكون؟ موسم 2 حلقة 26",
+      "clean_title": "حبيبتي.. من تكون؟",
+      "original_title": "घुम है किसिकी प्यार में",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": 26,
+      "seasons_count": 3,
+      "episodes_count": 995,
+      "description": "يحبس فينو نفسه في غرفته طالبا من فيرات أن يقطع عليه وعدا. في مكان آخر، تفصح بهافاني عن سر هام لسافي.",
+      "category": "دراما",
+      "genres": [
+        "دراما",
+        "أوبرا صابونية",
+        "عائلي"
+      ],
+      "rating": 5.7,
+      "vote_count": 70,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-10-05",
+      "status": "Ended",
+      "country": "الهند",
+      "language": "الهندية",
+      "director": "Leena Gangopadhyay",
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:00:00+00:00",
+      "stop": "2026-11-16T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ApjQvGVoqANC2KLRMKZUIoQViwT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/d1ujVe5yWPJ6mtepghxidUYIJa5.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ApjQvGVoqANC2KLRMKZUIoQViwT.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "المداح: أسطورة العهد",
+      "clean_title": "المداح: أسطورة العهد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعود صابر من الموت ليواجه أعظم شر عرفته الأرض: بنات إبليس! اجتمعن لتنفيذ مهمة مدمرة للبشرية، وهي تحرير سيدهن الأعظم إبليس بأي وسيلة ممكنة…",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:00:00+00:00",
+      "stop": "2026-11-16T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T02:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T07:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 30695,
+      "title": "باب الحارة",
+      "clean_title": "باب الحارة",
+      "original_title": "باب الحارة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 13,
+      "episodes_count": 402,
+      "description": "تدخل ناديا حارة الضبع وسط أنظار واستغراب أهل الحارة ورجالها المحافظين كي تطمئن على أبي عصام، فتتردد الأقاويل في أروقة الحارة حول علاقته بها، ترى كيف سيواجه أبو عصام الشائعات وكيف سيفسر ظهور ناديا في حياته بشكل مفاجئ؟ وما السر وراء تلك الشخصية؟",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": 7.4,
+      "vote_count": 15,
+      "age_rating": null,
+      "year": "2006",
+      "release_date": "2006-09-23",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T21:00:00+00:00",
+      "stop": "2026-11-16T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/mjnLbyDWHadRp2vuEejTKJ1AxWz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nXnL3OwMB1RNPG7pAl3GgWLXRKP.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/mjnLbyDWHadRp2vuEejTKJ1AxWz.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T01:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "شجر الحور موسم 3 حلقة 14",
+      "clean_title": "شجر الحور",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 3,
+      "episode": 14,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تساعد أنثي لامبروس في إرسال رسائله إلى خارج السجن، فيما يحاول فايوس استراق السمع أثناء حديثهما.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:00:00+00:00",
+      "stop": "2026-11-16T23:05:00+00:00",
+      "duration_minutes": 65,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 226177,
+      "title": "لا موسيقى في الأحمدي",
+      "clean_title": "لا موسيقى في الأحمدي",
+      "original_title": "لا موسيقى في الأحمدي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "بعد أن زوجه والده عضيبان زواجاً تقليدياً لابنة عمه، يقع حمد في غرام امرأة أخرى من عائلة متحررة، ويصر على الزواج منها، ولكن الحياة لن تكون وردية كما كان يتصور.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": "2019-05-06",
+      "status": "Returning Series",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T23:05:00+00:00",
+      "stop": "2026-11-17T00:00:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/pQ7S9ItZkI6IVprO2mwWKh9Y2L5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5XM1ME9ByeS70wofdyrzHW9WEox.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/pQ7S9ItZkI6IVprO2mwWKh9Y2L5.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T23:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 74823,
+      "title": "الحفرة موسم 4 حلقة 340",
+      "clean_title": "الحفرة",
+      "original_title": "Çukur",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 4,
+      "episode": 340,
+      "seasons_count": 4,
+      "episodes_count": 131,
+      "description": "بينما تزداد حدة الصراع بين العائلتين من أجل التحكم بالحي، يغير وافد جديد قوانين اللعبة.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "جريمة",
+        "حركة ومغامرة",
+        "دراما"
+      ],
+      "rating": 7.5,
+      "vote_count": 95,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-10-23",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Barbaros Bilgin, Gökhan Horzum",
+      "cast": [
+        {
+          "name": "أراس بولوت إينيملي",
+          "character": "Yamaç Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bAWgmcF26tPZv4gcwc9jmaNB9py.jpg"
+        },
+        {
+          "name": "أركان كولتشاك كوستنديل",
+          "character": "Vartolu Saadettin/Salih Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xC1vhHLwWjg5LNUY84t61tt3IcW.jpg"
+        },
+        {
+          "name": "Necip Memili",
+          "character": "Cumali Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/d1jeBnsh30FkL5I196HHz85dz7h.jpg"
+        },
+        {
+          "name": "Kadir Çermik",
+          "character": "Emmi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rqikGrXOhzdISEi8u1v8RJ9ZmOF.jpg"
+        },
+        {
+          "name": "بريهان سافاش",
+          "character": "Sultan Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/41useDyDAnYkROisShCF06O7jV3.jpg"
+        },
+        {
+          "name": "Mustafa Kırantepe",
+          "character": "Medet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bQgi4OzHDFcvR0daHXk6ubDCCGR.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T00:00:00+00:00",
+      "stop": "2026-11-17T01:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/dyFmwlAQCEUNQ1JuFothxO1G0zz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xtCzLQOocIajjQ5Mhwp834BQhVX.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/dyFmwlAQCEUNQ1JuFothxO1G0zz.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 30695,
+      "title": "باب الحارة",
+      "clean_title": "باب الحارة",
+      "original_title": "باب الحارة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 13,
+      "episodes_count": 402,
+      "description": "تدخل ناديا حارة الضبع وسط أنظار واستغراب أهل الحارة ورجالها المحافظين كي تطمئن على أبي عصام، فتتردد الأقاويل في أروقة الحارة حول علاقته بها، ترى كيف سيواجه أبو عصام الشائعات وكيف سيفسر ظهور ناديا في حياته بشكل مفاجئ؟ وما السر وراء تلك الشخصية؟",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": 7.4,
+      "vote_count": 15,
+      "age_rating": null,
+      "year": "2006",
+      "release_date": "2006-09-23",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:00:00+00:00",
+      "stop": "2026-11-17T02:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/mjnLbyDWHadRp2vuEejTKJ1AxWz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nXnL3OwMB1RNPG7pAl3GgWLXRKP.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/mjnLbyDWHadRp2vuEejTKJ1AxWz.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T01:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "المداح: أسطورة العهد",
+      "clean_title": "المداح: أسطورة العهد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعود صابر من الموت ليواجه أعظم شر عرفته الأرض: بنات إبليس! اجتمعن لتنفيذ مهمة مدمرة للبشرية، وهي تحرير سيدهن الأعظم إبليس بأي وسيلة ممكنة…",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T02:00:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T02:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T07:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 111453,
+      "title": "حبيبتي.. من تكون؟ موسم 2 حلقة 26",
+      "clean_title": "حبيبتي.. من تكون؟",
+      "original_title": "घुम है किसिकी प्यार में",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": 26,
+      "seasons_count": 3,
+      "episodes_count": 995,
+      "description": "يحبس فينو نفسه في غرفته طالبا من فيرات أن يقطع عليه وعدا. في مكان آخر، تفصح بهافاني عن سر هام لسافي.",
+      "category": "رومانسي",
+      "genres": [
+        "رومانسي",
+        "دراما",
+        "أوبرا صابونية",
+        "عائلي"
+      ],
+      "rating": 5.7,
+      "vote_count": 70,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-10-05",
+      "status": "Ended",
+      "country": "الهند",
+      "language": "الهندية",
+      "director": "Leena Gangopadhyay",
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ApjQvGVoqANC2KLRMKZUIoQViwT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/d1ujVe5yWPJ6mtepghxidUYIJa5.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ApjQvGVoqANC2KLRMKZUIoQViwT.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301322,
+      "title": "إفراج",
+      "clean_title": "إفراج",
+      "original_title": "إفراج",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "بعد 12 عاما خلف القضبان، يخرج عباس الريس إلى الحرية، ملطخا بدماء أقرب الناس إليه. وفي رحلته للبحث عن الغفران بمساعدة ابن عمه شداد، يصطدم بعالم أشد ظلمة من زنزانة السجن...",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": 6,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-19",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "Qalam Workshop, Ahmed Helba",
+      "cast": [
+        {
+          "name": "عمرو سعد",
+          "character": "عباس الريس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ii5oJije7WOfqBwyxAt4YettAnj.jpg"
+        },
+        {
+          "name": "تارا عماد",
+          "character": "كريمة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oNS3ui8NT6VWPIDERi2igvN82Tf.jpg"
+        },
+        {
+          "name": "عبدالعزيز مخيون",
+          "character": "عليان الريس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bNVEnr8LO2MzDL0XrYVp1GyvTnO.jpg"
+        },
+        {
+          "name": "حاتم صلاح",
+          "character": "شداد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oMKk9Z3Jbmk5JLpLBP3Nsnd5JNc.jpg"
+        },
+        {
+          "name": "علاء مرسي",
+          "character": "ذكي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wE5NLHpCy3iJa77wDbZmFKhoHsR.jpg"
+        },
+        {
+          "name": "سما إبراهيم",
+          "character": "أم عباس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xdwK3yp1sGur9AV635GLddULs1W.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=YgQ0Lze33lY",
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T04:59:00+00:00",
+      "duration_minutes": 59,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/qpbB7nptAW47OcR7gZ2vduCR8uK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xhC1EoSiC22Z24QTKGtw45O5Nb6.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/qpbB7nptAW47OcR7gZ2vduCR8uK.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T03:55:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T15:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T15:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 119692,
+      "title": "أبشر بالسعد",
+      "clean_title": "أبشر بالسعد",
+      "original_title": "أبشر بالسعد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 30,
+      "description": "في سعيه لكسب المال والنفوذ، يسعى محام يتمتع بالحنكة يدعى سعد لكسب عملاء جدد وتوسيع مكتب المحاماة الخاص به بكافة الوسائل.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-02-27",
+      "status": "Returning Series",
+      "country": null,
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "نايف راشد",
+          "character": "سعد المرتوي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/d6AayUvVXCVpM5H4oxOXK3eAN4V.jpg"
+        },
+        {
+          "name": "مريم الصالح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/q3v79Lix0H1EovszldBUnEl1AP1.jpg"
+        },
+        {
+          "name": "حسين المنصور",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3LlIjzfoyEfwMgZS0ZTRJOhkM12.jpg"
+        },
+        {
+          "name": "عبير أحمد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/m8PK5NOOQMOt5M5MMBSITRP9IwD.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T04:59:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
+      "duration_minutes": 61,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/nefG1cZO7NXi81p9avzfDQ3GfkB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/x2vbptYv7dsbAR26RbeIpyZ4L9d.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/nefG1cZO7NXi81p9avzfDQ3GfkB.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T11:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T11:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 30695,
+      "title": "باب الحارة",
+      "clean_title": "باب الحارة",
+      "original_title": "باب الحارة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 13,
+      "episodes_count": 402,
+      "description": "تدخل ناديا حارة الضبع وسط أنظار واستغراب أهل الحارة ورجالها المحافظين كي تطمئن على أبي عصام، فتتردد الأقاويل في أروقة الحارة حول علاقته بها، ترى كيف سيواجه أبو عصام الشائعات وكيف سيفسر ظهور ناديا في حياته بشكل مفاجئ؟ وما السر وراء تلك الشخصية؟",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": 7.4,
+      "vote_count": 15,
+      "age_rating": null,
+      "year": "2006",
+      "release_date": "2006-09-23",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:00:00+00:00",
+      "stop": "2026-11-17T07:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/mjnLbyDWHadRp2vuEejTKJ1AxWz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nXnL3OwMB1RNPG7pAl3GgWLXRKP.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/mjnLbyDWHadRp2vuEejTKJ1AxWz.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T01:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "المداح: أسطورة العهد",
+      "clean_title": "المداح: أسطورة العهد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعود صابر من الموت ليواجه أعظم شر عرفته الأرض: بنات إبليس! اجتمعن لتنفيذ مهمة مدمرة للبشرية، وهي تحرير سيدهن الأعظم إبليس بأي وسيلة ممكنة…",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T08:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T02:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T07:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 74823,
+      "title": "الحفرة موسم 4 حلقة 340",
+      "clean_title": "الحفرة",
+      "original_title": "Çukur",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 4,
+      "episode": 340,
+      "seasons_count": 4,
+      "episodes_count": 131,
+      "description": "بينما تزداد حدة الصراع بين العائلتين من أجل التحكم بالحي، يغير وافد جديد قوانين اللعبة.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "جريمة",
+        "حركة ومغامرة",
+        "دراما"
+      ],
+      "rating": 7.5,
+      "vote_count": 95,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-10-23",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Barbaros Bilgin, Gökhan Horzum",
+      "cast": [
+        {
+          "name": "أراس بولوت إينيملي",
+          "character": "Yamaç Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bAWgmcF26tPZv4gcwc9jmaNB9py.jpg"
+        },
+        {
+          "name": "أركان كولتشاك كوستنديل",
+          "character": "Vartolu Saadettin/Salih Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xC1vhHLwWjg5LNUY84t61tt3IcW.jpg"
+        },
+        {
+          "name": "Necip Memili",
+          "character": "Cumali Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/d1jeBnsh30FkL5I196HHz85dz7h.jpg"
+        },
+        {
+          "name": "Kadir Çermik",
+          "character": "Emmi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rqikGrXOhzdISEi8u1v8RJ9ZmOF.jpg"
+        },
+        {
+          "name": "بريهان سافاش",
+          "character": "Sultan Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/41useDyDAnYkROisShCF06O7jV3.jpg"
+        },
+        {
+          "name": "Mustafa Kırantepe",
+          "character": "Medet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bQgi4OzHDFcvR0daHXk6ubDCCGR.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T08:00:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/dyFmwlAQCEUNQ1JuFothxO1G0zz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xtCzLQOocIajjQ5Mhwp834BQhVX.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/dyFmwlAQCEUNQ1JuFothxO1G0zz.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301322,
+      "title": "إفراج",
+      "clean_title": "إفراج",
+      "original_title": "إفراج",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "بعد 12 عاما خلف القضبان، يخرج عباس الريس إلى الحرية، ملطخا بدماء أقرب الناس إليه. وفي رحلته للبحث عن الغفران بمساعدة ابن عمه شداد، يصطدم بعالم أشد ظلمة من زنزانة السجن...",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": 6,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-19",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "Qalam Workshop, Ahmed Helba",
+      "cast": [
+        {
+          "name": "عمرو سعد",
+          "character": "عباس الريس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ii5oJije7WOfqBwyxAt4YettAnj.jpg"
+        },
+        {
+          "name": "تارا عماد",
+          "character": "كريمة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oNS3ui8NT6VWPIDERi2igvN82Tf.jpg"
+        },
+        {
+          "name": "عبدالعزيز مخيون",
+          "character": "عليان الريس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bNVEnr8LO2MzDL0XrYVp1GyvTnO.jpg"
+        },
+        {
+          "name": "حاتم صلاح",
+          "character": "شداد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oMKk9Z3Jbmk5JLpLBP3Nsnd5JNc.jpg"
+        },
+        {
+          "name": "علاء مرسي",
+          "character": "ذكي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wE5NLHpCy3iJa77wDbZmFKhoHsR.jpg"
+        },
+        {
+          "name": "سما إبراهيم",
+          "character": "أم عباس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xdwK3yp1sGur9AV635GLddULs1W.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=YgQ0Lze33lY",
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/qpbB7nptAW47OcR7gZ2vduCR8uK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xhC1EoSiC22Z24QTKGtw45O5Nb6.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/qpbB7nptAW47OcR7gZ2vduCR8uK.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T03:55:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T15:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T15:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "شجر الحور موسم 3 حلقة 14",
+      "clean_title": "شجر الحور",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 3,
+      "episode": 14,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تساعد أنثي لامبروس في إرسال رسائله إلى خارج السجن، فيما يحاول فايوس استراق السمع أثناء حديثهما.",
+      "category": "رومانسي",
+      "genres": [
+        "رومانسي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T11:05:00+00:00",
+      "duration_minutes": 65,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 119692,
+      "title": "أبشر بالسعد",
+      "clean_title": "أبشر بالسعد",
+      "original_title": "أبشر بالسعد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 30,
+      "description": "في سعيه لكسب المال والنفوذ، يسعى محام يتمتع بالحنكة يدعى سعد لكسب عملاء جدد وتوسيع مكتب المحاماة الخاص به بكافة الوسائل.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-02-27",
+      "status": "Returning Series",
+      "country": null,
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "نايف راشد",
+          "character": "سعد المرتوي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/d6AayUvVXCVpM5H4oxOXK3eAN4V.jpg"
+        },
+        {
+          "name": "مريم الصالح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/q3v79Lix0H1EovszldBUnEl1AP1.jpg"
+        },
+        {
+          "name": "حسين المنصور",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3LlIjzfoyEfwMgZS0ZTRJOhkM12.jpg"
+        },
+        {
+          "name": "عبير أحمد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/m8PK5NOOQMOt5M5MMBSITRP9IwD.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T11:05:00+00:00",
+      "stop": "2026-11-17T12:00:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/nefG1cZO7NXi81p9avzfDQ3GfkB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/x2vbptYv7dsbAR26RbeIpyZ4L9d.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/nefG1cZO7NXi81p9avzfDQ3GfkB.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T11:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T04:59:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 111453,
+      "title": "حبيبتي.. من تكون؟ موسم 2 حلقة 26",
+      "clean_title": "حبيبتي.. من تكون؟",
+      "original_title": "घुम है किसिकी प्यार में",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": 26,
+      "seasons_count": 3,
+      "episodes_count": 995,
+      "description": "يحبس فينو نفسه في غرفته طالبا من فيرات أن يقطع عليه وعدا. في مكان آخر، تفصح بهافاني عن سر هام لسافي.",
+      "category": "رومانسي",
+      "genres": [
+        "رومانسي",
+        "دراما",
+        "أوبرا صابونية",
+        "عائلي"
+      ],
+      "rating": 5.7,
+      "vote_count": 70,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-10-05",
+      "status": "Ended",
+      "country": "الهند",
+      "language": "الهندية",
+      "director": "Leena Gangopadhyay",
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:00:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ApjQvGVoqANC2KLRMKZUIoQViwT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/d1ujVe5yWPJ6mtepghxidUYIJa5.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ApjQvGVoqANC2KLRMKZUIoQViwT.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T03:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 226177,
+      "title": "لا موسيقى في الأحمدي",
+      "clean_title": "لا موسيقى في الأحمدي",
+      "original_title": "لا موسيقى في الأحمدي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "بعد أن زوجه والده عضيبان زواجاً تقليدياً لابنة عمه، يقع حمد في غرام امرأة أخرى من عائلة متحررة، ويصر على الزواج منها، ولكن الحياة لن تكون وردية كما كان يتصور.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": "2019-05-06",
+      "status": "Returning Series",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/pQ7S9ItZkI6IVprO2mwWKh9Y2L5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5XM1ME9ByeS70wofdyrzHW9WEox.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/pQ7S9ItZkI6IVprO2mwWKh9Y2L5.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T23:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T23:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "شجر الحور موسم 3 حلقة 15",
+      "clean_title": "شجر الحور",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 3,
+      "episode": 15,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تحذر أسيمينا دروسو من ليفتيريس وعدم الوثوق به. يتهم زاخوس بيتروس بتورطه بالأعمال القذرة كأخيه ديميتريس.",
+      "category": "رومانسي",
+      "genres": [
+        "رومانسي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T15:05:00+00:00",
+      "duration_minutes": 65,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301322,
+      "title": "إفراج",
+      "clean_title": "إفراج",
+      "original_title": "إفراج",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "بعد 12 عاما خلف القضبان، يخرج عباس الريس إلى الحرية، ملطخا بدماء أقرب الناس إليه. وفي رحلته للبحث عن الغفران بمساعدة ابن عمه شداد، يصطدم بعالم أشد ظلمة من زنزانة السجن...",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": 6,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-19",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "Qalam Workshop, Ahmed Helba",
+      "cast": [
+        {
+          "name": "عمرو سعد",
+          "character": "عباس الريس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ii5oJije7WOfqBwyxAt4YettAnj.jpg"
+        },
+        {
+          "name": "تارا عماد",
+          "character": "كريمة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oNS3ui8NT6VWPIDERi2igvN82Tf.jpg"
+        },
+        {
+          "name": "عبدالعزيز مخيون",
+          "character": "عليان الريس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bNVEnr8LO2MzDL0XrYVp1GyvTnO.jpg"
+        },
+        {
+          "name": "حاتم صلاح",
+          "character": "شداد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oMKk9Z3Jbmk5JLpLBP3Nsnd5JNc.jpg"
+        },
+        {
+          "name": "علاء مرسي",
+          "character": "ذكي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wE5NLHpCy3iJa77wDbZmFKhoHsR.jpg"
+        },
+        {
+          "name": "سما إبراهيم",
+          "character": "أم عباس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xdwK3yp1sGur9AV635GLddULs1W.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=YgQ0Lze33lY",
+      "start": "2026-11-17T15:05:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/qpbB7nptAW47OcR7gZ2vduCR8uK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xhC1EoSiC22Z24QTKGtw45O5Nb6.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/qpbB7nptAW47OcR7gZ2vduCR8uK.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T03:55:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T15:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 119692,
+      "title": "أبشر بالسعد",
+      "clean_title": "أبشر بالسعد",
+      "original_title": "أبشر بالسعد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 30,
+      "description": "في سعيه لكسب المال والنفوذ، يسعى محام يتمتع بالحنكة يدعى سعد لكسب عملاء جدد وتوسيع مكتب المحاماة الخاص به بكافة الوسائل.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-02-27",
+      "status": "Returning Series",
+      "country": null,
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "نايف راشد",
+          "character": "سعد المرتوي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/d6AayUvVXCVpM5H4oxOXK3eAN4V.jpg"
+        },
+        {
+          "name": "مريم الصالح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/q3v79Lix0H1EovszldBUnEl1AP1.jpg"
+        },
+        {
+          "name": "حسين المنصور",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3LlIjzfoyEfwMgZS0ZTRJOhkM12.jpg"
+        },
+        {
+          "name": "عبير أحمد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/m8PK5NOOQMOt5M5MMBSITRP9IwD.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/nefG1cZO7NXi81p9avzfDQ3GfkB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/x2vbptYv7dsbAR26RbeIpyZ4L9d.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/nefG1cZO7NXi81p9avzfDQ3GfkB.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T11:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T04:59:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T11:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 74823,
+      "title": "الحفرة موسم 4 حلقة 341",
+      "clean_title": "الحفرة",
+      "original_title": "Çukur",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 4,
+      "episode": 341,
+      "seasons_count": 4,
+      "episodes_count": 131,
+      "description": "بينما تزداد حدة الصراع بين العائلتين من أجل التحكم بالحي، يغير وافد جديد قوانين اللعبة.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "جريمة",
+        "حركة ومغامرة",
+        "دراما"
+      ],
+      "rating": 7.5,
+      "vote_count": 95,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-10-23",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Barbaros Bilgin, Gökhan Horzum",
+      "cast": [
+        {
+          "name": "أراس بولوت إينيملي",
+          "character": "Yamaç Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bAWgmcF26tPZv4gcwc9jmaNB9py.jpg"
+        },
+        {
+          "name": "أركان كولتشاك كوستنديل",
+          "character": "Vartolu Saadettin/Salih Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xC1vhHLwWjg5LNUY84t61tt3IcW.jpg"
+        },
+        {
+          "name": "Necip Memili",
+          "character": "Cumali Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/d1jeBnsh30FkL5I196HHz85dz7h.jpg"
+        },
+        {
+          "name": "Kadir Çermik",
+          "character": "Emmi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rqikGrXOhzdISEi8u1v8RJ9ZmOF.jpg"
+        },
+        {
+          "name": "بريهان سافاش",
+          "character": "Sultan Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/41useDyDAnYkROisShCF06O7jV3.jpg"
+        },
+        {
+          "name": "Mustafa Kırantepe",
+          "character": "Medet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bQgi4OzHDFcvR0daHXk6ubDCCGR.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/dyFmwlAQCEUNQ1JuFothxO1G0zz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xtCzLQOocIajjQ5Mhwp834BQhVX.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/dyFmwlAQCEUNQ1JuFothxO1G0zz.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-18T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 226177,
+      "title": "لا موسيقى في الأحمدي",
+      "clean_title": "لا موسيقى في الأحمدي",
+      "original_title": "لا موسيقى في الأحمدي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "بعد أن زوجه والده عضيبان زواجاً تقليدياً لابنة عمه، يقع حمد في غرام امرأة أخرى من عائلة متحررة، ويصر على الزواج منها، ولكن الحياة لن تكون وردية كما كان يتصور.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": "2019-05-06",
+      "status": "Returning Series",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/pQ7S9ItZkI6IVprO2mwWKh9Y2L5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5XM1ME9ByeS70wofdyrzHW9WEox.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/pQ7S9ItZkI6IVprO2mwWKh9Y2L5.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T23:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T23:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 111453,
+      "title": "حبيبتي.. من تكون؟ موسم 2 حلقة 27",
+      "clean_title": "حبيبتي.. من تكون؟",
+      "original_title": "घुम है किसिकी प्यार में",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": 27,
+      "seasons_count": 3,
+      "episodes_count": 995,
+      "description": "تكشف سافي عن تفاصيل صادمة في حديث تخوضه مع ساي، الأمر الذي يدفع بالأخيرة لمواجهة جاكتاب. يثير لاحقا حضور ضيف غير متوقع إلى منزل عائلة تشافان الذعر لدى فينو.",
+      "category": "رومانسي",
+      "genres": [
+        "رومانسي",
+        "دراما",
+        "أوبرا صابونية",
+        "عائلي"
+      ],
+      "rating": 5.7,
+      "vote_count": 70,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-10-05",
+      "status": "Ended",
+      "country": "الهند",
+      "language": "الهندية",
+      "director": "Leena Gangopadhyay",
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ApjQvGVoqANC2KLRMKZUIoQViwT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/d1ujVe5yWPJ6mtepghxidUYIJa5.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ApjQvGVoqANC2KLRMKZUIoQViwT.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "المداح: أسطورة العهد",
+      "clean_title": "المداح: أسطورة العهد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعود صابر من الموت ليواجه أعظم شر عرفته الأرض: بنات إبليس! اجتمعن لتنفيذ مهمة مدمرة للبشرية، وهي تحرير سيدهن الأعظم إبليس بأي وسيلة ممكنة…",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:00:00+00:00",
+      "stop": "2026-11-17T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T02:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T07:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T07:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 30695,
+      "title": "باب الحارة",
+      "clean_title": "باب الحارة",
+      "original_title": "باب الحارة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 13,
+      "episodes_count": 402,
+      "description": "تدخل ناديا حارة الضبع وسط أنظار واستغراب أهل الحارة ورجالها المحافظين كي تطمئن على أبي عصام، فتتردد الأقاويل في أروقة الحارة حول علاقته بها، ترى كيف سيواجه أبو عصام الشائعات وكيف سيفسر ظهور ناديا في حياته بشكل مفاجئ؟ وما السر وراء تلك الشخصية؟",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": 7.4,
+      "vote_count": 15,
+      "age_rating": null,
+      "year": "2006",
+      "release_date": "2006-09-23",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:00:00+00:00",
+      "stop": "2026-11-17T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/mjnLbyDWHadRp2vuEejTKJ1AxWz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nXnL3OwMB1RNPG7pAl3GgWLXRKP.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/mjnLbyDWHadRp2vuEejTKJ1AxWz.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T01:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "شجر الحور موسم 3 حلقة 15",
+      "clean_title": "شجر الحور",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 3,
+      "episode": 15,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تحذر أسيمينا دروسو من ليفتيريس وعدم الوثوق به. يتهم زاخوس بيتروس بتورطه بالأعمال القذرة كأخيه ديميتريس.",
+      "category": "رومانسي",
+      "genres": [
+        "رومانسي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:00:00+00:00",
+      "stop": "2026-11-17T23:05:00+00:00",
+      "duration_minutes": 65,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 226177,
+      "title": "لا موسيقى في الأحمدي",
+      "clean_title": "لا موسيقى في الأحمدي",
+      "original_title": "لا موسيقى في الأحمدي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "بعد أن زوجه والده عضيبان زواجاً تقليدياً لابنة عمه، يقع حمد في غرام امرأة أخرى من عائلة متحررة، ويصر على الزواج منها، ولكن الحياة لن تكون وردية كما كان يتصور.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": "2019-05-06",
+      "status": "Returning Series",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T23:05:00+00:00",
+      "stop": "2026-11-18T00:00:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/pQ7S9ItZkI6IVprO2mwWKh9Y2L5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5XM1ME9ByeS70wofdyrzHW9WEox.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/pQ7S9ItZkI6IVprO2mwWKh9Y2L5.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-16T23:05:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 74823,
+      "title": "الحفرة موسم 4 حلقة 341",
+      "clean_title": "الحفرة",
+      "original_title": "Çukur",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 4,
+      "episode": 341,
+      "seasons_count": 4,
+      "episodes_count": 131,
+      "description": "بينما تزداد حدة الصراع بين العائلتين من أجل التحكم بالحي، يغير وافد جديد قوانين اللعبة.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "جريمة",
+        "حركة ومغامرة",
+        "دراما"
+      ],
+      "rating": 7.5,
+      "vote_count": 95,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-10-23",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Barbaros Bilgin, Gökhan Horzum",
+      "cast": [
+        {
+          "name": "أراس بولوت إينيملي",
+          "character": "Yamaç Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bAWgmcF26tPZv4gcwc9jmaNB9py.jpg"
+        },
+        {
+          "name": "أركان كولتشاك كوستنديل",
+          "character": "Vartolu Saadettin/Salih Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xC1vhHLwWjg5LNUY84t61tt3IcW.jpg"
+        },
+        {
+          "name": "Necip Memili",
+          "character": "Cumali Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/d1jeBnsh30FkL5I196HHz85dz7h.jpg"
+        },
+        {
+          "name": "Kadir Çermik",
+          "character": "Emmi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rqikGrXOhzdISEi8u1v8RJ9ZmOF.jpg"
+        },
+        {
+          "name": "بريهان سافاش",
+          "character": "Sultan Koçovalı",
+          "profile_image": "https://image.tmdb.org/t/p/w185/41useDyDAnYkROisShCF06O7jV3.jpg"
+        },
+        {
+          "name": "Mustafa Kırantepe",
+          "character": "Medet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bQgi4OzHDFcvR0daHXk6ubDCCGR.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T00:00:00+00:00",
+      "stop": "2026-11-18T01:39:00+00:00",
+      "duration_minutes": 99,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/dyFmwlAQCEUNQ1JuFothxO1G0zz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xtCzLQOocIajjQ5Mhwp834BQhVX.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/dyFmwlAQCEUNQ1JuFothxO1G0zz.jpg",
+      "channel_icon": "https://i.imgur.com/g5PWnqp.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Drama",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "updated_at": "2026-11-16T17:33:59.747Z",
+  "count": 120,
+  "channels": [
+    {
+      "id": "MBC1.ae@SD",
+      "name": "إم بي سي",
+      "icon": "https://i.imgur.com/CiA3plN.png"
+    },
+    {
+      "id": "MBCMasrDrama.sa@SD",
+      "name": "مصر دراما",
+      "icon": "https://media0070.elcinema.com/tvguide/1399_1.png"
+    },
+    {
+      "id": "MBCMasr.eg@SD",
+      "name": "MBC Masr",
+      "icon": "https://i.imgur.com/o2elx0u.png"
+    },
+    {
+      "id": "AlJazeera.qa@Arabic",
+      "name": "Al Jazeera Arabic",
+      "icon": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540"
+    },
+    {
+      "id": "MBCDrama.ae@SD",
+      "name": "MBC Drama",
+      "icon": "https://i.imgur.com/g5PWnqp.png"
+    },
+    {
+      "id": "Alarabiya.ae@SD",
+      "name": "العربية",
+      "icon": "https://i.imgur.com/NXFkYFj.png"
+    },
+    {
+      "id": "AlArabiyaBusiness.ae@SD",
+      "name": "العربية Business",
+      "icon": "https://i.imgur.com/eEV4r6J.jpg"
+    },
+    {
+      "id": "AlarabiyaPortrait.ae@SD",
+      "name": "Al Arabiya",
+      "icon": "https://i.imgur.com/NXFkYFj.png"
+    },
+    {
+      "id": "MBCAction.ae@SD",
+      "name": "MBC Action",
+      "icon": "https://i.imgur.com/OWZAghw.png"
+    },
+    {
+      "id": "MBCMax.ae@SD",
+      "name": "MBC MAX",
+      "icon": "https://i.imgur.com/A02CptP.png"
+    },
+    {
+      "id": "DMCDrama.eg@SD",
+      "name": "دي إم سي دراما",
+      "icon": "https://i.imgur.com/OOXylJI.png"
+    },
+    {
+      "id": "DMC.eg@SD",
+      "name": "DMC HD",
+      "icon": "https://i.imgur.com/iy70Xxr.png"
+    },
+    {
+      "id": "OnE.eg@SD",
+      "name": "أون إي",
+      "icon": "https://i.imgur.com/EPln9yU.png"
+    },
+    {
+      "id": "beINMovies2Action.qa@SD",
+      "name": "بي إن موفيز أكشن",
+      "icon": "https://i.imgur.com/jMGd93V.png"
+    },
+    {
+      "id": "beINMovies1Premiere.qa@SD",
+      "name": "بي إن موفيز بريمير",
+      "icon": "https://i.imgur.com/SmAq8yM.png"
+    },
+    {
+      "id": "beINMovies3Drama.qa@SD",
+      "name": "بي إن موفيز دراما",
+      "icon": "https://i.imgur.com/STmIWSa.png"
+    },
+    {
+      "id": "AlHadath.sa@SD",
+      "name": "الحدث",
+      "icon": "https://i.imgur.com/De4SEWE.png"
+    },
+    {
+      "id": "CBC.eg@SD",
+      "name": "سي بي سي",
+      "icon": "https://i.imgur.com/8apNaLP.png"
+    },
+    {
+      "id": "CBCDrama.eg@SD",
+      "name": "سي بي سي دراما",
+      "icon": "https://i.imgur.com/I8YdakH.png"
+    },
+    {
+      "id": "AlNahar.eg@SD",
+      "name": "النهار",
+      "icon": "https://i.ibb.co/WN6bh6mq/alnahar.png"
+    },
+    {
+      "id": "AlNaharDrama.eg@SD",
+      "name": "النهار دراما",
+      "icon": "https://i.ibb.co/ksnNhr5w/Al-Nahar-Drama.png"
+    },
+    {
+      "id": "AbuDhabiTV.ae@SD",
+      "name": "Abu Dhabi TV HD",
+      "icon": "https://i.imgur.com/8DAriPs.png"
+    },
+    {
+      "id": "DubaiTV.ae@SD",
+      "name": "Dubai TV HD",
+      "icon": "https://i.imgur.com/UMmbyHv.png"
+    },
+    {
+      "id": "MBCIraq.iq@SD",
+      "name": "MBC Iraq",
+      "icon": "https://i.imgur.com/D0LxiPE.png"
+    },
+    {
+      "id": "SkyNewsArabia.ae@SD",
+      "name": "Sky News Arabia HD",
+      "icon": "https://i.imgur.com/SvjU4h6.png"
+    },
+    {
+      "id": "RoyaTV.jo@SD",
+      "name": "Roya TV HD",
+      "icon": "https://i.imgur.com/WX80rty.png"
+    },
+    {
+      "id": "EchoroukTV.dz@SD",
+      "name": "الشروق الجزائرية",
+      "icon": "https://i.imgur.com/33rf7KV.png"
+    },
+    {
+      "id": "LBCInternational.lb@SD",
+      "name": "إل بي سي آي",
+      "icon": "https://i.imgur.com/h26xtUv.png"
+    },
+    {
+      "id": "MTV.lb@SD",
+      "name": "MTV Lebanon",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png"
+    },
+    {
+      "id": "AsharqNews.sa@SD",
+      "name": "الشرق",
+      "icon": "https://i.imgur.com/bqRC3sl.png"
+    },
+    {
+      "id": "AsharqDiscovery.sa@SD",
+      "name": "الشرق ديسكفري",
+      "icon": "https://i.imgur.com/Czxi7yk.png"
+    },
+    {
+      "id": "AsharqDocumentary.sa@SD",
+      "name": "Asharq Documentary",
+      "icon": "https://i.imgur.com/v6VsFEt.png"
+    },
+    {
+      "id": "SamaDubai.ae@SD",
+      "name": "سما دبي",
+      "icon": "https://i.imgur.com/F5g3ymW.png"
+    },
+    {
+      "id": "AlJadeed.lb@SD",
+      "name": "الجديد",
+      "icon": "https://i.imgur.com/CfxR8o3.png"
+    },
+    {
+      "id": "iFilmArabic.ir@SD",
+      "name": "آي فيلم",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png"
+    },
+    {
+      "id": "Aflam.sa@SD",
+      "name": "أفلام",
+      "icon": "https://i.imgur.com/cTLj7Yt.png"
+    },
+    {
+      "id": "LanaTV.lb@SD",
+      "name": "ال تي في",
+      "icon": "https://i.imgur.com/xPoycVY.png"
+    },
+    {
+      "id": "JordanTV.jo@SD",
+      "name": "الأردن",
+      "icon": "https://i.imgur.com/0XozB5N.png"
+    },
+    {
+      "id": "Althania.sy@SD",
+      "name": "الثانية",
+      "icon": "https://www.althania.tv/themes/custom/althania/assets/images/stv-logo.svg"
+    },
+    {
+      "id": "AlhayatTV.eg@SD",
+      "name": "الحياة",
+      "icon": "https://i.imgur.com/bl9ie9u.png"
+    },
+    {
+      "id": "AlRasheedTV.iq@SD",
+      "name": "الرشيد",
+      "icon": "https://i.imgur.com/ltyRjPK.png"
+    },
+    {
+      "id": "AlSaeedah.eg@SD",
+      "name": "السعيدة",
+      "icon": "https://i.imgur.com/fVgus9P.png"
+    },
+    {
+      "id": "Alsumaria.iq@SD",
+      "name": "السومرية",
+      "icon": "https://i.imgur.com/2eiGt0r.png"
+    },
+    {
+      "id": "SharjahTV.ae@SD",
+      "name": "الشارقة",
+      "icon": "https://maraya.faulio.com/storage/mediagallery/bd/e5/fullhd_e2d4b08eb269edbf134b01459cc79b9802f63b8b.png"
+    },
+    {
+      "id": "AlSharqiyaMinKabla.ae@SD",
+      "name": "الشرقية",
+      "icon": "https://i.imgur.com/m4qheI4.png"
+    },
+    {
+      "id": "AlDafrahTV.ae@SD",
+      "name": "الظفرة",
+      "icon": "https://i.imgur.com/sOMOe9t.png"
+    },
+    {
+      "id": "AlIraqia.iq@SD",
+      "name": "العراقية",
+      "icon": "https://i.imgur.com/8qQouTW.jpg"
+    },
+    {
+      "id": "FujairahTV.ae@SD",
+      "name": "الفجيرة",
+      "icon": "https://i.imgur.com/D2tOhbE.png"
+    },
+    {
+      "id": "AlKaheraWalNas.eg@SD",
+      "name": "القاهرة والناس",
+      "icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png"
+    },
+    {
+      "id": "ElMehwarChannel.eg@SD",
+      "name": "المحور",
+      "icon": "https://i.ibb.co/84t3yXTV/mehwar.png"
+    },
+    {
+      "id": "AlMasriyah.eg@SD",
+      "name": "المصرية",
+      "icon": "https://i.ibb.co/Kx7wmXCQ/almasriya.png"
+    },
+    {
+      "id": "AlManar.lb@SD",
+      "name": "المنار",
+      "icon": "https://i.imgur.com/sOQLV7L.png"
+    },
+    {
+      "id": "OnDrama.eg@SD",
+      "name": "أون دراما",
+      "icon": "https://i.imgur.com/qpaKDtL.png"
+    },
+    {
+      "id": "beINDrama1.qa@SD",
+      "name": "بي إن دراما",
+      "icon": "https://i.imgur.com/d6AGFro.png"
+    },
+    {
+      "id": "beINSeries1.qa@SD",
+      "name": "بي إن سيريس",
+      "icon": "https://i.imgur.com/nCkbPOD.png"
+    },
+    {
+      "id": "beINSeries2.qa@SD",
+      "name": "بي إن سيريس إتش...",
+      "icon": "https://i.imgur.com/c0B8bmf.png"
+    },
+    {
+      "id": "HadhramautTV.ye@SD",
+      "name": "تلفزيون حضرموت",
+      "icon": "https://i.imgur.com/hOKZFnq.png"
+    },
+    {
+      "id": "TeN.eg@SD",
+      "name": "تن",
+      "icon": "https://i.ibb.co/zWQjVq6s/ten-tv.png"
+    },
+    {
+      "id": "DubaiZaman.ae@SD",
+      "name": "دبي زمان",
+      "icon": "https://i.ibb.co/FbfvNKwp/zaman.png"
+    },
+    {
+      "id": "DijlahTV.iq@SD",
+      "name": "دجلة",
+      "icon": "https://i.imgur.com/kyzH3G5.png"
+    },
+    {
+      "id": "RabehSaqer.sa@HD",
+      "name": "رابح صقر",
+      "icon": "https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png"
+    },
+    {
+      "id": "ZeeAlwan.ae@SD",
+      "name": "زي ألوان",
+      "icon": "https://i.imgur.com/OLuCox7.png"
+    },
+    {
+      "id": "FoxActionMoviesMENA.hk@SD",
+      "name": "ستار أكشن",
+      "icon": "https://i.imgur.com/UkNkpCe.png"
+    },
+    {
+      "id": "StarMoviesMiddleEast.ae@SD",
+      "name": "ستار موفيز",
+      "icon": "https://i.imgur.com/JhT3k6R.png"
+    },
+    {
+      "id": "StarWorldMiddleEast.ae@SD",
+      "name": "ستار ورلد",
+      "icon": "https://i.imgur.com/TD8d1eQ.png"
+    },
+    {
+      "id": "Cima.eg@SD",
+      "name": "سيما",
+      "icon": "https://i.ibb.co/p6SPr0Ym/Cima.png"
+    },
+    {
+      "id": "SadaElbalad.eg@SD",
+      "name": "صدى البلد",
+      "icon": "https://i.imgur.com/vOKvPeK.png"
+    },
+    {
+      "id": "SadaElbaladDrama.eg@SD",
+      "name": "صدى البلد دراما",
+      "icon": "https://i.imgur.com/3VLjZKc.png"
+    },
+    {
+      "id": "AmmanTV.jo@SD",
+      "name": "عَمان",
+      "icon": "https://i.imgur.com/5l7kw0b.png"
+    },
+    {
+      "id": "Fairuz.sa@HD",
+      "name": "فيروز",
+      "icon": "https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png"
+    },
+    {
+      "id": "BabAlHara.sa@SD",
+      "name": "قناة باب الحارة",
+      "icon": "https://i.imgur.com/QtlnZbq.png"
+    },
+    {
+      "id": "Maraya.sa@HD",
+      "name": "قناة مرايا",
+      "icon": "https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&amp;width=288&amp;croppingPoint=&amp;version=1&amp;type=png"
+    },
+    {
+      "id": "ERTU1.eg@SD",
+      "name": "قناة مصر الأولى",
+      "icon": "https://i.imgur.com/uuIqiAy.png"
+    },
+    {
+      "id": "MasperoZaman.eg@SD",
+      "name": "ماسبيرو زمان",
+      "icon": "https://i.ibb.co/Tqr4q5wd/Maspero.png"
+    },
+    {
+      "id": "Masah.sa@SD",
+      "name": "ماسة",
+      "icon": "https://i.imgur.com/6I9d9qe.png"
+    },
+    {
+      "id": "MixBelAraby.eg@SD",
+      "name": "ميكس بالعربي",
+      "icon": "https://i.imgur.com/KucgM9c.png"
+    },
+    {
+      "id": "NileDrama.eg@SD",
+      "name": "نايل دراما",
+      "icon": "https://i.imgur.com/FasJFMM.png"
+    },
+    {
+      "id": "NileLife.eg@SD",
+      "name": "نايل لايف",
+      "icon": "https://i.imgur.com/ou42bUh.png"
+    },
+    {
+      "id": "NessmaElJadida.tn@SD",
+      "name": "نسمة",
+      "icon": "https://i.imgur.com/66CJtdz.png"
+    },
+    {
+      "id": "UTV.iq@SD",
+      "name": "يو تي في",
+      "icon": "https://i.imgur.com/9qFHjnu.png"
+    },
+    {
+      "id": "AlArabyTV.qa@SD",
+      "name": "Al Araby TV",
+      "icon": "https://i.imgur.com/YMqWEe4.png"
+    },
+    {
+      "id": "AlraiTV.kw@SD",
+      "name": "Al Rai TV",
+      "icon": "https://i.imgur.com/ZohZFuq.png"
+    },
+    {
+      "id": "AnimalPlanetEurope.uk@SD",
+      "name": "Animal Planet HD",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
+    },
+    {
+      "id": "BahrainTV.bh@SD",
+      "name": "Bahrain TV",
+      "icon": "https://i.imgur.com/LTD0jIm.png"
+    },
+    {
+      "id": "Baraem.qa@SD",
+      "name": "BaraemTV",
+      "icon": "https://i.imgur.com/7woV4Cz.png"
+    },
+    {
+      "id": "BBCArabic.uk@SD",
+      "name": "BBC World",
+      "icon": "https://i.imgur.com/ScyTG6P.png"
+    },
+    {
+      "id": "beINGourmet.qa@SD",
+      "name": "beINGOURMET",
+      "icon": "https://i.imgur.com/Iqvl7GS.png"
+    },
+    {
+      "id": "BloombergOriginals.us@SD",
+      "name": "Bloomberg Originals",
+      "icon": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png"
+    },
+    {
+      "id": "CartoonNetworkMENA.uk@SD",
+      "name": "Cartoon Network HD",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
+    },
+    {
+      "id": "CartoonNetworkArabic.ae@SD",
+      "name": "CN Arabia",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png"
+    },
+    {
+      "id": "CNNInternational.us@MENA",
+      "name": "CNN HD",
+      "icon": "https://i.imgur.com/dfxefQw.png"
+    },
+    {
+      "id": "InvestigationDiscovery.uk@SD",
+      "name": "Discovery IDX HD",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"
+    },
+    {
+      "id": "Fatafeat.ae@SD",
+      "name": "Fatafeat",
+      "icon": "https://i.imgur.com/jCsUXTk.png"
+    },
+    {
+      "id": "Gametoon.nl@SD",
+      "name": "Gametoon",
+      "icon": "https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png"
+    },
+    {
+      "id": "GINXTV.uk@SD",
+      "name": "Ginx",
+      "icon": "https://i.imgur.com/diw20TN.png"
+    },
+    {
+      "id": "MBCBollywood.ae@SD",
+      "name": "MBC Bollywood",
+      "icon": "https://i.imgur.com/TTAGFHG.png"
+    },
+    {
+      "id": "MBCMood.sa@HD",
+      "name": "MBC Mood",
+      "icon": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&amp;width=144&amp;croppingPoint=&amp;version=1&amp;type=png"
+    },
+    {
+      "id": "MBCPersia.ae@SD",
+      "name": "MBC Persia",
+      "icon": "https://i.imgur.com/4FXiyjn.png"
+    },
+    {
+      "id": "MBCPlusDrama.sa@SD",
+      "name": "MBC Plus Drama",
+      "icon": "https://i.imgur.com/lxWdjXG.png"
+    },
+    {
+      "id": "MCMTop.fr@SD",
+      "name": "MCM TOP",
+      "icon": "https://i.imgur.com/EVtWQLd.png"
+    },
+    {
+      "id": "MoonbugKids.uk@SD",
+      "name": "Moonbug Kids",
+      "icon": "https://i.imgur.com/vZHtxQb.png"
+    },
+    {
+      "id": "MoviesAction.sa@SD",
+      "name": "Movies Action",
+      "icon": "https://i.imgur.com/NIVhISa.png"
+    },
+    {
+      "id": "MoviesThriller.sa@SD",
+      "name": "Movies Thriller",
+      "icon": "https://i.imgur.com/JWihdcl.png"
+    },
+    {
+      "id": "NickJrArabia.ae@SD",
+      "name": "Nick Jr HD",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"
+    },
+    {
+      "id": "NickelodeonArabia.ae@SD",
+      "name": "Nickelodeon HD",
+      "icon": "https://i.imgur.com/E84jnP8.png"
+    },
+    {
+      "id": "NicktoonsArabia.ae@SD",
+      "name": "NickToons HD",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png"
+    },
+    {
+      "id": "OmanTV.om@SD",
+      "name": "Oman TV",
+      "icon": "https://i.imgur.com/rBftT9x.png"
+    },
+    {
+      "id": "OSNComedy.ae@SD",
+      "name": "OSNtv Comedy",
+      "icon": "https://i.imgur.com/SM2E9Jl.png"
+    },
+    {
+      "id": "OSNKids.ae@SD",
+      "name": "OSNtv Kids",
+      "icon": "https://i.imgur.com/DRwLAtC.png"
+    },
+    {
+      "id": "OSNMezze.ae@SD",
+      "name": "OSNtv Mezze",
+      "icon": "https://i.imgur.com/BGypWYj.png"
+    },
+    {
+      "id": "OSNMoviesAction.ae@SD",
+      "name": "OSNtv Movies Action",
+      "icon": "https://i.imgur.com/uOzyKup.png"
+    },
+    {
+      "id": "OSNMoviesHollywood.ae@SD",
+      "name": "OSNtv Movies Hollywood",
+      "icon": "https://i.imgur.com/ygywH3O.png"
+    },
+    {
+      "id": "OSNMoviesPremiere.ae@SD",
+      "name": "OSNtv Movies Premiere",
+      "icon": "https://i.imgur.com/2MomHqn.png"
+    },
+    {
+      "id": "OSNShowcase.ae@SD",
+      "name": "OSNtv Showcase",
+      "icon": "https://i.imgur.com/o43yDem.png"
+    },
+    {
+      "id": "OSNYahala.ae@SD",
+      "name": "OSNtv Yahala",
+      "icon": "https://i.imgur.com/FHyYEDC.png"
+    },
+    {
+      "id": "OSNYahalaAflam.ae@SD",
+      "name": "OSNtv Yahala Aflam",
+      "icon": "https://i.imgur.com/8pr5STo.png"
+    },
+    {
+      "id": "OSNYahalaBilArabi.ae@SD",
+      "name": "OSNtv Yahala Bil Arabi",
+      "icon": "https://i.imgur.com/963jtZb.png"
+    },
+    {
+      "id": "RTArabic.ru@SD",
+      "name": "RT Arabic",
+      "icon": "https://i.imgur.com/G8vGrn1.png"
+    },
+    {
+      "id": "RT.ru@SD",
+      "name": "RT English",
+      "icon": "https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540"
+    },
+    {
+      "id": "TLCArabia.us@SD",
+      "name": "TLC HD",
+      "icon": "https://i.imgur.com/qcbUHtX.png"
+    }
+  ]
+}

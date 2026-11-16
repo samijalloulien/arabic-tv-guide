@@ -1,0 +1,2485 @@
+{
+  "channel_id": "Aflam.sa@SD",
+  "channel_name": "أفلام",
+  "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+  "programs": [
+    {
+      "tmdb_id": 136857,
+      "title": "سهر الليالي",
+      "clean_title": "سهر الليالي",
+      "original_title": "سهر الليالي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتم اختبار زواج أربعة أزواج في حفلة عيد ميلاد إحدى أطفالهم ويقرر جميع الرجال المغادرة إلى الإسكندرية.",
+      "category": "رومانسي",
+      "genres": [
+        "رومانسي",
+        "دراما",
+        "رومنسية"
+      ],
+      "rating": 6.6,
+      "vote_count": 44,
+      "age_rating": "R",
+      "year": "2003",
+      "release_date": "2003-07-16",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "هاني خليفة",
+      "cast": [
+        {
+          "name": "خالد أبو النجا",
+          "character": "Ali",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kmT9Wpzy0Y1m1jmUgCy7VqMzgSS.jpg"
+        },
+        {
+          "name": "جيهان فاضل",
+          "character": "Moshera",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rHUZyHBs9vSFfqyqltN6nlYjwDD.jpg"
+        },
+        {
+          "name": "أحمد حلمي",
+          "character": "Amr",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xVhX7ia3ptI43V65Os90gbfgxAe.jpg"
+        },
+        {
+          "name": "حنان ترك",
+          "character": "Farrah",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xwt3vXxlnn3ACC3pNAPVtffxYSP.jpg"
+        },
+        {
+          "name": "شريف منير",
+          "character": "Sameh",
+          "profile_image": "https://image.tmdb.org/t/p/w185/69ttY5VkABXQeTcFZBkxcxvaXjf.jpg"
+        },
+        {
+          "name": "علا غانم",
+          "character": "Inas",
+          "profile_image": "https://image.tmdb.org/t/p/w185/u5crUAuOlylo0yFq0dCzZyZv9Om.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-15T23:21:12+00:00",
+      "stop": "2026-11-16T01:38:43+00:00",
+      "duration_minutes": 138,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/dhgm45HUsUxg87pFduEzeNp5tvY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5f4VWbgyvvXi8qNIYwDMZS20MR6.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/dhgm45HUsUxg87pFduEzeNp5tvY.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T06:06:57+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 596,
+      "title": "عناقيد الموسم 1 الحلقة 21",
+      "clean_title": "عناقيد",
+      "original_title": "The Grapes of Wrath",
+      "tagline": "يخطو Joads مباشرة من صفحات الرواية التي صدمت الملايين!",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": 1,
+      "episode": 21,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كشتة بنات",
+      "category": "اجتماعي",
+      "genres": [
+        "اجتماعي",
+        "دراما"
+      ],
+      "rating": 7.8,
+      "vote_count": 1165,
+      "age_rating": "NR",
+      "year": "1940",
+      "release_date": "1940-03-15",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "John Ford",
+      "cast": [
+        {
+          "name": "Henry Fonda",
+          "character": "Tom Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg"
+        },
+        {
+          "name": "Jane Darwell",
+          "character": "Ma Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xWTsj5z2N94OOnimMmUYewQXOIi.jpg"
+        },
+        {
+          "name": "John Carradine",
+          "character": "Casy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hv2AAXNlTHVmGgXn8q7025S0g2b.jpg"
+        },
+        {
+          "name": "Charley Grapewin",
+          "character": "Grandpa Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xROPwMkTUgweYQFhbTsvklIMhlw.jpg"
+        },
+        {
+          "name": "Dorris Bowdon",
+          "character": "Rosasharn",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wqNKZamXClTbPcOy9zvrmEi2iIq.jpg"
+        },
+        {
+          "name": "Russell Simpson",
+          "character": "Pa Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sZAJ7TS52RxyejiirXhhqmYxxwn.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T01:38:43+00:00",
+      "stop": "2026-11-16T02:22:11+00:00",
+      "duration_minutes": 43,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/r7AcmVk6kGhdFdesViGaI3dEHWd.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T08:24:29+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 103392,
+      "title": "سيما علي بابا",
+      "clean_title": "سيما علي بابا",
+      "original_title": "سيما علي بابا",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في هذا الفيلم المكون من جزئين، يجسد أحمد مكي ثلاث شخصيات مختلفة بأسلوبه الكوميدي الفريد.",
+      "category": "خيالي",
+      "genres": [
+        "خيالي",
+        "كوميديا",
+        "فانتازيا"
+      ],
+      "rating": 4.8,
+      "vote_count": 15,
+      "age_rating": "PG-13",
+      "year": "2011",
+      "release_date": "2011-11-01",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "أحمد الجندي",
+      "cast": [
+        {
+          "name": "أحمد مكي",
+          "character": "حزلئوم / حبش / برابر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9uK9EhWwhB2mepg73CB3wN64DlU.jpg"
+        },
+        {
+          "name": "إيمي سمير غانم",
+          "character": "بدارة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ugym5uaaNM0xeAOQBPe1LtLq7XD.jpg"
+        },
+        {
+          "name": "هشام إسماعيل",
+          "character": "وجمنتين / عشماوى",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hJc3c5CywPyKB3oMD7HcgtE42CV.jpg"
+        },
+        {
+          "name": "لطفي لبيب",
+          "character": "انتوسيت / الكلب ماكس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/guGZ0Xv4csBj10ipPlQAgf0yq6o.jpg"
+        },
+        {
+          "name": "محمد شاهين",
+          "character": "فولتارين / روبلجين / خضر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6Qg3CvAQzWkANgz3gunfa1U9xta.jpg"
+        },
+        {
+          "name": "محمد سلام",
+          "character": "الارش دوك / الفار سندق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pnOF9xHx4LbEHsRunfyRnfV1uDc.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T02:22:11+00:00",
+      "stop": "2026-11-16T04:28:58+00:00",
+      "duration_minutes": 127,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/q9YqyqhFfujU513N5ZR0BQdg3z4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7sLQjWpPeEoGXQHvEbYsRyD7CNp.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/q9YqyqhFfujU513N5ZR0BQdg3z4.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T09:07:57+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 57404,
+      "title": "45 يوم",
+      "clean_title": "45 يوم",
+      "original_title": "٤٥ يوم",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد اتهامه بقتل والديه، يرسل شاب إلى مستشفى الأمراض النفسية. لكن على بعد أسابيع من محاكمته، يتعهد بالتزام الصمت.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "rating": 4.8,
+      "vote_count": 9,
+      "age_rating": "PG-13",
+      "year": "2007",
+      "release_date": "2007-08-06",
+      "status": "Released",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": "أحمد يسري",
+      "cast": [
+        {
+          "name": "أحمد الفيشاوي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4bmLaXHBRZi6Sn6XE1eCAM6KDs0.jpg"
+        },
+        {
+          "name": "عزت أبو عوف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/b4YIsca9urhYbAUWf1ftW440gcd.jpg"
+        },
+        {
+          "name": "غادة عبدالرازق",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/57KpAr5jKo8updReZSqig12LycM.jpg"
+        },
+        {
+          "name": "هشام سليم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/mEsLAwETgrWHGwLviulP8TlXclb.jpg"
+        },
+        {
+          "name": "Sherine El Tahan",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Talaat Zein",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/7hW605AJl17OE0kKuASKf5ALsNs.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=fQf2LcMTHW8",
+      "start": "2026-11-16T04:28:58+00:00",
+      "stop": "2026-11-16T06:06:57+00:00",
+      "duration_minutes": 98,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/cVaYpWT7qbSA7j3jbCAlx3x2po2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1poNq8zhZiifTFbMtHG37u4KBAx.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/cVaYpWT7qbSA7j3jbCAlx3x2po2.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T11:14:43+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 136857,
+      "title": "سهر الليالي",
+      "clean_title": "سهر الليالي",
+      "original_title": "سهر الليالي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتم اختبار زواج أربعة أزواج في حفلة عيد ميلاد إحدى أطفالهم ويقرر جميع الرجال المغادرة إلى الإسكندرية.",
+      "category": "رومانسي",
+      "genres": [
+        "رومانسي",
+        "دراما",
+        "رومنسية"
+      ],
+      "rating": 6.6,
+      "vote_count": 44,
+      "age_rating": "R",
+      "year": "2003",
+      "release_date": "2003-07-16",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "هاني خليفة",
+      "cast": [
+        {
+          "name": "خالد أبو النجا",
+          "character": "Ali",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kmT9Wpzy0Y1m1jmUgCy7VqMzgSS.jpg"
+        },
+        {
+          "name": "جيهان فاضل",
+          "character": "Moshera",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rHUZyHBs9vSFfqyqltN6nlYjwDD.jpg"
+        },
+        {
+          "name": "أحمد حلمي",
+          "character": "Amr",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xVhX7ia3ptI43V65Os90gbfgxAe.jpg"
+        },
+        {
+          "name": "حنان ترك",
+          "character": "Farrah",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xwt3vXxlnn3ACC3pNAPVtffxYSP.jpg"
+        },
+        {
+          "name": "شريف منير",
+          "character": "Sameh",
+          "profile_image": "https://image.tmdb.org/t/p/w185/69ttY5VkABXQeTcFZBkxcxvaXjf.jpg"
+        },
+        {
+          "name": "علا غانم",
+          "character": "Inas",
+          "profile_image": "https://image.tmdb.org/t/p/w185/u5crUAuOlylo0yFq0dCzZyZv9Om.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T06:06:57+00:00",
+      "stop": "2026-11-16T08:24:29+00:00",
+      "duration_minutes": 138,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/dhgm45HUsUxg87pFduEzeNp5tvY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5f4VWbgyvvXi8qNIYwDMZS20MR6.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/dhgm45HUsUxg87pFduEzeNp5tvY.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-15T23:21:12+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 596,
+      "title": "عناقيد الموسم 1 الحلقة 21",
+      "clean_title": "عناقيد",
+      "original_title": "The Grapes of Wrath",
+      "tagline": "يخطو Joads مباشرة من صفحات الرواية التي صدمت الملايين!",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": 1,
+      "episode": 21,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كشتة بنات",
+      "category": "اجتماعي",
+      "genres": [
+        "اجتماعي",
+        "دراما"
+      ],
+      "rating": 7.8,
+      "vote_count": 1165,
+      "age_rating": "NR",
+      "year": "1940",
+      "release_date": "1940-03-15",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "John Ford",
+      "cast": [
+        {
+          "name": "Henry Fonda",
+          "character": "Tom Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg"
+        },
+        {
+          "name": "Jane Darwell",
+          "character": "Ma Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xWTsj5z2N94OOnimMmUYewQXOIi.jpg"
+        },
+        {
+          "name": "John Carradine",
+          "character": "Casy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hv2AAXNlTHVmGgXn8q7025S0g2b.jpg"
+        },
+        {
+          "name": "Charley Grapewin",
+          "character": "Grandpa Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xROPwMkTUgweYQFhbTsvklIMhlw.jpg"
+        },
+        {
+          "name": "Dorris Bowdon",
+          "character": "Rosasharn",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wqNKZamXClTbPcOy9zvrmEi2iIq.jpg"
+        },
+        {
+          "name": "Russell Simpson",
+          "character": "Pa Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sZAJ7TS52RxyejiirXhhqmYxxwn.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T08:24:29+00:00",
+      "stop": "2026-11-16T09:07:57+00:00",
+      "duration_minutes": 43,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/r7AcmVk6kGhdFdesViGaI3dEHWd.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T01:38:43+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 103392,
+      "title": "سيما علي بابا",
+      "clean_title": "سيما علي بابا",
+      "original_title": "سيما علي بابا",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في هذا الفيلم المكون من جزئين، يجسد أحمد مكي ثلاث شخصيات مختلفة بأسلوبه الكوميدي الفريد.",
+      "category": "خيالي",
+      "genres": [
+        "خيالي",
+        "كوميديا",
+        "فانتازيا"
+      ],
+      "rating": 4.8,
+      "vote_count": 15,
+      "age_rating": "PG-13",
+      "year": "2011",
+      "release_date": "2011-11-01",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "أحمد الجندي",
+      "cast": [
+        {
+          "name": "أحمد مكي",
+          "character": "حزلئوم / حبش / برابر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9uK9EhWwhB2mepg73CB3wN64DlU.jpg"
+        },
+        {
+          "name": "إيمي سمير غانم",
+          "character": "بدارة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ugym5uaaNM0xeAOQBPe1LtLq7XD.jpg"
+        },
+        {
+          "name": "هشام إسماعيل",
+          "character": "وجمنتين / عشماوى",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hJc3c5CywPyKB3oMD7HcgtE42CV.jpg"
+        },
+        {
+          "name": "لطفي لبيب",
+          "character": "انتوسيت / الكلب ماكس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/guGZ0Xv4csBj10ipPlQAgf0yq6o.jpg"
+        },
+        {
+          "name": "محمد شاهين",
+          "character": "فولتارين / روبلجين / خضر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6Qg3CvAQzWkANgz3gunfa1U9xta.jpg"
+        },
+        {
+          "name": "محمد سلام",
+          "character": "الارش دوك / الفار سندق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pnOF9xHx4LbEHsRunfyRnfV1uDc.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T09:07:57+00:00",
+      "stop": "2026-11-16T11:14:43+00:00",
+      "duration_minutes": 127,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/q9YqyqhFfujU513N5ZR0BQdg3z4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7sLQjWpPeEoGXQHvEbYsRyD7CNp.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/q9YqyqhFfujU513N5ZR0BQdg3z4.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T02:22:11+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 57404,
+      "title": "45 يوم",
+      "clean_title": "45 يوم",
+      "original_title": "٤٥ يوم",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد اتهامه بقتل والديه، يرسل شاب إلى مستشفى الأمراض النفسية. لكن على بعد أسابيع من محاكمته، يتعهد بالتزام الصمت.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "rating": 4.8,
+      "vote_count": 9,
+      "age_rating": "PG-13",
+      "year": "2007",
+      "release_date": "2007-08-06",
+      "status": "Released",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": "أحمد يسري",
+      "cast": [
+        {
+          "name": "أحمد الفيشاوي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4bmLaXHBRZi6Sn6XE1eCAM6KDs0.jpg"
+        },
+        {
+          "name": "عزت أبو عوف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/b4YIsca9urhYbAUWf1ftW440gcd.jpg"
+        },
+        {
+          "name": "غادة عبدالرازق",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/57KpAr5jKo8updReZSqig12LycM.jpg"
+        },
+        {
+          "name": "هشام سليم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/mEsLAwETgrWHGwLviulP8TlXclb.jpg"
+        },
+        {
+          "name": "Sherine El Tahan",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Talaat Zein",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/7hW605AJl17OE0kKuASKf5ALsNs.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=fQf2LcMTHW8",
+      "start": "2026-11-16T11:14:43+00:00",
+      "stop": "2026-11-16T12:52:43+00:00",
+      "duration_minutes": 98,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/cVaYpWT7qbSA7j3jbCAlx3x2po2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1poNq8zhZiifTFbMtHG37u4KBAx.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/cVaYpWT7qbSA7j3jbCAlx3x2po2.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T04:28:58+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 596,
+      "title": "عناقيد الموسم 1 الحلقة 1",
+      "clean_title": "عناقيد",
+      "original_title": "The Grapes of Wrath",
+      "tagline": "يخطو Joads مباشرة من صفحات الرواية التي صدمت الملايين!",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": 1,
+      "episode": 1,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "اللغز",
+      "category": "اجتماعي",
+      "genres": [
+        "اجتماعي",
+        "دراما"
+      ],
+      "rating": 7.8,
+      "vote_count": 1165,
+      "age_rating": "NR",
+      "year": "1940",
+      "release_date": "1940-03-15",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "John Ford",
+      "cast": [
+        {
+          "name": "Henry Fonda",
+          "character": "Tom Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg"
+        },
+        {
+          "name": "Jane Darwell",
+          "character": "Ma Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xWTsj5z2N94OOnimMmUYewQXOIi.jpg"
+        },
+        {
+          "name": "John Carradine",
+          "character": "Casy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hv2AAXNlTHVmGgXn8q7025S0g2b.jpg"
+        },
+        {
+          "name": "Charley Grapewin",
+          "character": "Grandpa Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xROPwMkTUgweYQFhbTsvklIMhlw.jpg"
+        },
+        {
+          "name": "Dorris Bowdon",
+          "character": "Rosasharn",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wqNKZamXClTbPcOy9zvrmEi2iIq.jpg"
+        },
+        {
+          "name": "Russell Simpson",
+          "character": "Pa Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sZAJ7TS52RxyejiirXhhqmYxxwn.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T12:52:43+00:00",
+      "stop": "2026-11-16T13:46:48+00:00",
+      "duration_minutes": 54,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/r7AcmVk6kGhdFdesViGaI3dEHWd.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T19:05:56+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T01:19:03+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T07:32:04+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 57519,
+      "title": "دبووور H",
+      "clean_title": "دبووور H",
+      "original_title": "H دبووور",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينطلق شاب ثري ومدلل في رحلة لإنقاذ والده المسجون عن طريق الخطأ، وهي تجربة ستصنع منه رجلا حقيقيا.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي",
+        "كوميديا",
+        "رومنسية"
+      ],
+      "rating": 5.6,
+      "vote_count": 38,
+      "age_rating": "PG-13",
+      "year": "2008",
+      "release_date": "2008-08-01",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "أحمد الجندي",
+      "cast": [
+        {
+          "name": "أحمد مكي",
+          "character": "إتش دبور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9uK9EhWwhB2mepg73CB3wN64DlU.jpg"
+        },
+        {
+          "name": "إنجي وجدان",
+          "character": "أرواح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jWGPiskxpVHcJrtoV9tLha8niu7.jpg"
+        },
+        {
+          "name": "لطفي لبيب",
+          "character": "سرناقوسي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/guGZ0Xv4csBj10ipPlQAgf0yq6o.jpg"
+        },
+        {
+          "name": "سامح حسين",
+          "character": "كلوشا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9pvQYPlo9V1AGVEci5wu808RipM.jpg"
+        },
+        {
+          "name": "حسن حسني",
+          "character": "دبور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vMG9Carh5bi18v5unk06aYvvKZw.jpg"
+        },
+        {
+          "name": "هالة فاخر",
+          "character": "لطيفة البغدادي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T13:46:48+00:00",
+      "stop": "2026-11-16T15:41:12+00:00",
+      "duration_minutes": 114,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/k6HVlpxV5uwvlLfYgzdgyObBnqU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kGHkZ3MXixqtpPNc6daSD6TJg2k.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/k6HVlpxV5uwvlLfYgzdgyObBnqU.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T02:13:07+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T08:26:09+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 71305,
+      "title": "أدرينالين",
+      "clean_title": "أدرينالين",
+      "original_title": "أدرينالين",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما تهز جريمة قتل مروعة وغامضة حيا هادئا، يكلف ضابط شرطة بالكشف عن هوية الجثة المقطعة وتعقب القاتل.",
+      "category": "غموض",
+      "genres": [
+        "غموض",
+        "جريمة",
+        "دراما",
+        "إثارة"
+      ],
+      "rating": 6.8,
+      "vote_count": 4,
+      "age_rating": null,
+      "year": "2009",
+      "release_date": "2009-10-28",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمود كامل",
+      "cast": [
+        {
+          "name": "خالد الصاوي",
+          "character": "Mahmoud",
+          "profile_image": "https://image.tmdb.org/t/p/w185/t4Z5PVsbFgN6RsN1bksjDwZlkhc.jpg"
+        },
+        {
+          "name": "غادة عبدالرازق",
+          "character": "Dr. Manal Ezzdin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/57KpAr5jKo8updReZSqig12LycM.jpg"
+        },
+        {
+          "name": "Mohamed Shoman",
+          "character": "Halwany",
+          "profile_image": "https://image.tmdb.org/t/p/w185/uDpqKXRREmCQ0zFW6jj4IMWtYjl.jpg"
+        },
+        {
+          "name": "سامح الصريطي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dXtyHDc9aVYslWjuucJ3VyQTcbZ.jpg"
+        },
+        {
+          "name": "إياد نصار",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/1rMMqeDTEWIpEVIEfBYbOTow6kA.jpg"
+        },
+        {
+          "name": "ياسر الطوبجي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ibfMXbe2vGjJvdqcSh9NJLZ4wxf.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T15:41:12+00:00",
+      "stop": "2026-11-16T17:23:19+00:00",
+      "duration_minutes": 102,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/r1O34qN8T4S2mp2CiksKUCb5VUf.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/r1O34qN8T4S2mp2CiksKUCb5VUf.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T21:54:23+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T04:07:26+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T10:20:33+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 514169,
+      "title": "علشان ربنا يحبك",
+      "clean_title": "علشان ربنا يحبك",
+      "original_title": "علشان ربنا يحبك",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما تغرم امرأة متزوجة برب عائلة، وكلاهما يعاني من التعاسة الزوجية، يخططان لإيقاع شريكيهما بالحب المتبادل...",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي",
+        "كوميديا"
+      ],
+      "rating": 1,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2001",
+      "release_date": "2001-03-05",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "رأفت الميهي",
+      "cast": [
+        {
+          "name": "أحمد رزق",
+          "character": "Khalil",
+          "profile_image": "https://image.tmdb.org/t/p/w185/st0gdwDQQ6SuVjdR6YzebQ4rmEg.jpg"
+        },
+        {
+          "name": "لؤي عمران",
+          "character": "Kamal",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9wuMG416LzsYJ7zfPvQ0ArgCgLT.jpg"
+        },
+        {
+          "name": "داليا البحيري",
+          "character": "Soad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/asZcD9JJAhD5NZbayPKqXE19Qui.jpg"
+        },
+        {
+          "name": "Hala Tawakkul",
+          "character": "Nageia",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3OptMTBZaJBHcFPzaGuzzax2rHN.jpg"
+        },
+        {
+          "name": "Gehan Rateb",
+          "character": "Anaheed",
+          "profile_image": null
+        },
+        {
+          "name": "محمود البزاوي",
+          "character": "The Magician",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zSEhTEA07ZE4xchHU5SDwOOytmr.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T17:23:19+00:00",
+      "stop": "2026-11-16T19:05:56+00:00",
+      "duration_minutes": 103,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/bFVrJi9Z4rVFSmupExUBSC8qza4.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/bFVrJi9Z4rVFSmupExUBSC8qza4.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T23:36:30+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T05:49:31+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 596,
+      "title": "عناقيد الموسم 1 الحلقة 1",
+      "clean_title": "عناقيد",
+      "original_title": "The Grapes of Wrath",
+      "tagline": "يخطو Joads مباشرة من صفحات الرواية التي صدمت الملايين!",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": 1,
+      "episode": 1,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "اللغز",
+      "category": "اجتماعي",
+      "genres": [
+        "اجتماعي",
+        "دراما"
+      ],
+      "rating": 7.8,
+      "vote_count": 1165,
+      "age_rating": "NR",
+      "year": "1940",
+      "release_date": "1940-03-15",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "John Ford",
+      "cast": [
+        {
+          "name": "Henry Fonda",
+          "character": "Tom Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg"
+        },
+        {
+          "name": "Jane Darwell",
+          "character": "Ma Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xWTsj5z2N94OOnimMmUYewQXOIi.jpg"
+        },
+        {
+          "name": "John Carradine",
+          "character": "Casy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hv2AAXNlTHVmGgXn8q7025S0g2b.jpg"
+        },
+        {
+          "name": "Charley Grapewin",
+          "character": "Grandpa Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xROPwMkTUgweYQFhbTsvklIMhlw.jpg"
+        },
+        {
+          "name": "Dorris Bowdon",
+          "character": "Rosasharn",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wqNKZamXClTbPcOy9zvrmEi2iIq.jpg"
+        },
+        {
+          "name": "Russell Simpson",
+          "character": "Pa Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sZAJ7TS52RxyejiirXhhqmYxxwn.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T19:05:56+00:00",
+      "stop": "2026-11-16T20:00:00+00:00",
+      "duration_minutes": 54,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/r7AcmVk6kGhdFdesViGaI3dEHWd.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T12:52:43+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T01:19:03+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T07:32:04+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 57519,
+      "title": "دبووور H",
+      "clean_title": "دبووور H",
+      "original_title": "H دبووور",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينطلق شاب ثري ومدلل في رحلة لإنقاذ والده المسجون عن طريق الخطأ، وهي تجربة ستصنع منه رجلا حقيقيا.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي",
+        "كوميديا",
+        "رومنسية"
+      ],
+      "rating": 5.6,
+      "vote_count": 38,
+      "age_rating": "PG-13",
+      "year": "2008",
+      "release_date": "2008-08-01",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "أحمد الجندي",
+      "cast": [
+        {
+          "name": "أحمد مكي",
+          "character": "إتش دبور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9uK9EhWwhB2mepg73CB3wN64DlU.jpg"
+        },
+        {
+          "name": "إنجي وجدان",
+          "character": "أرواح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jWGPiskxpVHcJrtoV9tLha8niu7.jpg"
+        },
+        {
+          "name": "لطفي لبيب",
+          "character": "سرناقوسي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/guGZ0Xv4csBj10ipPlQAgf0yq6o.jpg"
+        },
+        {
+          "name": "سامح حسين",
+          "character": "كلوشا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9pvQYPlo9V1AGVEci5wu808RipM.jpg"
+        },
+        {
+          "name": "حسن حسني",
+          "character": "دبور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vMG9Carh5bi18v5unk06aYvvKZw.jpg"
+        },
+        {
+          "name": "هالة فاخر",
+          "character": "لطيفة البغدادي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T20:00:00+00:00",
+      "stop": "2026-11-16T21:54:23+00:00",
+      "duration_minutes": 114,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/k6HVlpxV5uwvlLfYgzdgyObBnqU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kGHkZ3MXixqtpPNc6daSD6TJg2k.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/k6HVlpxV5uwvlLfYgzdgyObBnqU.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T13:46:48+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T02:13:07+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T08:26:09+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 71305,
+      "title": "أدرينالين",
+      "clean_title": "أدرينالين",
+      "original_title": "أدرينالين",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما تهز جريمة قتل مروعة وغامضة حيا هادئا، يكلف ضابط شرطة بالكشف عن هوية الجثة المقطعة وتعقب القاتل.",
+      "category": "غموض",
+      "genres": [
+        "غموض",
+        "جريمة",
+        "دراما",
+        "إثارة"
+      ],
+      "rating": 6.8,
+      "vote_count": 4,
+      "age_rating": null,
+      "year": "2009",
+      "release_date": "2009-10-28",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمود كامل",
+      "cast": [
+        {
+          "name": "خالد الصاوي",
+          "character": "Mahmoud",
+          "profile_image": "https://image.tmdb.org/t/p/w185/t4Z5PVsbFgN6RsN1bksjDwZlkhc.jpg"
+        },
+        {
+          "name": "غادة عبدالرازق",
+          "character": "Dr. Manal Ezzdin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/57KpAr5jKo8updReZSqig12LycM.jpg"
+        },
+        {
+          "name": "Mohamed Shoman",
+          "character": "Halwany",
+          "profile_image": "https://image.tmdb.org/t/p/w185/uDpqKXRREmCQ0zFW6jj4IMWtYjl.jpg"
+        },
+        {
+          "name": "سامح الصريطي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dXtyHDc9aVYslWjuucJ3VyQTcbZ.jpg"
+        },
+        {
+          "name": "إياد نصار",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/1rMMqeDTEWIpEVIEfBYbOTow6kA.jpg"
+        },
+        {
+          "name": "ياسر الطوبجي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ibfMXbe2vGjJvdqcSh9NJLZ4wxf.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T21:54:23+00:00",
+      "stop": "2026-11-16T23:36:30+00:00",
+      "duration_minutes": 102,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/r1O34qN8T4S2mp2CiksKUCb5VUf.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/r1O34qN8T4S2mp2CiksKUCb5VUf.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T15:41:12+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T04:07:26+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T10:20:33+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 514169,
+      "title": "علشان ربنا يحبك",
+      "clean_title": "علشان ربنا يحبك",
+      "original_title": "علشان ربنا يحبك",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما تغرم امرأة متزوجة برب عائلة، وكلاهما يعاني من التعاسة الزوجية، يخططان لإيقاع شريكيهما بالحب المتبادل...",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي",
+        "كوميديا"
+      ],
+      "rating": 1,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2001",
+      "release_date": "2001-03-05",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "رأفت الميهي",
+      "cast": [
+        {
+          "name": "أحمد رزق",
+          "character": "Khalil",
+          "profile_image": "https://image.tmdb.org/t/p/w185/st0gdwDQQ6SuVjdR6YzebQ4rmEg.jpg"
+        },
+        {
+          "name": "لؤي عمران",
+          "character": "Kamal",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9wuMG416LzsYJ7zfPvQ0ArgCgLT.jpg"
+        },
+        {
+          "name": "داليا البحيري",
+          "character": "Soad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/asZcD9JJAhD5NZbayPKqXE19Qui.jpg"
+        },
+        {
+          "name": "Hala Tawakkul",
+          "character": "Nageia",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3OptMTBZaJBHcFPzaGuzzax2rHN.jpg"
+        },
+        {
+          "name": "Gehan Rateb",
+          "character": "Anaheed",
+          "profile_image": null
+        },
+        {
+          "name": "محمود البزاوي",
+          "character": "The Magician",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zSEhTEA07ZE4xchHU5SDwOOytmr.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T23:36:30+00:00",
+      "stop": "2026-11-17T01:19:03+00:00",
+      "duration_minutes": 103,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/bFVrJi9Z4rVFSmupExUBSC8qza4.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/bFVrJi9Z4rVFSmupExUBSC8qza4.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T17:23:19+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T05:49:31+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 596,
+      "title": "عناقيد الموسم 1 الحلقة 1",
+      "clean_title": "عناقيد",
+      "original_title": "The Grapes of Wrath",
+      "tagline": "يخطو Joads مباشرة من صفحات الرواية التي صدمت الملايين!",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": 1,
+      "episode": 1,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "اللغز",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": 7.8,
+      "vote_count": 1165,
+      "age_rating": "NR",
+      "year": "1940",
+      "release_date": "1940-03-15",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "John Ford",
+      "cast": [
+        {
+          "name": "Henry Fonda",
+          "character": "Tom Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg"
+        },
+        {
+          "name": "Jane Darwell",
+          "character": "Ma Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xWTsj5z2N94OOnimMmUYewQXOIi.jpg"
+        },
+        {
+          "name": "John Carradine",
+          "character": "Casy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hv2AAXNlTHVmGgXn8q7025S0g2b.jpg"
+        },
+        {
+          "name": "Charley Grapewin",
+          "character": "Grandpa Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xROPwMkTUgweYQFhbTsvklIMhlw.jpg"
+        },
+        {
+          "name": "Dorris Bowdon",
+          "character": "Rosasharn",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wqNKZamXClTbPcOy9zvrmEi2iIq.jpg"
+        },
+        {
+          "name": "Russell Simpson",
+          "character": "Pa Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sZAJ7TS52RxyejiirXhhqmYxxwn.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T01:19:03+00:00",
+      "stop": "2026-11-17T02:13:07+00:00",
+      "duration_minutes": 54,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/r7AcmVk6kGhdFdesViGaI3dEHWd.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T12:52:43+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T19:05:56+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T07:32:04+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 57519,
+      "title": "دبووور H",
+      "clean_title": "دبووور H",
+      "original_title": "H دبووور",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينطلق شاب ثري ومدلل في رحلة لإنقاذ والده المسجون عن طريق الخطأ، وهي تجربة ستصنع منه رجلا حقيقيا.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي",
+        "كوميديا",
+        "رومنسية"
+      ],
+      "rating": 5.6,
+      "vote_count": 38,
+      "age_rating": "PG-13",
+      "year": "2008",
+      "release_date": "2008-08-01",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "أحمد الجندي",
+      "cast": [
+        {
+          "name": "أحمد مكي",
+          "character": "إتش دبور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9uK9EhWwhB2mepg73CB3wN64DlU.jpg"
+        },
+        {
+          "name": "إنجي وجدان",
+          "character": "أرواح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jWGPiskxpVHcJrtoV9tLha8niu7.jpg"
+        },
+        {
+          "name": "لطفي لبيب",
+          "character": "سرناقوسي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/guGZ0Xv4csBj10ipPlQAgf0yq6o.jpg"
+        },
+        {
+          "name": "سامح حسين",
+          "character": "كلوشا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9pvQYPlo9V1AGVEci5wu808RipM.jpg"
+        },
+        {
+          "name": "حسن حسني",
+          "character": "دبور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vMG9Carh5bi18v5unk06aYvvKZw.jpg"
+        },
+        {
+          "name": "هالة فاخر",
+          "character": "لطيفة البغدادي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T02:13:07+00:00",
+      "stop": "2026-11-17T04:07:26+00:00",
+      "duration_minutes": 114,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/k6HVlpxV5uwvlLfYgzdgyObBnqU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kGHkZ3MXixqtpPNc6daSD6TJg2k.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/k6HVlpxV5uwvlLfYgzdgyObBnqU.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T13:46:48+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T08:26:09+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 71305,
+      "title": "أدرينالين",
+      "clean_title": "أدرينالين",
+      "original_title": "أدرينالين",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما تهز جريمة قتل مروعة وغامضة حيا هادئا، يكلف ضابط شرطة بالكشف عن هوية الجثة المقطعة وتعقب القاتل.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة",
+        "دراما",
+        "إثارة",
+        "غموض"
+      ],
+      "rating": 6.8,
+      "vote_count": 4,
+      "age_rating": null,
+      "year": "2009",
+      "release_date": "2009-10-28",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمود كامل",
+      "cast": [
+        {
+          "name": "خالد الصاوي",
+          "character": "Mahmoud",
+          "profile_image": "https://image.tmdb.org/t/p/w185/t4Z5PVsbFgN6RsN1bksjDwZlkhc.jpg"
+        },
+        {
+          "name": "غادة عبدالرازق",
+          "character": "Dr. Manal Ezzdin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/57KpAr5jKo8updReZSqig12LycM.jpg"
+        },
+        {
+          "name": "Mohamed Shoman",
+          "character": "Halwany",
+          "profile_image": "https://image.tmdb.org/t/p/w185/uDpqKXRREmCQ0zFW6jj4IMWtYjl.jpg"
+        },
+        {
+          "name": "سامح الصريطي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dXtyHDc9aVYslWjuucJ3VyQTcbZ.jpg"
+        },
+        {
+          "name": "إياد نصار",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/1rMMqeDTEWIpEVIEfBYbOTow6kA.jpg"
+        },
+        {
+          "name": "ياسر الطوبجي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ibfMXbe2vGjJvdqcSh9NJLZ4wxf.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T04:07:26+00:00",
+      "stop": "2026-11-17T05:49:31+00:00",
+      "duration_minutes": 102,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/r1O34qN8T4S2mp2CiksKUCb5VUf.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/r1O34qN8T4S2mp2CiksKUCb5VUf.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T15:41:12+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T21:54:23+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T10:20:33+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 514169,
+      "title": "علشان ربنا يحبك",
+      "clean_title": "علشان ربنا يحبك",
+      "original_title": "علشان ربنا يحبك",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما تغرم امرأة متزوجة برب عائلة، وكلاهما يعاني من التعاسة الزوجية، يخططان لإيقاع شريكيهما بالحب المتبادل...",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي",
+        "كوميديا"
+      ],
+      "rating": 1,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2001",
+      "release_date": "2001-03-05",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "رأفت الميهي",
+      "cast": [
+        {
+          "name": "أحمد رزق",
+          "character": "Khalil",
+          "profile_image": "https://image.tmdb.org/t/p/w185/st0gdwDQQ6SuVjdR6YzebQ4rmEg.jpg"
+        },
+        {
+          "name": "لؤي عمران",
+          "character": "Kamal",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9wuMG416LzsYJ7zfPvQ0ArgCgLT.jpg"
+        },
+        {
+          "name": "داليا البحيري",
+          "character": "Soad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/asZcD9JJAhD5NZbayPKqXE19Qui.jpg"
+        },
+        {
+          "name": "Hala Tawakkul",
+          "character": "Nageia",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3OptMTBZaJBHcFPzaGuzzax2rHN.jpg"
+        },
+        {
+          "name": "Gehan Rateb",
+          "character": "Anaheed",
+          "profile_image": null
+        },
+        {
+          "name": "محمود البزاوي",
+          "character": "The Magician",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zSEhTEA07ZE4xchHU5SDwOOytmr.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T05:49:31+00:00",
+      "stop": "2026-11-17T07:32:04+00:00",
+      "duration_minutes": 103,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/bFVrJi9Z4rVFSmupExUBSC8qza4.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/bFVrJi9Z4rVFSmupExUBSC8qza4.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T17:23:19+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T23:36:30+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 596,
+      "title": "عناقيد الموسم 1 الحلقة 1",
+      "clean_title": "عناقيد",
+      "original_title": "The Grapes of Wrath",
+      "tagline": "يخطو Joads مباشرة من صفحات الرواية التي صدمت الملايين!",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": 1,
+      "episode": 1,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "اللغز",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": 7.8,
+      "vote_count": 1165,
+      "age_rating": "NR",
+      "year": "1940",
+      "release_date": "1940-03-15",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "John Ford",
+      "cast": [
+        {
+          "name": "Henry Fonda",
+          "character": "Tom Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg"
+        },
+        {
+          "name": "Jane Darwell",
+          "character": "Ma Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xWTsj5z2N94OOnimMmUYewQXOIi.jpg"
+        },
+        {
+          "name": "John Carradine",
+          "character": "Casy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hv2AAXNlTHVmGgXn8q7025S0g2b.jpg"
+        },
+        {
+          "name": "Charley Grapewin",
+          "character": "Grandpa Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xROPwMkTUgweYQFhbTsvklIMhlw.jpg"
+        },
+        {
+          "name": "Dorris Bowdon",
+          "character": "Rosasharn",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wqNKZamXClTbPcOy9zvrmEi2iIq.jpg"
+        },
+        {
+          "name": "Russell Simpson",
+          "character": "Pa Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sZAJ7TS52RxyejiirXhhqmYxxwn.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T07:32:04+00:00",
+      "stop": "2026-11-17T08:26:09+00:00",
+      "duration_minutes": 54,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/r7AcmVk6kGhdFdesViGaI3dEHWd.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T12:52:43+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T19:05:56+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T01:19:03+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 57519,
+      "title": "دبووور H",
+      "clean_title": "دبووور H",
+      "original_title": "H دبووور",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينطلق شاب ثري ومدلل في رحلة لإنقاذ والده المسجون عن طريق الخطأ، وهي تجربة ستصنع منه رجلا حقيقيا.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي",
+        "كوميديا",
+        "رومنسية"
+      ],
+      "rating": 5.6,
+      "vote_count": 38,
+      "age_rating": "PG-13",
+      "year": "2008",
+      "release_date": "2008-08-01",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "أحمد الجندي",
+      "cast": [
+        {
+          "name": "أحمد مكي",
+          "character": "إتش دبور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9uK9EhWwhB2mepg73CB3wN64DlU.jpg"
+        },
+        {
+          "name": "إنجي وجدان",
+          "character": "أرواح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jWGPiskxpVHcJrtoV9tLha8niu7.jpg"
+        },
+        {
+          "name": "لطفي لبيب",
+          "character": "سرناقوسي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/guGZ0Xv4csBj10ipPlQAgf0yq6o.jpg"
+        },
+        {
+          "name": "سامح حسين",
+          "character": "كلوشا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9pvQYPlo9V1AGVEci5wu808RipM.jpg"
+        },
+        {
+          "name": "حسن حسني",
+          "character": "دبور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vMG9Carh5bi18v5unk06aYvvKZw.jpg"
+        },
+        {
+          "name": "هالة فاخر",
+          "character": "لطيفة البغدادي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T08:26:09+00:00",
+      "stop": "2026-11-17T10:20:33+00:00",
+      "duration_minutes": 114,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/k6HVlpxV5uwvlLfYgzdgyObBnqU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kGHkZ3MXixqtpPNc6daSD6TJg2k.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/k6HVlpxV5uwvlLfYgzdgyObBnqU.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T13:46:48+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T02:13:07+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 71305,
+      "title": "أدرينالين",
+      "clean_title": "أدرينالين",
+      "original_title": "أدرينالين",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما تهز جريمة قتل مروعة وغامضة حيا هادئا، يكلف ضابط شرطة بالكشف عن هوية الجثة المقطعة وتعقب القاتل.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة",
+        "دراما",
+        "إثارة",
+        "غموض"
+      ],
+      "rating": 6.8,
+      "vote_count": 4,
+      "age_rating": null,
+      "year": "2009",
+      "release_date": "2009-10-28",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمود كامل",
+      "cast": [
+        {
+          "name": "خالد الصاوي",
+          "character": "Mahmoud",
+          "profile_image": "https://image.tmdb.org/t/p/w185/t4Z5PVsbFgN6RsN1bksjDwZlkhc.jpg"
+        },
+        {
+          "name": "غادة عبدالرازق",
+          "character": "Dr. Manal Ezzdin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/57KpAr5jKo8updReZSqig12LycM.jpg"
+        },
+        {
+          "name": "Mohamed Shoman",
+          "character": "Halwany",
+          "profile_image": "https://image.tmdb.org/t/p/w185/uDpqKXRREmCQ0zFW6jj4IMWtYjl.jpg"
+        },
+        {
+          "name": "سامح الصريطي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dXtyHDc9aVYslWjuucJ3VyQTcbZ.jpg"
+        },
+        {
+          "name": "إياد نصار",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/1rMMqeDTEWIpEVIEfBYbOTow6kA.jpg"
+        },
+        {
+          "name": "ياسر الطوبجي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ibfMXbe2vGjJvdqcSh9NJLZ4wxf.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T10:20:33+00:00",
+      "stop": "2026-11-17T12:02:41+00:00",
+      "duration_minutes": 102,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/r1O34qN8T4S2mp2CiksKUCb5VUf.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/r1O34qN8T4S2mp2CiksKUCb5VUf.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T15:41:12+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-16T21:54:23+00:00"
+        },
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T04:07:26+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 596,
+      "title": "عناقيد الموسم 1 الحلقة 2",
+      "clean_title": "عناقيد",
+      "original_title": "The Grapes of Wrath",
+      "tagline": "يخطو Joads مباشرة من صفحات الرواية التي صدمت الملايين!",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": 1,
+      "episode": 2,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "فنجان مريم",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": 7.8,
+      "vote_count": 1165,
+      "age_rating": "NR",
+      "year": "1940",
+      "release_date": "1940-03-15",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "John Ford",
+      "cast": [
+        {
+          "name": "Henry Fonda",
+          "character": "Tom Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg"
+        },
+        {
+          "name": "Jane Darwell",
+          "character": "Ma Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xWTsj5z2N94OOnimMmUYewQXOIi.jpg"
+        },
+        {
+          "name": "John Carradine",
+          "character": "Casy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hv2AAXNlTHVmGgXn8q7025S0g2b.jpg"
+        },
+        {
+          "name": "Charley Grapewin",
+          "character": "Grandpa Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xROPwMkTUgweYQFhbTsvklIMhlw.jpg"
+        },
+        {
+          "name": "Dorris Bowdon",
+          "character": "Rosasharn",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wqNKZamXClTbPcOy9zvrmEi2iIq.jpg"
+        },
+        {
+          "name": "Russell Simpson",
+          "character": "Pa Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sZAJ7TS52RxyejiirXhhqmYxxwn.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T12:02:41+00:00",
+      "stop": "2026-11-17T12:59:42+00:00",
+      "duration_minutes": 57,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/r7AcmVk6kGhdFdesViGaI3dEHWd.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T18:22:54+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 144182,
+      "title": "كابتن هيما",
+      "clean_title": "كابتن هيما",
+      "original_title": "كابتن هيما",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواجه إبراهيم صعوبات مادية تجبره على التخلي عن حلمه في احتراف لعبة كرة القدم، والعمل كسائق في إحدى المدارس، حيث يلتقي بمعلمة الرسم مريم وينافس سياسيا ثريا للفوز بقلبها.",
+      "category": "رومانسي",
+      "genres": [
+        "رومانسي",
+        "كوميديا"
+      ],
+      "rating": 5.6,
+      "vote_count": 24,
+      "age_rating": "PG-13",
+      "year": "2008",
+      "release_date": "2008-06-25",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "نصر محروس",
+      "cast": [
+        {
+          "name": "تامر حسني",
+          "character": "هيما",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2YGi3xoFD3EKXUKprTkRXVRHquH.jpg"
+        },
+        {
+          "name": "زينة",
+          "character": "مريم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rzViYmGwblIdvKbIqhr1t56MSO9.jpg"
+        },
+        {
+          "name": "أحمد راتب",
+          "character": "ملاك",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nJr6S2q3hdXZlffPRNp9Mldl34U.jpg"
+        },
+        {
+          "name": "أحمد زاهر",
+          "character": "حسام",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hbhHnt2G2FBFS3HNfwjGc0klL5O.jpg"
+        },
+        {
+          "name": "Mayar El Ghity",
+          "character": "توتة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/25zujPIYkb83lKFdLB3iG3SVF8p.jpg"
+        },
+        {
+          "name": "عبدالله مشرف",
+          "character": "شرنوبي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/agbxF5mqQws2izKEnJz2zvaz4Rw.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=5mSmZnNuJj0",
+      "start": "2026-11-17T12:59:42+00:00",
+      "stop": "2026-11-17T14:55:35+00:00",
+      "duration_minutes": 116,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kevnGiQqdX6fcWWA7dQGl8QTM7o.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/f75Y3DKJ629obJLkh2qKlAwF31A.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kevnGiQqdX6fcWWA7dQGl8QTM7o.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T19:19:55+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 258367,
+      "title": "حفلة منتصف الليل",
+      "clean_title": "حفلة منتصف الليل",
+      "original_title": "حفلة منتصف الليل",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدعو امرأة غنية أصدقاءها إلى حفلة في وقت متأخر من الليل وتمنعهم من المغادرة حتى تظهر الحقيقة التي تبحث عنها.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "rating": 4.2,
+      "vote_count": 4,
+      "age_rating": null,
+      "year": "2012",
+      "release_date": "2012-12-29",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمود كامل",
+      "cast": [
+        {
+          "name": "رانيا يوسف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9cDjVg6P4EsBsIJClPWgPc8Gck9.jpg"
+        },
+        {
+          "name": "إدوارد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4zMVIGh9IQoDiTWvEy9i2lGYCZA.jpg"
+        },
+        {
+          "name": "منى هلا",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/2965rscx0mfz2rYA8BKSLvTFE4I.jpg"
+        },
+        {
+          "name": "حنان مطاوع",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3Nl6UYi2fgswbZDL4B5NZEXRPyM.jpg"
+        },
+        {
+          "name": "درة",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/vF4NIuKm6pKe2Sdm1L8MqntbN0z.jpg"
+        },
+        {
+          "name": "إيمي المصري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/v6h6vrzpq6PLvW4LSk3VV3rpsq7.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T14:55:35+00:00",
+      "stop": "2026-11-17T16:25:40+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/haBLisI8bZtkr6QGza8pknLUNfX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/s4e3VeJ2EAbJYQBnhwfjxQ8lc7S.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/haBLisI8bZtkr6QGza8pknLUNfX.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T21:15:48+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 259409,
+      "title": "حلم عزيز",
+      "clean_title": "حلم عزيز",
+      "original_title": "حلم عزيز",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما يطارده والده المتوفي في أحلامه موجها له الإنذار الأخير، يجبر رجل أعمال محتال على إعادة النظر في أفعاله.",
+      "category": "إثارة",
+      "genres": [
+        "إثارة",
+        "كوميديا",
+        "دراما"
+      ],
+      "rating": 5.2,
+      "vote_count": 17,
+      "age_rating": null,
+      "year": "2012",
+      "release_date": "2012-06-06",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "عمرو عرفة",
+      "cast": [
+        {
+          "name": "أحمد عز",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/mgQhox7AbzVsQ8xeTZvkK5Gvkd4.jpg"
+        },
+        {
+          "name": "شريف منير",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/69ttY5VkABXQeTcFZBkxcxvaXjf.jpg"
+        },
+        {
+          "name": "مي كساب",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/n8CUAduiVrIKHAlCmyFKCpVwTwE.jpg"
+        },
+        {
+          "name": "محمد إمام",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dYaBJi6ggVZnBbnycJ1IdDsfgR.jpg"
+        },
+        {
+          "name": "Merritt",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/1QBodm6HJ7FBMwUNOWkZQGk7CAC.jpg"
+        },
+        {
+          "name": "رانيا منصور",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/siScxExlBOqBdGt3Mcq92MeW1Iz.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T16:25:40+00:00",
+      "stop": "2026-11-17T18:22:54+00:00",
+      "duration_minutes": 117,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/9gnfk0WYdzgkFG4HZbg9Cx694GP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oQ9XkCpGmVBG9EAOMYuIMvzq84c.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/9gnfk0WYdzgkFG4HZbg9Cx694GP.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T22:45:53+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 596,
+      "title": "عناقيد الموسم 1 الحلقة 2",
+      "clean_title": "عناقيد",
+      "original_title": "The Grapes of Wrath",
+      "tagline": "يخطو Joads مباشرة من صفحات الرواية التي صدمت الملايين!",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": 1,
+      "episode": 2,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "فنجان مريم",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": 7.8,
+      "vote_count": 1165,
+      "age_rating": "NR",
+      "year": "1940",
+      "release_date": "1940-03-15",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "John Ford",
+      "cast": [
+        {
+          "name": "Henry Fonda",
+          "character": "Tom Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg"
+        },
+        {
+          "name": "Jane Darwell",
+          "character": "Ma Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xWTsj5z2N94OOnimMmUYewQXOIi.jpg"
+        },
+        {
+          "name": "John Carradine",
+          "character": "Casy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hv2AAXNlTHVmGgXn8q7025S0g2b.jpg"
+        },
+        {
+          "name": "Charley Grapewin",
+          "character": "Grandpa Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xROPwMkTUgweYQFhbTsvklIMhlw.jpg"
+        },
+        {
+          "name": "Dorris Bowdon",
+          "character": "Rosasharn",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wqNKZamXClTbPcOy9zvrmEi2iIq.jpg"
+        },
+        {
+          "name": "Russell Simpson",
+          "character": "Pa Joad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sZAJ7TS52RxyejiirXhhqmYxxwn.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T18:22:54+00:00",
+      "stop": "2026-11-17T19:19:55+00:00",
+      "duration_minutes": 57,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/r7AcmVk6kGhdFdesViGaI3dEHWd.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T12:02:41+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 144182,
+      "title": "كابتن هيما",
+      "clean_title": "كابتن هيما",
+      "original_title": "كابتن هيما",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواجه إبراهيم صعوبات مادية تجبره على التخلي عن حلمه في احتراف لعبة كرة القدم، والعمل كسائق في إحدى المدارس، حيث يلتقي بمعلمة الرسم مريم وينافس سياسيا ثريا للفوز بقلبها.",
+      "category": "رومانسي",
+      "genres": [
+        "رومانسي",
+        "كوميديا"
+      ],
+      "rating": 5.6,
+      "vote_count": 24,
+      "age_rating": "PG-13",
+      "year": "2008",
+      "release_date": "2008-06-25",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "نصر محروس",
+      "cast": [
+        {
+          "name": "تامر حسني",
+          "character": "هيما",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2YGi3xoFD3EKXUKprTkRXVRHquH.jpg"
+        },
+        {
+          "name": "زينة",
+          "character": "مريم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rzViYmGwblIdvKbIqhr1t56MSO9.jpg"
+        },
+        {
+          "name": "أحمد راتب",
+          "character": "ملاك",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nJr6S2q3hdXZlffPRNp9Mldl34U.jpg"
+        },
+        {
+          "name": "أحمد زاهر",
+          "character": "حسام",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hbhHnt2G2FBFS3HNfwjGc0klL5O.jpg"
+        },
+        {
+          "name": "Mayar El Ghity",
+          "character": "توتة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/25zujPIYkb83lKFdLB3iG3SVF8p.jpg"
+        },
+        {
+          "name": "عبدالله مشرف",
+          "character": "شرنوبي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/agbxF5mqQws2izKEnJz2zvaz4Rw.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=5mSmZnNuJj0",
+      "start": "2026-11-17T19:19:55+00:00",
+      "stop": "2026-11-17T21:15:48+00:00",
+      "duration_minutes": 116,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kevnGiQqdX6fcWWA7dQGl8QTM7o.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/f75Y3DKJ629obJLkh2qKlAwF31A.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kevnGiQqdX6fcWWA7dQGl8QTM7o.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T12:59:42+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 258367,
+      "title": "حفلة منتصف الليل",
+      "clean_title": "حفلة منتصف الليل",
+      "original_title": "حفلة منتصف الليل",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدعو امرأة غنية أصدقاءها إلى حفلة في وقت متأخر من الليل وتمنعهم من المغادرة حتى تظهر الحقيقة التي تبحث عنها.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "rating": 4.2,
+      "vote_count": 4,
+      "age_rating": null,
+      "year": "2012",
+      "release_date": "2012-12-29",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمود كامل",
+      "cast": [
+        {
+          "name": "رانيا يوسف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9cDjVg6P4EsBsIJClPWgPc8Gck9.jpg"
+        },
+        {
+          "name": "إدوارد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4zMVIGh9IQoDiTWvEy9i2lGYCZA.jpg"
+        },
+        {
+          "name": "منى هلا",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/2965rscx0mfz2rYA8BKSLvTFE4I.jpg"
+        },
+        {
+          "name": "حنان مطاوع",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3Nl6UYi2fgswbZDL4B5NZEXRPyM.jpg"
+        },
+        {
+          "name": "درة",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/vF4NIuKm6pKe2Sdm1L8MqntbN0z.jpg"
+        },
+        {
+          "name": "إيمي المصري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/v6h6vrzpq6PLvW4LSk3VV3rpsq7.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T21:15:48+00:00",
+      "stop": "2026-11-17T22:45:53+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/haBLisI8bZtkr6QGza8pknLUNfX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/s4e3VeJ2EAbJYQBnhwfjxQ8lc7S.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/haBLisI8bZtkr6QGza8pknLUNfX.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T14:55:35+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 259409,
+      "title": "حلم عزيز",
+      "clean_title": "حلم عزيز",
+      "original_title": "حلم عزيز",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما يطارده والده المتوفي في أحلامه موجها له الإنذار الأخير، يجبر رجل أعمال محتال على إعادة النظر في أفعاله.",
+      "category": "إثارة",
+      "genres": [
+        "إثارة",
+        "كوميديا",
+        "دراما"
+      ],
+      "rating": 5.2,
+      "vote_count": 17,
+      "age_rating": null,
+      "year": "2012",
+      "release_date": "2012-06-06",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "عمرو عرفة",
+      "cast": [
+        {
+          "name": "أحمد عز",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/mgQhox7AbzVsQ8xeTZvkK5Gvkd4.jpg"
+        },
+        {
+          "name": "شريف منير",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/69ttY5VkABXQeTcFZBkxcxvaXjf.jpg"
+        },
+        {
+          "name": "مي كساب",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/n8CUAduiVrIKHAlCmyFKCpVwTwE.jpg"
+        },
+        {
+          "name": "محمد إمام",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dYaBJi6ggVZnBbnycJ1IdDsfgR.jpg"
+        },
+        {
+          "name": "Merritt",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/1QBodm6HJ7FBMwUNOWkZQGk7CAC.jpg"
+        },
+        {
+          "name": "رانيا منصور",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/siScxExlBOqBdGt3Mcq92MeW1Iz.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T22:45:53+00:00",
+      "stop": "2026-11-18T00:43:07+00:00",
+      "duration_minutes": 117,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/9gnfk0WYdzgkFG4HZbg9Cx694GP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oQ9XkCpGmVBG9EAOMYuIMvzq84c.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/9gnfk0WYdzgkFG4HZbg9Cx694GP.jpg",
+      "channel_icon": "https://i.imgur.com/cTLj7Yt.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أفلام",
+          "start": "2026-11-17T16:25:40+00:00"
+        }
+      ]
+    }
+  ]
+}

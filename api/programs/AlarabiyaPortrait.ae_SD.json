@@ -1,0 +1,4198 @@
+{
+  "channel_id": "AlarabiyaPortrait.ae@SD",
+  "channel_name": "Al Arabiya",
+  "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+  "programs": [
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T23:00:00+00:00",
+      "stop": "2026-11-15T23:26:00+00:00",
+      "duration_minutes": 26,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "بلا تحفظ",
+      "clean_title": "بلا تحفظ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بلا تحفظ",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج يكشف خفايا وأسرار العمل السياسي والاستخباراتي والعسكري الذي يحرك العالم بعيدا عن الإعلام وعدسات الكاميرا، مسلطا الضوء على ما يجري في الغرف المغلقة من خلال مقابلات مع ضباط وعملاء سابقين من مختلف الدول.",
+      "category": "سياسي",
+      "genres": [
+        "سياسي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T23:30:00+00:00",
+      "stop": "2026-11-16T00:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T01:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T00:00:00+00:00",
+      "stop": "2026-11-16T00:07:00+00:00",
+      "duration_minutes": 7,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ساعة حوار",
+      "clean_title": "ساعة حوار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ساعة حوار",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج نقاشي يعتمد استراتيجية الطاولة المستديرة بمساهمة قائمة منتقاة من أبرز الضيوف المختصين في مختلف المجالات، والذين تم استضافتهم على العربية سابقا.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T00:07:00+00:00",
+      "stop": "2026-11-16T01:00:00+00:00",
+      "duration_minutes": 53,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T00:05:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T00:05:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:00:00+00:00",
+      "stop": "2026-11-16T01:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أفلا يعقلون",
+      "clean_title": "أفلا يعقلون",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أفلا يعقلون",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج ديني يستضيف نخبة من كبار أساتذة وأعلام الشريعة والفكر من مختلف أنحاء العالم الإسلامي، بما يثري النقاش علميا ويعزز تقديم خطاب ديني معتدل وواع.",
+      "category": "ديني",
+      "genres": [
+        "ديني"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:30:00+00:00",
+      "stop": "2026-11-16T02:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T02:00:00+00:00",
+      "stop": "2026-11-16T02:05:00+00:00",
+      "duration_minutes": 5,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "خارج الصندوق",
+      "clean_title": "خارج الصندوق",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "خارج الصندوق",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج حواري يناقش أبرز الملفات الإخبارية بأسلوب العربية.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T02:05:00+00:00",
+      "stop": "2026-11-16T03:00:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T02:04:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T02:05:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T02:05:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T03:00:00+00:00",
+      "stop": "2026-11-16T03:04:00+00:00",
+      "duration_minutes": 4,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار الرياضة",
+      "clean_title": "أخبار الرياضة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أخبار الرياضة",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تعرف على آخر أخبار الرياضة من خلال نشرة رياضية متخصصة تهدف إلى توفير الأخبار والتحليلات المتعمقة حول الأحداث الإقليمية والدولية لتلبية احتياجات عشاق الرياضة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T03:04:00+00:00",
+      "stop": "2026-11-16T04:00:00+00:00",
+      "duration_minutes": 56,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T04:00:00+00:00",
+      "stop": "2026-11-16T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "صباح العربية",
+      "clean_title": "صباح العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "صباح العربية",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "انطلاقة صباحية منعشة مع أبرز الأخبار الخفيفة والموضوعات الاجتماعية والثقافية، بالإضافة إلى فقرات خاصة بالصحافة الإقليمية والطقس والرياضة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T05:00:00+00:00",
+      "stop": "2026-11-16T07:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T05:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T07:00:00+00:00",
+      "stop": "2026-11-16T07:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "نبض السوق",
+      "clean_title": "نبض السوق",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نبض السوق",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "المصدر الرئيسي لأخبار الاقتصاد والأعمال في الشرق الأوسط.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T07:30:00+00:00",
+      "stop": "2026-11-16T07:55:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T06:59:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T06:59:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T07:30:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T07:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كل يوم كتاب",
+      "clean_title": "كل يوم كتاب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كل يوم كتاب",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج يستعرض في كل حلقة كتاب تتنوع مواضيعه بين السياسية والثقافية والاجتماعية إلى جانب مقالات لصحفيين.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T07:55:00+00:00",
+      "stop": "2026-11-16T08:00:00+00:00",
+      "duration_minutes": 5,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T08:54:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T08:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T19:51:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T19:51:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T20:52:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T20:53:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T22:52:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T22:53:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T22:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:00:00+00:00",
+      "stop": "2026-11-16T08:55:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "كل يوم كتاب",
+      "clean_title": "كل يوم كتاب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كل يوم كتاب",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج يستعرض في كل حلقة كتاب تتنوع مواضيعه بين السياسية والثقافية والاجتماعية إلى جانب مقالات لصحفيين.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:55:00+00:00",
+      "stop": "2026-11-16T09:00:00+00:00",
+      "duration_minutes": 5,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T08:54:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T19:51:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T19:51:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T20:52:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T20:53:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T22:52:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T22:53:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T22:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T09:00:00+00:00",
+      "stop": "2026-11-16T09:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "الاسواق العربية",
+      "clean_title": "الاسواق العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الاسواق العربية",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "الأسواق العربية 2",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T09:30:00+00:00",
+      "stop": "2026-11-16T10:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T10:00:00+00:00",
+      "stop": "2026-11-16T10:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "غداء عمل",
+      "clean_title": "غداء عمل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "غداء عمل",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نشرة اقتصادية متخصصة تقدم أبرز أخبار الاقتصاد والشركات وتركز على ملف بالغ الأهمية بالنسبة لمجتمع الأعمال، تتضمن جولة سريعة على أداء أسواق الأسهم الإقليمية والعناوين الرئيسية للأسواق العالمية، إضافة إلى لقاءات سريعة مع محللين متابعين لحركة هذه الأسواق.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T10:30:00+00:00",
+      "stop": "2026-11-16T11:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T10:30:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T10:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T11:00:00+00:00",
+      "stop": "2026-11-16T11:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "جرس الإغلاق",
+      "clean_title": "جرس الإغلاق",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "جرس الإغلاق",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ملخص تنفيذي يومي لكل المهتمين بعالم المال والأعمال من متابعي الأخبار الاقتصادية ورجال الأعمال والمستثمرين الأفراد المتابعين لحركة الأسواق، بالإضافة إلى نظرة تفصيلية وتحليل يومي للمؤثرات على هذه الأسواق مع أحد المختصين المتابعين لها.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T11:30:00+00:00",
+      "stop": "2026-11-16T12:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T11:30:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T11:30:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T11:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار الرياضة",
+      "clean_title": "أخبار الرياضة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أخبار الرياضة",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تعرف على آخر أخبار الرياضة من خلال نشرة رياضية متخصصة تهدف إلى توفير الأخبار والتحليلات المتعمقة حول الأحداث الإقليمية والدولية لتلبية احتياجات عشاق الرياضة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:30:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T15:05:00+00:00",
+      "duration_minutes": 5,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "تفاعلCOM",
+      "clean_title": "تفاعلCOM",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "تفاعلCOM",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تفاعلكم... برنامج يومي من تقديم سارة دندراوي. يستعرض البرنامج أبرز الأحداث والمستجدات من مواضيع تفاعل معها الناس أو أثارت الجدل، سواء كانت تلك الأحداث سياسية أو اقتصادية أو اجتماعية أو رياضية أو فنية أو غيرها.",
+      "category": "اجتماعي",
+      "genres": [
+        "اجتماعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:05:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T15:05:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T15:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T16:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار الرياضة",
+      "clean_title": "أخبار الرياضة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أخبار الرياضة",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تعرف على آخر أخبار الرياضة من خلال نشرة رياضية متخصصة تهدف إلى توفير الأخبار والتحليلات المتعمقة حول الأحداث الإقليمية والدولية لتلبية احتياجات عشاق الرياضة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:30:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ساعة حوار",
+      "clean_title": "ساعة حوار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ساعة حوار",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج نقاشي يعتمد استراتيجية الطاولة المستديرة بمساهمة قائمة منتقاة من أبرز الضيوف المختصين في مختلف المجالات، والذين تم استضافتهم على العربية سابقا.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T00:07:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T00:07:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T00:05:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T00:05:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:00:00+00:00",
+      "stop": "2026-11-16T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:00:00+00:00",
+      "stop": "2026-11-16T19:51:00+00:00",
+      "duration_minutes": 51,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "كل يوم كتاب",
+      "clean_title": "كل يوم كتاب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كل يوم كتاب",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج يستعرض في كل حلقة كتاب تتنوع مواضيعه بين السياسية والثقافية والاجتماعية إلى جانب مقالات لصحفيين.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:51:00+00:00",
+      "stop": "2026-11-16T20:00:00+00:00",
+      "duration_minutes": 9,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T08:54:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T08:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T20:52:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T20:53:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T22:52:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T22:53:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T22:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "خارج الصندوق",
+      "clean_title": "خارج الصندوق",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "خارج الصندوق",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج حواري يناقش أبرز الملفات الإخبارية بأسلوب العربية.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:00:00+00:00",
+      "stop": "2026-11-16T20:53:00+00:00",
+      "duration_minutes": 53,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T02:04:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T02:05:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T02:05:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T02:05:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كل يوم كتاب",
+      "clean_title": "كل يوم كتاب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كل يوم كتاب",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج يستعرض في كل حلقة كتاب تتنوع مواضيعه بين السياسية والثقافية والاجتماعية إلى جانب مقالات لصحفيين.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:53:00+00:00",
+      "stop": "2026-11-16T21:00:00+00:00",
+      "duration_minutes": 7,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T08:54:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T08:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T19:51:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T19:51:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T20:52:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T22:52:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T22:53:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T22:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار الرياضة",
+      "clean_title": "أخبار الرياضة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أخبار الرياضة",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تعرف على آخر أخبار الرياضة من خلال نشرة رياضية متخصصة تهدف إلى توفير الأخبار والتحليلات المتعمقة حول الأحداث الإقليمية والدولية لتلبية احتياجات عشاق الرياضة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T21:00:00+00:00",
+      "stop": "2026-11-16T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:00:00+00:00",
+      "stop": "2026-11-16T22:53:00+00:00",
+      "duration_minutes": 53,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "كل يوم كتاب",
+      "clean_title": "كل يوم كتاب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كل يوم كتاب",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج يستعرض في كل حلقة كتاب تتنوع مواضيعه بين السياسية والثقافية والاجتماعية إلى جانب مقالات لصحفيين.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:53:00+00:00",
+      "stop": "2026-11-16T23:00:00+00:00",
+      "duration_minutes": 7,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T08:54:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T08:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T19:51:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T19:51:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T20:52:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T20:53:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T22:52:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T22:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T23:00:00+00:00",
+      "stop": "2026-11-16T23:21:00+00:00",
+      "duration_minutes": 21,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:00:00+00:00",
+      "stop": "2026-11-17T00:05:00+00:00",
+      "duration_minutes": 5,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ساعة حوار",
+      "clean_title": "ساعة حوار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ساعة حوار",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج نقاشي يعتمد استراتيجية الطاولة المستديرة بمساهمة قائمة منتقاة من أبرز الضيوف المختصين في مختلف المجالات، والذين تم استضافتهم على العربية سابقا.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:05:00+00:00",
+      "stop": "2026-11-17T01:00:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T00:07:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T00:07:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:00:00+00:00",
+      "stop": "2026-11-17T01:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "بلا تحفظ",
+      "clean_title": "بلا تحفظ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بلا تحفظ",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج يكشف خفايا وأسرار العمل السياسي والاستخباراتي والعسكري الذي يحرك العالم بعيدا عن الإعلام وعدسات الكاميرا، مسلطا الضوء على ما يجري في الغرف المغلقة من خلال مقابلات مع ضباط وعملاء سابقين من مختلف الدول.",
+      "category": "سياسي",
+      "genres": [
+        "سياسي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:30:00+00:00",
+      "stop": "2026-11-17T02:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-15T23:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T02:00:00+00:00",
+      "stop": "2026-11-17T02:05:00+00:00",
+      "duration_minutes": 5,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "خارج الصندوق",
+      "clean_title": "خارج الصندوق",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "خارج الصندوق",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج حواري يناقش أبرز الملفات الإخبارية بأسلوب العربية.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T02:05:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T02:04:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T02:05:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T03:05:00+00:00",
+      "duration_minutes": 5,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار الرياضة",
+      "clean_title": "أخبار الرياضة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أخبار الرياضة",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تعرف على آخر أخبار الرياضة من خلال نشرة رياضية متخصصة تهدف إلى توفير الأخبار والتحليلات المتعمقة حول الأحداث الإقليمية والدولية لتلبية احتياجات عشاق الرياضة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:05:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "صباح العربية",
+      "clean_title": "صباح العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "صباح العربية",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "انطلاقة صباحية منعشة مع أبرز الأخبار الخفيفة والموضوعات الاجتماعية والثقافية، بالإضافة إلى فقرات خاصة بالصحافة الإقليمية والطقس والرياضة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T05:00:00+00:00",
+      "stop": "2026-11-17T07:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T05:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T07:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "نبض السوق",
+      "clean_title": "نبض السوق",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نبض السوق",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "المصدر الرئيسي لأخبار الاقتصاد والأعمال في الشرق الأوسط.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T07:30:00+00:00",
+      "stop": "2026-11-17T07:55:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T06:59:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T07:30:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T07:30:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T06:59:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كل يوم كتاب",
+      "clean_title": "كل يوم كتاب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كل يوم كتاب",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج يستعرض في كل حلقة كتاب تتنوع مواضيعه بين السياسية والثقافية والاجتماعية إلى جانب مقالات لصحفيين.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T07:55:00+00:00",
+      "stop": "2026-11-17T08:00:00+00:00",
+      "duration_minutes": 5,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T08:54:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T08:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T19:51:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T19:51:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T20:52:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T20:53:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T22:52:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T22:53:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T22:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:00:00+00:00",
+      "stop": "2026-11-17T08:55:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "كل يوم كتاب",
+      "clean_title": "كل يوم كتاب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كل يوم كتاب",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج يستعرض في كل حلقة كتاب تتنوع مواضيعه بين السياسية والثقافية والاجتماعية إلى جانب مقالات لصحفيين.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:55:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
+      "duration_minutes": 5,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T08:54:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T08:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T19:51:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T19:51:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T20:52:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T20:53:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T22:52:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T22:53:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T22:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T09:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "الاسواق العربية",
+      "clean_title": "الاسواق العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الاسواق العربية",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "الأسواق العربية 2",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T09:30:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T09:30:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T09:30:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T10:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "غداء عمل",
+      "clean_title": "غداء عمل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "غداء عمل",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نشرة اقتصادية متخصصة تقدم أبرز أخبار الاقتصاد والشركات وتركز على ملف بالغ الأهمية بالنسبة لمجتمع الأعمال، تتضمن جولة سريعة على أداء أسواق الأسهم الإقليمية والعناوين الرئيسية للأسواق العالمية، إضافة إلى لقاءات سريعة مع محللين متابعين لحركة هذه الأسواق.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:30:00+00:00",
+      "stop": "2026-11-17T11:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T10:30:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T10:30:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:00:00+00:00",
+      "stop": "2026-11-17T11:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "جرس الإغلاق",
+      "clean_title": "جرس الإغلاق",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "جرس الإغلاق",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ملخص تنفيذي يومي لكل المهتمين بعالم المال والأعمال من متابعي الأخبار الاقتصادية ورجال الأعمال والمستثمرين الأفراد المتابعين لحركة الأسواق، بالإضافة إلى نظرة تفصيلية وتحليل يومي للمؤثرات على هذه الأسواق مع أحد المختصين المتابعين لها.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:30:00+00:00",
+      "stop": "2026-11-17T12:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T11:30:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T11:30:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T11:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار الرياضة",
+      "clean_title": "أخبار الرياضة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أخبار الرياضة",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تعرف على آخر أخبار الرياضة من خلال نشرة رياضية متخصصة تهدف إلى توفير الأخبار والتحليلات المتعمقة حول الأحداث الإقليمية والدولية لتلبية احتياجات عشاق الرياضة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:30:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T15:00:00+00:00",
+      "stop": "2026-11-17T15:05:00+00:00",
+      "duration_minutes": 5,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "تفاعلCOM",
+      "clean_title": "تفاعلCOM",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "تفاعلCOM",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تفاعلكم... برنامج يومي من تقديم سارة دندراوي. يستعرض البرنامج أبرز الأحداث والمستجدات من مواضيع تفاعل معها الناس أو أثارت الجدل، سواء كانت تلك الأحداث سياسية أو اقتصادية أو اجتماعية أو رياضية أو فنية أو غيرها.",
+      "category": "اجتماعي",
+      "genres": [
+        "اجتماعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T15:05:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T15:05:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T15:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T16:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار الرياضة",
+      "clean_title": "أخبار الرياضة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أخبار الرياضة",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تعرف على آخر أخبار الرياضة من خلال نشرة رياضية متخصصة تهدف إلى توفير الأخبار والتحليلات المتعمقة حول الأحداث الإقليمية والدولية لتلبية احتياجات عشاق الرياضة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T16:30:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ساعة حوار",
+      "clean_title": "ساعة حوار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ساعة حوار",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج نقاشي يعتمد استراتيجية الطاولة المستديرة بمساهمة قائمة منتقاة من أبرز الضيوف المختصين في مختلف المجالات، والذين تم استضافتهم على العربية سابقا.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T00:07:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T00:07:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T00:05:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T00:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T19:54:00+00:00",
+      "duration_minutes": 54,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "كل يوم كتاب",
+      "clean_title": "كل يوم كتاب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كل يوم كتاب",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج يستعرض في كل حلقة كتاب تتنوع مواضيعه بين السياسية والثقافية والاجتماعية إلى جانب مقالات لصحفيين.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:54:00+00:00",
+      "stop": "2026-11-17T20:00:00+00:00",
+      "duration_minutes": 6,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T08:54:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T08:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T19:51:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T19:51:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T20:52:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T20:53:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T22:52:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T22:53:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T22:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "خارج الصندوق",
+      "clean_title": "خارج الصندوق",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "خارج الصندوق",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج حواري يناقش أبرز الملفات الإخبارية بأسلوب العربية.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:00:00+00:00",
+      "stop": "2026-11-17T20:55:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T02:04:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T02:05:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T02:05:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T02:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كل يوم كتاب",
+      "clean_title": "كل يوم كتاب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كل يوم كتاب",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج يستعرض في كل حلقة كتاب تتنوع مواضيعه بين السياسية والثقافية والاجتماعية إلى جانب مقالات لصحفيين.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:55:00+00:00",
+      "stop": "2026-11-17T21:00:00+00:00",
+      "duration_minutes": 5,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T08:54:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T08:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T19:51:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T19:51:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T20:52:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T20:53:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T22:52:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T22:53:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T22:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار الرياضة",
+      "clean_title": "أخبار الرياضة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أخبار الرياضة",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تعرف على آخر أخبار الرياضة من خلال نشرة رياضية متخصصة تهدف إلى توفير الأخبار والتحليلات المتعمقة حول الأحداث الإقليمية والدولية لتلبية احتياجات عشاق الرياضة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:00:00+00:00",
+      "stop": "2026-11-17T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العربية",
+      "clean_title": "أخبار العربية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كن في الطليعة مع آخر الأخبار العاجلة وأهم الأحداث الجارية، بالإضافة إلى معرفة كل ما يدور حولك من أحداث سواء كانت في المنطقة العربية أو حول العالم.",
+      "category": "مسائل راهنة",
+      "genres": [
+        "مسائل راهنة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:00:00+00:00",
+      "stop": "2026-11-17T22:55:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "كل يوم كتاب",
+      "clean_title": "كل يوم كتاب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كل يوم كتاب",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج يستعرض في كل حلقة كتاب تتنوع مواضيعه بين السياسية والثقافية والاجتماعية إلى جانب مقالات لصحفيين.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:55:00+00:00",
+      "stop": "2026-11-17T23:00:00+00:00",
+      "duration_minutes": 5,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NXFkYFj.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T08:54:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T08:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T19:51:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T19:51:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T20:52:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T20:53:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T22:52:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-16T22:53:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "Al Arabiya",
+          "start": "2026-11-17T20:55:00+00:00"
+        }
+      ]
+    }
+  ]
+}

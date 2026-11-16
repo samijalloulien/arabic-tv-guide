@@ -1,0 +1,1329 @@
+{
+  "channel_id": "beINMovies1Premiere.qa@SD",
+  "channel_name": "بي إن موفيز بريمير",
+  "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+  "programs": [
+    {
+      "tmdb_id": 1126166,
+      "title": "Flight Risk",
+      "clean_title": "Flight Risk",
+      "original_title": "Flight Risk",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينطلق طيار في رحلة جوية لنقل مشير جوي وهارب من العدالة، وخلال عبورهم للمناطق البرية بألاسكا تتصاعد الأمور والتوترات، وتنكشف الحقائق على متن الطائرة.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "حركة",
+        "إثارة"
+      ],
+      "rating": 5.9,
+      "vote_count": 1274,
+      "age_rating": "R",
+      "year": "2025",
+      "release_date": "2025-01-22",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Mel Gibson",
+      "cast": [
+        {
+          "name": "مارك والبيرغ",
+          "character": "Daryl Booth",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg"
+        },
+        {
+          "name": "ميشيل دوكري",
+          "character": "Madolyn Harris",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pgPJGf2wAPgoC6Bp5PBJYQV7IVt.jpg"
+        },
+        {
+          "name": "توفر غريس",
+          "character": "Winston",
+          "profile_image": "https://image.tmdb.org/t/p/w185/89sF57Br5lq8nrepS7HLzJ41QD1.jpg"
+        },
+        {
+          "name": "Leah Remini",
+          "character": "Van Sant (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5tiOfc5IGgzXodMD475aY85ZdSf.jpg"
+        },
+        {
+          "name": "Maaz Ali",
+          "character": "Hassan (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/udDn3LgeZRaL1V518UL7n3ULhgF.jpg"
+        },
+        {
+          "name": "Paul Ben-Victor",
+          "character": "Coleridge (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/l7aHF2lKW6VLLFOvMIsVfkCDl1z.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=QSTrn6LmNT4",
+      "start": "2026-11-16T12:30:00+00:00",
+      "stop": "2026-11-16T14:15:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/srmH9BNiZp43NMhWCZy2ZARfxpC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hwlyY7LJdEFbCPaGNXiskKKmJ5X.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/srmH9BNiZp43NMhWCZy2ZARfxpC.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 696393,
+      "title": "Cold Storage",
+      "clean_title": "Cold Storage",
+      "original_title": "Cold Storage",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدور الأحداث في إطار من التشويق والإثارة، حول فطر مُخزن في إحدى المنشآت الحكومية، حيث يُفرج عنه، لكنه يتسبب في إحداث دمار يمتد تأثيره إلى العالم أجمع.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "رعب",
+        "خيال علمي",
+        "كوميديا"
+      ],
+      "rating": 6.7,
+      "vote_count": 879,
+      "age_rating": "R",
+      "year": "2026",
+      "release_date": "2026-01-22",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Jonny Campbell",
+      "cast": [
+        {
+          "name": "جورجينا كامبل",
+          "character": "Naomi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kgXHKjI728Nv7FLVf38S9QzHU2n.jpg"
+        },
+        {
+          "name": "جو كيري",
+          "character": "Teacake",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ayIAVLMfZGEGIFwAo3pPnY7p59.jpg"
+        },
+        {
+          "name": "ليام نيسون",
+          "character": "Robert Quinn",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+        },
+        {
+          "name": "Ellora Torchia",
+          "character": "Abigail",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xGeOoLNne2U3rViaL8adlT7Hhpl.jpg"
+        },
+        {
+          "name": "Vanessa Redgrave",
+          "character": "Mary Rooney",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hBsjc7cW1DA0V6APwe3A7ESH3Lv.jpg"
+        },
+        {
+          "name": "سوزي باكون",
+          "character": "Dr. Hero Martins",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pDvjTHGv8NhBkbIcBJFGt9zDw8.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T14:15:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/bjGw3ytNvJt566pHLxrholzAh5t.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/bjGw3ytNvJt566pHLxrholzAh5t.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 10533,
+      "title": "Scarlet",
+      "clean_title": "Scarlet",
+      "original_title": "The Scarlet Letter",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد فشلها في الانتقام لمقتل والدها، تستيقظ الأميرة (سكارليت) في أرض الموتى وعالمها المليء بالجنون، وتتسلل عبر الزمان والمكان في رحلة السعي للحصول على فرصة انتقامية أخيرة.",
+      "category": "فيلم - رسوم متحركة",
+      "genres": [
+        "فيلم - رسوم متحركة",
+        "دراما",
+        "رومنسية"
+      ],
+      "rating": 6.1,
+      "vote_count": 544,
+      "age_rating": "R",
+      "year": "1995",
+      "release_date": "1995-10-13",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Roland Joffé",
+      "cast": [
+        {
+          "name": "ديمي مور",
+          "character": "Hester Prynne",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+        },
+        {
+          "name": "غاري أولدمان",
+          "character": "Rev. Arthur Dimmesdale",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+        },
+        {
+          "name": "روبرت دوفال",
+          "character": "Roger Chillingworth",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
+        },
+        {
+          "name": "Lisa Andoh",
+          "character": "Mituba",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9Ho0JzMpftGyxOJiLfkFkYL2zpp.jpg"
+        },
+        {
+          "name": "إدوارد هاردويك",
+          "character": "Gov. John Bellingham",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gFWwj89HLAIehkWvNXw52m11FdS.jpg"
+        },
+        {
+          "name": "Robert Prosky",
+          "character": "Horace Stonehall",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yV95RE8UGyN8rZYF9W4fOGaAV6U.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/8gIU7O3oV6NyWUjlL6ppbpnIZLW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tZJIL1n3eGZd3mZyto3Ux2xNEBW.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/8gIU7O3oV6NyWUjlL6ppbpnIZLW.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن موفيز بريمير",
+          "start": "2026-11-17T10:44:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1175942,
+      "title": "The Bad Guys 2",
+      "clean_title": "The Bad Guy",
+      "original_title": "The Bad Guys 2",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 2,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بينما يمضي الأشرار قدمًا بحثًا عن القبول والمحبة في حياتهم الجديدة كأشخاص طيبين، تظهر ظروف جديدة تجبرهم على القيام بمهمة أخيرة في عالم الجريمة.",
+      "category": "فيلم - رسوم متحركة",
+      "genres": [
+        "فيلم - رسوم متحركة",
+        "عائلي",
+        "كوميديا",
+        "جريمة",
+        "مغامرة",
+        "رسوم متحركة",
+        "حركة"
+      ],
+      "rating": 7.6,
+      "vote_count": 953,
+      "age_rating": "PG",
+      "year": "2025",
+      "release_date": "2025-07-24",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "بيير بريفيل",
+      "cast": [
+        {
+          "name": "سام روكويل",
+          "character": "Wolf (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/afYhNpLwpa65Yy0Q0g00FNFhzx5.jpg"
+        },
+        {
+          "name": "مارك مارون",
+          "character": "Snake (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xzRBK8hR6693VQWmr3Wx2UVoA5P.jpg"
+        },
+        {
+          "name": "أوكوافينا",
+          "character": "Tarantula (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/l5AKkg3H1QhMuXmTTmq1EyjyiRb.jpg"
+        },
+        {
+          "name": "كريغ روبنسون",
+          "character": "Shark (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mTyTrOWUSOBJMOlDpnd4OYx7FlJ.jpg"
+        },
+        {
+          "name": "أنتوني راموس",
+          "character": "Piranha (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gCeRfH3aetIpZwKxe8Wl4ZYcQg5.jpg"
+        },
+        {
+          "name": "زازي بيتز",
+          "character": "Diane Foxington (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T18:00:00+00:00",
+      "stop": "2026-11-16T19:45:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/5kPBoixwBx2WBZPd14umvXfU3ib.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/5kPBoixwBx2WBZPd14umvXfU3ib.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن موفيز بريمير",
+          "start": "2026-11-17T08:59:00+00:00"
+        },
+        {
+          "channel": "بي إن موفيز بريمير",
+          "start": "2026-11-17T14:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1223601,
+      "title": "Sisu: Road to Revenge",
+      "clean_title": "Sisu: Road to Revenge",
+      "original_title": "Sisu 2",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدور أحداث الفيلم حول جندي سابق يعثر على ذهب في براري لابلاند، لكنه يواجه ضابطًا قاسيًا من قوات الأمن الخاصة وجنودًا ألمانًا خلال محاولته نقل الكنز إلى المدينة.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "حركة",
+        "حرب",
+        "إثارة"
+      ],
+      "rating": 7.3,
+      "vote_count": 965,
+      "age_rating": "R",
+      "year": "2025",
+      "release_date": "2025-10-21",
+      "status": "Released",
+      "country": "FI",
+      "language": "fi",
+      "director": "جالماري هيلاندير",
+      "cast": [
+        {
+          "name": "Jorma Tommila",
+          "character": "Aatami Korpi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ll9ZZR4kMnHS8FU2yHx76bnm0P.jpg"
+        },
+        {
+          "name": "Stephen Lang",
+          "character": "Yeagor Dragunov",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
+        },
+        {
+          "name": "ريتشارد بريك",
+          "character": "KGB Officer",
+          "profile_image": "https://image.tmdb.org/t/p/w185/JwsiErANShzPSdYsNoiNYdrSg1.jpg"
+        },
+        {
+          "name": "Tommi Korpela",
+          "character": "Finnish Man",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8RdCWktYZl0xF7SLZdRUKAoV7Ta.jpg"
+        },
+        {
+          "name": "Kaspar Velberg",
+          "character": "Pilot",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mYlQdQWoNdk7QdrqNqATNA7ZOWH.jpg"
+        },
+        {
+          "name": "Pääru Oja",
+          "character": "Militsioner",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yKNm7jeaOSCGqv5Dc5lnrtzSrAC.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T19:45:00+00:00",
+      "stop": "2026-11-16T21:15:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/qAekCwa6dktUq5wIvwxjt3Q4AGd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/dblYnDLvHAjTcjpYgWUEZyNYbqP.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/qAekCwa6dktUq5wIvwxjt3Q4AGd.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن موفيز بريمير",
+          "start": "2026-11-17T12:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1272837,
+      "title": "28 Years Later",
+      "clean_title": "28 Years Later",
+      "original_title": "28 Years Later: The Bone Temple",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدور الأحداث بعد (28 Weeks Later) بعدة أعوام، حيث يعود المرض للظهور من جديد وتزداد الإصابات بشكل سريع، مما يدفع مجموعة من الناجيين للكفاح في سبيل النجاة ومواجهة جيش المصابين.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "رعب",
+        "إثارة",
+        "خيال علمي"
+      ],
+      "rating": 7.1,
+      "vote_count": 1947,
+      "age_rating": "R",
+      "year": "2026",
+      "release_date": "2026-01-14",
+      "status": "Released",
+      "country": "المملكة المتحدة",
+      "language": "الإنجليزية",
+      "director": "نيا داكوستا",
+      "cast": [
+        {
+          "name": "رالف فاينس",
+          "character": "Dr. Kelson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+        },
+        {
+          "name": "Alfie Williams",
+          "character": "Spike",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3F46vn64Ya20rwtvTFVnqAK2LuI.jpg"
+        },
+        {
+          "name": "جاك أوكونيل",
+          "character": "Sir Jimmy Crystal",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tCzR4clrIkbkijuJBYsNoEuwRDa.jpg"
+        },
+        {
+          "name": "Erin Kellyman",
+          "character": "Jimmy Ink",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ngTdJIcwZ9YsyvXIR5PUzv9plwV.jpg"
+        },
+        {
+          "name": "Chi Lewis-Parry",
+          "character": "Samson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jAMu6BW9lDBVkawwB7VIi8CLai5.jpg"
+        },
+        {
+          "name": "Connor Newall",
+          "character": "Jimmy Shite",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tH5BfF7KwpfME997B0pZ57Bfi6h.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=nJTR10c0u0s",
+      "start": "2026-11-16T21:15:00+00:00",
+      "stop": "2026-11-16T22:59:00+00:00",
+      "duration_minutes": 104,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 839369,
+      "title": "May December",
+      "clean_title": "May December",
+      "original_title": "May December",
+      "tagline": "‫بعض الأدوار تحويلية.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد مرور 20 عامًا على علاقتهما الرومانسية التي نالت شهرة واسعة، يصبح زوجان تحت ضغط كبير تزامنًا مع وصول ممثلة شهيرة تسعى لتقديم عمل فني عن قصتهما.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما"
+      ],
+      "rating": 6.6,
+      "vote_count": 1111,
+      "age_rating": "R",
+      "year": "2023",
+      "release_date": "2023-11-16",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "تود هينز",
+      "cast": [
+        {
+          "name": "ناتالي بورتمان",
+          "character": "Elizabeth",
+          "profile_image": "https://image.tmdb.org/t/p/w185/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+        },
+        {
+          "name": "جوليان مور",
+          "character": "Gracie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
+        },
+        {
+          "name": "تشارلز ميلتون",
+          "character": "Joe Yoo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sxWslNRZdiBcPgwdVqoj7nSclr6.jpg"
+        },
+        {
+          "name": "Cory Michael Smith",
+          "character": "Georgie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/g9mXErE0CiFN8TTWaTCnurpcAeS.jpg"
+        },
+        {
+          "name": "Elizabeth Yu",
+          "character": "Mary Atherton-Yoo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1oNayhi4DS9nbN9cncKpPtOZXeQ.jpg"
+        },
+        {
+          "name": "Gabriel Barbosa",
+          "character": "Charlie Atherton-Yoo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tHWVcUd8tnoSiep76nI4rsquZY5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T00:59:00+00:00",
+      "stop": "2026-11-17T02:59:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/AjvC9hbyyyW4c7y0CSUiky5gapR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/97MOhHIgU6ZdLcB9DrAhx3WAqrU.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/AjvC9hbyyyW4c7y0CSUiky5gapR.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 1263337,
+      "title": "The Beast",
+      "clean_title": "The Beast",
+      "original_title": "Heart of the Beast",
+      "tagline": "يعتمد بقاؤهم على الرابطة التي تجمعهم.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في المستقبل القريب، بعد أن صارت المشاعر مصدرًا للخطر، تقرر (جابرييل) أن تنقي حمضها النووي بواسطة جهاز يغمرها في حيواتها السابقة ويخلصها من أية مشاعر قوية، ثم تقابل (لوي) فتشعر بأن بينهما رابطًا قويًا كأنها تعرفه طوال عمرها، وتتوالى الأحداث.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "مغامرة",
+        "إثارة"
+      ],
+      "rating": 7.6,
+      "vote_count": 895,
+      "age_rating": "PG-13",
+      "year": "2026",
+      "release_date": "2026-09-19",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "ديفيد آير",
+      "cast": [
+        {
+          "name": "براد بيت",
+          "character": "James Belmont",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+        },
+        {
+          "name": "جي كي سيمونز",
+          "character": "Watkins",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+        },
+        {
+          "name": "آنا لامب",
+          "character": "Amber",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cKm5ZnAOVc6nD8KAgSDMJdZclYH.jpg"
+        },
+        {
+          "name": "Justin Melnick",
+          "character": "Military Soldier",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sE5W8tononGWHKH2Z6GLeUHXeyP.jpg"
+        },
+        {
+          "name": "Shaun DeZern",
+          "character": "Military Soldier",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iORM61n9AM6ldFm7C4t8dm9pRLq.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T02:59:00+00:00",
+      "stop": "2026-11-17T05:29:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/5Jx6LOSb8eszxsvtynZkbfQaIWK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/5Jx6LOSb8eszxsvtynZkbfQaIWK.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 1469354,
+      "title": "Border Hunters",
+      "clean_title": "Border Hunters",
+      "original_title": "Border Hunters",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسافر رجل أمريكي ذو خلفية في إنفاد القانون والجيش إلى جنوب البلاد سعيًا للانتقام، وذلك بعد مقتل شقيقه ضابط الشرطة على يد تاجر مخدرات هرب إلى عمه المرتبط بعصابات المخدرات في المكسيك.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "حركة",
+        "إثارة"
+      ],
+      "rating": 6.2,
+      "vote_count": 63,
+      "age_rating": "R",
+      "year": "2025",
+      "release_date": "2025-10-20",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Ruben Islas",
+      "cast": [
+        {
+          "name": "دين نوريس",
+          "character": "Abraham",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mKRrEbsxAX3ro700HsViFArRM7l.jpg"
+        },
+        {
+          "name": "Julio Macias",
+          "character": "Andro",
+          "profile_image": "https://image.tmdb.org/t/p/w185/uyCFrzrUXfNn3VMz5xhsCr6EkFR.jpg"
+        },
+        {
+          "name": "Danforth Comins",
+          "character": "Jake",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qkmqseaHqrtX7zBduJ1z0ypPKEl.jpg"
+        },
+        {
+          "name": "Ramón Medína",
+          "character": "Nando",
+          "profile_image": null
+        },
+        {
+          "name": "Pía Sanz",
+          "character": "Angelica",
+          "profile_image": null
+        },
+        {
+          "name": "Eligio Meléndez",
+          "character": "Ezekiel",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9fxr0eAMl2DXVv8as4juIGXkD08.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T05:29:00+00:00",
+      "stop": "2026-11-17T06:59:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/6TNFZnJ5CU0uFQxGaO9dbqriiI7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tRdorrIjlybrGsebXOzgF7vRyYy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/6TNFZnJ5CU0uFQxGaO9dbqriiI7.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 82379,
+      "title": "Day of the Fight",
+      "clean_title": "Day of the Fight",
+      "original_title": "Custer of the West",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في إطار من الدراما الرياضية، يتتبع العمل قصة ملاكم مشهور خلال رحلة التحرر عبر ماضيه وحاضره، في أول يوم قتال له منذ خروجه من السجن.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "تاريخ",
+        "غربي",
+        "دراما"
+      ],
+      "rating": 5.9,
+      "vote_count": 36,
+      "age_rating": "G",
+      "year": "1967",
+      "release_date": "1967-11-09",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Robert Siodmak",
+      "cast": [
+        {
+          "name": "Robert Shaw",
+          "character": "General George Armstrong Custer",
+          "profile_image": "https://image.tmdb.org/t/p/w185/c8SIbGEmGIfhD9bObSf4FELUEns.jpg"
+        },
+        {
+          "name": "Mary Ure",
+          "character": "Elizabeth Custer",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3T1yZQSwLIRM0cE6vuBWHgsTvD5.jpg"
+        },
+        {
+          "name": "Ty Hardin",
+          "character": "Major Marcus Reno",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yAs5uuenoUTj5szJ62MdoqxDjPS.jpg"
+        },
+        {
+          "name": "Jeffrey Hunter",
+          "character": "Captain Benteen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fWHskNEOlfgktpjhcacC2ri0RwO.jpg"
+        },
+        {
+          "name": "Lawrence Tierney",
+          "character": "General Philip Sheridan",
+          "profile_image": "https://image.tmdb.org/t/p/w185/crtpxUAnPrZFSrLjbsTUTdGn72W.jpg"
+        },
+        {
+          "name": "Marc Lawrence",
+          "character": "Gold Miner",
+          "profile_image": "https://image.tmdb.org/t/p/w185/exCnOfb7yD7VSppd32RA9K4TIWx.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T06:59:00+00:00",
+      "stop": "2026-11-17T08:59:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ha6x7zXvJrgHiaXu5bQBcDaS7QS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ozW6egWkcplKWi00ghgKFrKjHE5.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ha6x7zXvJrgHiaXu5bQBcDaS7QS.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 1175942,
+      "title": "The Bad Guys 2",
+      "clean_title": "The Bad Guy",
+      "original_title": "The Bad Guys 2",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 2,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بينما يمضي الأشرار قدمًا بحثًا عن القبول والمحبة في حياتهم الجديدة كأشخاص طيبين، تظهر ظروف جديدة تجبرهم على القيام بمهمة أخيرة في عالم الجريمة.",
+      "category": "فيلم - رسوم متحركة",
+      "genres": [
+        "فيلم - رسوم متحركة",
+        "عائلي",
+        "كوميديا",
+        "جريمة",
+        "مغامرة",
+        "رسوم متحركة",
+        "حركة"
+      ],
+      "rating": 7.6,
+      "vote_count": 953,
+      "age_rating": "PG",
+      "year": "2025",
+      "release_date": "2025-07-24",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "بيير بريفيل",
+      "cast": [
+        {
+          "name": "سام روكويل",
+          "character": "Wolf (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/afYhNpLwpa65Yy0Q0g00FNFhzx5.jpg"
+        },
+        {
+          "name": "مارك مارون",
+          "character": "Snake (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xzRBK8hR6693VQWmr3Wx2UVoA5P.jpg"
+        },
+        {
+          "name": "أوكوافينا",
+          "character": "Tarantula (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/l5AKkg3H1QhMuXmTTmq1EyjyiRb.jpg"
+        },
+        {
+          "name": "كريغ روبنسون",
+          "character": "Shark (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mTyTrOWUSOBJMOlDpnd4OYx7FlJ.jpg"
+        },
+        {
+          "name": "أنتوني راموس",
+          "character": "Piranha (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gCeRfH3aetIpZwKxe8Wl4ZYcQg5.jpg"
+        },
+        {
+          "name": "زازي بيتز",
+          "character": "Diane Foxington (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T08:59:00+00:00",
+      "stop": "2026-11-17T10:44:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/5kPBoixwBx2WBZPd14umvXfU3ib.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/5kPBoixwBx2WBZPd14umvXfU3ib.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن موفيز بريمير",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن موفيز بريمير",
+          "start": "2026-11-17T14:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 10533,
+      "title": "Scarlet",
+      "clean_title": "Scarlet",
+      "original_title": "The Scarlet Letter",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد فشلها في الانتقام لمقتل والدها، تستيقظ الأميرة (سكارليت) في أرض الموتى وعالمها المليء بالجنون، وتتسلل عبر الزمان والمكان في رحلة السعي للحصول على فرصة انتقامية أخيرة.",
+      "category": "فيلم - رسوم متحركة",
+      "genres": [
+        "فيلم - رسوم متحركة",
+        "دراما",
+        "رومنسية"
+      ],
+      "rating": 6.1,
+      "vote_count": 544,
+      "age_rating": "R",
+      "year": "1995",
+      "release_date": "1995-10-13",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Roland Joffé",
+      "cast": [
+        {
+          "name": "ديمي مور",
+          "character": "Hester Prynne",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+        },
+        {
+          "name": "غاري أولدمان",
+          "character": "Rev. Arthur Dimmesdale",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+        },
+        {
+          "name": "روبرت دوفال",
+          "character": "Roger Chillingworth",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
+        },
+        {
+          "name": "Lisa Andoh",
+          "character": "Mituba",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9Ho0JzMpftGyxOJiLfkFkYL2zpp.jpg"
+        },
+        {
+          "name": "إدوارد هاردويك",
+          "character": "Gov. John Bellingham",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gFWwj89HLAIehkWvNXw52m11FdS.jpg"
+        },
+        {
+          "name": "Robert Prosky",
+          "character": "Horace Stonehall",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yV95RE8UGyN8rZYF9W4fOGaAV6U.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T10:44:00+00:00",
+      "stop": "2026-11-17T12:45:00+00:00",
+      "duration_minutes": 121,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/8gIU7O3oV6NyWUjlL6ppbpnIZLW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tZJIL1n3eGZd3mZyto3Ux2xNEBW.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/8gIU7O3oV6NyWUjlL6ppbpnIZLW.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن موفيز بريمير",
+          "start": "2026-11-16T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1223601,
+      "title": "Sisu: Road to Revenge",
+      "clean_title": "Sisu: Road to Revenge",
+      "original_title": "Sisu 2",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدور أحداث الفيلم حول جندي سابق يعثر على ذهب في براري لابلاند، لكنه يواجه ضابطًا قاسيًا من قوات الأمن الخاصة وجنودًا ألمانًا خلال محاولته نقل الكنز إلى المدينة.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "حركة",
+        "حرب",
+        "إثارة"
+      ],
+      "rating": 7.3,
+      "vote_count": 965,
+      "age_rating": "R",
+      "year": "2025",
+      "release_date": "2025-10-21",
+      "status": "Released",
+      "country": "FI",
+      "language": "fi",
+      "director": "جالماري هيلاندير",
+      "cast": [
+        {
+          "name": "Jorma Tommila",
+          "character": "Aatami Korpi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ll9ZZR4kMnHS8FU2yHx76bnm0P.jpg"
+        },
+        {
+          "name": "Stephen Lang",
+          "character": "Yeagor Dragunov",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
+        },
+        {
+          "name": "ريتشارد بريك",
+          "character": "KGB Officer",
+          "profile_image": "https://image.tmdb.org/t/p/w185/JwsiErANShzPSdYsNoiNYdrSg1.jpg"
+        },
+        {
+          "name": "Tommi Korpela",
+          "character": "Finnish Man",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8RdCWktYZl0xF7SLZdRUKAoV7Ta.jpg"
+        },
+        {
+          "name": "Kaspar Velberg",
+          "character": "Pilot",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mYlQdQWoNdk7QdrqNqATNA7ZOWH.jpg"
+        },
+        {
+          "name": "Pääru Oja",
+          "character": "Militsioner",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yKNm7jeaOSCGqv5Dc5lnrtzSrAC.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T12:45:00+00:00",
+      "stop": "2026-11-17T14:15:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/qAekCwa6dktUq5wIvwxjt3Q4AGd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/dblYnDLvHAjTcjpYgWUEZyNYbqP.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/qAekCwa6dktUq5wIvwxjt3Q4AGd.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن موفيز بريمير",
+          "start": "2026-11-16T19:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1175942,
+      "title": "The Bad Guys 2",
+      "clean_title": "The Bad Guy",
+      "original_title": "The Bad Guys 2",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 2,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بينما يمضي الأشرار قدمًا بحثًا عن القبول والمحبة في حياتهم الجديدة كأشخاص طيبين، تظهر ظروف جديدة تجبرهم على القيام بمهمة أخيرة في عالم الجريمة.",
+      "category": "فيلم - رسوم متحركة",
+      "genres": [
+        "فيلم - رسوم متحركة",
+        "عائلي",
+        "كوميديا",
+        "جريمة",
+        "مغامرة",
+        "رسوم متحركة",
+        "حركة"
+      ],
+      "rating": 7.6,
+      "vote_count": 953,
+      "age_rating": "PG",
+      "year": "2025",
+      "release_date": "2025-07-24",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "بيير بريفيل",
+      "cast": [
+        {
+          "name": "سام روكويل",
+          "character": "Wolf (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/afYhNpLwpa65Yy0Q0g00FNFhzx5.jpg"
+        },
+        {
+          "name": "مارك مارون",
+          "character": "Snake (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xzRBK8hR6693VQWmr3Wx2UVoA5P.jpg"
+        },
+        {
+          "name": "أوكوافينا",
+          "character": "Tarantula (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/l5AKkg3H1QhMuXmTTmq1EyjyiRb.jpg"
+        },
+        {
+          "name": "كريغ روبنسون",
+          "character": "Shark (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mTyTrOWUSOBJMOlDpnd4OYx7FlJ.jpg"
+        },
+        {
+          "name": "أنتوني راموس",
+          "character": "Piranha (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gCeRfH3aetIpZwKxe8Wl4ZYcQg5.jpg"
+        },
+        {
+          "name": "زازي بيتز",
+          "character": "Diane Foxington (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T14:15:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/5kPBoixwBx2WBZPd14umvXfU3ib.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/5kPBoixwBx2WBZPd14umvXfU3ib.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن موفيز بريمير",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن موفيز بريمير",
+          "start": "2026-11-17T08:59:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1086497,
+      "title": "The Penguin Lessons",
+      "clean_title": "The Penguin Lessons",
+      "original_title": "The Penguin Lessons",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتبدل حياة الرجل الإنجليزي (توم ميشيل) بعد قراره بتبني بطريق ورعايته، فيمر بالعديد من التطورات في حياته الشخصية والسياسية خلال فترة حرجة بتاريخ الأرجنتين.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما"
+      ],
+      "rating": 7.1,
+      "vote_count": 186,
+      "age_rating": "PG-13",
+      "year": "2025",
+      "release_date": "2025-03-27",
+      "status": "Released",
+      "country": "المملكة المتحدة",
+      "language": "الإنجليزية",
+      "director": "Peter Cattaneo",
+      "cast": [
+        {
+          "name": "ستيف كوجان",
+          "character": "Tom Michell",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg"
+        },
+        {
+          "name": "Jonathan Pryce",
+          "character": "Headmaster Buckle",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3nQ01F9WPNPzzLblY7XyaihT9JT.jpg"
+        },
+        {
+          "name": "Vivian El Jaber",
+          "character": "Maria",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nihBrNgC8HluV6NqRvp3ssbXytB.jpg"
+        },
+        {
+          "name": "Björn Gustafsson",
+          "character": "Tapio",
+          "profile_image": "https://image.tmdb.org/t/p/w185/70iVhIfiswXAHDqKWMhSSFAIkhH.jpg"
+        },
+        {
+          "name": "Alfonsina Carrocio",
+          "character": "Sofia",
+          "profile_image": "https://image.tmdb.org/t/p/w185/btQzRpByqEKTqjcMeqpTAHjAhxd.jpg"
+        },
+        {
+          "name": "David Herrero",
+          "character": "Diego",
+          "profile_image": "https://image.tmdb.org/t/p/w185/x9Excv1HsMBNMcyAt2UR5pRcd4b.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/pJUfkCcU5mCEMF8O0LKvlMnYAfD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/bNTUgxHYaDmLo1SfRtahcM16XMi.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/pJUfkCcU5mCEMF8O0LKvlMnYAfD.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "Den of Thieves 2: Pantera",
+      "clean_title": "Den of Thieve: Pantera",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعود (بيك نيك) إلى العمل من جديد في أوروبا ويتقرب من (دوني) المتورط بعالم لصوص الألماس، حيث يخططان لسرقة أكبر بورصة للماس في العالم، ولكن في طريقهما يصطدمان بمافيا بانثيرا شديدة الخطورة.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T20:15:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 944194,
+      "title": "The Great Escaper",
+      "clean_title": "The Great Escaper",
+      "original_title": "The Great Escaper",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في إطار من الدراما، يهرب بيرنارد جوردان من منزل لرعاية المسنين؛ في سبيل حضور احتفالات الذكرى الـ70 لغزو نورمندي في فرنسا.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "تاريخ",
+        "دراما",
+        "حرب"
+      ],
+      "rating": 6.7,
+      "vote_count": 186,
+      "age_rating": "12A",
+      "year": "2023",
+      "release_date": "2023-10-06",
+      "status": "Released",
+      "country": "المملكة المتحدة",
+      "language": "الإنجليزية",
+      "director": "Oliver Parker",
+      "cast": [
+        {
+          "name": "مايكل كين",
+          "character": "Bernard Jordan",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+        },
+        {
+          "name": "Glenda Jackson",
+          "character": "Irene Jordan",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hRkDjkUKuZEJQOkjPPNQEsxsGRi.jpg"
+        },
+        {
+          "name": "John Standing",
+          "character": "Arthur",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hQpTeZDljWR2F9n1PcL7sXilwCE.jpg"
+        },
+        {
+          "name": "Will Fletcher",
+          "character": "Young Bernard",
+          "profile_image": "https://image.tmdb.org/t/p/w185/muaodyITSCIODVh3xZvTd4OFy4x.jpg"
+        },
+        {
+          "name": "Laura Marcus",
+          "character": "Young Irene",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qOb3RDJCMeGVc9aVfLNgTD5RTMw.jpg"
+        },
+        {
+          "name": "Victor Oshin",
+          "character": "Scott",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4qjtPdj8WKaJJS8ooG3UkKB1ClH.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T20:15:00+00:00",
+      "stop": "2026-11-17T22:00:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/50rOFWgFUsCw3zfwSKXcdglh3Ji.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/dcGf6amsVeJ2oT75GhpeqavCWO8.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/50rOFWgFUsCw3zfwSKXcdglh3Ji.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 853387,
+      "title": "Lord of Misrule",
+      "clean_title": "Lord of Misrule",
+      "original_title": "Lord of Misrule",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في إطار من الرعب، تسعى السلطات لكشف لغز اختفاء ابنة الوزير الجديد في إحدى المدن، ثم يتكشف التاريخ المظلم للمدينة وما يحمله من أسرار عدة، وتتوالى الأحداث.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "رعب",
+        "غموض",
+        "إثارة"
+      ],
+      "rating": 5.7,
+      "vote_count": 177,
+      "age_rating": "NR",
+      "year": "2023",
+      "release_date": "2023-10-26",
+      "status": "Released",
+      "country": "المملكة المتحدة",
+      "language": "الإنجليزية",
+      "director": "William Brent Bell",
+      "cast": [
+        {
+          "name": "توبنس ميدلتون",
+          "character": "Rebecca Holland",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rYmvH8IqHU1JzGw2FeggoY6QJdI.jpg"
+        },
+        {
+          "name": "Jane Wood",
+          "character": "Ida Tremlow",
+          "profile_image": null
+        },
+        {
+          "name": "Evie Templeton",
+          "character": "Grace Holland",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1JV3FEULVnROl4APfkUprqTrFF6.jpg"
+        },
+        {
+          "name": "Matt Stokoe",
+          "character": "Henry Holland",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3DduVhDjIZIgLx9E9VwICeFmHNh.jpg"
+        },
+        {
+          "name": "George Keeler",
+          "character": "Dave Garfoot",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vx3WtslktYjjLXMzLD8qdwU8vFw.jpg"
+        },
+        {
+          "name": "Sally Plumb",
+          "character": "Marjorie Garfoot",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fpQpBmN187RBnDq9I45BeX9WN81.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T22:59:00+00:00",
+      "stop": "2026-11-18T00:59:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3cxMwPuV5BroI91DZLGdio6WB34.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8mnswbAAq9kvkUpzcbTfSrt1DpN.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3cxMwPuV5BroI91DZLGdio6WB34.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    }
+  ]
+}

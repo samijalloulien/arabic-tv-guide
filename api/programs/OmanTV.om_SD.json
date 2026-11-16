@@ -1,0 +1,5083 @@
+{
+  "channel_id": "OmanTV.om@SD",
+  "channel_name": "Oman TV",
+  "channel_icon": "https://i.imgur.com/rBftT9x.png",
+  "programs": [
+    {
+      "tmdb_id": null,
+      "title": "قهوة الصباح",
+      "clean_title": "قهوة الصباح",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": ".دليلك الشامل لتعرف آخر الفعاليات والأحداث الهامة التي تقع داخل سلطنة عمان",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T23:00:00+00:00",
+      "stop": "2026-11-16T00:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T05:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T05:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "خير يبقى",
+      "clean_title": "خير يبقى",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج يرشد المسلم لرفع مستوى أفكاره ومشاعره الإيمانية خلال الصيام.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T00:30:00+00:00",
+      "stop": "2026-11-16T00:40:00+00:00",
+      "duration_minutes": 10,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T00:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أعلام عمان",
+      "clean_title": "أعلام عمان",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج يستعرض سير وحياة عدد من الصحابة والتابعين من العمانيين الذين كان لهم حضور في التاريخ الإسلامي، مسلطًا الضوء على أدوارهم في نشر الإسلام وترسيخ قيمه.",
+      "category": "سيرة ذاتية",
+      "genres": [
+        "سيرة ذاتية"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T00:40:00+00:00",
+      "stop": "2026-11-16T01:06:00+00:00",
+      "duration_minutes": 26,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T14:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T00:40:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T14:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "من عمان",
+      "clean_title": "من عمان",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تغطية خاصة من قلب دولة عمان لأهم التطورات والأحداث التي تقع داخل السلطنة وتهم رجل الشارع.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:06:00+00:00",
+      "stop": "2026-11-16T02:00:00+00:00",
+      "duration_minutes": 54,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T08:15:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T01:06:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T08:15:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هادسون وريكس",
+      "clean_title": "هادسون وريكس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يشكل المحقق هادسن والكلب الألماني ذو التدريبات الفائقة ريكس فريقًا متميزًأ ينجح في حل العديد من الجرائم.",
+      "category": "تشويق",
+      "genres": [
+        "تشويق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T02:00:00+00:00",
+      "stop": "2026-11-16T02:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T10:35:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T10:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "في أحضان الرفاهية",
+      "clean_title": "في أحضان الرفاهية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "في أحضان الرفاهية",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في قلب الطبيعة الساحرة بدول مختلفة ومناطق معزولة عن العالم، تقع بعض النزل التي تم تصميمها وبنائها بعناية فائقة وأسلوب عصري ومتميز يتماشى مع الطبيعة من حولها؛ فيجعلها مكاناً استثنائياً لكل من يتمنى هذه الحالة من الاسترخاء.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T02:45:00+00:00",
+      "stop": "2026-11-16T03:20:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T11:20:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T02:45:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T11:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 285156,
+      "title": "سدف",
+      "clean_title": "سدف",
+      "original_title": "سدف",
+      "tagline": null,
+      "episode_title": "سدف",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في فترة السبعينيات، يتحرى المحقق شاهين في اختفاء عدة نساء في ظروف غامضة، حيث يترك الخاطف وراءه صوراً لهن لحظة اختفائهن في مسرح الجريمة، لتكون الخيط الوحيد، مما يزيد الغموض وينطوي على أسرار غير متوقعة.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-01",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "بثينة الرئيسي",
+          "character": "أماني",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8sT0FCn1lEFVFQ5RIOCnyOGTTOu.jpg"
+        },
+        {
+          "name": "أحمد إيراج",
+          "character": "فهد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yeVmETvIVYkmInhw8HlihLhI1o7.jpg"
+        },
+        {
+          "name": "حسين المهدي",
+          "character": "فايز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/SoCeLXz27ABeFBWQi1Nr9gqvfY.jpg"
+        },
+        {
+          "name": "عبدالله بهمن",
+          "character": "شاهين",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8V16AwEEtOymTJwF9jaQxthpH5v.jpg"
+        },
+        {
+          "name": "خالد العجيرب",
+          "character": "عدنان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oNFrcgpt7XIgCCQsnJMMZe5KoV5.jpg"
+        },
+        {
+          "name": "غدير السبتي",
+          "character": "تهاني",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vpmfOwlo4l43dZT5sXs9GWtN8ef.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T03:20:00+00:00",
+      "stop": "2026-11-16T04:00:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/n2HY1veB2O7HR31KI6TiR3t44ID.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mB93vfHM2w81nTbwMyD2SyYNT1J.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/n2HY1veB2O7HR31KI6TiR3t44ID.jpg",
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T13:50:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T22:20:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T03:20:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T13:50:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T22:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "آية ودعاء",
+      "clean_title": "آية ودعاء",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "آية ودعاء",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يزخر القرآن الكريم بالعديد من القصص حول الأنبياء الكرام وحياتهم والعقبات التي واجهتهم وردود أفعال أقوامهم تجاه دعواتهم ليعطي الناس الموعظة والعبرة. ويذهب الراوي إلى المدينة ويقابل إحدى الأسر.",
+      "category": "تاريخي",
+      "genres": [
+        "تاريخي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T04:00:00+00:00",
+      "stop": "2026-11-16T04:15:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T11:45:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T11:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فريق النخبة",
+      "clean_title": "فريق النخبة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقود فتى المدينة فريقاً من الحيوانات في مهام إنقاذ عبر أرجاء المدينة، مستعينين بمركبات متطورة ومهاراتهم لمساعدة المحتاجين، ونشر الوعي بقواعد السلامة العامة من خلال المواقف والتحديات التي يواجهونها.",
+      "category": "مغامرات",
+      "genres": [
+        "مغامرات"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T04:15:00+00:00",
+      "stop": "2026-11-16T04:30:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T04:15:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فريق إطفاء ورد",
+      "clean_title": "فريق إطفاء ورد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينطلق الإطفائي ورد مع فريقه المرح لمساعدة الأطفال في المواقف الصعبة، فتتحول كل مهمة إنقاذ إلى تجربة مليئة بالمرح إلى درسٝ ممتع في السلامة والعمل الجماعي والشجاعة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T04:30:00+00:00",
+      "stop": "2026-11-16T04:45:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T04:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إثبات نسب",
+      "clean_title": "إثبات نسب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إثبات نسب",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تخوض أم حرب شرسة ضد أصحاب النفوذ والمال لإثبات نسب طفلها الوحيد. لكن تحاصرها اتهامات بالجنون مما يشككها في سلامتها العقلية وذاكرتها لتجد نفسها مجبرة على مواجهة الجميع بمفردها.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T04:45:00+00:00",
+      "stop": "2026-11-16T05:25:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T23:50:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T04:45:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مناشدة",
+      "clean_title": "مناشدة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "لقاءات مع سكان سلطنة عمان البسطاء واكتشاف المعالم السياحية في هذا البلد الرائع، الذي يٝعد من أبرز الوجهات السياحية.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T05:25:00+00:00",
+      "stop": "2026-11-16T05:30:00+00:00",
+      "duration_minutes": 5,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T05:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T14:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "قهوة الصباح",
+      "clean_title": "قهوة الصباح",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": ".دليلك الشامل لتعرف آخر الفعاليات والأحداث الهامة التي تقع داخل سلطنة عمان",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T05:30:00+00:00",
+      "stop": "2026-11-16T06:55:00+00:00",
+      "duration_minutes": 85,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T05:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار الحاديه عشر",
+      "clean_title": "أخبار الحاديه عشر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "متابعة لكل المستجدات على كل الأصعدة حتى هذه الساعة مع عرض مفصل لها ليظل المشاهد على دراية بكل ما يدور من أحداث.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T06:55:00+00:00",
+      "stop": "2026-11-16T07:30:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "نظر عيني",
+      "clean_title": "نظر عيني",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نظر عيني",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تاجر كبير يربي حفيده الأعمى بعيدا عن والديه، فيبعثه مع أحد أصدقائه إلى البحرين ليعرضه على الأطباء هناك ولكن يتوفى هذا الصديق ليظل الطفل وحيدا فى هذه البلاد محاولا إيجاد هويته الحقيقية.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T07:30:00+00:00",
+      "stop": "2026-11-16T08:15:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T19:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T07:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "من عمان",
+      "clean_title": "من عمان",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تغطية خاصة من قلب دولة عمان لأهم التطورات والأحداث التي تقع داخل السلطنة وتهم رجل الشارع.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:15:00+00:00",
+      "stop": "2026-11-16T08:27:00+00:00",
+      "duration_minutes": 12,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T01:06:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T01:06:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T08:15:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أفنان",
+      "clean_title": "أفنان",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تصحبنا الإعلامية مشاعل القاسمية في رحلة ثرية للتعرف على آخر أخبار الفن والسينما والمسرح والموسيقى في دول الخليج وحول العالم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:27:00+00:00",
+      "stop": "2026-11-16T09:00:00+00:00",
+      "duration_minutes": 33,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T09:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T08:27:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T09:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "من كل بلد حكاية",
+      "clean_title": "من كل بلد حكاية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "من كل بلد حكاية\" هو برنامج يتناول قصصًا من كل بلد في العالم العربي، حيث يتم اختيار مجموعة من الحكايات التي تعكس التقاليد والقيم النبيلة لكل بلد.",
+      "category": "تاريخي",
+      "genres": [
+        "تاريخي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T09:00:00+00:00",
+      "stop": "2026-11-16T09:05:00+00:00",
+      "duration_minutes": 5,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 127214,
+      "title": "أما بعد",
+      "clean_title": "أما بعد",
+      "original_title": "Ama Baed Show",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "يتناول مواضيع مختلفة التي تهم المجتمع فيعرض وجهات النظر المتعددة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": "2018-06-07",
+      "status": "Ended",
+      "country": null,
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "سعد عبدالعزيز",
+          "character": "اكثر من شخصية",
+          "profile_image": null
+        },
+        {
+          "name": "فيصل الأحمري",
+          "character": "ممثل، كاتب ومقدم البرامج",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gg696AAs3Xbv0gyTbtMdFNkRJX8.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T09:05:00+00:00",
+      "stop": "2026-11-16T09:25:00+00:00",
+      "duration_minutes": 20,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vOGNCGH9ak8zoKGLDZoltJFGq2m.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/vOGNCGH9ak8zoKGLDZoltJFGq2m.jpg",
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T09:05:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T09:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 127214,
+      "title": "أما بعد",
+      "clean_title": "أما بعد",
+      "original_title": "Ama Baed Show",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "يتناول مواضيع مختلفة التي تهم المجتمع فيعرض وجهات النظر المتعددة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": "2018-06-07",
+      "status": "Ended",
+      "country": null,
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "سعد عبدالعزيز",
+          "character": "اكثر من شخصية",
+          "profile_image": null
+        },
+        {
+          "name": "فيصل الأحمري",
+          "character": "ممثل، كاتب ومقدم البرامج",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gg696AAs3Xbv0gyTbtMdFNkRJX8.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T09:25:00+00:00",
+      "stop": "2026-11-16T09:30:00+00:00",
+      "duration_minutes": 5,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vOGNCGH9ak8zoKGLDZoltJFGq2m.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/vOGNCGH9ak8zoKGLDZoltJFGq2m.jpg",
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T09:05:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T09:05:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T09:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أفنان",
+      "clean_title": "أفنان",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تصحبنا الإعلامية مشاعل القاسمية في رحلة ثرية للتعرف على آخر أخبار الفن والسينما والمسرح والموسيقى في دول الخليج وحول العالم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T09:30:00+00:00",
+      "stop": "2026-11-16T10:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T08:27:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T08:27:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T09:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "الأخبار",
+      "clean_title": "الأخبار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "موجز الأخبار",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T10:00:00+00:00",
+      "stop": "2026-11-16T10:35:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "هادسون وريكس",
+      "clean_title": "هادسون وريكس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يشكل المحقق هادسن والكلب الألماني ذو التدريبات الفائقة ريكس فريقًا متميزًأ ينجح في حل العديد من الجرائم.",
+      "category": "تشويق",
+      "genres": [
+        "تشويق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T10:35:00+00:00",
+      "stop": "2026-11-16T11:20:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T02:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T10:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "في أحضان الرفاهية",
+      "clean_title": "في أحضان الرفاهية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "في أحضان الرفاهية",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في قلب الطبيعة الساحرة بدول مختلفة ومناطق معزولة عن العالم، تقع بعض النزل التي تم تصميمها وبنائها بعناية فائقة وأسلوب عصري ومتميز يتماشى مع الطبيعة من حولها؛ فيجعلها مكاناً استثنائياً لكل من يتمنى هذه الحالة من الاسترخاء.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T11:20:00+00:00",
+      "stop": "2026-11-16T11:45:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T02:45:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T02:45:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T11:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "آية ودعاء",
+      "clean_title": "آية ودعاء",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "آية ودعاء",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يزخر القرآن الكريم بالعديد من القصص حول الأنبياء الكرام وحياتهم والعقبات التي واجهتهم وردود أفعال أقوامهم تجاه دعواتهم ليعطي الناس الموعظة والعبرة. ويذهب الراوي إلى المدينة ويقابل إحدى الأسر.",
+      "category": "تاريخي",
+      "genres": [
+        "تاريخي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T11:45:00+00:00",
+      "stop": "2026-11-16T12:00:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T04:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T11:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فريق النخبة",
+      "clean_title": "فريق النخبة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقود فتى المدينة فريقاً من الحيوانات في مهام إنقاذ عبر أرجاء المدينة، مستعينين بمركبات متطورة ومهاراتهم لمساعدة المحتاجين، ونشر الوعي بقواعد السلامة العامة من خلال المواقف والتحديات التي يواجهونها.",
+      "category": "مغامرات",
+      "genres": [
+        "مغامرات"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:00:00+00:00",
+      "stop": "2026-11-16T12:15:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T04:15:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T04:15:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 67107,
+      "title": "ماركو بولو",
+      "clean_title": "ماركو بولو",
+      "original_title": "Die Abenteuer des jungen Marco Polo",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 52,
+      "description": "يخوض ماركو مغامرات ممتعة لاستكشاف مدن جديدة.",
+      "category": "رسوم متحركة",
+      "genres": [
+        "رسوم متحركة",
+        "حركة ومغامرة",
+        "أطفال",
+        "عائلي"
+      ],
+      "rating": 7.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": "2013-12-01",
+      "status": "Ended",
+      "country": "ألمانيا",
+      "language": "الألمانية",
+      "director": "Tony Loeser",
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:15:00+00:00",
+      "stop": "2026-11-16T12:30:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/1Ss4ImpH7JcWWsxbdDLuoNSkQI5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2bxS6eTw9tzmvIvcbAM1YOYBiN1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/1Ss4ImpH7JcWWsxbdDLuoNSkQI5.jpg",
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T12:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فريق إطفاء ورد",
+      "clean_title": "فريق إطفاء ورد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينطلق الإطفائي ورد مع فريقه المرح لمساعدة الأطفال في المواقف الصعبة، فتتحول كل مهمة إنقاذ إلى تجربة مليئة بالمرح إلى درسٝ ممتع في السلامة والعمل الجماعي والشجاعة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:30:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T04:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T04:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار عمان",
+      "clean_title": "أخبار عمان",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تعرف على اخر اخبار سلطنة عمان مع تقارير مفصلة و لقاءات مع المتخصصين للتعليق حولها.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T13:50:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 285156,
+      "title": "سدف",
+      "clean_title": "سدف",
+      "original_title": "سدف",
+      "tagline": null,
+      "episode_title": "سدف",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في فترة السبعينيات، يتحرى المحقق شاهين في اختفاء عدة نساء في ظروف غامضة، حيث يترك الخاطف وراءه صوراً لهن لحظة اختفائهن في مسرح الجريمة، لتكون الخيط الوحيد، مما يزيد الغموض وينطوي على أسرار غير متوقعة.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-01",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "بثينة الرئيسي",
+          "character": "أماني",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8sT0FCn1lEFVFQ5RIOCnyOGTTOu.jpg"
+        },
+        {
+          "name": "أحمد إيراج",
+          "character": "فهد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yeVmETvIVYkmInhw8HlihLhI1o7.jpg"
+        },
+        {
+          "name": "حسين المهدي",
+          "character": "فايز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/SoCeLXz27ABeFBWQi1Nr9gqvfY.jpg"
+        },
+        {
+          "name": "عبدالله بهمن",
+          "character": "شاهين",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8V16AwEEtOymTJwF9jaQxthpH5v.jpg"
+        },
+        {
+          "name": "خالد العجيرب",
+          "character": "عدنان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oNFrcgpt7XIgCCQsnJMMZe5KoV5.jpg"
+        },
+        {
+          "name": "غدير السبتي",
+          "character": "تهاني",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vpmfOwlo4l43dZT5sXs9GWtN8ef.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T13:50:00+00:00",
+      "stop": "2026-11-16T14:30:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/n2HY1veB2O7HR31KI6TiR3t44ID.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mB93vfHM2w81nTbwMyD2SyYNT1J.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/n2HY1veB2O7HR31KI6TiR3t44ID.jpg",
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T03:20:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T22:20:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T03:20:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T13:50:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T22:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أعلام عمان",
+      "clean_title": "أعلام عمان",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج يستعرض سير وحياة عدد من الصحابة والتابعين من العمانيين الذين كان لهم حضور في التاريخ الإسلامي، مسلطًا الضوء على أدوارهم في نشر الإسلام وترسيخ قيمه.",
+      "category": "سيرة ذاتية",
+      "genres": [
+        "سيرة ذاتية"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T14:30:00+00:00",
+      "stop": "2026-11-16T14:45:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T00:40:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T00:40:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T14:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مناشدة",
+      "clean_title": "مناشدة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "لقاءات مع سكان سلطنة عمان البسطاء واكتشاف المعالم السياحية في هذا البلد الرائع، الذي يٝعد من أبرز الوجهات السياحية.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T14:45:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T05:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T05:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T14:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نشرة الأخبار باللغة ...",
+      "clean_title": "نشرة الأخبار باللغة ...",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "أخر و أهم الأخبار حول العالم باللغة الانجليزية.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T15:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "إثبات نسب",
+      "clean_title": "إثبات نسب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إثبات نسب",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تخوض أم حرب شرسة ضد أصحاب النفوذ والمال لإثبات نسب طفلها الوحيد. لكن تحاصرها اتهامات بالجنون مما يشككها في سلامتها العقلية وذاكرتها لتجد نفسها مجبرة على مواجهة الجميع بمفردها.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:30:00+00:00",
+      "stop": "2026-11-16T16:15:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T04:45:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T23:50:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T04:45:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "لكل بلد حكاية - من بلد إلى بلد",
+      "clean_title": "لكل بلد حكاية - من بلد إلى بلد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يأخذ البرنامج المشاهدين من بلد إلى آخر، مستكشفًا أماكن مختلفة ومعرّفًا بخصائصها وقصصها المميزة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:15:00+00:00",
+      "stop": "2026-11-16T16:30:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T16:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سكنى",
+      "clean_title": "سكنى",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "دروس الإسلام في تعليم الزوجان الحب والرحمة، وكيفية مواجهة تحديات الحياة الحديثة بأسلوب بسيط وممتع.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:30:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T16:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "من عمان",
+      "clean_title": "من عمان",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تغطية خاصة من قلب دولة عمان لأهم التطورات والأحداث التي تقع داخل السلطنة وتهم رجل الشارع.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T01:06:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T08:15:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T01:06:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T08:15:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "الأخبار",
+      "clean_title": "الأخبار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "موجز الأخبار",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:00:00+00:00",
+      "stop": "2026-11-16T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 127214,
+      "title": "أما بعد",
+      "clean_title": "أما بعد",
+      "original_title": "Ama Baed Show",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "يتناول مواضيع مختلفة التي تهم المجتمع فيعرض وجهات النظر المتعددة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": "2018-06-07",
+      "status": "Ended",
+      "country": null,
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "سعد عبدالعزيز",
+          "character": "اكثر من شخصية",
+          "profile_image": null
+        },
+        {
+          "name": "فيصل الأحمري",
+          "character": "ممثل، كاتب ومقدم البرامج",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gg696AAs3Xbv0gyTbtMdFNkRJX8.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T19:00:00+00:00",
+      "stop": "2026-11-16T19:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vOGNCGH9ak8zoKGLDZoltJFGq2m.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/vOGNCGH9ak8zoKGLDZoltJFGq2m.jpg",
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T09:05:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T09:05:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T09:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نظر عيني",
+      "clean_title": "نظر عيني",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نظر عيني",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تاجر كبير يربي حفيده الأعمى بعيدا عن والديه، فيبعثه مع أحد أصدقائه إلى البحرين ليعرضه على الأطباء هناك ولكن يتوفى هذا الصديق ليظل الطفل وحيدا فى هذه البلاد محاولا إيجاد هويته الحقيقية.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:30:00+00:00",
+      "stop": "2026-11-16T20:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T07:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T07:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "الوقيد",
+      "clean_title": "الوقيد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في خضم صراع على السلطة في خمسينيات وسبعينيات القرن الماضي، تنطلق عائلة في رحلة مصيرية بحثاً عن حياة جديدة. لكن حين تغرق السفينة بسبب عاصفة يتفرق أفرادها في بلدان مختلفة؛ فتبدأ رحلة البحث عن بعضهم بعضاً.",
+      "category": "تشويق",
+      "genres": [
+        "تشويق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:00:00+00:00",
+      "stop": "2026-11-16T20:10:00+00:00",
+      "duration_minutes": 10,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "تكنولوجيا المعادن",
+      "clean_title": "تكنولوجيا المعادن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في كل حلقة جديدة، نستكشف معاً الخصائص الرائعة للمعادن بأنواعها المختلفة، ونتعرف على أماكن تواجدها واستخداماتها المتنوعة ووظائفها المتعددة.",
+      "category": "علوم",
+      "genres": [
+        "علوم"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:10:00+00:00",
+      "stop": "2026-11-16T21:00:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T20:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "الأخبار",
+      "clean_title": "الأخبار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "موجز الأخبار",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T21:00:00+00:00",
+      "stop": "2026-11-16T21:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 127214,
+      "title": "أما بعد",
+      "clean_title": "أما بعد",
+      "original_title": "Ama Baed Show",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "يتناول مواضيع مختلفة التي تهم المجتمع فيعرض وجهات النظر المتعددة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": "2018-06-07",
+      "status": "Ended",
+      "country": null,
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "سعد عبدالعزيز",
+          "character": "اكثر من شخصية",
+          "profile_image": null
+        },
+        {
+          "name": "فيصل الأحمري",
+          "character": "ممثل، كاتب ومقدم البرامج",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gg696AAs3Xbv0gyTbtMdFNkRJX8.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T21:30:00+00:00",
+      "stop": "2026-11-16T21:50:00+00:00",
+      "duration_minutes": 20,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vOGNCGH9ak8zoKGLDZoltJFGq2m.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/vOGNCGH9ak8zoKGLDZoltJFGq2m.jpg",
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T09:05:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T09:05:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T09:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "متون",
+      "clean_title": "متون",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تقديم قصص أدباء في رحلة لاستكشاف عالم الأدب للتعرف على تاريخ هذا النوع من الفن ومبدعيه.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T21:50:00+00:00",
+      "stop": "2026-11-16T22:20:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T21:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 285156,
+      "title": "سدف",
+      "clean_title": "سدف",
+      "original_title": "سدف",
+      "tagline": null,
+      "episode_title": "سدف",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في فترة السبعينيات، يتحرى المحقق شاهين في اختفاء عدة نساء في ظروف غامضة، حيث يترك الخاطف وراءه صوراً لهن لحظة اختفائهن في مسرح الجريمة، لتكون الخيط الوحيد، مما يزيد الغموض وينطوي على أسرار غير متوقعة.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-01",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "بثينة الرئيسي",
+          "character": "أماني",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8sT0FCn1lEFVFQ5RIOCnyOGTTOu.jpg"
+        },
+        {
+          "name": "أحمد إيراج",
+          "character": "فهد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yeVmETvIVYkmInhw8HlihLhI1o7.jpg"
+        },
+        {
+          "name": "حسين المهدي",
+          "character": "فايز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/SoCeLXz27ABeFBWQi1Nr9gqvfY.jpg"
+        },
+        {
+          "name": "عبدالله بهمن",
+          "character": "شاهين",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8V16AwEEtOymTJwF9jaQxthpH5v.jpg"
+        },
+        {
+          "name": "خالد العجيرب",
+          "character": "عدنان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oNFrcgpt7XIgCCQsnJMMZe5KoV5.jpg"
+        },
+        {
+          "name": "غدير السبتي",
+          "character": "تهاني",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vpmfOwlo4l43dZT5sXs9GWtN8ef.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T22:20:00+00:00",
+      "stop": "2026-11-16T23:00:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/n2HY1veB2O7HR31KI6TiR3t44ID.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mB93vfHM2w81nTbwMyD2SyYNT1J.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/n2HY1veB2O7HR31KI6TiR3t44ID.jpg",
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T03:20:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T13:50:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T03:20:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T13:50:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T22:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "قهوة الصباح",
+      "clean_title": "قهوة الصباح",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": ".دليلك الشامل لتعرف آخر الفعاليات والأحداث الهامة التي تقع داخل سلطنة عمان",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T23:00:00+00:00",
+      "stop": "2026-11-16T23:50:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T05:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T05:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إثبات نسب",
+      "clean_title": "إثبات نسب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إثبات نسب",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تخوض أم حرب شرسة ضد أصحاب النفوذ والمال لإثبات نسب طفلها الوحيد. لكن تحاصرها اتهامات بالجنون مما يشككها في سلامتها العقلية وذاكرتها لتجد نفسها مجبرة على مواجهة الجميع بمفردها.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T23:50:00+00:00",
+      "stop": "2026-11-17T00:30:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T04:45:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T04:45:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "خير يبقى",
+      "clean_title": "خير يبقى",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج يرشد المسلم لرفع مستوى أفكاره ومشاعره الإيمانية خلال الصيام.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:30:00+00:00",
+      "stop": "2026-11-17T00:40:00+00:00",
+      "duration_minutes": 10,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T00:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أعلام عمان",
+      "clean_title": "أعلام عمان",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج يستعرض سير وحياة عدد من الصحابة والتابعين من العمانيين الذين كان لهم حضور في التاريخ الإسلامي، مسلطًا الضوء على أدوارهم في نشر الإسلام وترسيخ قيمه.",
+      "category": "سيرة ذاتية",
+      "genres": [
+        "سيرة ذاتية"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:40:00+00:00",
+      "stop": "2026-11-17T01:06:00+00:00",
+      "duration_minutes": 26,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T00:40:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T14:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T14:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "من عمان",
+      "clean_title": "من عمان",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تغطية خاصة من قلب دولة عمان لأهم التطورات والأحداث التي تقع داخل السلطنة وتهم رجل الشارع.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:06:00+00:00",
+      "stop": "2026-11-17T02:00:00+00:00",
+      "duration_minutes": 54,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T01:06:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T08:15:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T08:15:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هادسون وريكس",
+      "clean_title": "هادسون وريكس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يشكل المحقق هادسن والكلب الألماني ذو التدريبات الفائقة ريكس فريقًا متميزًأ ينجح في حل العديد من الجرائم.",
+      "category": "تشويق",
+      "genres": [
+        "تشويق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T02:00:00+00:00",
+      "stop": "2026-11-17T02:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T02:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T10:35:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T10:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "في أحضان الرفاهية",
+      "clean_title": "في أحضان الرفاهية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "في أحضان الرفاهية",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في قلب الطبيعة الساحرة بدول مختلفة ومناطق معزولة عن العالم، تقع بعض النزل التي تم تصميمها وبنائها بعناية فائقة وأسلوب عصري ومتميز يتماشى مع الطبيعة من حولها؛ فيجعلها مكاناً استثنائياً لكل من يتمنى هذه الحالة من الاسترخاء.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T02:45:00+00:00",
+      "stop": "2026-11-17T03:20:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T02:45:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T11:20:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T11:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 285156,
+      "title": "سدف",
+      "clean_title": "سدف",
+      "original_title": "سدف",
+      "tagline": null,
+      "episode_title": "سدف",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في فترة السبعينيات، يتحرى المحقق شاهين في اختفاء عدة نساء في ظروف غامضة، حيث يترك الخاطف وراءه صوراً لهن لحظة اختفائهن في مسرح الجريمة، لتكون الخيط الوحيد، مما يزيد الغموض وينطوي على أسرار غير متوقعة.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-01",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "بثينة الرئيسي",
+          "character": "أماني",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8sT0FCn1lEFVFQ5RIOCnyOGTTOu.jpg"
+        },
+        {
+          "name": "أحمد إيراج",
+          "character": "فهد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yeVmETvIVYkmInhw8HlihLhI1o7.jpg"
+        },
+        {
+          "name": "حسين المهدي",
+          "character": "فايز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/SoCeLXz27ABeFBWQi1Nr9gqvfY.jpg"
+        },
+        {
+          "name": "عبدالله بهمن",
+          "character": "شاهين",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8V16AwEEtOymTJwF9jaQxthpH5v.jpg"
+        },
+        {
+          "name": "خالد العجيرب",
+          "character": "عدنان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oNFrcgpt7XIgCCQsnJMMZe5KoV5.jpg"
+        },
+        {
+          "name": "غدير السبتي",
+          "character": "تهاني",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vpmfOwlo4l43dZT5sXs9GWtN8ef.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T03:20:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/n2HY1veB2O7HR31KI6TiR3t44ID.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mB93vfHM2w81nTbwMyD2SyYNT1J.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/n2HY1veB2O7HR31KI6TiR3t44ID.jpg",
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T03:20:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T13:50:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T22:20:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T13:50:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T22:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "آية ودعاء",
+      "clean_title": "آية ودعاء",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "آية ودعاء",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يزخر القرآن الكريم بالعديد من القصص حول الأنبياء الكرام وحياتهم والعقبات التي واجهتهم وردود أفعال أقوامهم تجاه دعواتهم ليعطي الناس الموعظة والعبرة. ويذهب الراوي إلى المدينة ويقابل إحدى الأسر.",
+      "category": "تاريخي",
+      "genres": [
+        "تاريخي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T04:15:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T04:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T11:45:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T11:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فريق النخبة",
+      "clean_title": "فريق النخبة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقود فتى المدينة فريقاً من الحيوانات في مهام إنقاذ عبر أرجاء المدينة، مستعينين بمركبات متطورة ومهاراتهم لمساعدة المحتاجين، ونشر الوعي بقواعد السلامة العامة من خلال المواقف والتحديات التي يواجهونها.",
+      "category": "مغامرات",
+      "genres": [
+        "مغامرات"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:15:00+00:00",
+      "stop": "2026-11-17T04:30:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T04:15:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فريق إطفاء ورد",
+      "clean_title": "فريق إطفاء ورد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينطلق الإطفائي ورد مع فريقه المرح لمساعدة الأطفال في المواقف الصعبة، فتتحول كل مهمة إنقاذ إلى تجربة مليئة بالمرح إلى درسٝ ممتع في السلامة والعمل الجماعي والشجاعة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:30:00+00:00",
+      "stop": "2026-11-17T04:45:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T04:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إثبات نسب",
+      "clean_title": "إثبات نسب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إثبات نسب",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تخوض أم حرب شرسة ضد أصحاب النفوذ والمال لإثبات نسب طفلها الوحيد. لكن تحاصرها اتهامات بالجنون مما يشككها في سلامتها العقلية وذاكرتها لتجد نفسها مجبرة على مواجهة الجميع بمفردها.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:45:00+00:00",
+      "stop": "2026-11-17T05:25:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T04:45:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T23:50:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مناشدة",
+      "clean_title": "مناشدة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "لقاءات مع سكان سلطنة عمان البسطاء واكتشاف المعالم السياحية في هذا البلد الرائع، الذي يٝعد من أبرز الوجهات السياحية.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T05:25:00+00:00",
+      "stop": "2026-11-17T05:30:00+00:00",
+      "duration_minutes": 5,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T05:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T14:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "قهوة الصباح",
+      "clean_title": "قهوة الصباح",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": ".دليلك الشامل لتعرف آخر الفعاليات والأحداث الهامة التي تقع داخل سلطنة عمان",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T05:30:00+00:00",
+      "stop": "2026-11-17T06:55:00+00:00",
+      "duration_minutes": 85,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T05:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار الحاديه عشر",
+      "clean_title": "أخبار الحاديه عشر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "متابعة لكل المستجدات على كل الأصعدة حتى هذه الساعة مع عرض مفصل لها ليظل المشاهد على دراية بكل ما يدور من أحداث.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:55:00+00:00",
+      "stop": "2026-11-17T07:30:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "نظر عيني",
+      "clean_title": "نظر عيني",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نظر عيني",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تاجر كبير يربي حفيده الأعمى بعيدا عن والديه، فيبعثه مع أحد أصدقائه إلى البحرين ليعرضه على الأطباء هناك ولكن يتوفى هذا الصديق ليظل الطفل وحيدا فى هذه البلاد محاولا إيجاد هويته الحقيقية.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T07:30:00+00:00",
+      "stop": "2026-11-17T08:15:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T07:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T19:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "من عمان",
+      "clean_title": "من عمان",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تغطية خاصة من قلب دولة عمان لأهم التطورات والأحداث التي تقع داخل السلطنة وتهم رجل الشارع.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:15:00+00:00",
+      "stop": "2026-11-17T08:27:00+00:00",
+      "duration_minutes": 12,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T01:06:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T08:15:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T01:06:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أفنان",
+      "clean_title": "أفنان",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تصحبنا الإعلامية مشاعل القاسمية في رحلة ثرية للتعرف على آخر أخبار الفن والسينما والمسرح والموسيقى في دول الخليج وحول العالم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:27:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
+      "duration_minutes": 33,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T08:27:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T09:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T09:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "من كل بلد حكاية",
+      "clean_title": "من كل بلد حكاية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "من كل بلد حكاية\" هو برنامج يتناول قصصًا من كل بلد في العالم العربي، حيث يتم اختيار مجموعة من الحكايات التي تعكس التقاليد والقيم النبيلة لكل بلد.",
+      "category": "تاريخي",
+      "genres": [
+        "تاريخي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T09:05:00+00:00",
+      "duration_minutes": 5,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 127214,
+      "title": "أما بعد",
+      "clean_title": "أما بعد",
+      "original_title": "Ama Baed Show",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "يتناول مواضيع مختلفة التي تهم المجتمع فيعرض وجهات النظر المتعددة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": "2018-06-07",
+      "status": "Ended",
+      "country": null,
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "سعد عبدالعزيز",
+          "character": "اكثر من شخصية",
+          "profile_image": null
+        },
+        {
+          "name": "فيصل الأحمري",
+          "character": "ممثل، كاتب ومقدم البرامج",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gg696AAs3Xbv0gyTbtMdFNkRJX8.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T09:05:00+00:00",
+      "stop": "2026-11-17T09:25:00+00:00",
+      "duration_minutes": 20,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vOGNCGH9ak8zoKGLDZoltJFGq2m.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/vOGNCGH9ak8zoKGLDZoltJFGq2m.jpg",
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T09:05:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T09:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 127214,
+      "title": "أما بعد",
+      "clean_title": "أما بعد",
+      "original_title": "Ama Baed Show",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "يتناول مواضيع مختلفة التي تهم المجتمع فيعرض وجهات النظر المتعددة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": "2018-06-07",
+      "status": "Ended",
+      "country": null,
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "سعد عبدالعزيز",
+          "character": "اكثر من شخصية",
+          "profile_image": null
+        },
+        {
+          "name": "فيصل الأحمري",
+          "character": "ممثل، كاتب ومقدم البرامج",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gg696AAs3Xbv0gyTbtMdFNkRJX8.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T09:25:00+00:00",
+      "stop": "2026-11-17T09:30:00+00:00",
+      "duration_minutes": 5,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vOGNCGH9ak8zoKGLDZoltJFGq2m.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/vOGNCGH9ak8zoKGLDZoltJFGq2m.jpg",
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T09:05:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T09:05:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أفنان",
+      "clean_title": "أفنان",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تصحبنا الإعلامية مشاعل القاسمية في رحلة ثرية للتعرف على آخر أخبار الفن والسينما والمسرح والموسيقى في دول الخليج وحول العالم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T09:30:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T08:27:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T09:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T08:27:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "الأخبار",
+      "clean_title": "الأخبار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "موجز الأخبار",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T10:35:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "هادسون وريكس",
+      "clean_title": "هادسون وريكس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يشكل المحقق هادسن والكلب الألماني ذو التدريبات الفائقة ريكس فريقًا متميزًأ ينجح في حل العديد من الجرائم.",
+      "category": "تشويق",
+      "genres": [
+        "تشويق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:35:00+00:00",
+      "stop": "2026-11-17T11:20:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T02:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T10:35:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T02:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "في أحضان الرفاهية",
+      "clean_title": "في أحضان الرفاهية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "في أحضان الرفاهية",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في قلب الطبيعة الساحرة بدول مختلفة ومناطق معزولة عن العالم، تقع بعض النزل التي تم تصميمها وبنائها بعناية فائقة وأسلوب عصري ومتميز يتماشى مع الطبيعة من حولها؛ فيجعلها مكاناً استثنائياً لكل من يتمنى هذه الحالة من الاسترخاء.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:20:00+00:00",
+      "stop": "2026-11-17T11:45:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T02:45:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T11:20:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T02:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "آية ودعاء",
+      "clean_title": "آية ودعاء",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "آية ودعاء",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يزخر القرآن الكريم بالعديد من القصص حول الأنبياء الكرام وحياتهم والعقبات التي واجهتهم وردود أفعال أقوامهم تجاه دعواتهم ليعطي الناس الموعظة والعبرة. ويذهب الراوي إلى المدينة ويقابل إحدى الأسر.",
+      "category": "تاريخي",
+      "genres": [
+        "تاريخي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:45:00+00:00",
+      "stop": "2026-11-17T12:00:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T04:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T11:45:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فريق النخبة",
+      "clean_title": "فريق النخبة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقود فتى المدينة فريقاً من الحيوانات في مهام إنقاذ عبر أرجاء المدينة، مستعينين بمركبات متطورة ومهاراتهم لمساعدة المحتاجين، ونشر الوعي بقواعد السلامة العامة من خلال المواقف والتحديات التي يواجهونها.",
+      "category": "مغامرات",
+      "genres": [
+        "مغامرات"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:00:00+00:00",
+      "stop": "2026-11-17T12:15:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T04:15:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T04:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 67107,
+      "title": "ماركو بولو",
+      "clean_title": "ماركو بولو",
+      "original_title": "Die Abenteuer des jungen Marco Polo",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 52,
+      "description": "يخوض ماركو مغامرات ممتعة لاستكشاف مدن جديدة.",
+      "category": "رسوم متحركة",
+      "genres": [
+        "رسوم متحركة",
+        "حركة ومغامرة",
+        "أطفال",
+        "عائلي"
+      ],
+      "rating": 7.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": "2013-12-01",
+      "status": "Ended",
+      "country": "ألمانيا",
+      "language": "الألمانية",
+      "director": "Tony Loeser",
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:15:00+00:00",
+      "stop": "2026-11-17T12:30:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/1Ss4ImpH7JcWWsxbdDLuoNSkQI5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2bxS6eTw9tzmvIvcbAM1YOYBiN1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/1Ss4ImpH7JcWWsxbdDLuoNSkQI5.jpg",
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T12:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فريق إطفاء ورد",
+      "clean_title": "فريق إطفاء ورد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينطلق الإطفائي ورد مع فريقه المرح لمساعدة الأطفال في المواقف الصعبة، فتتحول كل مهمة إنقاذ إلى تجربة مليئة بالمرح إلى درسٝ ممتع في السلامة والعمل الجماعي والشجاعة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:30:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T04:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T04:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار عمان",
+      "clean_title": "أخبار عمان",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تعرف على اخر اخبار سلطنة عمان مع تقارير مفصلة و لقاءات مع المتخصصين للتعليق حولها.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T13:50:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 285156,
+      "title": "سدف",
+      "clean_title": "سدف",
+      "original_title": "سدف",
+      "tagline": null,
+      "episode_title": "سدف",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في فترة السبعينيات، يتحرى المحقق شاهين في اختفاء عدة نساء في ظروف غامضة، حيث يترك الخاطف وراءه صوراً لهن لحظة اختفائهن في مسرح الجريمة، لتكون الخيط الوحيد، مما يزيد الغموض وينطوي على أسرار غير متوقعة.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-01",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "بثينة الرئيسي",
+          "character": "أماني",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8sT0FCn1lEFVFQ5RIOCnyOGTTOu.jpg"
+        },
+        {
+          "name": "أحمد إيراج",
+          "character": "فهد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yeVmETvIVYkmInhw8HlihLhI1o7.jpg"
+        },
+        {
+          "name": "حسين المهدي",
+          "character": "فايز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/SoCeLXz27ABeFBWQi1Nr9gqvfY.jpg"
+        },
+        {
+          "name": "عبدالله بهمن",
+          "character": "شاهين",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8V16AwEEtOymTJwF9jaQxthpH5v.jpg"
+        },
+        {
+          "name": "خالد العجيرب",
+          "character": "عدنان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oNFrcgpt7XIgCCQsnJMMZe5KoV5.jpg"
+        },
+        {
+          "name": "غدير السبتي",
+          "character": "تهاني",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vpmfOwlo4l43dZT5sXs9GWtN8ef.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T13:50:00+00:00",
+      "stop": "2026-11-17T14:30:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/n2HY1veB2O7HR31KI6TiR3t44ID.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mB93vfHM2w81nTbwMyD2SyYNT1J.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/n2HY1veB2O7HR31KI6TiR3t44ID.jpg",
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T03:20:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T13:50:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T22:20:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T03:20:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T22:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أعلام عمان",
+      "clean_title": "أعلام عمان",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج يستعرض سير وحياة عدد من الصحابة والتابعين من العمانيين الذين كان لهم حضور في التاريخ الإسلامي، مسلطًا الضوء على أدوارهم في نشر الإسلام وترسيخ قيمه.",
+      "category": "سيرة ذاتية",
+      "genres": [
+        "سيرة ذاتية"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T14:30:00+00:00",
+      "stop": "2026-11-17T14:45:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T00:40:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T14:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T00:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مناشدة",
+      "clean_title": "مناشدة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "لقاءات مع سكان سلطنة عمان البسطاء واكتشاف المعالم السياحية في هذا البلد الرائع، الذي يٝعد من أبرز الوجهات السياحية.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T14:45:00+00:00",
+      "stop": "2026-11-17T15:00:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T05:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T05:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نشرة الأخبار باللغة ...",
+      "clean_title": "نشرة الأخبار باللغة ...",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "أخر و أهم الأخبار حول العالم باللغة الانجليزية.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T15:00:00+00:00",
+      "stop": "2026-11-17T15:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "إثبات نسب",
+      "clean_title": "إثبات نسب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إثبات نسب",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تخوض أم حرب شرسة ضد أصحاب النفوذ والمال لإثبات نسب طفلها الوحيد. لكن تحاصرها اتهامات بالجنون مما يشككها في سلامتها العقلية وذاكرتها لتجد نفسها مجبرة على مواجهة الجميع بمفردها.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T15:30:00+00:00",
+      "stop": "2026-11-17T16:15:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T04:45:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T23:50:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T04:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "لكل بلد حكاية - من بلد إلى بلد",
+      "clean_title": "لكل بلد حكاية - من بلد إلى بلد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يأخذ البرنامج المشاهدين من بلد إلى آخر، مستكشفًا أماكن مختلفة ومعرّفًا بخصائصها وقصصها المميزة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T16:15:00+00:00",
+      "stop": "2026-11-17T16:30:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T16:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سكنى",
+      "clean_title": "سكنى",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "دروس الإسلام في تعليم الزوجان الحب والرحمة، وكيفية مواجهة تحديات الحياة الحديثة بأسلوب بسيط وممتع.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T16:30:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T16:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "من عمان",
+      "clean_title": "من عمان",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تغطية خاصة من قلب دولة عمان لأهم التطورات والأحداث التي تقع داخل السلطنة وتهم رجل الشارع.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T01:06:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T08:15:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T01:06:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T08:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "الأخبار",
+      "clean_title": "الأخبار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "موجز الأخبار",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 127214,
+      "title": "أما بعد",
+      "clean_title": "أما بعد",
+      "original_title": "Ama Baed Show",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "يتناول مواضيع مختلفة التي تهم المجتمع فيعرض وجهات النظر المتعددة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": "2018-06-07",
+      "status": "Ended",
+      "country": null,
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "سعد عبدالعزيز",
+          "character": "اكثر من شخصية",
+          "profile_image": null
+        },
+        {
+          "name": "فيصل الأحمري",
+          "character": "ممثل، كاتب ومقدم البرامج",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gg696AAs3Xbv0gyTbtMdFNkRJX8.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T19:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vOGNCGH9ak8zoKGLDZoltJFGq2m.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/vOGNCGH9ak8zoKGLDZoltJFGq2m.jpg",
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T09:05:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T09:05:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T09:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نظر عيني",
+      "clean_title": "نظر عيني",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نظر عيني",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تاجر كبير يربي حفيده الأعمى بعيدا عن والديه، فيبعثه مع أحد أصدقائه إلى البحرين ليعرضه على الأطباء هناك ولكن يتوفى هذا الصديق ليظل الطفل وحيدا فى هذه البلاد محاولا إيجاد هويته الحقيقية.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:30:00+00:00",
+      "stop": "2026-11-17T20:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T07:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T19:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T07:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "الوقيد",
+      "clean_title": "الوقيد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في خضم صراع على السلطة في خمسينيات وسبعينيات القرن الماضي، تنطلق عائلة في رحلة مصيرية بحثاً عن حياة جديدة. لكن حين تغرق السفينة بسبب عاصفة يتفرق أفرادها في بلدان مختلفة؛ فتبدأ رحلة البحث عن بعضهم بعضاً.",
+      "category": "تشويق",
+      "genres": [
+        "تشويق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:00:00+00:00",
+      "stop": "2026-11-17T20:10:00+00:00",
+      "duration_minutes": 10,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "تكنولوجيا المعادن",
+      "clean_title": "تكنولوجيا المعادن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في كل حلقة جديدة، نستكشف معاً الخصائص الرائعة للمعادن بأنواعها المختلفة، ونتعرف على أماكن تواجدها واستخداماتها المتنوعة ووظائفها المتعددة.",
+      "category": "علوم",
+      "genres": [
+        "علوم"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:10:00+00:00",
+      "stop": "2026-11-17T21:00:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T20:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "الأخبار",
+      "clean_title": "الأخبار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "موجز الأخبار",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:00:00+00:00",
+      "stop": "2026-11-17T21:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 127214,
+      "title": "أما بعد",
+      "clean_title": "أما بعد",
+      "original_title": "Ama Baed Show",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "يتناول مواضيع مختلفة التي تهم المجتمع فيعرض وجهات النظر المتعددة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": "2018-06-07",
+      "status": "Ended",
+      "country": null,
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "سعد عبدالعزيز",
+          "character": "اكثر من شخصية",
+          "profile_image": null
+        },
+        {
+          "name": "فيصل الأحمري",
+          "character": "ممثل، كاتب ومقدم البرامج",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gg696AAs3Xbv0gyTbtMdFNkRJX8.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T21:30:00+00:00",
+      "stop": "2026-11-17T21:50:00+00:00",
+      "duration_minutes": 20,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vOGNCGH9ak8zoKGLDZoltJFGq2m.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/vOGNCGH9ak8zoKGLDZoltJFGq2m.jpg",
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T09:05:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T09:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T09:05:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T09:25:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "متون",
+      "clean_title": "متون",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تقديم قصص أدباء في رحلة لاستكشاف عالم الأدب للتعرف على تاريخ هذا النوع من الفن ومبدعيه.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:50:00+00:00",
+      "stop": "2026-11-17T22:20:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T21:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 285156,
+      "title": "سدف",
+      "clean_title": "سدف",
+      "original_title": "سدف",
+      "tagline": null,
+      "episode_title": "سدف",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في فترة السبعينيات، يتحرى المحقق شاهين في اختفاء عدة نساء في ظروف غامضة، حيث يترك الخاطف وراءه صوراً لهن لحظة اختفائهن في مسرح الجريمة، لتكون الخيط الوحيد، مما يزيد الغموض وينطوي على أسرار غير متوقعة.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-01",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "بثينة الرئيسي",
+          "character": "أماني",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8sT0FCn1lEFVFQ5RIOCnyOGTTOu.jpg"
+        },
+        {
+          "name": "أحمد إيراج",
+          "character": "فهد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yeVmETvIVYkmInhw8HlihLhI1o7.jpg"
+        },
+        {
+          "name": "حسين المهدي",
+          "character": "فايز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/SoCeLXz27ABeFBWQi1Nr9gqvfY.jpg"
+        },
+        {
+          "name": "عبدالله بهمن",
+          "character": "شاهين",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8V16AwEEtOymTJwF9jaQxthpH5v.jpg"
+        },
+        {
+          "name": "خالد العجيرب",
+          "character": "عدنان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oNFrcgpt7XIgCCQsnJMMZe5KoV5.jpg"
+        },
+        {
+          "name": "غدير السبتي",
+          "character": "تهاني",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vpmfOwlo4l43dZT5sXs9GWtN8ef.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T22:20:00+00:00",
+      "stop": "2026-11-17T23:00:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/n2HY1veB2O7HR31KI6TiR3t44ID.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mB93vfHM2w81nTbwMyD2SyYNT1J.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/n2HY1veB2O7HR31KI6TiR3t44ID.jpg",
+      "channel_icon": "https://i.imgur.com/rBftT9x.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T03:20:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T13:50:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-16T22:20:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T03:20:00+00:00"
+        },
+        {
+          "channel": "Oman TV",
+          "start": "2026-11-17T13:50:00+00:00"
+        }
+      ]
+    }
+  ]
+}

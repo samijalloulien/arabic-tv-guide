@@ -1,0 +1,4211 @@
+{
+  "channel_id": "MBCMax.ae@SD",
+  "channel_name": "MBC MAX",
+  "channel_icon": "https://i.imgur.com/A02CptP.png",
+  "programs": [
+    {
+      "tmdb_id": null,
+      "title": "سبوتلايت",
+      "clean_title": "سبوتلايت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يروي الفيلم القصة الحقيقية المثيرة لفريق تحقيقات سبوتلايت في صحيفة بوسطن جلوب، الذي خاض معركة لكشف فضيحة هزت المدينة وصدمت العالم.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T23:00:00+00:00",
+      "stop": "2026-11-16T01:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ماجستك",
+      "clean_title": "ماجستك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد أن يصاب كاتب سيناريو بفقدان الذاكرة بسبب تعرضه لحادث سير، يجد نفسه في بلدة يعتقد سكانها أنه بطل مفقود.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:00:00+00:00",
+      "stop": "2026-11-16T03:25:00+00:00",
+      "duration_minutes": 145,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "هوليوود باز موسم 9 حلقة 48",
+      "clean_title": "هوليوود باز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 9,
+      "episode": 48,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مزيج مميز من آخر أخبار نجوم هوليوود والشائعات التي تدور حولهم، بالإضافة إلى مقابلات حصرية ولقطات من وراء الكواليس.",
+      "category": "معلومات ترفيهية",
+      "genres": [
+        "معلومات ترفيهية"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T03:25:00+00:00",
+      "stop": "2026-11-16T03:55:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T02:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 376290,
+      "title": "Miss Sloane",
+      "clean_title": "Miss Sloane",
+      "original_title": "Miss Sloane",
+      "tagline": "تأكد من أن تفاجئهم.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تواجه عضوة في جماعة ضغط صعبة المراس في العاصمة الأمريكية أقوى خصم في حياتها المهنية وتجد أن الفوز قد يكلفها غاليا.",
+      "category": "دراما",
+      "genres": [
+        "دراما",
+        "إثارة",
+        "جريمة"
+      ],
+      "rating": 7.4,
+      "vote_count": 2056,
+      "age_rating": "R",
+      "year": "2016",
+      "release_date": "2016-11-25",
+      "status": "Released",
+      "country": "كندا",
+      "language": "الإنجليزية",
+      "director": "John Madden",
+      "cast": [
+        {
+          "name": "جيسيكا شاستاين",
+          "character": "Madeline Elizabeth Sloane",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg"
+        },
+        {
+          "name": "مارك سترونج",
+          "character": "Rodolfo Vittorio Schmidt",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+        },
+        {
+          "name": "جوجو مباثا راو",
+          "character": "Esme Manucharian",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
+        },
+        {
+          "name": "Alison Pill",
+          "character": "Jane Molloy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qQm7UR0G8Kcxn7SKTNl6fdSfcTm.jpg"
+        },
+        {
+          "name": "مايكل ستولبارغ",
+          "character": "Pat Connors",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+        },
+        {
+          "name": "Jake Lacy",
+          "character": "Forde",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qU6n9EaesBGqhNLlj5BecUrb5LW.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T03:55:00+00:00",
+      "stop": "2026-11-16T06:01:00+00:00",
+      "duration_minutes": 126,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ptfvQlqe2xJiMSewSj52qAVq5z0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hnWBg0qgYa7LxVnTdVYUbAPLctc.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ptfvQlqe2xJiMSewSj52qAVq5z0.jpg",
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-15T23:01:50+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T07:01:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فايتينج وذ ماي فاميلي",
+      "clean_title": "فايتينج وذ ماي فاميلي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يكسب ريكي وجوليا رزقهما من خلال تقديم العروض مع طفليهما سرايا وزاك. عندما تتاح للطفلين فرصة المشاركة في تجارب أداء WWE، يبدو أن حلم العائلة قد يتحقق، إلى أن تكتشف مدى صعوبة ذلك.",
+      "category": "سيرة ذاتية",
+      "genres": [
+        "سيرة ذاتية"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T06:01:00+00:00",
+      "stop": "2026-11-16T07:55:00+00:00",
+      "duration_minutes": 114,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T03:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هوليوود باز موسم 9 حلقة 48",
+      "clean_title": "هوليوود باز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 9,
+      "episode": 48,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مزيج مميز من آخر أخبار نجوم هوليوود والشائعات التي تدور حولهم، بالإضافة إلى مقابلات حصرية ولقطات من وراء الكواليس.",
+      "category": "معلومات ترفيهية",
+      "genres": [
+        "معلومات ترفيهية"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T07:55:00+00:00",
+      "stop": "2026-11-16T08:25:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-16T03:25:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T02:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "17 أجاين",
+      "clean_title": "17 أجاين",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستيقظ أب في منتصف العمر في يوم من الأيام ليجد أن عمره قد أصبح 17 سنة مرة أخرى، والتنقل داخل المدرسة الثانوية ليست بالأمر السهل- وخصوصا مع وجود أولاده هناك.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:25:00+00:00",
+      "stop": "2026-11-16T10:00:00+00:00",
+      "duration_minutes": 95,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-16T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بلانيت أكشن",
+      "clean_title": "بلانيت أكشن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ما بين إطلاق نار من قبل رعاة البقر وانفجار سيارات، وحركات خطرة تخطف الأنفاس، وقتالات في الفضاء، ووحوش صاخبة، يأخذكم بلانيت أكشن وراء كواليس أفضل الأفلام على الإطلاق.",
+      "category": "معلومات ترفيهية",
+      "genres": [
+        "معلومات ترفيهية"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T10:00:00+00:00",
+      "stop": "2026-11-16T10:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أوفربورد",
+      "clean_title": "أوفربورد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تنتهز أم عازبة فرصتها للانتقام حين يسقط رب عملها الثري واللعوب من على سطح قاربه في البحر ويفقد ذاكرته. حيث تقنعه بأنه زوجها وتجعله يعمل للمرة الأولى في حياته.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T10:30:00+00:00",
+      "stop": "2026-11-16T12:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 573334,
+      "title": "World Of Movies موسم 3 حلقة 45",
+      "clean_title": "World Of Movies",
+      "original_title": "A Night at the Movies: The Gigantic World of Epics",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": 3,
+      "episode": 45,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "انغمسوا في عالم من الأعمال السينمائية التي اكتسحت شبابيك التذاكر والأفلام التي تستهوي الجنس اللطيف، والبث المباشر والأعمال المسرحية وحتى برودواي!",
+      "category": "معلومات ترفيهية",
+      "genres": [
+        "معلومات ترفيهية",
+        "وثائقي",
+        "فيلم تلفازي"
+      ],
+      "rating": 8,
+      "vote_count": 2,
+      "age_rating": "NR",
+      "year": "2009",
+      "release_date": "2009-12-20",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Laurent Bouzereau",
+      "cast": [
+        {
+          "name": "Robert Osborne",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bFfmauxhtvh1kKOej899kEiNC6M.jpg"
+        },
+        {
+          "name": "ستيفن سبيلبرغ",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+        },
+        {
+          "name": "كينيث براناه",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+        },
+        {
+          "name": "مارتن لانداو",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dznOAZPpAyXu7PfCz5obbJ2YzsJ.jpg"
+        },
+        {
+          "name": "عمر الشريف",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pnDxqehpEwmJhXdS3SMxKCfDuHD.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T12:30:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/zIZcsasCCmk0NdmDQIZtGUCB5up.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/54utuDPeGbAUHP41kndwMJvlKoT.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/zIZcsasCCmk0NdmDQIZtGUCB5up.jpg",
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "كات ومان",
+      "clean_title": "كات ومان",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تكتشف بيشنس فيليبس، أثناء عملها في شركة لمواد التجميل، أمرا بغيضا يؤدي بأصحاب الشركة إلى قتلها، لتولد بيشنس فيليبس من جديد باسم كات ومان ذات القوى الخارقة، وتنتقم من كل من أساء إليها.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "إيدج أوف تومورو",
+      "clean_title": "إيدج أوف تومورو",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يؤدي توم كروز دور ضابط لم تطأ قدمه أرض معركة من قبل، يجد نفسه بشكل غير مفهوم وسط حلقة زمنية، ويعيش تجربة قتال وحشي مرارا وتكرارا.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T09:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T04:35:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T06:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ساكر بانش",
+      "clean_title": "ساكر بانش",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "فتاة صغيرة تجد في عالم أحلامها ملجأ لها من واقعها المرير، يتم احتجازها رغما عنها، فتخوض معركة جريئة برفقة فتيات أخريات في وجه مخاطر عديدة كالأفاعي والساموراي من أجل حصولهن على الحرية.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T19:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أندرورلد: رايز أوف ذا لايكنز",
+      "clean_title": "أندرورلد: رايز أوف ذا لايكنز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بينما يتعقبان أصول العداوة الملطخة بالدماء والتي دامت لعدة قرون بين مصاصي الدماء الأرستقراطيين وعبيدهم المستذئبين من فصيلة \"لايكن\"، يقوم شاب من تلك الفصيلة وحبيبته السرية بحشد المستذئبين للتمرد على الملك الوحشي المنتمي لمصاصي الدماء الذي استعبدهم.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:00:00+00:00",
+      "stop": "2026-11-16T20:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1719174,
+      "title": "Making The Movies موسم 6 حلقة 48",
+      "clean_title": "Making The Movies",
+      "original_title": "Home Movies: Inside the Making of Amélie",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": 6,
+      "episode": 48,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم هذا البرنامج كل ما يمكن تعلمه عن كيفية صناعة الأفلام من الألف إلى الياء، ابتداء من التقنيات الرائعة والمواضيع الشيقة وانتهاء بآخر صيحات الإنتاج في هوليوود.",
+      "category": "معلومات ترفيهية",
+      "genres": [
+        "معلومات ترفيهية",
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-07-27",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:30:00+00:00",
+      "stop": "2026-11-16T21:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/h89PntPZVAh00bbQQaJ6SprwvyN.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/h89PntPZVAh00bbQQaJ6SprwvyN.jpg",
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "تحت الأرض: حروب الدماء",
+      "clean_title": "تحت الأرض: حروب الدماء",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تقاتل مصاصة الدماء وتاجرة الموت سيلين في سبيل إنهاء الحرب الأبدية بين قبيلة ليشان وحزب مصاصي الدماء الذي خانها.",
+      "category": "خيالي",
+      "genres": [
+        "خيالي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T21:00:00+00:00",
+      "stop": "2026-11-16T22:25:00+00:00",
+      "duration_minutes": 85,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "Celebrity Scoop موسم 9 حلقة 46",
+      "clean_title": "Celebrity Scoop",
+      "original_title": "Celebrity Scoop",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 9,
+      "episode": 46,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يلقي سيليبريتي سكوب نظرة على حياة أشهر النجوم ليأتيكم بكل أخبارهم المثيرة للاهتمام.",
+      "category": "معلومات ترفيهية",
+      "genres": [
+        "معلومات ترفيهية"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2016",
+      "release_date": null,
+      "status": null,
+      "country": "United Kingdom",
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:25:00+00:00",
+      "stop": "2026-11-16T22:55:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/88/220347.jpg",
+      "backdrop": null,
+      "icon": "https://static.tvmaze.com/uploads/images/original_untouched/88/220347.jpg",
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "17 أجاين",
+      "clean_title": "17 أجاين",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستيقظ أب في منتصف العمر في يوم من الأيام ليجد أن عمره قد أصبح 17 سنة مرة أخرى، والتنقل داخل المدرسة الثانوية ليست بالأمر السهل- وخصوصا مع وجود أولاده هناك.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:55:00+00:00",
+      "stop": "2026-11-17T00:30:00+00:00",
+      "duration_minutes": 95,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-16T08:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Stars In Style موسم 11 حلقة 4",
+      "clean_title": "Stars In Style",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 11,
+      "episode": 4,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ادخل إلى عالم أزياء المشاهير المبهر مع برنامج ستارز إن ستايل، الدليل الشامل لأحدث صيحات الموضة ولحظات السجادة الحمراء المميزة.",
+      "category": "معلومات ترفيهية",
+      "genres": [
+        "معلومات ترفيهية"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:30:00+00:00",
+      "stop": "2026-11-17T01:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "وير ذا ميلرز",
+      "clean_title": "وير ذا ميلرز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد أن يجد نفسه في مشكلة كبيرة مع أحد مورديه، يقوم تاجر مخدرات بسيط يعيش في الضواحي بتجنيد جيرانه في مجموعته، وهم راقصة في ملهى، ومراهقة وزبون طموح، وذلك من أجل نقل شحنة كبيرة من المخدرات إلى داخل الولايات المتحدة من المكسيك.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:00:00+00:00",
+      "stop": "2026-11-17T02:35:00+00:00",
+      "duration_minutes": 95,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "هوليوود باز موسم 9 حلقة 48",
+      "clean_title": "هوليوود باز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 9,
+      "episode": 48,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مزيج مميز من آخر أخبار نجوم هوليوود والشائعات التي تدور حولهم، بالإضافة إلى مقابلات حصرية ولقطات من وراء الكواليس.",
+      "category": "معلومات ترفيهية",
+      "genres": [
+        "معلومات ترفيهية"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T02:35:00+00:00",
+      "stop": "2026-11-17T03:05:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-16T03:25:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-16T07:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فايتينج وذ ماي فاميلي",
+      "clean_title": "فايتينج وذ ماي فاميلي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يكسب ريكي وجوليا رزقهما من خلال تقديم العروض مع طفليهما سرايا وزاك. عندما تتاح للطفلين فرصة المشاركة في تجارب أداء WWE، يبدو أن حلم العائلة قد يتحقق، إلى أن تكتشف مدى صعوبة ذلك.",
+      "category": "سيرة ذاتية",
+      "genres": [
+        "سيرة ذاتية"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:05:00+00:00",
+      "stop": "2026-11-17T04:50:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-16T06:01:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 196868,
+      "title": "كليك",
+      "clean_title": "كليك",
+      "original_title": "DOUBLE CLICK",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "يجد مهندس معماري جهاز تحكم عن بعد يمكنه من العودة والتقدم بالزمن إلى مراحل مختلفة من حياته.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-04-02",
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:50:00+00:00",
+      "stop": "2026-11-17T06:30:00+00:00",
+      "duration_minutes": 100,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/7SMpdmDMAfchpuJGtN5SBUpdAzx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jJquAih3yQzasMpPwGv6ttsk4Ax.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/7SMpdmDMAfchpuJGtN5SBUpdAzx.jpg",
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "إيدج أوف تومورو",
+      "clean_title": "إيدج أوف تومورو",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يؤدي توم كروز دور ضابط لم تطأ قدمه أرض معركة من قبل، يجد نفسه بشكل غير مفهوم وسط حلقة زمنية، ويعيش تجربة قتال وحشي مرارا وتكرارا.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:30:00+00:00",
+      "stop": "2026-11-17T08:17:00+00:00",
+      "duration_minutes": 107,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T09:05:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T04:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "جدول البرامج غير متاح",
+      "clean_title": "جدول البرامج غير متاح",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:17:00+00:00",
+      "stop": "2026-11-17T08:30:00+00:00",
+      "duration_minutes": 13,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T00:55:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T01:50:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T02:55:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T03:55:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T04:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T05:38:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T05:54:50+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T05:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T06:34:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T07:53:40+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T08:16:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T08:44:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T08:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T09:30:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T09:39:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T09:50:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T10:50:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T10:52:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T11:04:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T11:36:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T11:50:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T12:28:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T12:50:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T13:19:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T13:37:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T13:53:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T14:43:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T14:53:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T14:56:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T15:20:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T15:45:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T15:49:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T15:55:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T16:00:48+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T16:05:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T16:32:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T16:50:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T16:53:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T17:36:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T17:43:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T17:53:09+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T17:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T18:25:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T18:48:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T18:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T19:30:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T19:38:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T19:52:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T19:54:38+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T19:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T20:48:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T20:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T21:40:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T21:54:30+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T21:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T22:04:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T23:12:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T23:50:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T23:55:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T00:09:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T00:48:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T00:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T01:17:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T01:50:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T02:25:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T02:40:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T02:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T03:02:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T03:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T04:02:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T04:48:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T05:38:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T05:51:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T05:55:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T06:15:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T06:35:24+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T06:44:22+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T06:50:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T06:52:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T07:10:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T07:21:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T07:43:09+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T07:48:56+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T07:49:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T07:49:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T07:51:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T08:19:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T08:21:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T08:43:44+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T08:52:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T08:53:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T08:54:04+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T09:15:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T09:23:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T09:42:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T09:44:49+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T09:47:22+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T09:50:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T09:55:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T10:07:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T10:23:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T10:43:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T10:45:39+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T10:50:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T10:54:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T11:15:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T11:32:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T11:33:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T11:35:24+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T11:42:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T11:45:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T11:47:59+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T11:50:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T12:25:00+00:00"
+        },
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-17T12:33:02+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T12:41:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T12:43:09+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T12:47:20+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T12:49:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T12:50:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T13:05:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T13:10:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T13:15:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T13:36:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T13:44:49+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T13:47:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T13:47:32+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T13:52:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T13:53:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T14:42:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T14:43:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T14:43:44+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T14:47:22+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T14:52:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T14:52:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T14:54:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T15:17:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T15:20:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T15:23:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T15:35:24+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T15:41:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T15:45:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T15:47:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T15:48:56+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T15:54:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T16:05:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T16:05:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T16:23:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T16:25:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T16:45:33+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T16:49:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T16:50:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T16:51:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T16:57:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T17:25:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T17:41:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T17:43:09+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T17:44:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T17:46:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T17:49:21+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T17:55:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T18:25:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T18:27:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T18:38:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T18:46:04+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T18:46:26+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T18:50:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T18:55:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T18:55:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T19:05:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T19:15:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T19:38:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T19:44:37+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T19:48:36+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T19:51:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T19:55:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T20:28:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T20:39:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T20:46:04+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T20:49:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T20:51:17+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T21:25:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T21:36:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T21:39:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T21:39:44+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T21:47:19+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T21:55:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T21:55:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T22:24:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T22:42:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T22:46:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T22:47:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T22:47:48+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T22:48:09+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T22:55:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T23:44:52+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T23:46:04+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T23:47:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T23:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أنجر مانجمنت",
+      "clean_title": "أنجر مانجمنت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يُحكم عن طريق الخطأ على رجل أعمال خجول بالخضوع لجلسات برنامج إدارة الغضب، وسرعان ما تنقلب حياته رأساً على عقب بسبب مدرس عدواني قلما يمارس ما يعظ به الآخرين.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:30:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ساكر بانش",
+      "clean_title": "ساكر بانش",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "فتاة صغيرة تجد في عالم أحلامها ملجأ لها من واقعها المرير، يتم احتجازها رغما عنها، فتخوض معركة جريئة برفقة فتيات أخريات في وجه مخاطر عديدة كالأفاعي والساموراي من أجل حصولهن على الحرية.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T11:45:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-16T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "جدول البرامج غير متاح",
+      "clean_title": "جدول البرامج غير متاح",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:45:00+00:00",
+      "stop": "2026-11-17T12:00:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T00:55:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T01:50:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T02:55:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T03:55:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T04:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T05:38:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T05:54:50+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T05:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T06:34:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T07:53:40+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T08:16:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T08:44:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T08:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T09:30:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T09:39:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T09:50:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T10:50:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T10:52:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T11:04:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T11:36:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T11:50:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T12:28:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T12:50:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T13:19:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T13:37:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T13:53:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T14:43:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T14:53:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T14:56:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T15:20:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T15:45:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T15:49:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T15:55:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T16:00:48+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T16:05:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T16:32:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T16:50:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T16:53:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T17:36:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T17:43:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T17:53:09+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T17:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T18:25:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T18:48:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T18:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T19:30:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T19:38:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T19:52:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T19:54:38+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T19:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T20:48:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T20:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T21:40:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T21:54:30+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T21:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T22:04:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T23:12:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T23:50:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T23:55:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T00:09:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T00:48:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T00:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T01:17:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T01:50:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T02:25:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T02:40:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T02:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T03:02:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T03:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T04:02:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T04:48:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T05:38:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T05:51:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T05:55:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T06:15:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T06:35:24+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T06:44:22+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T06:50:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T06:52:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T07:10:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T07:21:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T07:43:09+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T07:48:56+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T07:49:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T07:49:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T07:51:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T08:17:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T08:19:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T08:21:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T08:43:44+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T08:52:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T08:53:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T08:54:04+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T09:15:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T09:23:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T09:42:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T09:44:49+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T09:47:22+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T09:50:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T09:55:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T10:07:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T10:23:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T10:43:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T10:45:39+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T10:50:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T10:54:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T11:15:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T11:32:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T11:33:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T11:35:24+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T11:42:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T11:47:59+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T11:50:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T12:25:00+00:00"
+        },
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-17T12:33:02+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T12:41:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T12:43:09+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T12:47:20+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T12:49:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T12:50:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T13:05:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T13:10:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T13:15:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T13:36:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T13:44:49+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T13:47:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T13:47:32+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T13:52:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T13:53:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T14:42:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T14:43:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T14:43:44+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T14:47:22+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T14:52:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T14:52:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T14:54:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T15:17:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T15:20:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T15:23:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T15:35:24+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T15:41:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T15:45:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T15:47:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T15:48:56+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T15:54:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T16:05:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T16:05:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T16:23:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T16:25:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T16:45:33+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T16:49:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T16:50:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T16:51:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T16:57:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T17:25:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T17:41:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T17:43:09+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T17:44:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T17:46:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T17:49:21+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T17:55:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T18:25:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T18:27:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T18:38:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T18:46:04+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T18:46:26+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T18:50:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T18:55:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T18:55:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T19:05:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T19:15:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T19:38:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T19:44:37+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T19:48:36+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T19:51:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T19:55:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T20:28:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T20:39:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T20:46:04+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T20:49:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T20:51:17+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T21:25:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T21:36:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T21:39:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T21:39:44+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T21:47:19+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T21:55:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T21:55:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T22:24:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T22:42:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T22:46:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T22:47:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T22:47:48+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T22:48:09+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T22:55:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T23:44:52+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T23:46:04+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T23:47:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T23:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سكووب مع ريا",
+      "clean_title": "سكووب مع ريا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعتبر البرنامج بمثابة وجهة هوليوود الأولى في إيصال آخر أخبار الأفلام إلى العالم العربي، حيث تتيح لنا ريا الوصول إلى ألمع نجوم الأفلام السينمائية وآخر أخبارهم.",
+      "category": "معلومات ترفيهية",
+      "genres": [
+        "معلومات ترفيهية"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:00:00+00:00",
+      "stop": "2026-11-17T12:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "سبيد ريسر",
+      "clean_title": "سبيد ريسر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ولد ليسابق السيارات، سبيد ريسر هو شخص عدواني تحركه الغرائز والأهم من ذلك كله لا يعرف الخوف طريقا إلى قلبه، ولكن بعد رفضه لعرض مغرٍ من شركة رويالتون للصناعات، يتعين عليه الآن كشف الستار عن سر مروع.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:30:00+00:00",
+      "stop": "2026-11-17T14:35:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "هوليوود باز",
+      "clean_title": "هوليوود باز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مزيج مميز من آخر أخبار نجوم هوليوود والشائعات التي تدور حولهم، بالإضافة إلى مقابلات حصرية ولقطات من وراء الكواليس.",
+      "category": "معلومات ترفيهية",
+      "genres": [
+        "معلومات ترفيهية"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T14:35:00+00:00",
+      "stop": "2026-11-17T15:05:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بلايد",
+      "clean_title": "بلايد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد أن يبصر صبي النور قبل موعد ولادته الطبيعي بسبب عضة مصاص دماء تسببت بمقتل والدته، ينشأ ليصبح محاربا أسطوريا يسخر قوته الاستثنائية لمحاربة مصاصي الدماء الذين يقودهم عدوه اللدود ديكون فروست.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T15:05:00+00:00",
+      "stop": "2026-11-17T16:55:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "إكس إكس إكس: ستايت أوف ذا يونيون",
+      "clean_title": "إكس إكس إكس: ستايت أوف ذا يونيون",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عميل جديد يجب عليه إحباط محاولة مخططة جيداً للاستيلاء والسيطرة على الحكومة الأمريكية واغتيال الرئيس الأمريكي.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T16:55:00+00:00",
+      "stop": "2026-11-17T18:30:00+00:00",
+      "duration_minutes": 95,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "بلانيت أكشن",
+      "clean_title": "بلانيت أكشن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ما بين إطلاق نار من قبل رعاة البقر وانفجار سيارات، وحركات خطرة تخطف الأنفاس، وقتالات في الفضاء، ووحوش صاخبة، يأخذكم بلانيت أكشن وراء كواليس أفضل الأفلام على الإطلاق.",
+      "category": "معلومات ترفيهية",
+      "genres": [
+        "معلومات ترفيهية"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:30:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-16T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا دارك تاور",
+      "clean_title": "ذا دارك تاور",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتشارك رولاند والرجل ذو الرداء الأسود في ثأر قديم، ويتوجب عليهما أن يتقاتلا حتى الموت في معركة ملحمية ستحدد مصير الكون.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T20:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "هوليوود باز",
+      "clean_title": "هوليوود باز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مزيج مميز من آخر أخبار نجوم هوليوود والشائعات التي تدور حولهم، بالإضافة إلى مقابلات حصرية ولقطات من وراء الكواليس.",
+      "category": "معلومات ترفيهية",
+      "genres": [
+        "معلومات ترفيهية"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:30:00+00:00",
+      "stop": "2026-11-17T21:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T14:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "جرين لانترن",
+      "clean_title": "جرين لانترن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما يهدد عدو جديد يدعى بارالاكس بتدمير توازن القوى في الكون، يصبح هال جوردن أول إنسان يتم اختياره من قبل فيلق جرين لانترن للتدريب بسرعة والسيطرة على قدراته الجديدة لهزيمة بارالاكس.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:00:00+00:00",
+      "stop": "2026-11-17T22:46:00+00:00",
+      "duration_minutes": 106,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "جدول البرامج غير متاح",
+      "clean_title": "جدول البرامج غير متاح",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:46:00+00:00",
+      "stop": "2026-11-17T23:00:00+00:00",
+      "duration_minutes": 14,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T00:55:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T01:50:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T02:55:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T03:55:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T04:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T05:38:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T05:54:50+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T05:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T06:34:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T07:53:40+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T08:16:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T08:44:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T08:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T09:30:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T09:39:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T09:50:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T10:50:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T10:52:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T11:04:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T11:36:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T11:50:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T12:28:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T12:50:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T13:19:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T13:37:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T13:53:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T14:43:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T14:53:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T14:56:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T15:20:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T15:45:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T15:49:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T15:55:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T16:00:48+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T16:05:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T16:32:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T16:50:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T16:53:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T17:36:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T17:43:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T17:53:09+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T17:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T18:25:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T18:48:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T18:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T19:30:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T19:38:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T19:52:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T19:54:38+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T19:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T20:48:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T20:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T21:40:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T21:54:30+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T21:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T22:04:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T23:12:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T23:50:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T23:55:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T00:09:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T00:48:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T00:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T01:17:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T01:50:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T02:25:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T02:40:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T02:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T03:02:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T03:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T04:02:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T04:48:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T05:38:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T05:51:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T05:55:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T06:15:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T06:35:24+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T06:44:22+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T06:50:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T06:52:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T07:10:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T07:21:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T07:43:09+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T07:48:56+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T07:49:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T07:49:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T07:51:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T08:17:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T08:19:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T08:21:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T08:43:44+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T08:52:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T08:53:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T08:54:04+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T09:15:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T09:23:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T09:42:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T09:44:49+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T09:47:22+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T09:50:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T09:55:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T10:07:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T10:23:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T10:43:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T10:45:39+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T10:50:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T10:54:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T11:15:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T11:32:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T11:33:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T11:35:24+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T11:42:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T11:45:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T11:47:59+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T11:50:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T12:25:00+00:00"
+        },
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-17T12:33:02+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T12:41:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T12:43:09+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T12:47:20+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T12:49:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T12:50:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T13:05:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T13:10:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T13:15:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T13:36:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T13:44:49+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T13:47:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T13:47:32+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T13:52:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T13:53:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T14:42:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T14:43:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T14:43:44+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T14:47:22+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T14:52:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T14:52:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T14:54:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T15:17:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T15:20:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T15:23:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T15:35:24+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T15:41:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T15:45:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T15:47:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T15:48:56+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T15:54:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T16:05:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T16:05:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T16:23:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T16:25:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T16:45:33+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T16:49:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T16:50:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T16:51:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T16:57:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T17:25:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T17:41:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T17:43:09+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T17:44:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T17:46:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T17:49:21+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T17:55:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T18:25:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T18:27:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T18:38:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T18:46:04+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T18:46:26+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T18:50:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T18:55:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T18:55:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T19:05:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T19:15:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T19:38:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T19:44:37+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T19:48:36+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T19:51:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T19:55:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T20:28:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T20:39:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T20:46:04+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T20:49:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T20:51:17+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T21:25:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T21:36:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T21:39:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T21:39:44+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T21:47:19+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T21:55:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T21:55:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T22:24:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T22:42:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T22:47:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T22:47:48+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T22:48:09+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T22:55:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T23:44:52+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T23:46:04+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T23:47:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T23:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أندرورلد: رايز أوف ذا لايكنز",
+      "clean_title": "أندرورلد: رايز أوف ذا لايكنز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بينما يتعقبان أصول العداوة الملطخة بالدماء والتي دامت لعدة قرون بين مصاصي الدماء الأرستقراطيين وعبيدهم المستذئبين من فصيلة \"لايكن\"، يقوم شاب من تلك الفصيلة وحبيبته السرية بحشد المستذئبين للتمرد على الملك الوحشي المنتمي لمصاصي الدماء الذي استعبدهم.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T23:00:00+00:00",
+      "stop": "2026-11-18T00:24:00+00:00",
+      "duration_minutes": 84,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/A02CptP.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-16T19:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

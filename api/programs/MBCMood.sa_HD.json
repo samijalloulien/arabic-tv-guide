@@ -1,0 +1,701 @@
+{
+  "channel_id": "MBCMood.sa@HD",
+  "channel_name": "MBC Mood",
+  "channel_icon": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&amp;width=144&amp;croppingPoint=&amp;version=1&amp;type=png",
+  "programs": [
+    {
+      "tmdb_id": 1745467,
+      "title": "طرب",
+      "clean_title": "طرب",
+      "original_title": "طرب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "موعدكم الليلي مع نجوم الطرب الأصيل، حيث الإحساس والسلطنة في مختارات من برامج MBC وحفلات موسم الرياض.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": "Released",
+      "country": "البحرين",
+      "language": "العربية",
+      "director": "Samar Alhusaini",
+      "cast": [
+        {
+          "name": "Sara Alhusaini",
+          "character": "Bride",
+          "profile_image": null
+        },
+        {
+          "name": "Feras Bahar",
+          "character": "Groom",
+          "profile_image": null
+        },
+        {
+          "name": "Alya Alhamlan",
+          "character": "Wedding guest #1",
+          "profile_image": null
+        },
+        {
+          "name": "Ali Adel",
+          "character": "Wedding Guest #3",
+          "profile_image": null
+        },
+        {
+          "name": "Mohamed Faisal",
+          "character": "Wedding guest #2",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-15T18:00:00+00:00",
+      "stop": "2026-11-16T03:12:00+00:00",
+      "duration_minutes": 552,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/j3Xz1GQuY88XAy5bEnOcGP9pGeo.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/j3Xz1GQuY88XAy5bEnOcGP9pGeo.jpg",
+      "channel_icon": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&amp;width=144&amp;croppingPoint=&amp;version=1&amp;type=png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-16T18:05:00+00:00"
+        },
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "رايق",
+      "clean_title": "رايق",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مختارات غنائية راقية تناسب أجواء الصباح الهادئة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T03:12:00+00:00",
+      "stop": "2026-11-16T06:00:00+00:00",
+      "duration_minutes": 168,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&amp;width=144&amp;croppingPoint=&amp;version=1&amp;type=png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-17T03:33:00+00:00"
+        },
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-17T07:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "رايق",
+      "clean_title": "رايق",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مختارات غنائية راقية تناسب أجواء الصباح الهادئة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T06:00:00+00:00",
+      "stop": "2026-11-16T09:31:00+00:00",
+      "duration_minutes": 211,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&amp;width=144&amp;croppingPoint=&amp;version=1&amp;type=png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-16T03:12:00+00:00"
+        },
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-17T03:33:00+00:00"
+        },
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-17T07:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "عيش المود",
+      "clean_title": "عيش المود",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "موجات غنائية متجددة تجمع بين البرامج والحفلات الغنائية من الصباح إلى المساء.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T09:31:00+00:00",
+      "stop": "2026-11-16T15:14:00+00:00",
+      "duration_minutes": 343,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&amp;width=144&amp;croppingPoint=&amp;version=1&amp;type=png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-17T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فيديو كليب",
+      "clean_title": "فيديو كليب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "استمتعوا بمشاهدة أحدث الكليبات الرائجة لأشهر الأغاني وأوسعها انتشارا.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:14:00+00:00",
+      "stop": "2026-11-16T16:12:00+00:00",
+      "duration_minutes": 58,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&amp;width=144&amp;croppingPoint=&amp;version=1&amp;type=png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سهرتنا غير",
+      "clean_title": "سهرتنا غير",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "احجزوا مقاعدكم في سهرات موسيقية خلابة لنجوم الصف الأول من كبرى مسارح الرياض ودبي والكويت.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:12:00+00:00",
+      "stop": "2026-11-16T18:05:00+00:00",
+      "duration_minutes": 113,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&amp;width=144&amp;croppingPoint=&amp;version=1&amp;type=png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1745467,
+      "title": "طرب",
+      "clean_title": "طرب",
+      "original_title": "طرب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "موعدكم الليلي مع نجوم الطرب الأصيل، حيث الإحساس والسلطنة في مختارات من برامج MBC وحفلات موسم الرياض.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": "Released",
+      "country": "البحرين",
+      "language": "العربية",
+      "director": "Samar Alhusaini",
+      "cast": [
+        {
+          "name": "Sara Alhusaini",
+          "character": "Bride",
+          "profile_image": null
+        },
+        {
+          "name": "Feras Bahar",
+          "character": "Groom",
+          "profile_image": null
+        },
+        {
+          "name": "Alya Alhamlan",
+          "character": "Wedding guest #1",
+          "profile_image": null
+        },
+        {
+          "name": "Ali Adel",
+          "character": "Wedding Guest #3",
+          "profile_image": null
+        },
+        {
+          "name": "Mohamed Faisal",
+          "character": "Wedding guest #2",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T18:05:00+00:00",
+      "stop": "2026-11-17T03:33:00+00:00",
+      "duration_minutes": 568,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/j3Xz1GQuY88XAy5bEnOcGP9pGeo.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/j3Xz1GQuY88XAy5bEnOcGP9pGeo.jpg",
+      "channel_icon": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&amp;width=144&amp;croppingPoint=&amp;version=1&amp;type=png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-15T18:00:00+00:00"
+        },
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "رايق",
+      "clean_title": "رايق",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مختارات غنائية راقية تناسب أجواء الصباح الهادئة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:33:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
+      "duration_minutes": 147,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&amp;width=144&amp;croppingPoint=&amp;version=1&amp;type=png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-16T03:12:00+00:00"
+        },
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-17T07:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "رايق",
+      "clean_title": "رايق",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مختارات غنائية راقية تناسب أجواء الصباح الهادئة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&amp;width=144&amp;croppingPoint=&amp;version=1&amp;type=png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-16T03:12:00+00:00"
+        },
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-17T03:33:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "عيش المود",
+      "clean_title": "عيش المود",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "موجات غنائية متجددة تجمع بين البرامج والحفلات الغنائية من الصباح إلى المساء.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 360,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&amp;width=144&amp;croppingPoint=&amp;version=1&amp;type=png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-16T09:31:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فيديو كليب",
+      "clean_title": "فيديو كليب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "استمتعوا بمشاهدة أحدث الكليبات الرائجة لأشهر الأغاني وأوسعها انتشارا.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&amp;width=144&amp;croppingPoint=&amp;version=1&amp;type=png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-16T15:14:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سهرتنا غير",
+      "clean_title": "سهرتنا غير",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "احجزوا مقاعدكم في سهرات موسيقية خلابة لنجوم الصف الأول من كبرى مسارح الرياض ودبي والكويت.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T22:00:00+00:00",
+      "duration_minutes": 300,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&amp;width=144&amp;croppingPoint=&amp;version=1&amp;type=png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-16T16:12:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1745467,
+      "title": "طرب",
+      "clean_title": "طرب",
+      "original_title": "طرب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "موعدكم الليلي مع نجوم الطرب الأصيل، حيث الإحساس والسلطنة في مختارات من برامج MBC وحفلات موسم الرياض.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": "Released",
+      "country": "البحرين",
+      "language": "العربية",
+      "director": "Samar Alhusaini",
+      "cast": [
+        {
+          "name": "Sara Alhusaini",
+          "character": "Bride",
+          "profile_image": null
+        },
+        {
+          "name": "Feras Bahar",
+          "character": "Groom",
+          "profile_image": null
+        },
+        {
+          "name": "Alya Alhamlan",
+          "character": "Wedding guest #1",
+          "profile_image": null
+        },
+        {
+          "name": "Ali Adel",
+          "character": "Wedding Guest #3",
+          "profile_image": null
+        },
+        {
+          "name": "Mohamed Faisal",
+          "character": "Wedding guest #2",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T22:00:00+00:00",
+      "stop": "2026-11-18T04:00:00+00:00",
+      "duration_minutes": 360,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/j3Xz1GQuY88XAy5bEnOcGP9pGeo.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/j3Xz1GQuY88XAy5bEnOcGP9pGeo.jpg",
+      "channel_icon": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&amp;width=144&amp;croppingPoint=&amp;version=1&amp;type=png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-15T18:00:00+00:00"
+        },
+        {
+          "channel": "MBC Mood",
+          "start": "2026-11-16T18:05:00+00:00"
+        }
+      ]
+    }
+  ]
+}

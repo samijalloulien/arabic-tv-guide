@@ -1,0 +1,2157 @@
+{
+  "channel_id": "MoviesThriller.sa@SD",
+  "channel_name": "Movies Thriller",
+  "channel_icon": "https://i.imgur.com/JWihdcl.png",
+  "programs": [
+    {
+      "tmdb_id": 376290,
+      "title": "Miss Sloane",
+      "clean_title": "Miss Sloane",
+      "original_title": "Miss Sloane",
+      "tagline": "تأكد من أن تفاجئهم.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تواجه عضوة في جماعة ضغط صعبة المراس في العاصمة الأمريكية أقوى خصم في حياتها المهنية وتجد أن الفوز قد يكلفها غاليا.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "إثارة",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 7.4,
+      "vote_count": 2056,
+      "age_rating": "R",
+      "year": "2016",
+      "release_date": "2016-11-25",
+      "status": "Released",
+      "country": "كندا",
+      "language": "الإنجليزية",
+      "director": "John Madden",
+      "cast": [
+        {
+          "name": "جيسيكا شاستاين",
+          "character": "Madeline Elizabeth Sloane",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg"
+        },
+        {
+          "name": "مارك سترونج",
+          "character": "Rodolfo Vittorio Schmidt",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+        },
+        {
+          "name": "جوجو مباثا راو",
+          "character": "Esme Manucharian",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
+        },
+        {
+          "name": "Alison Pill",
+          "character": "Jane Molloy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qQm7UR0G8Kcxn7SKTNl6fdSfcTm.jpg"
+        },
+        {
+          "name": "مايكل ستولبارغ",
+          "character": "Pat Connors",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+        },
+        {
+          "name": "Jake Lacy",
+          "character": "Forde",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qU6n9EaesBGqhNLlj5BecUrb5LW.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-15T23:01:50+00:00",
+      "stop": "2026-11-16T01:16:50+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ptfvQlqe2xJiMSewSj52qAVq5z0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hnWBg0qgYa7LxVnTdVYUbAPLctc.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ptfvQlqe2xJiMSewSj52qAVq5z0.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-16T03:55:00+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T07:01:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 97367,
+      "title": "The Place Beyond The Pines",
+      "clean_title": "The Place Beyond The Pines",
+      "original_title": "The Place Beyond the Pines",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "سائق دراجة نارية ومؤدٍ لمجازفات جريئة يكتشف أن لديه ابن من علاقة سابقة ويقرر التخلي عن نمط حياته المعتاد في سبيل الاعتناء بعائلته الجديدة.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 7,
+      "vote_count": 5402,
+      "age_rating": "R",
+      "year": "2013",
+      "release_date": "2013-03-20",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Derek Cianfrance",
+      "cast": [
+        {
+          "name": "رايان غوسلينغ",
+          "character": "Luke Glanton",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+        },
+        {
+          "name": "برادلي كوبر",
+          "character": "Avery Cross",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
+        },
+        {
+          "name": "Eva Mendes",
+          "character": "Romina Gutierrez",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4xptMw7AjNamFgfGt75sHaT0wsI.jpg"
+        },
+        {
+          "name": "روز بيرن",
+          "character": "Jennifer Cross",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+        },
+        {
+          "name": "Ray Liotta",
+          "character": "Peter Deluca",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ve9sB0o1MYTaL2SXEisVW2RMkD5.jpg"
+        },
+        {
+          "name": "دان ديهان",
+          "character": "Jason Kancam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/uwl0WKqHj6ahsriOEPLks84T70j.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T01:16:50+00:00",
+      "stop": "2026-11-16T03:31:50+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vY5j2xQzMGWmxBuhQo0HfA4Lxqb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qCsaZ2GoaCn5vmOUD9kCsyabr9o.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/vY5j2xQzMGWmxBuhQo0HfA4Lxqb.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T09:16:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 899445,
+      "title": "Deep Fear",
+      "clean_title": "Deep Fear",
+      "original_title": "Deep Fear",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتخذ رحلة فردية لامرأة على متن يخت منعطفا خطرا عندما يجبرها ثلاثة تجار مخدرات على الغطس في منطقة مليئة بالقروش لتستعيد كمية كبيرة من الكوكايين.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "رعب",
+        "إثارة",
+        "حركة",
+        "غموض"
+      ],
+      "rating": 5.2,
+      "vote_count": 227,
+      "age_rating": "15",
+      "year": "2023",
+      "release_date": "2023-10-18",
+      "status": "Released",
+      "country": "المملكة المتحدة",
+      "language": "الإنجليزية",
+      "director": "Marcus Adams",
+      "cast": [
+        {
+          "name": "Mădălina Ghenea",
+          "character": "Naomi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8ZJaeXVPRJY7OAwGm1rJJmvHYSz.jpg"
+        },
+        {
+          "name": "Ed Westwick",
+          "character": "Jackson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sI2M7uu76HUkJk562siAK8vt50.jpg"
+        },
+        {
+          "name": "Macarena Gómez",
+          "character": "Maria",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2IDVZhGw13p6YdnZ8s2E8nGbMWQ.jpg"
+        },
+        {
+          "name": "Stany Coppet",
+          "character": "Jose",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nxw3bLWHftIOkWC6YadarCDoxcH.jpg"
+        },
+        {
+          "name": "Ibrahima Gueye",
+          "character": "Barny",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hjKG7JvxZuk9a6zmzrZcJ80cbbx.jpg"
+        },
+        {
+          "name": "David Leguesse",
+          "character": "Diddle Bay",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T03:31:50+00:00",
+      "stop": "2026-11-16T05:01:50+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ms1omYCnhnO3eDOI88tfiy6SaoX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fgz3OhZ9zQVu5UWL6iE69fhSLXI.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ms1omYCnhnO3eDOI88tfiy6SaoX.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T11:31:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 843846,
+      "title": "Butcher's Crossing",
+      "clean_title": "Butcher's Crossing",
+      "original_title": "Butcher's Crossing",
+      "tagline": "‫الطبيعة تحكم مثل الإله على كل الرجال الذين يأتون إليها.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينطلق شاب ترك دراسته في هارفارد في رحلة إلى برية كولورادو بحثا عن قطيع جاموس أسطوري، غير مدرك أن سعيه سيضع حياته وصوابه معا على المحك.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "مغامرة",
+        "دراما",
+        "غربي"
+      ],
+      "rating": 5.9,
+      "vote_count": 230,
+      "age_rating": "R",
+      "year": "2023",
+      "release_date": "2023-02-03",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Gabe Polsky",
+      "cast": [
+        {
+          "name": "نيكولاس كيج",
+          "character": "Miller",
+          "profile_image": "https://image.tmdb.org/t/p/w185/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+        },
+        {
+          "name": "Fred Hechinger",
+          "character": "Will Andrews",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nxQfwTWev2VzQJDdKHixPvwXiZS.jpg"
+        },
+        {
+          "name": "جيريمي بوب",
+          "character": "Fred Schneider",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4f4nYrCuwEbgEPFOK78SdSwoKuT.jpg"
+        },
+        {
+          "name": "Paul Raci",
+          "character": "McDonald",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7ky9dBmNAMwkQuM4pMZkprtSN1Z.jpg"
+        },
+        {
+          "name": "اكساندر بيركلي",
+          "character": "Charlie Hoge",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hl4wBCJXqpOfaoW2oaH9cCilavg.jpg"
+        },
+        {
+          "name": "Rachel Keller",
+          "character": "Francine",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7WPsuYzygjtLbbG97GQksQNi1eG.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T05:01:50+00:00",
+      "stop": "2026-11-16T07:01:50+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2KdkRsYuzYPlJMLrV39gdjY3WkS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3SxySECq5l4TnBObihnnzItn3AC.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2KdkRsYuzYPlJMLrV39gdjY3WkS.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "ستار موفيز",
+          "start": "2026-11-17T04:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 376290,
+      "title": "Miss Sloane",
+      "clean_title": "Miss Sloane",
+      "original_title": "Miss Sloane",
+      "tagline": "تأكد من أن تفاجئهم.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تواجه عضوة في جماعة ضغط صعبة المراس في العاصمة الأمريكية أقوى خصم في حياتها المهنية وتجد أن الفوز قد يكلفها غاليا.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "إثارة",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 7.4,
+      "vote_count": 2056,
+      "age_rating": "R",
+      "year": "2016",
+      "release_date": "2016-11-25",
+      "status": "Released",
+      "country": "كندا",
+      "language": "الإنجليزية",
+      "director": "John Madden",
+      "cast": [
+        {
+          "name": "جيسيكا شاستاين",
+          "character": "Madeline Elizabeth Sloane",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg"
+        },
+        {
+          "name": "مارك سترونج",
+          "character": "Rodolfo Vittorio Schmidt",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+        },
+        {
+          "name": "جوجو مباثا راو",
+          "character": "Esme Manucharian",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
+        },
+        {
+          "name": "Alison Pill",
+          "character": "Jane Molloy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qQm7UR0G8Kcxn7SKTNl6fdSfcTm.jpg"
+        },
+        {
+          "name": "مايكل ستولبارغ",
+          "character": "Pat Connors",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+        },
+        {
+          "name": "Jake Lacy",
+          "character": "Forde",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qU6n9EaesBGqhNLlj5BecUrb5LW.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T07:01:50+00:00",
+      "stop": "2026-11-16T09:16:50+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ptfvQlqe2xJiMSewSj52qAVq5z0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hnWBg0qgYa7LxVnTdVYUbAPLctc.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ptfvQlqe2xJiMSewSj52qAVq5z0.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-15T23:01:50+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-16T03:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 97367,
+      "title": "The Place Beyond The Pines",
+      "clean_title": "The Place Beyond The Pines",
+      "original_title": "The Place Beyond the Pines",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "سائق دراجة نارية ومؤدٍ لمجازفات جريئة يكتشف أن لديه ابن من علاقة سابقة ويقرر التخلي عن نمط حياته المعتاد في سبيل الاعتناء بعائلته الجديدة.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 7,
+      "vote_count": 5402,
+      "age_rating": "R",
+      "year": "2013",
+      "release_date": "2013-03-20",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Derek Cianfrance",
+      "cast": [
+        {
+          "name": "رايان غوسلينغ",
+          "character": "Luke Glanton",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+        },
+        {
+          "name": "برادلي كوبر",
+          "character": "Avery Cross",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
+        },
+        {
+          "name": "Eva Mendes",
+          "character": "Romina Gutierrez",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4xptMw7AjNamFgfGt75sHaT0wsI.jpg"
+        },
+        {
+          "name": "روز بيرن",
+          "character": "Jennifer Cross",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+        },
+        {
+          "name": "Ray Liotta",
+          "character": "Peter Deluca",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ve9sB0o1MYTaL2SXEisVW2RMkD5.jpg"
+        },
+        {
+          "name": "دان ديهان",
+          "character": "Jason Kancam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/uwl0WKqHj6ahsriOEPLks84T70j.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T09:16:50+00:00",
+      "stop": "2026-11-16T11:31:50+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vY5j2xQzMGWmxBuhQo0HfA4Lxqb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qCsaZ2GoaCn5vmOUD9kCsyabr9o.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/vY5j2xQzMGWmxBuhQo0HfA4Lxqb.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T01:16:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 899445,
+      "title": "Deep Fear",
+      "clean_title": "Deep Fear",
+      "original_title": "Deep Fear",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتخذ رحلة فردية لامرأة على متن يخت منعطفا خطرا عندما يجبرها ثلاثة تجار مخدرات على الغطس في منطقة مليئة بالقروش لتستعيد كمية كبيرة من الكوكايين.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "رعب",
+        "إثارة",
+        "حركة",
+        "غموض"
+      ],
+      "rating": 5.2,
+      "vote_count": 227,
+      "age_rating": "15",
+      "year": "2023",
+      "release_date": "2023-10-18",
+      "status": "Released",
+      "country": "المملكة المتحدة",
+      "language": "الإنجليزية",
+      "director": "Marcus Adams",
+      "cast": [
+        {
+          "name": "Mădălina Ghenea",
+          "character": "Naomi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8ZJaeXVPRJY7OAwGm1rJJmvHYSz.jpg"
+        },
+        {
+          "name": "Ed Westwick",
+          "character": "Jackson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sI2M7uu76HUkJk562siAK8vt50.jpg"
+        },
+        {
+          "name": "Macarena Gómez",
+          "character": "Maria",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2IDVZhGw13p6YdnZ8s2E8nGbMWQ.jpg"
+        },
+        {
+          "name": "Stany Coppet",
+          "character": "Jose",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nxw3bLWHftIOkWC6YadarCDoxcH.jpg"
+        },
+        {
+          "name": "Ibrahima Gueye",
+          "character": "Barny",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hjKG7JvxZuk9a6zmzrZcJ80cbbx.jpg"
+        },
+        {
+          "name": "David Leguesse",
+          "character": "Diddle Bay",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T11:31:50+00:00",
+      "stop": "2026-11-16T13:01:50+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ms1omYCnhnO3eDOI88tfiy6SaoX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fgz3OhZ9zQVu5UWL6iE69fhSLXI.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ms1omYCnhnO3eDOI88tfiy6SaoX.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T03:31:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 30497,
+      "title": "Leatherface",
+      "clean_title": "Leatherface",
+      "original_title": "The Texas Chain Saw Massacre",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتعرض ممرضة شابة للاختطاف على يد أربعة مراهقين عنيفين نجحوا بالهرب من مستشفى للأمراض العقلية، وينطلقون بها في رحلة على الطريق من الجحيم.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "رعب"
+      ],
+      "rating": 7.3,
+      "vote_count": 4083,
+      "age_rating": "R",
+      "year": "1974",
+      "release_date": "1974-10-11",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Tobe Hooper",
+      "cast": [
+        {
+          "name": "Marilyn Burns",
+          "character": "Sally",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eTgbAuZkD7Qa2GxtqlveHE95bV0.jpg"
+        },
+        {
+          "name": "Allen Danziger",
+          "character": "Jerry",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wONEJ5KiiupyE0An7On0MPZXw8j.jpg"
+        },
+        {
+          "name": "Paul A. Partain",
+          "character": "Franklin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/laJJQ2N032xzJKF1qyZXwEFmGZL.jpg"
+        },
+        {
+          "name": "William Vail",
+          "character": "Kirk",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tsd0rxR9oNuLthctCHfzLPsexuG.jpg"
+        },
+        {
+          "name": "Teri McMinn",
+          "character": "Pam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4XUT1qyy0jif14Mtn9Egx3nBFiT.jpg"
+        },
+        {
+          "name": "Edwin Neal",
+          "character": "Hitchhiker",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ltosUj8qUhPS82mhDxP9avpHjCC.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T13:01:50+00:00",
+      "stop": "2026-11-16T14:31:50+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/wvBx1Q1FcQE1BPLfBbgA3y9aaS1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T20:16:50+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T03:31:50+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T10:46:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 8492,
+      "title": "Nerve",
+      "clean_title": "Nerve",
+      "original_title": "Shatner's Raw Nerve",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "تجد طالبة في سنة التخرج من المدرسة الثانوية نفسها مفتونة بتشويق تجلبه لعبة شهيرة عبر الإنترنت، لكن تأخذ الأحداث مجرى شريراً يؤدي إلى تصرفات خطيرة.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "حوار"
+      ],
+      "rating": 4,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2008",
+      "release_date": "2008-12-02",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "ويليام شاتنر",
+          "character": "Self - Host",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8X9RuRmwOYQewfCvGg8zFZejC6U.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T14:31:50+00:00",
+      "stop": "2026-11-16T16:16:50+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/5o2PSaYtk97PKXmKMvfDWP4ubbd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9JZMGtBgpM7qESe1WEIEccEDCqa.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/5o2PSaYtk97PKXmKMvfDWP4ubbd.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T21:46:50+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T05:01:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 994441,
+      "title": "Summit Fever",
+      "clean_title": "Summit Fever",
+      "original_title": "Summit Fever",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتحول حلم جريء لتسلق أخطر جبال العالم إلى صراع مرعب من أجل الحياة عندما تحاصر عاصفة قاتلة مجموعة من المتسلقين بالقرب من القمة.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "إثارة"
+      ],
+      "rating": 5.5,
+      "vote_count": 86,
+      "age_rating": "R",
+      "year": "2022",
+      "release_date": "2022-10-13",
+      "status": "Released",
+      "country": "المملكة المتحدة",
+      "language": "الإنجليزية",
+      "director": "Julian Gilbey",
+      "cast": [
+        {
+          "name": "Freddie Thorp",
+          "character": "Michael",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dnhpGjYztvSb2xHmP15wy0JLTSU.jpg"
+        },
+        {
+          "name": "Michel Biel",
+          "character": "Jean Pierre",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ergeo2Drf1L5MkZOve9j2BowKPP.jpg"
+        },
+        {
+          "name": "Mathilde Warnier",
+          "character": "Isabelle",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xDqKNPhXzTPY5Wh9uAGx8rlHznJ.jpg"
+        },
+        {
+          "name": "Théo Christine",
+          "character": "Rudi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rNcIPvVRdjH2GlftrXkhnLimE74.jpg"
+        },
+        {
+          "name": "Ryan Phillippe",
+          "character": "Leo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fgneZFXn0fGG1o7tMzJvHqfHHF7.jpg"
+        },
+        {
+          "name": "هانا نيو",
+          "character": "Natascha",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4U4xCtzINm0zjuqSrwmEbmUxJso.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T16:16:50+00:00",
+      "stop": "2026-11-16T18:16:50+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/rX9k5v7JYmnaBO5E89PZ4yMfuvo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/inkZbsZIWn7vCnnKuDT70F1edwK.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/rX9k5v7JYmnaBO5E89PZ4yMfuvo.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T23:31:50+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T06:46:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 256917,
+      "title": "The Water Diviner",
+      "clean_title": "The Water Diviner",
+      "original_title": "The Water Diviner",
+      "tagline": "للوفاء بوعد. ليجد أبنائه. ليصنع سلامه.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينطلق مزارع أسترالي في مهمة للبحث عن أبنائه الثلاثة المفقودين، الذين لم يعلم عنهم أحد شيئاً منذ قتالهم ضد الأتراك في معركة \"جاليبولي\".",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "حرب",
+        "دراما"
+      ],
+      "rating": 6.8,
+      "vote_count": 1376,
+      "age_rating": "R",
+      "year": "2014",
+      "release_date": "2014-12-25",
+      "status": "Released",
+      "country": "أستراليا",
+      "language": "الإنجليزية",
+      "director": "راسل كرو",
+      "cast": [
+        {
+          "name": "راسل كرو",
+          "character": "Joshua Connor",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3IBZF0qCZMZ7zJYlgrH0sQzNZV.jpg"
+        },
+        {
+          "name": "أولغا كوريلنكو",
+          "character": "Ayshe",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg"
+        },
+        {
+          "name": "Yılmaz Erdoğan",
+          "character": "Major Hasan",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nl7WulHPoP6bw4phMwp0VuuJgyL.jpg"
+        },
+        {
+          "name": "جم يلماز",
+          "character": "Sgt. Jemal",
+          "profile_image": "https://image.tmdb.org/t/p/w185/n8J3f4Ua0FWM29icutaKcg6PxFJ.jpg"
+        },
+        {
+          "name": "جاي كورتني",
+          "character": "Lt. Colonel Hughes",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6vEaNwbOKov6yzQx15CdtrqfK3L.jpg"
+        },
+        {
+          "name": "ريان كور",
+          "character": "Arthur \"Art\" Connor",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lQwMEXNbABIN8LTODkYHU33q19C.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T18:16:50+00:00",
+      "stop": "2026-11-16T20:16:50+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kIlVtC22BDNiiAiCvSZoOS7FhY9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ixJQ8u7lnCO1j7ldHAOzv3UF5Hz.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kIlVtC22BDNiiAiCvSZoOS7FhY9.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T01:31:50+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T08:46:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 30497,
+      "title": "Leatherface",
+      "clean_title": "Leatherface",
+      "original_title": "The Texas Chain Saw Massacre",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتعرض ممرضة شابة للاختطاف على يد أربعة مراهقين عنيفين نجحوا بالهرب من مستشفى للأمراض العقلية، وينطلقون بها في رحلة على الطريق من الجحيم.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "رعب"
+      ],
+      "rating": 7.3,
+      "vote_count": 4083,
+      "age_rating": "R",
+      "year": "1974",
+      "release_date": "1974-10-11",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Tobe Hooper",
+      "cast": [
+        {
+          "name": "Marilyn Burns",
+          "character": "Sally",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eTgbAuZkD7Qa2GxtqlveHE95bV0.jpg"
+        },
+        {
+          "name": "Allen Danziger",
+          "character": "Jerry",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wONEJ5KiiupyE0An7On0MPZXw8j.jpg"
+        },
+        {
+          "name": "Paul A. Partain",
+          "character": "Franklin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/laJJQ2N032xzJKF1qyZXwEFmGZL.jpg"
+        },
+        {
+          "name": "William Vail",
+          "character": "Kirk",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tsd0rxR9oNuLthctCHfzLPsexuG.jpg"
+        },
+        {
+          "name": "Teri McMinn",
+          "character": "Pam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4XUT1qyy0jif14Mtn9Egx3nBFiT.jpg"
+        },
+        {
+          "name": "Edwin Neal",
+          "character": "Hitchhiker",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ltosUj8qUhPS82mhDxP9avpHjCC.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T20:16:50+00:00",
+      "stop": "2026-11-16T21:46:50+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/wvBx1Q1FcQE1BPLfBbgA3y9aaS1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T13:01:50+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T03:31:50+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T10:46:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 8492,
+      "title": "Nerve",
+      "clean_title": "Nerve",
+      "original_title": "Shatner's Raw Nerve",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "تجد طالبة في سنة التخرج من المدرسة الثانوية نفسها مفتونة بتشويق تجلبه لعبة شهيرة عبر الإنترنت، لكن تأخذ الأحداث مجرى شريراً يؤدي إلى تصرفات خطيرة.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "حوار"
+      ],
+      "rating": 4,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2008",
+      "release_date": "2008-12-02",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "ويليام شاتنر",
+          "character": "Self - Host",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8X9RuRmwOYQewfCvGg8zFZejC6U.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T21:46:50+00:00",
+      "stop": "2026-11-16T23:31:50+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/5o2PSaYtk97PKXmKMvfDWP4ubbd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9JZMGtBgpM7qESe1WEIEccEDCqa.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/5o2PSaYtk97PKXmKMvfDWP4ubbd.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T14:31:50+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T05:01:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 994441,
+      "title": "Summit Fever",
+      "clean_title": "Summit Fever",
+      "original_title": "Summit Fever",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتحول حلم جريء لتسلق أخطر جبال العالم إلى صراع مرعب من أجل الحياة عندما تحاصر عاصفة قاتلة مجموعة من المتسلقين بالقرب من القمة.",
+      "category": "إثارة",
+      "genres": [
+        "إثارة"
+      ],
+      "rating": 5.5,
+      "vote_count": 86,
+      "age_rating": "R",
+      "year": "2022",
+      "release_date": "2022-10-13",
+      "status": "Released",
+      "country": "المملكة المتحدة",
+      "language": "الإنجليزية",
+      "director": "Julian Gilbey",
+      "cast": [
+        {
+          "name": "Freddie Thorp",
+          "character": "Michael",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dnhpGjYztvSb2xHmP15wy0JLTSU.jpg"
+        },
+        {
+          "name": "Michel Biel",
+          "character": "Jean Pierre",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ergeo2Drf1L5MkZOve9j2BowKPP.jpg"
+        },
+        {
+          "name": "Mathilde Warnier",
+          "character": "Isabelle",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xDqKNPhXzTPY5Wh9uAGx8rlHznJ.jpg"
+        },
+        {
+          "name": "Théo Christine",
+          "character": "Rudi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rNcIPvVRdjH2GlftrXkhnLimE74.jpg"
+        },
+        {
+          "name": "Ryan Phillippe",
+          "character": "Leo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fgneZFXn0fGG1o7tMzJvHqfHHF7.jpg"
+        },
+        {
+          "name": "هانا نيو",
+          "character": "Natascha",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4U4xCtzINm0zjuqSrwmEbmUxJso.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T23:31:50+00:00",
+      "stop": "2026-11-17T01:31:50+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/rX9k5v7JYmnaBO5E89PZ4yMfuvo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/inkZbsZIWn7vCnnKuDT70F1edwK.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/rX9k5v7JYmnaBO5E89PZ4yMfuvo.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T16:16:50+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T06:46:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 256917,
+      "title": "The Water Diviner",
+      "clean_title": "The Water Diviner",
+      "original_title": "The Water Diviner",
+      "tagline": "للوفاء بوعد. ليجد أبنائه. ليصنع سلامه.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينطلق مزارع أسترالي في مهمة للبحث عن أبنائه الثلاثة المفقودين، الذين لم يعلم عنهم أحد شيئاً منذ قتالهم ضد الأتراك في معركة \"جاليبولي\".",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "حرب",
+        "دراما"
+      ],
+      "rating": 6.8,
+      "vote_count": 1376,
+      "age_rating": "R",
+      "year": "2014",
+      "release_date": "2014-12-25",
+      "status": "Released",
+      "country": "أستراليا",
+      "language": "الإنجليزية",
+      "director": "راسل كرو",
+      "cast": [
+        {
+          "name": "راسل كرو",
+          "character": "Joshua Connor",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3IBZF0qCZMZ7zJYlgrH0sQzNZV.jpg"
+        },
+        {
+          "name": "أولغا كوريلنكو",
+          "character": "Ayshe",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg"
+        },
+        {
+          "name": "Yılmaz Erdoğan",
+          "character": "Major Hasan",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nl7WulHPoP6bw4phMwp0VuuJgyL.jpg"
+        },
+        {
+          "name": "جم يلماز",
+          "character": "Sgt. Jemal",
+          "profile_image": "https://image.tmdb.org/t/p/w185/n8J3f4Ua0FWM29icutaKcg6PxFJ.jpg"
+        },
+        {
+          "name": "جاي كورتني",
+          "character": "Lt. Colonel Hughes",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6vEaNwbOKov6yzQx15CdtrqfK3L.jpg"
+        },
+        {
+          "name": "ريان كور",
+          "character": "Arthur \"Art\" Connor",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lQwMEXNbABIN8LTODkYHU33q19C.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T01:31:50+00:00",
+      "stop": "2026-11-17T03:31:50+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kIlVtC22BDNiiAiCvSZoOS7FhY9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ixJQ8u7lnCO1j7ldHAOzv3UF5Hz.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kIlVtC22BDNiiAiCvSZoOS7FhY9.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T18:16:50+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T08:46:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 30497,
+      "title": "Leatherface",
+      "clean_title": "Leatherface",
+      "original_title": "The Texas Chain Saw Massacre",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتعرض ممرضة شابة للاختطاف على يد أربعة مراهقين عنيفين نجحوا بالهرب من مستشفى للأمراض العقلية، وينطلقون بها في رحلة على الطريق من الجحيم.",
+      "category": "إثارة",
+      "genres": [
+        "إثارة",
+        "رعب"
+      ],
+      "rating": 7.3,
+      "vote_count": 4083,
+      "age_rating": "R",
+      "year": "1974",
+      "release_date": "1974-10-11",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Tobe Hooper",
+      "cast": [
+        {
+          "name": "Marilyn Burns",
+          "character": "Sally",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eTgbAuZkD7Qa2GxtqlveHE95bV0.jpg"
+        },
+        {
+          "name": "Allen Danziger",
+          "character": "Jerry",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wONEJ5KiiupyE0An7On0MPZXw8j.jpg"
+        },
+        {
+          "name": "Paul A. Partain",
+          "character": "Franklin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/laJJQ2N032xzJKF1qyZXwEFmGZL.jpg"
+        },
+        {
+          "name": "William Vail",
+          "character": "Kirk",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tsd0rxR9oNuLthctCHfzLPsexuG.jpg"
+        },
+        {
+          "name": "Teri McMinn",
+          "character": "Pam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4XUT1qyy0jif14Mtn9Egx3nBFiT.jpg"
+        },
+        {
+          "name": "Edwin Neal",
+          "character": "Hitchhiker",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ltosUj8qUhPS82mhDxP9avpHjCC.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T03:31:50+00:00",
+      "stop": "2026-11-17T05:01:50+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/wvBx1Q1FcQE1BPLfBbgA3y9aaS1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T13:01:50+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T20:16:50+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T10:46:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 8492,
+      "title": "Nerve",
+      "clean_title": "Nerve",
+      "original_title": "Shatner's Raw Nerve",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 39,
+      "description": "تجد طالبة في سنة التخرج من المدرسة الثانوية نفسها مفتونة بتشويق تجلبه لعبة شهيرة عبر الإنترنت، لكن تأخذ الأحداث مجرى شريراً يؤدي إلى تصرفات خطيرة.",
+      "category": "إثارة",
+      "genres": [
+        "إثارة",
+        "حوار"
+      ],
+      "rating": 4,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2008",
+      "release_date": "2008-12-02",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "ويليام شاتنر",
+          "character": "Self - Host",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8X9RuRmwOYQewfCvGg8zFZejC6U.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T05:01:50+00:00",
+      "stop": "2026-11-17T06:46:50+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/5o2PSaYtk97PKXmKMvfDWP4ubbd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9JZMGtBgpM7qESe1WEIEccEDCqa.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/5o2PSaYtk97PKXmKMvfDWP4ubbd.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T14:31:50+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T21:46:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 994441,
+      "title": "Summit Fever",
+      "clean_title": "Summit Fever",
+      "original_title": "Summit Fever",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتحول حلم جريء لتسلق أخطر جبال العالم إلى صراع مرعب من أجل الحياة عندما تحاصر عاصفة قاتلة مجموعة من المتسلقين بالقرب من القمة.",
+      "category": "إثارة",
+      "genres": [
+        "إثارة"
+      ],
+      "rating": 5.5,
+      "vote_count": 86,
+      "age_rating": "R",
+      "year": "2022",
+      "release_date": "2022-10-13",
+      "status": "Released",
+      "country": "المملكة المتحدة",
+      "language": "الإنجليزية",
+      "director": "Julian Gilbey",
+      "cast": [
+        {
+          "name": "Freddie Thorp",
+          "character": "Michael",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dnhpGjYztvSb2xHmP15wy0JLTSU.jpg"
+        },
+        {
+          "name": "Michel Biel",
+          "character": "Jean Pierre",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ergeo2Drf1L5MkZOve9j2BowKPP.jpg"
+        },
+        {
+          "name": "Mathilde Warnier",
+          "character": "Isabelle",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xDqKNPhXzTPY5Wh9uAGx8rlHznJ.jpg"
+        },
+        {
+          "name": "Théo Christine",
+          "character": "Rudi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rNcIPvVRdjH2GlftrXkhnLimE74.jpg"
+        },
+        {
+          "name": "Ryan Phillippe",
+          "character": "Leo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fgneZFXn0fGG1o7tMzJvHqfHHF7.jpg"
+        },
+        {
+          "name": "هانا نيو",
+          "character": "Natascha",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4U4xCtzINm0zjuqSrwmEbmUxJso.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T06:46:50+00:00",
+      "stop": "2026-11-17T08:46:50+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/rX9k5v7JYmnaBO5E89PZ4yMfuvo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/inkZbsZIWn7vCnnKuDT70F1edwK.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/rX9k5v7JYmnaBO5E89PZ4yMfuvo.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T16:16:50+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T23:31:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 256917,
+      "title": "The Water Diviner",
+      "clean_title": "The Water Diviner",
+      "original_title": "The Water Diviner",
+      "tagline": "للوفاء بوعد. ليجد أبنائه. ليصنع سلامه.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينطلق مزارع أسترالي في مهمة للبحث عن أبنائه الثلاثة المفقودين، الذين لم يعلم عنهم أحد شيئاً منذ قتالهم ضد الأتراك في معركة \"جاليبولي\".",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "حرب",
+        "دراما"
+      ],
+      "rating": 6.8,
+      "vote_count": 1376,
+      "age_rating": "R",
+      "year": "2014",
+      "release_date": "2014-12-25",
+      "status": "Released",
+      "country": "أستراليا",
+      "language": "الإنجليزية",
+      "director": "راسل كرو",
+      "cast": [
+        {
+          "name": "راسل كرو",
+          "character": "Joshua Connor",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3IBZF0qCZMZ7zJYlgrH0sQzNZV.jpg"
+        },
+        {
+          "name": "أولغا كوريلنكو",
+          "character": "Ayshe",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg"
+        },
+        {
+          "name": "Yılmaz Erdoğan",
+          "character": "Major Hasan",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nl7WulHPoP6bw4phMwp0VuuJgyL.jpg"
+        },
+        {
+          "name": "جم يلماز",
+          "character": "Sgt. Jemal",
+          "profile_image": "https://image.tmdb.org/t/p/w185/n8J3f4Ua0FWM29icutaKcg6PxFJ.jpg"
+        },
+        {
+          "name": "جاي كورتني",
+          "character": "Lt. Colonel Hughes",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6vEaNwbOKov6yzQx15CdtrqfK3L.jpg"
+        },
+        {
+          "name": "ريان كور",
+          "character": "Arthur \"Art\" Connor",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lQwMEXNbABIN8LTODkYHU33q19C.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T08:46:50+00:00",
+      "stop": "2026-11-17T10:46:50+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kIlVtC22BDNiiAiCvSZoOS7FhY9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ixJQ8u7lnCO1j7ldHAOzv3UF5Hz.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kIlVtC22BDNiiAiCvSZoOS7FhY9.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T18:16:50+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T01:31:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 30497,
+      "title": "Leatherface",
+      "clean_title": "Leatherface",
+      "original_title": "The Texas Chain Saw Massacre",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتعرض ممرضة شابة للاختطاف على يد أربعة مراهقين عنيفين نجحوا بالهرب من مستشفى للأمراض العقلية، وينطلقون بها في رحلة على الطريق من الجحيم.",
+      "category": "إثارة",
+      "genres": [
+        "إثارة",
+        "رعب"
+      ],
+      "rating": 7.3,
+      "vote_count": 4083,
+      "age_rating": "R",
+      "year": "1974",
+      "release_date": "1974-10-11",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Tobe Hooper",
+      "cast": [
+        {
+          "name": "Marilyn Burns",
+          "character": "Sally",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eTgbAuZkD7Qa2GxtqlveHE95bV0.jpg"
+        },
+        {
+          "name": "Allen Danziger",
+          "character": "Jerry",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wONEJ5KiiupyE0An7On0MPZXw8j.jpg"
+        },
+        {
+          "name": "Paul A. Partain",
+          "character": "Franklin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/laJJQ2N032xzJKF1qyZXwEFmGZL.jpg"
+        },
+        {
+          "name": "William Vail",
+          "character": "Kirk",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tsd0rxR9oNuLthctCHfzLPsexuG.jpg"
+        },
+        {
+          "name": "Teri McMinn",
+          "character": "Pam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4XUT1qyy0jif14Mtn9Egx3nBFiT.jpg"
+        },
+        {
+          "name": "Edwin Neal",
+          "character": "Hitchhiker",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ltosUj8qUhPS82mhDxP9avpHjCC.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T10:46:50+00:00",
+      "stop": "2026-11-17T12:16:50+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/wvBx1Q1FcQE1BPLfBbgA3y9aaS1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T13:01:50+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-16T20:16:50+00:00"
+        },
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T03:31:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 83686,
+      "title": "The Words",
+      "clean_title": "The Words",
+      "original_title": "The Words",
+      "tagline": "هناك أكثر من طريقة لإنهاء الحياة.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يدرك كاتب في ذروة نجاحه الأدبي الثمن الباهظ الذي سيدفعه عقابا له على سرقة عمل رجل آخر.",
+      "category": "غموض",
+      "genres": [
+        "غموض",
+        "دراما",
+        "إثارة"
+      ],
+      "rating": 6.7,
+      "vote_count": 1351,
+      "age_rating": "PG-13",
+      "year": "2012",
+      "release_date": "2012-09-07",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Brian Klugman, Lee Sternthal",
+      "cast": [
+        {
+          "name": "برادلي كوبر",
+          "character": "Rory Jansen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
+        },
+        {
+          "name": "زوي سالدانا",
+          "character": "Dora Jansen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+        },
+        {
+          "name": "جيرمي أيرونز",
+          "character": "The Old Man",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+        },
+        {
+          "name": "دينيس كويد",
+          "character": "Clay Hammond",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+        },
+        {
+          "name": "أوليفيا وايلد",
+          "character": "Danielle",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eODi1QKamyVa41eSK2SjU20VAZS.jpg"
+        },
+        {
+          "name": "جي كي سيمونز",
+          "character": "Mr. Jansen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T12:16:50+00:00",
+      "stop": "2026-11-17T14:01:50+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/aJtPLZS7tlpiQl6pEr8H42K565x.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/lKZ9QdzMEIceI2PUnFCjZNq1JIg.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/aJtPLZS7tlpiQl6pEr8H42K565x.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T18:31:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 917007,
+      "title": "Bed Rest",
+      "clean_title": "Bed Rest",
+      "original_title": "Bed Rest",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد أن تنتقل امرأة حامل للعيش في منزل جديد مع زوجها، يطلب منها الطبيب ملازمة الفراش طول فترة حملها، ولكنها تشعر بأن المنزل مسكون.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "رعب"
+      ],
+      "rating": 6.2,
+      "vote_count": 284,
+      "age_rating": "R",
+      "year": "2023",
+      "release_date": "2023-02-10",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "لوري إيفانز تايلور",
+      "cast": [
+        {
+          "name": "Melissa Barrera",
+          "character": "Julie Rivers",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5oeFHUwrFz2UylWdYEXXJxfUUqL.jpg"
+        },
+        {
+          "name": "Guy Burnet",
+          "character": "Daniel Rivers",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ksxpXRLJplv8kSfEHPYdboIwNfi.jpg"
+        },
+        {
+          "name": "Edie Inksetter",
+          "character": "Delmy Walker",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kIJVcF4YYMS4UQFqrSIZyGYpRPq.jpg"
+        },
+        {
+          "name": "Sebastian Billingsley-Rodriguez",
+          "character": "Four-year-old Kinsey",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xhPHlfkz0RgoUGDfMpvz2SCYMlf.jpg"
+        },
+        {
+          "name": "Erik Athavale",
+          "character": "Dr. Meadows",
+          "profile_image": "https://image.tmdb.org/t/p/w185/v5J8qSMldAixR3PcUoQmbAPlOOM.jpg"
+        },
+        {
+          "name": "Kristen Sawatzky",
+          "character": "Melandra Kinsey",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T14:01:50+00:00",
+      "stop": "2026-11-17T15:31:50+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/lQzSMhkAl90iXPirjnLbRHkxApC.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T20:16:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 555974,
+      "title": "Brahms: The Boy II",
+      "clean_title": "Brahms: The Boy II",
+      "original_title": "Brahms: The Boy II",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "غير مدركين تاريخ قصر هيلشاير المريع، ينتقل زوجان للعيش في قسم الضيوف حيث يحصل ابنهما الصغير على صديق مريب، دمية يسميها برامز.",
+      "category": "غموض",
+      "genres": [
+        "غموض",
+        "رعب",
+        "إثارة"
+      ],
+      "rating": 5.8,
+      "vote_count": 1343,
+      "age_rating": "PG-13",
+      "year": "2020",
+      "release_date": "2020-02-20",
+      "status": "Released",
+      "country": "كندا",
+      "language": "الإنجليزية",
+      "director": "William Brent Bell",
+      "cast": [
+        {
+          "name": "Katie Holmes",
+          "character": "Liza",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gDhc9rLbhpXdY8lISD7yPiIhvp4.jpg"
+        },
+        {
+          "name": "Christopher Convery",
+          "character": "Jude",
+          "profile_image": "https://image.tmdb.org/t/p/w185/twv9hCdoTM0dQQI2CVk2zJingyI.jpg"
+        },
+        {
+          "name": "أوين يومان",
+          "character": "Sean",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ubPMiDbNwgNhhAlDa4mIzuVZmXJ.jpg"
+        },
+        {
+          "name": "Ralph Ineson",
+          "character": "Joseph",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sn3ONJw2pJxMHiCqPwvkaiWr5mc.jpg"
+        },
+        {
+          "name": "Anjali Jay",
+          "character": "Dr. Lawrence",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1gDAb1ZNIbQYwz49xsOyP35tVaL.jpg"
+        },
+        {
+          "name": "Oliver Rice",
+          "character": "Liam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8H0kGdzDUzgWoP7oqbR2FVydB42.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T15:31:50+00:00",
+      "stop": "2026-11-17T17:01:50+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kDQeXR00SngYEeKmgQXjujjJLNG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jeiVmutYPZyQRSYk7OvyWENGIrA.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kDQeXR00SngYEeKmgQXjujjJLNG.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T21:46:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 96316,
+      "title": "The Rental",
+      "clean_title": "The Rental",
+      "original_title": "彼女、お借りします",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 60,
+      "description": "تأخذ عطلة زوجين في منزل جميل مستأجر منحى خطر عندما يشتبهان أن مضيفهما قد يكون يتجسس عليهما.",
+      "category": "غموض",
+      "genres": [
+        "غموض",
+        "رسوم متحركة",
+        "كوميديا"
+      ],
+      "rating": 8.3,
+      "vote_count": 1007,
+      "age_rating": "TV-MA",
+      "year": "2020",
+      "release_date": "2020-07-11",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "堀江瞬",
+          "character": "Kazuya Kinoshita (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1OFi5ofRX0B2ldTPF8ThzLI2wKa.jpg"
+        },
+        {
+          "name": "雨宮天",
+          "character": "Chizuru Mizuhara (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/AouA1SfwEazdSSj8rUS9K1WIF4H.jpg"
+        },
+        {
+          "name": "悠木碧",
+          "character": "Mami Nanami (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/a5Mkd66GV1l3c9bZZtnvjUf33T2.jpg"
+        },
+        {
+          "name": "ناو توياما",
+          "character": "Ruka Sarashina (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6WJDd1z946yFfZBgpC7dWi0FyQw.jpg"
+        },
+        {
+          "name": "高橋李依",
+          "character": "Sumi Sakurasawa (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aeB7z0cBTASdjKOjQriBAO6hYq4.jpg"
+        },
+        {
+          "name": "芹澤優",
+          "character": "Mini Yaemori (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mQITB0XYHCZjYef39xsHnSHIH56.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T17:01:50+00:00",
+      "stop": "2026-11-17T18:31:50+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3dcm5NSDjw50BQ7UWVsmNje1IEo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ullfy98STkno11rDGi44SK6llwx.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3dcm5NSDjw50BQ7UWVsmNje1IEo.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T23:16:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 83686,
+      "title": "The Words",
+      "clean_title": "The Words",
+      "original_title": "The Words",
+      "tagline": "هناك أكثر من طريقة لإنهاء الحياة.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يدرك كاتب في ذروة نجاحه الأدبي الثمن الباهظ الذي سيدفعه عقابا له على سرقة عمل رجل آخر.",
+      "category": "غموض",
+      "genres": [
+        "غموض",
+        "دراما",
+        "إثارة"
+      ],
+      "rating": 6.7,
+      "vote_count": 1351,
+      "age_rating": "PG-13",
+      "year": "2012",
+      "release_date": "2012-09-07",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Brian Klugman, Lee Sternthal",
+      "cast": [
+        {
+          "name": "برادلي كوبر",
+          "character": "Rory Jansen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
+        },
+        {
+          "name": "زوي سالدانا",
+          "character": "Dora Jansen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+        },
+        {
+          "name": "جيرمي أيرونز",
+          "character": "The Old Man",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+        },
+        {
+          "name": "دينيس كويد",
+          "character": "Clay Hammond",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+        },
+        {
+          "name": "أوليفيا وايلد",
+          "character": "Danielle",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eODi1QKamyVa41eSK2SjU20VAZS.jpg"
+        },
+        {
+          "name": "جي كي سيمونز",
+          "character": "Mr. Jansen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T18:31:50+00:00",
+      "stop": "2026-11-17T20:16:50+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/aJtPLZS7tlpiQl6pEr8H42K565x.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/lKZ9QdzMEIceI2PUnFCjZNq1JIg.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/aJtPLZS7tlpiQl6pEr8H42K565x.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T12:16:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 917007,
+      "title": "Bed Rest",
+      "clean_title": "Bed Rest",
+      "original_title": "Bed Rest",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد أن تنتقل امرأة حامل للعيش في منزل جديد مع زوجها، يطلب منها الطبيب ملازمة الفراش طول فترة حملها، ولكنها تشعر بأن المنزل مسكون.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "رعب"
+      ],
+      "rating": 6.2,
+      "vote_count": 284,
+      "age_rating": "R",
+      "year": "2023",
+      "release_date": "2023-02-10",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "لوري إيفانز تايلور",
+      "cast": [
+        {
+          "name": "Melissa Barrera",
+          "character": "Julie Rivers",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5oeFHUwrFz2UylWdYEXXJxfUUqL.jpg"
+        },
+        {
+          "name": "Guy Burnet",
+          "character": "Daniel Rivers",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ksxpXRLJplv8kSfEHPYdboIwNfi.jpg"
+        },
+        {
+          "name": "Edie Inksetter",
+          "character": "Delmy Walker",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kIJVcF4YYMS4UQFqrSIZyGYpRPq.jpg"
+        },
+        {
+          "name": "Sebastian Billingsley-Rodriguez",
+          "character": "Four-year-old Kinsey",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xhPHlfkz0RgoUGDfMpvz2SCYMlf.jpg"
+        },
+        {
+          "name": "Erik Athavale",
+          "character": "Dr. Meadows",
+          "profile_image": "https://image.tmdb.org/t/p/w185/v5J8qSMldAixR3PcUoQmbAPlOOM.jpg"
+        },
+        {
+          "name": "Kristen Sawatzky",
+          "character": "Melandra Kinsey",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T20:16:50+00:00",
+      "stop": "2026-11-17T21:46:50+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/lQzSMhkAl90iXPirjnLbRHkxApC.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T14:01:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 555974,
+      "title": "Brahms: The Boy II",
+      "clean_title": "Brahms: The Boy II",
+      "original_title": "Brahms: The Boy II",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "غير مدركين تاريخ قصر هيلشاير المريع، ينتقل زوجان للعيش في قسم الضيوف حيث يحصل ابنهما الصغير على صديق مريب، دمية يسميها برامز.",
+      "category": "غموض",
+      "genres": [
+        "غموض",
+        "رعب",
+        "إثارة"
+      ],
+      "rating": 5.8,
+      "vote_count": 1343,
+      "age_rating": "PG-13",
+      "year": "2020",
+      "release_date": "2020-02-20",
+      "status": "Released",
+      "country": "كندا",
+      "language": "الإنجليزية",
+      "director": "William Brent Bell",
+      "cast": [
+        {
+          "name": "Katie Holmes",
+          "character": "Liza",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gDhc9rLbhpXdY8lISD7yPiIhvp4.jpg"
+        },
+        {
+          "name": "Christopher Convery",
+          "character": "Jude",
+          "profile_image": "https://image.tmdb.org/t/p/w185/twv9hCdoTM0dQQI2CVk2zJingyI.jpg"
+        },
+        {
+          "name": "أوين يومان",
+          "character": "Sean",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ubPMiDbNwgNhhAlDa4mIzuVZmXJ.jpg"
+        },
+        {
+          "name": "Ralph Ineson",
+          "character": "Joseph",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sn3ONJw2pJxMHiCqPwvkaiWr5mc.jpg"
+        },
+        {
+          "name": "Anjali Jay",
+          "character": "Dr. Lawrence",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1gDAb1ZNIbQYwz49xsOyP35tVaL.jpg"
+        },
+        {
+          "name": "Oliver Rice",
+          "character": "Liam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8H0kGdzDUzgWoP7oqbR2FVydB42.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T21:46:50+00:00",
+      "stop": "2026-11-17T23:16:50+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kDQeXR00SngYEeKmgQXjujjJLNG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jeiVmutYPZyQRSYk7OvyWENGIrA.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kDQeXR00SngYEeKmgQXjujjJLNG.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T15:31:50+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 96316,
+      "title": "The Rental",
+      "clean_title": "The Rental",
+      "original_title": "彼女、お借りします",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 60,
+      "description": "تأخذ عطلة زوجين في منزل جميل مستأجر منحى خطر عندما يشتبهان أن مضيفهما قد يكون يتجسس عليهما.",
+      "category": "غموض",
+      "genres": [
+        "غموض",
+        "رسوم متحركة",
+        "كوميديا"
+      ],
+      "rating": 8.3,
+      "vote_count": 1007,
+      "age_rating": "TV-MA",
+      "year": "2020",
+      "release_date": "2020-07-11",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "堀江瞬",
+          "character": "Kazuya Kinoshita (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1OFi5ofRX0B2ldTPF8ThzLI2wKa.jpg"
+        },
+        {
+          "name": "雨宮天",
+          "character": "Chizuru Mizuhara (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/AouA1SfwEazdSSj8rUS9K1WIF4H.jpg"
+        },
+        {
+          "name": "悠木碧",
+          "character": "Mami Nanami (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/a5Mkd66GV1l3c9bZZtnvjUf33T2.jpg"
+        },
+        {
+          "name": "ناو توياما",
+          "character": "Ruka Sarashina (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6WJDd1z946yFfZBgpC7dWi0FyQw.jpg"
+        },
+        {
+          "name": "高橋李依",
+          "character": "Sumi Sakurasawa (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aeB7z0cBTASdjKOjQriBAO6hYq4.jpg"
+        },
+        {
+          "name": "芹澤優",
+          "character": "Mini Yaemori (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mQITB0XYHCZjYef39xsHnSHIH56.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T23:16:50+00:00",
+      "stop": "2026-11-18T00:46:50+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3dcm5NSDjw50BQ7UWVsmNje1IEo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ullfy98STkno11rDGi44SK6llwx.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3dcm5NSDjw50BQ7UWVsmNje1IEo.jpg",
+      "channel_icon": "https://i.imgur.com/JWihdcl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Thriller",
+          "start": "2026-11-17T17:01:50+00:00"
+        }
+      ]
+    }
+  ]
+}

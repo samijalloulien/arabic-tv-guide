@@ -1,0 +1,5452 @@
+{
+  "channel_id": "TLCArabia.us@SD",
+  "channel_name": "TLC HD",
+  "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+  "programs": [
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أوماها",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد عام على فقدان الرئاسة، تحاول سيلينا تأمين إرثها. يحاول دان الانخراط في وظيفة جديدة في حين تثبت شخصية ايمي المهدمة بأنها غير ملائمة بالنسبة إلى زملائها الجدد في العمل.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T23:00:00+00:00",
+      "stop": "2026-11-15T23:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مكتبة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تحضر سيلينا افتتاح مكتبة الرئيس هيوز. يحصل جونا على المشورة حول كيفية الارتقاء في المراتب السياسية. يعاني دان من نزوات جين؛ تطلق ايمي إعلاناً هجومياً.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T23:30:00+00:00",
+      "stop": "2026-11-16T00:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سيكس آند ذا سيتي",
+      "clean_title": "سيكس آند ذا سيتي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الجفاف",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "إطلاق غازات بشكل عرضي يدفع كاري للجزم بأن مستر بيغ لن يشاطرها السرير مجدداً- بينما تدفع أحداث الأشهر الثلاثة الأخيرة إلى اقتناع ميرندا بأنها لن تحظى بأي علاقة مجدداً. وفي هذه الأثناء، امتناع سمانثا عن العلاقات الجنسية يدفعها للاشتياق إلى الحميمية على الطراز القديم.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1998",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T00:00:00+00:00",
+      "stop": "2026-11-16T00:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:40:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T14:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T09:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T10:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سيكس آند ذا سيتي",
+      "clean_title": "سيكس آند ذا سيتي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الصادقون",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في الحلقة الأخيرة من هذا الموسم، يقدم مستر بيغ كاري إلى والدته على أنها صديقة فقط، وهو ما يدفعها للتأمل في مستقبل علاقتهما. وفي هذه الأثناء، تكتشف كاري إجماع جميع المنجمين في المدينة على شيء واحد- أنها ستبقى عازبة إلى الأبد.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1998",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T00:30:00+00:00",
+      "stop": "2026-11-16T01:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:40:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T14:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T09:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T10:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ريل ويمين هاف كيرفز",
+      "clean_title": "ريل ويمين هاف كيرفز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نظرة طريفة على مراهقة مكسيكية-أمريكية ممزقة بين التوقعات الثقافية، التضييق الطبقي، الواجبات الأسرية، وطموحاتها الخاصة.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2003",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:00:00+00:00",
+      "stop": "2026-11-16T02:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "آل سوبرانوز - ذا سوبرانوز",
+      "clean_title": "آل سوبرانوز - ذا سوبرانوز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أسطورة تينيسي مولتيسانتي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تصبح التهديدات جدية عندما يكتشف توني وبعض الآباء أن مدرب كرة القدم قد أغوى زميلة ميدو في الفريق. للهروب من ضغوط مكتب التحقيقات الفدرالي، يذهب جونيور إلى لقاء رومانسي في بوكا راتون. تتطور المشاكل عندما تتسرب قصص \"مواهبه\" في الفراش وتصبح مادة لأحدث لعبة قوة يقوم بها توني.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1999",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T02:30:00+00:00",
+      "stop": "2026-11-16T03:20:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T02:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T16:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "صراع العروش - غيم أوف ثرونز",
+      "clean_title": "صراع العروش - غيم أوف ثرونز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بايلور",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بوجود حياة سانسا في خطر، يتخذ نيد قراراً مصيرياً، ويحقق روب أول انتصار معنوي له بالقبض على أحد السجناء المهمين. ومع تعافي دروغو، تتمرد داني على كوثو وتضع ثقتها في الساحرة ميري داز دار.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T03:20:00+00:00",
+      "stop": "2026-11-16T04:20:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T17:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T03:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T17:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هانغ",
+      "clean_title": "هانغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "تيك ذا كيك أور آر يو باكينغ؟",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقابل راي ندّه الجديد بعد أن يكتسح أحد أعدائه السابقين، لكن تانيا لا تتلقى خبر الزبائن المسروقين على نحو جيد. وفي هذه الأثناء، تقرر جيسيكا الذهاب بمفردها ويمد تشارلي يد المساعدة لشخص تحت الوصاية",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T04:20:00+00:00",
+      "stop": "2026-11-16T04:50:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T04:50:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T18:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T18:50:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T18:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T18:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هانغ",
+      "clean_title": "هانغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ميستير دريكير أوف إيز- أب",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقلق راي من احتمالية افتضاح أمره عندما يقوم بالخلط بين إحدى طالباته السابقات وزبونة. تجد تانيا نفسها تعتني بمجرم مُدان، وتأخذ جيس عملا في مكتب الدكتور مات كوبيلوف",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T04:50:00+00:00",
+      "stop": "2026-11-16T05:20:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T04:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T18:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T18:50:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T18:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T18:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كارنيفال",
+      "clean_title": "كارنيفال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بلاك بليزارد",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواجه الأخ جاستن تحذيرا، إما التخلي عن وزراة المهاجرين الجديدة، أو مواجهة خسارة مجموعته في فيرست ميثوديست.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2003",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T05:20:00+00:00",
+      "stop": "2026-11-16T06:20:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T19:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T05:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T19:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستة أقدام تحت الأرض - سكس فيت أندر",
+      "clean_title": "ستة أقدام تحت الأرض - سكس فيت أندر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "المشقّة",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواجه ديفيد أسوأ الآثار الجانبية لإضطراب ما بعد الصدمة. تسافر راث وبيتينا إلى مكسيكو، تصل كلير لأول مرة للنشوة بمساعدة زميلها في الصف جيمي باستخدام أسلوب جديد.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2004",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T06:20:00+00:00",
+      "stop": "2026-11-16T07:15:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T10:40:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T20:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T06:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T10:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T20:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هجوم مرتد - سترايك باك",
+      "clean_title": "هجوم مرتد - سترايك باك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "شادو وورفير: الحلقة 6",
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتبع سكوت وستونبريدج آخر دليل لديهما في جهود منهما لملاحقة ماككينا والأسلحة المعدة لضربة آل زهاري الوشيكة. في ذروة خطيرة، يجد القطاع 20 نفسه تحت الحصار، مع تعرض بيانات سرية جدا للناتو لخطر الوقوع بين أيدي إرهابيين.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T07:15:00+00:00",
+      "stop": "2026-11-16T08:05:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T11:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T21:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T07:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T11:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T21:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أوماها",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد عام على فقدان الرئاسة، تحاول سيلينا تأمين إرثها. يحاول دان الانخراط في وظيفة جديدة في حين تثبت شخصية ايمي المهدمة بأنها غير ملائمة بالنسبة إلى زملائها الجدد في العمل.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:05:00+00:00",
+      "stop": "2026-11-16T08:35:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مكتبة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تحضر سيلينا افتتاح مكتبة الرئيس هيوز. يحصل جونا على المشورة حول كيفية الارتقاء في المراتب السياسية. يعاني دان من نزوات جين؛ تطلق ايمي إعلاناً هجومياً.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:35:00+00:00",
+      "stop": "2026-11-16T09:10:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سيكس آند ذا سيتي",
+      "clean_title": "سيكس آند ذا سيتي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الجفاف",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "إطلاق غازات بشكل عرضي يدفع كاري للجزم بأن مستر بيغ لن يشاطرها السرير مجدداً- بينما تدفع أحداث الأشهر الثلاثة الأخيرة إلى اقتناع ميرندا بأنها لن تحظى بأي علاقة مجدداً. وفي هذه الأثناء، امتناع سمانثا عن العلاقات الجنسية يدفعها للاشتياق إلى الحميمية على الطراز القديم.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1998",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T09:10:00+00:00",
+      "stop": "2026-11-16T09:40:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:40:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T14:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T09:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T10:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سيكس آند ذا سيتي",
+      "clean_title": "سيكس آند ذا سيتي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الصادقون",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في الحلقة الأخيرة من هذا الموسم، يقدم مستر بيغ كاري إلى والدته على أنها صديقة فقط، وهو ما يدفعها للتأمل في مستقبل علاقتهما. وفي هذه الأثناء، تكتشف كاري إجماع جميع المنجمين في المدينة على شيء واحد- أنها ستبقى عازبة إلى الأبد.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1998",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T09:40:00+00:00",
+      "stop": "2026-11-16T10:10:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T14:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T09:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T10:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غايم اوف ثرونز: سبيشلز",
+      "clean_title": "غايم اوف ثرونز: سبيشلز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مايكنغ ذا غايم اوف ثرونز شو",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "اذهب خلف كواليس هذه السلسلة الدرامية من إنتاج أتش بي أو من خلال هذه المقابلات المميزة الخاصة ، ومقاطع من العرض ، والمزيد.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T10:10:00+00:00",
+      "stop": "2026-11-16T10:40:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T19:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T09:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستة أقدام تحت الأرض - سكس فيت أندر",
+      "clean_title": "ستة أقدام تحت الأرض - سكس فيت أندر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الغابة السوداء",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يذهب نيت، بريندا ومايا إلى إيداهو لحضور جنازة ليزا. تصل كلير إلى نهاية صبرها مع إيدي في حفلة جيمي، وتتصالح راث مع جورج.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2004",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T10:40:00+00:00",
+      "stop": "2026-11-16T11:30:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T06:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T20:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T06:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T10:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T20:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هجوم مرتد - سترايك باك",
+      "clean_title": "هجوم مرتد - سترايك باك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "شادو وورفير: الحلقة 7",
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتنكر سكوت وستونبريدج كمهربي مخدرات، ويزجان بنفسيهما في سجن روسي من أجل منع إيريك آندرسون، وهو خبير في قرصنة الحواسيب، من اختراق القرص الصلب الموجود مع ماككينا.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T11:30:00+00:00",
+      "stop": "2026-11-16T12:20:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T07:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T21:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T07:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T11:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T21:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غايم اوف ثرونز: سبيشلز",
+      "clean_title": "غايم اوف ثرونز: سبيشلز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إنسايد ذا نايتس ووتش",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نظرة من الداخل على الترتيب الفريد للرجال الذين يقومون بدوريات وحماية سور الصين العظيم من ما يوجد خلفه.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:20:00+00:00",
+      "stop": "2026-11-16T12:35:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T10:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T19:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T09:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "جورجيا",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تساعد سيلينا في مراقبة أول انتخابات حرة وديمقراطية في جورجيا - البلد، وليس الدولة - وتجتمع مع \"صديق\" قديم. وفي الوقت نفسه، يخفي مايك و غاري أدلة على وقوع حادث كبير، ويحصل كل من وجونا وريتشارد على ليلة مليئة بالأحداث.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:35:00+00:00",
+      "stop": "2026-11-16T13:05:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "العدل",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تحضر سيلينا وفريقها جنازة أحد قضاة المحكمة العليا. تعمل ايمي على تأمين مكان لمكتبة سيلينا. يحاول دان الحفاظ على صلته مع جين، مساعدته. ويواجه جونا مشكلة.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:05:00+00:00",
+      "stop": "2026-11-16T13:35:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سيكس آند ذا سيتي",
+      "clean_title": "سيكس آند ذا سيتي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "خذني إلى مباراة الكرة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في العرض الأول من الموسم الثاني، تقطع كيري صلتها بماضيها مع السيد بيغ بمواعدتها \"مقيما جديدا\". وفي الوقت نفسه، تبدو سامانثا غير سعيدة نظرا لافتقاد حبيبها حس الرجولة، كما يواجه حبيب شارلوت مشكلة مع كيفية تعديل بعض أعضائه الجسدية.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1999",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:35:00+00:00",
+      "stop": "2026-11-16T14:05:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:40:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T14:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T09:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T10:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سيكس آند ذا سيتي",
+      "clean_title": "سيكس آند ذا سيتي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحقيقة المرة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدعو كيري السيد بيغ لحفل عيد ميلادها، ويجب على سامانثا أن تُخبر صديقها عن تقصيره، تحصل شارلوت على جرو، وتُعد ميراندا نفسها للتحدث مع عشيقها بكل جرأة",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1999",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T14:05:00+00:00",
+      "stop": "2026-11-16T14:35:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:40:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T09:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T10:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فريكوينتلي آسكد كواستشينز أباوت تايم ترافيل",
+      "clean_title": "فريكوينتلي آسكد كواستشينز أباوت تايم ترافيل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتبع الفيلم ثلاثة أشخاص مختلفين في محاولتهم لاستكشاف لغز السفر عبر الزمن في وسط حانة بريطانية.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2009",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T14:35:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
+      "duration_minutes": 85,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ديف كوميدي جام",
+      "clean_title": "ديف كوميدي جام",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 5",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "الضيوف: بروس بروس، ديراي، دي إل هيولي.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2006",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T16:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "آل سوبرانوز - ذا سوبرانوز",
+      "clean_title": "آل سوبرانوز - ذا سوبرانوز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بوكا",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في حفل زفاف \"عائلي\"، يكتشف \"الشباب\" أن هناك قرارات اتهام على وشك أن تُقدم. كريستوفر، الذي يسعى وراء الشهرة والصيت، يفقد السيطرة علنًا ويغمره السعادة عندما يصفه أحد الصحف بأنه عصابي مشهور. عقب ذلك، تقوم مكتب التحقيقات الفيدرالي بزيارة منزل عائلة سوبرانو.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1999",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:30:00+00:00",
+      "stop": "2026-11-16T17:25:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T02:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T02:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T16:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "صراع العروش - غيم أوف ثرونز",
+      "clean_title": "صراع العروش - غيم أوف ثرونز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نار ودم",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مع انتشار الأخبار المأساوية في سفن كينغدومز، يتشارك بران وريكون برؤيا، وتقوم كاتلين باستجواب جايمي بشأن سقوط ابنها ويتغير مصير روب إلى الأبد ويبرز ملك جديد في الشمال.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T17:25:00+00:00",
+      "stop": "2026-11-16T18:20:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T03:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T03:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T17:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هانغ",
+      "clean_title": "هانغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "فاك مي، مستر دريكير أور ليتس ...",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يحاول راي وتانيا التخلص من زبونة مثيرة للمشاكل، لكن تشارلي ينصحهما بإبقاء ليديا سعيدة لأنها شرطية. تحاول لينور تلبية طلبات ساندي المتزايدة، بينما تجد جيسيكا أنها متشابهة في الأفكار مع مات",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:20:00+00:00",
+      "stop": "2026-11-16T18:50:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T04:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T04:50:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T18:50:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T18:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T18:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هانغ",
+      "clean_title": "هانغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "وي آر غولدن أور كروكس...",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد إعلان راي بأنه سيترك العمل، تقوم ليديا بإعطاء راي وتانيا تجربة لا تنسى. تهدد داربي بمغادرة المنزل، ويقوم جايسون بإغضاب لينور بعد أن ضيّع موعدا مع زبونة",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:50:00+00:00",
+      "stop": "2026-11-16T19:20:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T04:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T04:50:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T18:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T18:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T18:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غايم اوف ثرونز: سبيشلز",
+      "clean_title": "غايم اوف ثرونز: سبيشلز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إنسايد ذا نايتس ووتش",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نظرة من الداخل على الترتيب الفريد للرجال الذين يقومون بدوريات وحماية سور الصين العظيم من ما يوجد خلفه.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:20:00+00:00",
+      "stop": "2026-11-16T19:35:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T10:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T09:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كارنيفال",
+      "clean_title": "كارنيفال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بابلون",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بينما يحاول الأخ جاستن فهم كارثة كبيرة، يذهب الكرنفال إلى بابل، وهي مدينة لها تاريخ طويل من سوء الحظ. تصل مجموعة من عمال المناجم في الوقت المناسب لمشاهدة العرض المسائي، ومشاهدة أحدث كارثة ستحل على الكرنفال.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2003",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:35:00+00:00",
+      "stop": "2026-11-16T20:25:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T05:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T05:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T19:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستة أقدام تحت الأرض - سكس فيت أندر",
+      "clean_title": "ستة أقدام تحت الأرض - سكس فيت أندر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الغابة السوداء",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يذهب نيت، بريندا ومايا إلى إيداهو لحضور جنازة ليزا. تصل كلير إلى نهاية صبرها مع إيدي في حفلة جيمي، وتتصالح راث مع جورج.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2004",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:25:00+00:00",
+      "stop": "2026-11-16T21:20:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T06:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T10:40:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T06:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T10:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T20:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هجوم مرتد - سترايك باك",
+      "clean_title": "هجوم مرتد - سترايك باك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "شادو وورفير: الحلقة 7",
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتنكر سكوت وستونبريدج كمهربي مخدرات، ويزجان بنفسيهما في سجن روسي من أجل منع إيريك آندرسون، وهو خبير في قرصنة الحواسيب، من اختراق القرص الصلب الموجود مع ماككينا.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T21:20:00+00:00",
+      "stop": "2026-11-16T22:10:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T07:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T11:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T07:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T11:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T21:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غايم اوف ثرونز: سبيشلز",
+      "clean_title": "غايم اوف ثرونز: سبيشلز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ريليجنز أند ويستيروس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "استكشف مختلف الأديان والآلهة في مسلسل غايم اوف ثرونز، مع الكاتب جورج ر. مارتن.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2012",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:10:00+00:00",
+      "stop": "2026-11-16T22:25:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T10:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T19:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T09:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مكتبة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تحضر سيلينا افتتاح مكتبة الرئيس هيوز. يحصل جونا على المشورة حول كيفية الارتقاء في المراتب السياسية. يعاني دان من نزوات جين؛ تطلق ايمي إعلاناً هجومياً.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:25:00+00:00",
+      "stop": "2026-11-16T22:55:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "جورجيا",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تساعد سيلينا في مراقبة أول انتخابات حرة وديمقراطية في جورجيا - البلد، وليس الدولة - وتجتمع مع \"صديق\" قديم. وفي الوقت نفسه، يخفي مايك و غاري أدلة على وقوع حادث كبير، ويحصل كل من وجونا وريتشارد على ليلة مليئة بالأحداث.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:55:00+00:00",
+      "stop": "2026-11-16T23:25:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "العدل",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تحضر سيلينا وفريقها جنازة أحد قضاة المحكمة العليا. تعمل ايمي على تأمين مكان لمكتبة سيلينا. يحاول دان الحفاظ على صلته مع جين، مساعدته. ويواجه جونا مشكلة.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T23:25:00+00:00",
+      "stop": "2026-11-17T00:00:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سيكس آند ذا سيتي",
+      "clean_title": "سيكس آند ذا سيتي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "خذني إلى مباراة الكرة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في العرض الأول من الموسم الثاني، تقطع كيري صلتها بماضيها مع السيد بيغ بمواعدتها \"مقيما جديدا\". وفي الوقت نفسه، تبدو سامانثا غير سعيدة نظرا لافتقاد حبيبها حس الرجولة، كما يواجه حبيب شارلوت مشكلة مع كيفية تعديل بعض أعضائه الجسدية.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1999",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:00:00+00:00",
+      "stop": "2026-11-17T00:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:40:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T14:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T09:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T10:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سيكس آند ذا سيتي",
+      "clean_title": "سيكس آند ذا سيتي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحقيقة المرة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدعو كيري السيد بيغ لحفل عيد ميلادها، ويجب على سامانثا أن تُخبر صديقها عن تقصيره، تحصل شارلوت على جرو، وتُعد ميراندا نفسها للتحدث مع عشيقها بكل جرأة",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1999",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:30:00+00:00",
+      "stop": "2026-11-17T01:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:40:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T14:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T09:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T10:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فريكوينتلي آسكد كواستشينز أباوت تايم ترافيل",
+      "clean_title": "فريكوينتلي آسكد كواستشينز أباوت تايم ترافيل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتبع الفيلم ثلاثة أشخاص مختلفين في محاولتهم لاستكشاف لغز السفر عبر الزمن في وسط حانة بريطانية.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2009",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:00:00+00:00",
+      "stop": "2026-11-17T02:25:00+00:00",
+      "duration_minutes": 85,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T14:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "آل سوبرانوز - ذا سوبرانوز",
+      "clean_title": "آل سوبرانوز - ذا سوبرانوز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بوكا",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في حفل زفاف \"عائلي\"، يكتشف \"الشباب\" أن هناك قرارات اتهام على وشك أن تُقدم. كريستوفر، الذي يسعى وراء الشهرة والصيت، يفقد السيطرة علنًا ويغمره السعادة عندما يصفه أحد الصحف بأنه عصابي مشهور. عقب ذلك، تقوم مكتب التحقيقات الفيدرالي بزيارة منزل عائلة سوبرانو.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1999",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T02:25:00+00:00",
+      "stop": "2026-11-17T03:20:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T02:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T16:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "صراع العروش - غيم أوف ثرونز",
+      "clean_title": "صراع العروش - غيم أوف ثرونز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نار ودم",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مع انتشار الأخبار المأساوية في سفن كينغدومز، يتشارك بران وريكون برؤيا، وتقوم كاتلين باستجواب جايمي بشأن سقوط ابنها ويتغير مصير روب إلى الأبد ويبرز ملك جديد في الشمال.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:20:00+00:00",
+      "stop": "2026-11-17T04:15:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T03:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T17:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T17:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غايم اوف ثرونز: سبيشلز",
+      "clean_title": "غايم اوف ثرونز: سبيشلز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كرياتنغ ذا شو أوبن",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "من الإلهامات إلى لوحات الرسم على البكرة. يناقش المدير الإبداعي أنجوس وول ، والمخرج الفني روب فينغ والمنتج حميد شوكت كيفية إنشاء تصميم العنوان الرئيسي لـ غايم اوف ثرونز",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:15:00+00:00",
+      "stop": "2026-11-17T04:25:00+00:00",
+      "duration_minutes": 10,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T10:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T19:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T09:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هانغ",
+      "clean_title": "هانغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "فاك مي، مستر دريكير أور ليتس ...",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يحاول راي وتانيا التخلص من زبونة مثيرة للمشاكل، لكن تشارلي ينصحهما بإبقاء ليديا سعيدة لأنها شرطية. تحاول لينور تلبية طلبات ساندي المتزايدة، بينما تجد جيسيكا أنها متشابهة في الأفكار مع مات",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:25:00+00:00",
+      "stop": "2026-11-17T04:55:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T04:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T04:50:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T18:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T18:50:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T18:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T18:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هانغ",
+      "clean_title": "هانغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "وي آر غولدن أور كروكس...",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد إعلان راي بأنه سيترك العمل، تقوم ليديا بإعطاء راي وتانيا تجربة لا تنسى. تهدد داربي بمغادرة المنزل، ويقوم جايسون بإغضاب لينور بعد أن ضيّع موعدا مع زبونة",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:55:00+00:00",
+      "stop": "2026-11-17T05:25:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T04:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T04:50:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T18:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T18:50:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T18:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T18:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كارنيفال",
+      "clean_title": "كارنيفال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بابلون",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بينما يحاول الأخ جاستن فهم كارثة كبيرة، يذهب الكرنفال إلى بابل، وهي مدينة لها تاريخ طويل من سوء الحظ. تصل مجموعة من عمال المناجم في الوقت المناسب لمشاهدة العرض المسائي، ومشاهدة أحدث كارثة ستحل على الكرنفال.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2003",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T05:25:00+00:00",
+      "stop": "2026-11-17T06:15:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T05:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T19:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T19:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستة أقدام تحت الأرض - سكس فيت أندر",
+      "clean_title": "ستة أقدام تحت الأرض - سكس فيت أندر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الغابة السوداء",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يذهب نيت، بريندا ومايا إلى إيداهو لحضور جنازة ليزا. تصل كلير إلى نهاية صبرها مع إيدي في حفلة جيمي، وتتصالح راث مع جورج.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2004",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:15:00+00:00",
+      "stop": "2026-11-17T07:10:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T06:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T10:40:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T20:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T10:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T20:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هجوم مرتد - سترايك باك",
+      "clean_title": "هجوم مرتد - سترايك باك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "شادو وورفير: الحلقة 7",
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتنكر سكوت وستونبريدج كمهربي مخدرات، ويزجان بنفسيهما في سجن روسي من أجل منع إيريك آندرسون، وهو خبير في قرصنة الحواسيب، من اختراق القرص الصلب الموجود مع ماككينا.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T07:10:00+00:00",
+      "stop": "2026-11-17T08:00:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T07:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T11:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T21:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T11:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T21:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "جورجيا",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تساعد سيلينا في مراقبة أول انتخابات حرة وديمقراطية في جورجيا - البلد، وليس الدولة - وتجتمع مع \"صديق\" قديم. وفي الوقت نفسه، يخفي مايك و غاري أدلة على وقوع حادث كبير، ويحصل كل من وجونا وريتشارد على ليلة مليئة بالأحداث.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:00:00+00:00",
+      "stop": "2026-11-17T08:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "العدل",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تحضر سيلينا وفريقها جنازة أحد قضاة المحكمة العليا. تعمل ايمي على تأمين مكان لمكتبة سيلينا. يحاول دان الحفاظ على صلته مع جين، مساعدته. ويواجه جونا مشكلة.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:30:00+00:00",
+      "stop": "2026-11-17T09:05:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غايم اوف ثرونز: سبيشلز",
+      "clean_title": "غايم اوف ثرونز: سبيشلز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "يو وين أور يو داي شو",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "أدخل إلى غايم. أدخل عالم غايم اوف ثرونز في هذه النظرة المفعمة بالحيوية للاعبين الرئيسيين ، التقلبات والانعطافات ، وما سيأتي.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2012",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T09:05:00+00:00",
+      "stop": "2026-11-17T09:35:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T10:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T19:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سيكس آند ذا سيتي",
+      "clean_title": "سيكس آند ذا سيتي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "خذني إلى مباراة الكرة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في العرض الأول من الموسم الثاني، تقطع كيري صلتها بماضيها مع السيد بيغ بمواعدتها \"مقيما جديدا\". وفي الوقت نفسه، تبدو سامانثا غير سعيدة نظرا لافتقاد حبيبها حس الرجولة، كما يواجه حبيب شارلوت مشكلة مع كيفية تعديل بعض أعضائه الجسدية.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1999",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T09:35:00+00:00",
+      "stop": "2026-11-17T10:05:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:40:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T14:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T10:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سيكس آند ذا سيتي",
+      "clean_title": "سيكس آند ذا سيتي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحقيقة المرة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدعو كيري السيد بيغ لحفل عيد ميلادها، ويجب على سامانثا أن تُخبر صديقها عن تقصيره، تحصل شارلوت على جرو، وتُعد ميراندا نفسها للتحدث مع عشيقها بكل جرأة",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1999",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:05:00+00:00",
+      "stop": "2026-11-17T10:35:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:40:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T14:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T09:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستة أقدام تحت الأرض - سكس فيت أندر",
+      "clean_title": "ستة أقدام تحت الأرض - سكس فيت أندر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مأوى القنابل",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يزداد جنون جورج بآرماغيدون ويكتشف ملجأ العائلة. تريد راث حضور حلقة نقاش عن الجنس، يواجه ديفيد وكيث قضية، وتتواجه بارب مع نيت بخصوص رماد ليزا.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2004",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:35:00+00:00",
+      "stop": "2026-11-17T11:25:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T06:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T10:40:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T20:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T06:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T20:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هجوم مرتد - سترايك باك",
+      "clean_title": "هجوم مرتد - سترايك باك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "شادو وورفير: الحلقة 8",
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يحاول سكوت الهروب من سجن بلاك بير، في حين يشك لوك بكامالي. يتسابق الفريق لتحديد موقع ستونبريدج، والذي تسوء حالته عند مواجهته لخطة آل-زهاري. باستمراره في ثأره، يقترب أوليانوف من العميلين.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:25:00+00:00",
+      "stop": "2026-11-17T12:15:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T07:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T11:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T21:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T07:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T21:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غايم اوف ثرونز: سبيشلز",
+      "clean_title": "غايم اوف ثرونز: سبيشلز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ريليجنز أند ويستيروس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "استكشف مختلف الأديان والآلهة في مسلسل غايم اوف ثرونز، مع الكاتب جورج ر. مارتن.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2012",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:15:00+00:00",
+      "stop": "2026-11-17T12:30:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T10:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T19:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T09:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "تشيكليت",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تجد سيلينا مكاناً للمكتبة الرئاسية الخاصة بها. يدخل دان في خانة القيل والقال. يعمل مايك وسيلينا على كتابها. يحاول يونان تدبير هبة كبيرة. يتمكن غاري من حل معضلة صغيرة في مدام توسو.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:30:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ملخص",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تحاول سيلينا إنهاء كتابها، كما وتستعد مع جميع موظفيها لحفل كشف النقاب عن صورة، في حين يحاول جوناه شق طريقه إلى قائمة الضيوف. يحاول دان حل مشكلته مع الكيمياء.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T13:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سيكس آند ذا سيتي",
+      "clean_title": "سيكس آند ذا سيتي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "العرض المخيف",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "واعدت كيري العديد من الرجال من قبل أن تلتقي برجل لطيف. وفي الوقت نفسه، تذهب سامانثا في موعد غرامي مع رجل يحب الانضباط، كما أدركت شارلوت أن السيد بوسي قد يكون جيدا في أمر واحد.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1999",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:30:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:40:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T14:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T09:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T10:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سيكس آند ذا سيتي",
+      "clean_title": "سيكس آند ذا سيتي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إنهم يقتلون العزاب، أليس كذلك؟",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في حين بدأت كيري تستمتع بحياة العزوبية، على ميراندا أن تتظاهر بسعادتها مع عشيقها، كما تقوم سامانثا بعلاقة حميمية مع مالك لأحد النوادي. وفي الوقت نفسه، تحاول شارلوت اقناع نفسها بالإعجاب بصديق لها يعمل كممثل.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1999",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T14:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T09:40:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T14:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T09:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T10:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "شوغار",
+      "clean_title": "شوغار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "قصة ميغيل \"شوغار\" سانتوس، لاعب بيسبول من سان بيدرو دو ماكوريس، ومعاناته لدخول الدوري الأمريكي الكبير لينتشل نفسه وعائلته من الفقر.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2008",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T14:30:00+00:00",
+      "stop": "2026-11-17T16:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "آل سوبرانوز - ذا سوبرانوز",
+      "clean_title": "آل سوبرانوز - ذا سوبرانوز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "النجاح يعني النجاح",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتفق كارميلا والدكتور ميلفي أن طوني بحاجة لأن يوسع آفاقه ويلتقي بأشخاص جدد، ولهذا يبدأ هو وكارميلا بالتواصل الاجتماعي مع الجيران، وفي هذه الأثناء، يقرر كريستوفر وأدريانا أن يفعلا شيئاً في قطاع الموسيقى بعد لقاء جمعهما بالصدفة مع نجم راب.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1999",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T16:30:00+00:00",
+      "stop": "2026-11-17T17:25:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T02:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T02:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "صراع العروش - غيم أوف ثرونز",
+      "clean_title": "صراع العروش - غيم أوف ثرونز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الشمال يتذكر",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستمر ستارك بحربه ضد الـ لانسترز، ويصل تايرون لإنقاذ جوفري من التهديدات القديمة والجديدة، ويبحث الـ دانيريز عن الحلفاء والمياه في الـ ريد وايست ويختبئ جون سنو ونايتس ووتش خلف الجدار.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2012",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T17:25:00+00:00",
+      "stop": "2026-11-17T18:20:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T03:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T17:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T03:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هانغ",
+      "clean_title": "هانغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ماني أون ذا فلور",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عند اختفاء العلبة التي يدخر فيها المال، يهاجم راي المشتبهة الرئيسية، لينور. لكن تحرياته تقوده إلى عميلة جديدة تُدعى كايلا. وفي هذه الأثناء، تعرض ساندي على تانيا فرصة للتوسع بعملها",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:20:00+00:00",
+      "stop": "2026-11-17T18:50:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T04:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T04:50:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T18:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T18:50:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T18:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هانغ",
+      "clean_title": "هانغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "واتس غوينغ أون داونستيرز أور دونت إيت..",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد قضاء ليلة واحدة سوية، يكتشف راي أن كايلا ربما لا تكون المرأة التي اعتقد أنها هي. ظهور جايسون في ويلنيس سينتر يولّد منافسة، وتشارلي يساعد تانيا لتسأل جايسون وساندي عن مال راي المفقود",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:50:00+00:00",
+      "stop": "2026-11-17T19:20:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T04:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T04:50:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T18:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T18:50:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T18:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كارنيفال",
+      "clean_title": "كارنيفال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بيك أيه نامبر",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعلق الـ كارنيز في ظاهرة رائعة لكن غامضة تعرف باسم (كارنيفال جاستيس). ينتهي الأمر بالأخ جاستن بالتجول في البرية. ولاحقا، يتبادل قصص حفلات السمر مع مجموعة من المتشردين، سيكون أحدهم على وشك تغيير حياة جاستن.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2003",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:20:00+00:00",
+      "stop": "2026-11-17T20:20:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T05:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T19:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T05:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستة أقدام تحت الأرض - سكس فيت أندر",
+      "clean_title": "ستة أقدام تحت الأرض - سكس فيت أندر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مأوى القنابل",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يزداد جنون جورج بآرماغيدون ويكتشف ملجأ العائلة. تريد راث حضور حلقة نقاش عن الجنس، يواجه ديفيد وكيث قضية، وتتواجه بارب مع نيت بخصوص رماد ليزا.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2004",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:20:00+00:00",
+      "stop": "2026-11-17T21:15:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T06:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T10:40:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T20:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T06:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T10:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هجوم مرتد - سترايك باك",
+      "clean_title": "هجوم مرتد - سترايك باك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "شادو وورفير: الحلقة 8",
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يحاول سكوت الهروب من سجن بلاك بير، في حين يشك لوك بكامالي. يتسابق الفريق لتحديد موقع ستونبريدج، والذي تسوء حالته عند مواجهته لخطة آل-زهاري. باستمراره في ثأره، يقترب أوليانوف من العميلين.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:15:00+00:00",
+      "stop": "2026-11-17T22:05:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T07:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T11:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T21:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T07:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T11:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غايم اوف ثرونز: سبيشلز",
+      "clean_title": "غايم اوف ثرونز: سبيشلز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إنسايد ذا نايتس ووتش",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نظرة من الداخل على الترتيب الفريد للرجال الذين يقومون بدوريات وحماية سور الصين العظيم من ما يوجد خلفه.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:05:00+00:00",
+      "stop": "2026-11-17T22:20:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T10:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T19:20:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T04:15:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T09:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "العدل",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تحضر سيلينا وفريقها جنازة أحد قضاة المحكمة العليا. تعمل ايمي على تأمين مكان لمكتبة سيلينا. يحاول دان الحفاظ على صلته مع جين، مساعدته. ويواجه جونا مشكلة.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:20:00+00:00",
+      "stop": "2026-11-17T22:55:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فييب",
+      "clean_title": "فييب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "تشيكليت",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تجد سيلينا مكاناً للمكتبة الرئاسية الخاصة بها. يدخل دان في خانة القيل والقال. يعمل مايك وسيلينا على كتابها. يحاول يونان تدبير هبة كبيرة. يتمكن غاري من حل معضلة صغيرة في مدام توسو.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:55:00+00:00",
+      "stop": "2026-11-17T23:25:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qcbUHtX.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:05:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T10:45:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T12:35:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-16T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:25:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-16T23:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T11:10:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-17T16:55:00+00:00"
+        },
+        {
+          "channel": "TLC HD",
+          "start": "2026-11-17T22:20:00+00:00"
+        }
+      ]
+    }
+  ]
+}

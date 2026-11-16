@@ -1,0 +1,1354 @@
+{
+  "channel_id": "beINMovies3Drama.qa@SD",
+  "channel_name": "بي إن موفيز دراما",
+  "channel_icon": "https://i.imgur.com/STmIWSa.png",
+  "programs": [
+    {
+      "tmdb_id": 9800,
+      "title": "Philadelphia",
+      "clean_title": "Philadelphia",
+      "original_title": "Philadelphia",
+      "tagline": "لن يتولى أحد قضيته ... حتى يكون رجل واحد على استعداد لتولي النظام.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "(أندرو بكيت) محام مثلي الجنس، يصاب بالإيدز، ونتيجة لإصابته به تقوم شركة المحاماة؛ التى يعمل بها، بفصله عن العمل خوفا من انتقال العدوى إليهم. يقرر أندرو مقاضاة شركته السابقة، ويستعين بالمحامي (جو ميلر) الكاره لمثلي الجنس. في أثناء سير القضية يكتشف ميلر أن أندرو لا يختلف عن أي شخص آخر، وأن كونه مثلي الجنس لا ينقصه شيئا، فيحاول مساعدته في أخذ حقه قبل أن يتمكن المرض منه.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما"
+      ],
+      "rating": 7.7,
+      "vote_count": 4821,
+      "age_rating": "PG-13",
+      "year": "1993",
+      "release_date": "1993-12-22",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Jonathan Demme",
+      "cast": [
+        {
+          "name": "توم هانكس",
+          "character": "Andrew Beckett",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        },
+        {
+          "name": "دنزل واشنطن",
+          "character": "Joe Miller",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+        },
+        {
+          "name": "Jason Robards",
+          "character": "Charles Wheeler",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9y0HAtWWBkB02gVzh8QDdz6UYZH.jpg"
+        },
+        {
+          "name": "ماري ستينبرجن",
+          "character": "Belinda Conine",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg"
+        },
+        {
+          "name": "أنتونيو بانديراس",
+          "character": "Miguel Alvarez",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lpzfDt22374NPhOXZpUq74e9mfw.jpg"
+        },
+        {
+          "name": "Ron Vawter",
+          "character": "Bob Seidman",
+          "profile_image": "https://image.tmdb.org/t/p/w185/f5WDxaiBGOP5bg3JsZEpotnJYbE.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T13:14:00+00:00",
+      "stop": "2026-11-16T15:15:00+00:00",
+      "duration_minutes": 121,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nWO4sGqH950N2fij8X0Pwumqe9k.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+      "channel_icon": "https://i.imgur.com/STmIWSa.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 137,
+      "title": "Groundhog Day",
+      "clean_title": "Groundhog Day",
+      "original_title": "Groundhog Day",
+      "tagline": "إنه يمر بأسوأ يوم في حياته ... مرارًا وتكرارًا ...",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدور أحداث الفيلم حول مذيع الأحوال الجوية فيل (بيل موراي)؛ الذي يُطلب منه وفريقه المعاون السفر إلى بنسلفانيا يوم 1 فبراير لتغطية فعاليات يوم احتفالي خاص لديهم. فيسافر متذمراً، لكن عاصفة ثلجية تضرب البلدة وتحول من دون عودة الفريق، فيضطرون إلى الاستمرار هناك. في اليوم التالي، يستيقظ فيل ليجد نفسه مازال في يوم 1 فبراير، ويستمر تكرار ذلك كل يوم، فيقرر أن يستغل ذلك لصالحه بأنانية.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "رومنسية",
+        "فانتازيا",
+        "كوميديا"
+      ],
+      "rating": 7.6,
+      "vote_count": 9359,
+      "age_rating": "PG",
+      "year": "1993",
+      "release_date": "1993-02-11",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Harold Ramis",
+      "cast": [
+        {
+          "name": "بيل موري",
+          "character": "Phil",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+        },
+        {
+          "name": "Andie MacDowell",
+          "character": "Rita",
+          "profile_image": "https://image.tmdb.org/t/p/w185/akeheO4i3cR1HpSU8yu9HrLcsKm.jpg"
+        },
+        {
+          "name": "Chris Elliott",
+          "character": "Larry",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oZFGgyDCZaanGfco1UdfxM4rHAJ.jpg"
+        },
+        {
+          "name": "Stephen Tobolowsky",
+          "character": "Ned",
+          "profile_image": "https://image.tmdb.org/t/p/w185/uL8yfcm0dCFYFQt052kczVQVvac.jpg"
+        },
+        {
+          "name": "براين دويل موراي",
+          "character": "Buster",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3RFH00449ppcwA0tkD1uqDvP865.jpg"
+        },
+        {
+          "name": "Marita Geraghty",
+          "character": "Nancy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/trncDdjDlN81VrMNPr71ZZVZFCR.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T15:15:00+00:00",
+      "stop": "2026-11-16T16:59:00+00:00",
+      "duration_minutes": 104,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/z64LtJpbuDH1XYxfc1pPsQgseSF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4W6RYDNe4OByNryOCvJprrutm9h.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/z64LtJpbuDH1XYxfc1pPsQgseSF.jpg",
+      "channel_icon": "https://i.imgur.com/STmIWSa.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 986674,
+      "title": "Shelter in Solitude",
+      "clean_title": "Shelter in Solitude",
+      "original_title": "Shelter in Solitude",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في إطار من الجريمة والدراما، ينغمس سجين محكوم عليه بالإعدام ولا يتبقى له في الحياة سوى عشرة أيام في علاقة غريبة وغير متوقعة مع مغنية ريفية أصبحت حارسة سجن.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": 6.6,
+      "vote_count": 5,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-10-06",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Vibeke Muasya",
+      "cast": [
+        {
+          "name": "Siobhan Fallon Hogan",
+          "character": "Valerie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5OExagnRsUcOYLMPTSrv4x2G95R.jpg"
+        },
+        {
+          "name": "بيتر ماكون",
+          "character": "Jackson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jF4jzgtWB2NAJ6BfVTSDQOlOHLr.jpg"
+        },
+        {
+          "name": "روبرت باتريك",
+          "character": "Dwayne",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qRv2Es9rZoloullTbzss3I5j1Mp.jpg"
+        },
+        {
+          "name": "دان كاستلانيتا",
+          "character": "Sam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg"
+        },
+        {
+          "name": "Pete Hogan",
+          "character": "Officer Chrissy",
+          "profile_image": null
+        },
+        {
+          "name": "Fat Nick",
+          "character": "Freestyler",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T16:59:00+00:00",
+      "stop": "2026-11-16T18:29:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/wbhFHVwFW7p7fceSpJlhXUt5xeV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/abbKcW9RMwFRIlBnB3EMd26his3.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/wbhFHVwFW7p7fceSpJlhXUt5xeV.jpg",
+      "channel_icon": "https://i.imgur.com/STmIWSa.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن موفيز دراما",
+          "start": "2026-11-17T11:14:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 130150,
+      "title": "Labor Day",
+      "clean_title": "Labor Day",
+      "original_title": "Labor Day",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في صيف عام 1987 وتحديدًا في عطلة عيد العمال، أمٌ مطلقة تُدعى آديل (كيت وينسلت) تعيش مع ابنها هنري (جاتلين جريفيث) الذي يبلغ 13 عامًا. في اليوم السابق ذكره وبينما تتسوق آديل تقابل رجلًا غريبًا وجريحًا، وبرغم ذلك تقرر مساعدته وتعرض عليه إقلاله للمنزل بسيارتها ، لكن سرعان ما يتحول يومها لجحيمٍ عندما تعلم أن هذا الرجل هاربٌ من السجن وأنها تورطت في موقفٍ ربما يكلفها الكثير.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما",
+        "رومنسية",
+        "إثارة"
+      ],
+      "rating": 7.1,
+      "vote_count": 1414,
+      "age_rating": "PG-13",
+      "year": "2013",
+      "release_date": "2013-12-27",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "جيسون رايتمان",
+      "cast": [
+        {
+          "name": "كيت وينسليت",
+          "character": "Adele",
+          "profile_image": "https://image.tmdb.org/t/p/w185/surklDlLW6g2D7EqycEQwHXsoD1.jpg"
+        },
+        {
+          "name": "جوش برولين",
+          "character": "Frank",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7QpneI3HoZCCDVPyWx3p3t7yeo7.jpg"
+        },
+        {
+          "name": "Gattlin Griffith",
+          "character": "Henry",
+          "profile_image": "https://image.tmdb.org/t/p/w185/esMHJA8lP8y60AqJZH9JJBMIRIz.jpg"
+        },
+        {
+          "name": "توبي ماغواير",
+          "character": "Adult Henry",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s6PwSvq6gC7PGEjIku69tPbvR8M.jpg"
+        },
+        {
+          "name": "Tom Lipinski",
+          "character": "Young Frank",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kxqjDoNgGGTIEUUcH2K9cBe0KoD.jpg"
+        },
+        {
+          "name": "مايكا مونرو",
+          "character": "Mandy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/x4yiKkMnCdf8g4eOrDoqla9FYEA.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T18:29:00+00:00",
+      "stop": "2026-11-16T20:29:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/iQdbCtk1Q3TdZRBKSLU1Vh870l7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/feO6v1UMaCDFsshStLpAv2FwARz.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/iQdbCtk1Q3TdZRBKSLU1Vh870l7.jpg",
+      "channel_icon": "https://i.imgur.com/STmIWSa.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن موفيز دراما",
+          "start": "2026-11-17T07:29:00+00:00"
+        },
+        {
+          "channel": "بي إن موفيز دراما",
+          "start": "2026-11-17T12:44:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 887321,
+      "title": "Dreamin' Wild",
+      "clean_title": "Dreamin' Wild",
+      "original_title": "Dreamin' Wild",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في إطار موسيقي درامي، يبذل الثنائي الموسيقي دوني وجو إيمرسون كل ما لديهما لإنتاج أغنية في السبعينيات.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "موسيقى",
+        "دراما"
+      ],
+      "rating": 6.1,
+      "vote_count": 34,
+      "age_rating": "PG",
+      "year": "2023",
+      "release_date": "2023-08-04",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Bill Pohlad",
+      "cast": [
+        {
+          "name": "كيسي أفليك",
+          "character": "Donnie Emerson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+        },
+        {
+          "name": "Walton Goggins",
+          "character": "Joe Emerson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+        },
+        {
+          "name": "زوي ديشانيل",
+          "character": "Nancy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/30KQyjsXfrdm4Dcori7bDFTg9Le.jpg"
+        },
+        {
+          "name": "Beau Bridges",
+          "character": "Don Emerson Sr.",
+          "profile_image": "https://image.tmdb.org/t/p/w185/Aiezvt0Uj2Ka9QVW3GvuRLkNS2V.jpg"
+        },
+        {
+          "name": "كريس ميسينا",
+          "character": "Matt Sullivan",
+          "profile_image": "https://image.tmdb.org/t/p/w185/l9DbQTK5pI6SOGpmfbADGLhdOYS.jpg"
+        },
+        {
+          "name": "نواه جوب",
+          "character": "Young Donnie Emerson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xbswZN0SHgeCbyo5GQ0xfZKH3vs.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T20:29:00+00:00",
+      "stop": "2026-11-16T22:30:00+00:00",
+      "duration_minutes": 121,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/58eMSDfgXAUO2wK1y26uN2zcNro.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/eSDz22g7f0pRK9XJXXQnnywUo4I.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/58eMSDfgXAUO2wK1y26uN2zcNro.jpg",
+      "channel_icon": "https://i.imgur.com/STmIWSa.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن موفيز دراما",
+          "start": "2026-11-17T14:44:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 882598,
+      "title": "Smile",
+      "clean_title": "Smile",
+      "original_title": "Smile",
+      "tagline": "بمجرد رؤيته ، يكون الأوان قد فات.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد مشاهدتها لحادثة غريبة لمريضة، تبدأ الطبيبة روز كوتر في مواجهة الحوادث المخيفة التي لا يمكنها تفسيرها، وتجد نفسها في مواجهة ماضيها المزعج وواقعها الجديد المرعب.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "رعب",
+        "غموض"
+      ],
+      "rating": 6.7,
+      "vote_count": 4395,
+      "age_rating": "R",
+      "year": "2022",
+      "release_date": "2022-09-23",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Parker Finn",
+      "cast": [
+        {
+          "name": "سوزي باكون",
+          "character": "Rose Cotter",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pDvjTHGv8NhBkbIcBJFGt9zDw8.jpg"
+        },
+        {
+          "name": "Kyle Gallner",
+          "character": "Joel",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wfdywrw6K3ti1uW1IYDWbUtU8se.jpg"
+        },
+        {
+          "name": "جيسي آشر",
+          "character": "Trevor",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iiu9dkYEkHJPMf7TzbrhhgwRvlt.jpg"
+        },
+        {
+          "name": "روبن وايغرت",
+          "character": "Dr. Madeline Northcott",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ifGimfhXs7WIyDJMIX8kJtUte88.jpg"
+        },
+        {
+          "name": "Caitlin Stasey",
+          "character": "Laura Weaver",
+          "profile_image": "https://image.tmdb.org/t/p/w185/uJW62qSjIyI0OP30s5U8KLlDw32.jpg"
+        },
+        {
+          "name": "كال بين",
+          "character": "Dr. Morgan Desai",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yICM1JcxKbEpaqTUreY0yFMIc8W.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T00:44:00+00:00",
+      "stop": "2026-11-17T02:44:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/pFBDBB1Y6SMCjY4aKa0qBfmllwG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kMZIMqEXO5MFd5Y1Ha2jZZF4pvF.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/pFBDBB1Y6SMCjY4aKa0qBfmllwG.jpg",
+      "channel_icon": "https://i.imgur.com/STmIWSa.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 9890,
+      "title": "The Stepford Wives",
+      "clean_title": "The Stepford Wives",
+      "original_title": "The Stepford Wives",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "جوانا ووالتر زوجان يعملان في إحدى الشبكات التلفزيونية، تصاب جوانا بإنهيار عصبي نتيجة الضغوط في العمل وتقدم إستقالتها، يسعد والتر كثيرًا بذلك، ويقرر إنتقال أسرته إلى مدينة ستيبفورد، ينبهر والتر بزوجات جيرانه، فجميعهن مطيعات لأزواجهن، دائمات الجمال، وتحاول جوانا معرفة غموض هذا العالم الغريب.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "كوميديا",
+        "خيال علمي",
+        "رعب"
+      ],
+      "rating": 5.7,
+      "vote_count": 1479,
+      "age_rating": "PG-13",
+      "year": "2004",
+      "release_date": "2004-06-10",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "فرانك أوز",
+      "cast": [
+        {
+          "name": "نيكول كيدمان",
+          "character": "Joanna Eberhart",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+        },
+        {
+          "name": "ماثيو برودريك",
+          "character": "Walter Kresby",
+          "profile_image": "https://image.tmdb.org/t/p/w185/papqFgpyroZJEqd7WvuNGN8ti2k.jpg"
+        },
+        {
+          "name": "بيت ميدلر",
+          "character": "Bobbie Markowitz",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ooPKeoLvwacY6BRj99u7uvZCYlF.jpg"
+        },
+        {
+          "name": "غلين كلوز",
+          "character": "Claire Wellington",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4VHZ1GfLwN7MUgApy0LCBzdDF9L.jpg"
+        },
+        {
+          "name": "كريستوفر واكن",
+          "character": "Mike Wellington",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+        },
+        {
+          "name": "Roger Bart",
+          "character": "Roger Bannister",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cliL3nZpi0di8wkNK9VBznd99lg.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T02:44:00+00:00",
+      "stop": "2026-11-17T04:14:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ygr0Wlmm1KmE16TUefNitIscVBG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/rjUeBEhX3xZ5gN5RNcCwUDGHCqx.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ygr0Wlmm1KmE16TUefNitIscVBG.jpg",
+      "channel_icon": "https://i.imgur.com/STmIWSa.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 1029247,
+      "title": "Held Hostage in My House",
+      "clean_title": "Held Hostage in My House",
+      "original_title": "Held Hostage in My House",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تجد أم عزباء نفسها محاصرة داخل المنزل الذي استأجرته لقضاء العطلة، فتنطلق في رحلة لجمع الأدلة حول الضيوف السابقين الذين أقاموا فيه، على أمل اكتشاف المتسبب في احتجازها.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "غموض",
+        "إثارة"
+      ],
+      "rating": 5.8,
+      "vote_count": 22,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-09-07",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Anna Elizabeth James",
+      "cast": [
+        {
+          "name": "Amy Smart",
+          "character": "Dawn van Brocklin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9GQwkmqd5klfXvhd29YI5OKAx3N.jpg"
+        },
+        {
+          "name": "بيلي زين",
+          "character": "Dr. Walter",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wr4fuwLzQvW1G0MS7cmQ3ObFjvL.jpg"
+        },
+        {
+          "name": "جيليس ماريني",
+          "character": "Dimitri",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sbe1rtvd0DhLy2MW3FT6SvMsPTe.jpg"
+        },
+        {
+          "name": "Greer Grammer",
+          "character": "Kate",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1VvU1zrcPXJ7wLKvHCWaK237OvF.jpg"
+        },
+        {
+          "name": "Massi Furlan",
+          "character": "Paolo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/m374tylu98E7dPkJ1rsnRoARkaZ.jpg"
+        },
+        {
+          "name": "Neal Davidson",
+          "character": "Nick",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pG9VSSt9ABY2FTLW5UtBcqmuKN0.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T04:14:00+00:00",
+      "stop": "2026-11-17T05:59:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/r7vkijfxvbZMvVa1qVYfMffU2mR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vQBabHG8OA3IakI9v2Px2ZEgKY.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/r7vkijfxvbZMvVa1qVYfMffU2mR.jpg",
+      "channel_icon": "https://i.imgur.com/STmIWSa.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 1277296,
+      "title": "The Girl in the Pool",
+      "clean_title": "The Girl in the Pool",
+      "original_title": "The Girl in the Pool",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينهار رجل حين يجد جثة عشيقته في مسبحه، فيحاول إخفاء الحادث لحماية عائلته، لكن ليلة واحدة تهدد بكشف الحقيقة وتدمير حياته المثالية.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "إثارة"
+      ],
+      "rating": 4.8,
+      "vote_count": 40,
+      "age_rating": "15",
+      "year": "2024",
+      "release_date": "2024-07-26",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Dakota Gorman",
+      "cast": [
+        {
+          "name": "Freddie Prinze Jr.",
+          "character": "Thomas",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8V9yNBjCNRBKROyjCLKLJGcCBdG.jpg"
+        },
+        {
+          "name": "مونيكا بوتر",
+          "character": "Kristen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jCFOlFAjNPMkX9pJF2Au0cquZ6v.jpg"
+        },
+        {
+          "name": "Kevin Pollak",
+          "character": "William",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ss4vL5itVF1I2AEC64k1vb79GEq.jpg"
+        },
+        {
+          "name": "Brielle Barbusca",
+          "character": "Rose",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8GMcGu39gjnTfL4bV5QmyZHv0ia.jpg"
+        },
+        {
+          "name": "Dionysio Basco",
+          "character": "Abe",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jtzK8t7sFPOR6yXc2kZhBVmUSJw.jpg"
+        },
+        {
+          "name": "Rickey Brown",
+          "character": "Collin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fiC7eStqH8zVm6sanMaf7IqWZdx.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T05:59:00+00:00",
+      "stop": "2026-11-17T07:29:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/qCvVbmoo5wUIgzKmz2bsAQ7I1dQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uwLPyZS5MmtpEH0IcVYXpcLIKie.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/qCvVbmoo5wUIgzKmz2bsAQ7I1dQ.jpg",
+      "channel_icon": "https://i.imgur.com/STmIWSa.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 130150,
+      "title": "Labor Day",
+      "clean_title": "Labor Day",
+      "original_title": "Labor Day",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في صيف عام 1987 وتحديدًا في عطلة عيد العمال، أمٌ مطلقة تُدعى آديل (كيت وينسلت) تعيش مع ابنها هنري (جاتلين جريفيث) الذي يبلغ 13 عامًا. في اليوم السابق ذكره وبينما تتسوق آديل تقابل رجلًا غريبًا وجريحًا، وبرغم ذلك تقرر مساعدته وتعرض عليه إقلاله للمنزل بسيارتها ، لكن سرعان ما يتحول يومها لجحيمٍ عندما تعلم أن هذا الرجل هاربٌ من السجن وأنها تورطت في موقفٍ ربما يكلفها الكثير.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما",
+        "رومنسية",
+        "إثارة"
+      ],
+      "rating": 7.1,
+      "vote_count": 1414,
+      "age_rating": "PG-13",
+      "year": "2013",
+      "release_date": "2013-12-27",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "جيسون رايتمان",
+      "cast": [
+        {
+          "name": "كيت وينسليت",
+          "character": "Adele",
+          "profile_image": "https://image.tmdb.org/t/p/w185/surklDlLW6g2D7EqycEQwHXsoD1.jpg"
+        },
+        {
+          "name": "جوش برولين",
+          "character": "Frank",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7QpneI3HoZCCDVPyWx3p3t7yeo7.jpg"
+        },
+        {
+          "name": "Gattlin Griffith",
+          "character": "Henry",
+          "profile_image": "https://image.tmdb.org/t/p/w185/esMHJA8lP8y60AqJZH9JJBMIRIz.jpg"
+        },
+        {
+          "name": "توبي ماغواير",
+          "character": "Adult Henry",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s6PwSvq6gC7PGEjIku69tPbvR8M.jpg"
+        },
+        {
+          "name": "Tom Lipinski",
+          "character": "Young Frank",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kxqjDoNgGGTIEUUcH2K9cBe0KoD.jpg"
+        },
+        {
+          "name": "مايكا مونرو",
+          "character": "Mandy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/x4yiKkMnCdf8g4eOrDoqla9FYEA.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T07:29:00+00:00",
+      "stop": "2026-11-17T09:29:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/iQdbCtk1Q3TdZRBKSLU1Vh870l7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/feO6v1UMaCDFsshStLpAv2FwARz.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/iQdbCtk1Q3TdZRBKSLU1Vh870l7.jpg",
+      "channel_icon": "https://i.imgur.com/STmIWSa.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن موفيز دراما",
+          "start": "2026-11-16T18:29:00+00:00"
+        },
+        {
+          "channel": "بي إن موفيز دراما",
+          "start": "2026-11-17T12:44:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 109414,
+      "title": "This Is the End",
+      "clean_title": "This Is the End",
+      "original_title": "This Is the End",
+      "tagline": "لا شيء يفسد حفلة مثل نهاية العالم.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقام حفل ساهر في منزل النجم (جيمس فرانكو) في مدينة لوس أنجلوس، ويحضره عدد من المشاهير، ومع سيرورة الحفلة، تأتي نهاية العالم، وعلى اﻷصدقاء الاحتماء بمنزل (جيمس فرانكو) من اﻷحداث الجسام التي تحدث بالخارج، وعليهم أن يصمدوا في مواجهة آخر أيام اﻷرض.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "حركة",
+        "كوميديا"
+      ],
+      "rating": 6.3,
+      "vote_count": 7159,
+      "age_rating": "R",
+      "year": "2013",
+      "release_date": "2013-06-12",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "إيفان غولدبيرغ, سيث روغن",
+      "cast": [
+        {
+          "name": "جيمس فرانكو",
+          "character": "James Franco",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
+        },
+        {
+          "name": "جونا هيل",
+          "character": "Jonah Hill",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+        },
+        {
+          "name": "سيث روغن",
+          "character": "Seth Rogen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+        },
+        {
+          "name": "جاي بارتشيل",
+          "character": "Jay Baruchel",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg"
+        },
+        {
+          "name": "Danny McBride",
+          "character": "Danny McBride",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sVFPzl2t5QlGudQKWAszIWZCXZv.jpg"
+        },
+        {
+          "name": "كريغ روبنسون",
+          "character": "Craig Robinson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mTyTrOWUSOBJMOlDpnd4OYx7FlJ.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T09:29:00+00:00",
+      "stop": "2026-11-17T11:14:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/tNIW0NhX1hKvUsy6PQ80DOKUhkD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/sXfN4ir91SfTeoWidIukQWane43.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/tNIW0NhX1hKvUsy6PQ80DOKUhkD.jpg",
+      "channel_icon": "https://i.imgur.com/STmIWSa.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 986674,
+      "title": "Shelter in Solitude",
+      "clean_title": "Shelter in Solitude",
+      "original_title": "Shelter in Solitude",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في إطار من الجريمة والدراما، ينغمس سجين محكوم عليه بالإعدام ولا يتبقى له في الحياة سوى عشرة أيام في علاقة غريبة وغير متوقعة مع مغنية ريفية أصبحت حارسة سجن.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": 6.6,
+      "vote_count": 5,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-10-06",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Vibeke Muasya",
+      "cast": [
+        {
+          "name": "Siobhan Fallon Hogan",
+          "character": "Valerie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5OExagnRsUcOYLMPTSrv4x2G95R.jpg"
+        },
+        {
+          "name": "بيتر ماكون",
+          "character": "Jackson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jF4jzgtWB2NAJ6BfVTSDQOlOHLr.jpg"
+        },
+        {
+          "name": "روبرت باتريك",
+          "character": "Dwayne",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qRv2Es9rZoloullTbzss3I5j1Mp.jpg"
+        },
+        {
+          "name": "دان كاستلانيتا",
+          "character": "Sam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg"
+        },
+        {
+          "name": "Pete Hogan",
+          "character": "Officer Chrissy",
+          "profile_image": null
+        },
+        {
+          "name": "Fat Nick",
+          "character": "Freestyler",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T11:14:00+00:00",
+      "stop": "2026-11-17T12:44:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/wbhFHVwFW7p7fceSpJlhXUt5xeV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/abbKcW9RMwFRIlBnB3EMd26his3.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/wbhFHVwFW7p7fceSpJlhXUt5xeV.jpg",
+      "channel_icon": "https://i.imgur.com/STmIWSa.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن موفيز دراما",
+          "start": "2026-11-16T16:59:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 130150,
+      "title": "Labor Day",
+      "clean_title": "Labor Day",
+      "original_title": "Labor Day",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في صيف عام 1987 وتحديدًا في عطلة عيد العمال، أمٌ مطلقة تُدعى آديل (كيت وينسلت) تعيش مع ابنها هنري (جاتلين جريفيث) الذي يبلغ 13 عامًا. في اليوم السابق ذكره وبينما تتسوق آديل تقابل رجلًا غريبًا وجريحًا، وبرغم ذلك تقرر مساعدته وتعرض عليه إقلاله للمنزل بسيارتها ، لكن سرعان ما يتحول يومها لجحيمٍ عندما تعلم أن هذا الرجل هاربٌ من السجن وأنها تورطت في موقفٍ ربما يكلفها الكثير.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما",
+        "رومنسية",
+        "إثارة"
+      ],
+      "rating": 7.1,
+      "vote_count": 1414,
+      "age_rating": "PG-13",
+      "year": "2013",
+      "release_date": "2013-12-27",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "جيسون رايتمان",
+      "cast": [
+        {
+          "name": "كيت وينسليت",
+          "character": "Adele",
+          "profile_image": "https://image.tmdb.org/t/p/w185/surklDlLW6g2D7EqycEQwHXsoD1.jpg"
+        },
+        {
+          "name": "جوش برولين",
+          "character": "Frank",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7QpneI3HoZCCDVPyWx3p3t7yeo7.jpg"
+        },
+        {
+          "name": "Gattlin Griffith",
+          "character": "Henry",
+          "profile_image": "https://image.tmdb.org/t/p/w185/esMHJA8lP8y60AqJZH9JJBMIRIz.jpg"
+        },
+        {
+          "name": "توبي ماغواير",
+          "character": "Adult Henry",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s6PwSvq6gC7PGEjIku69tPbvR8M.jpg"
+        },
+        {
+          "name": "Tom Lipinski",
+          "character": "Young Frank",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kxqjDoNgGGTIEUUcH2K9cBe0KoD.jpg"
+        },
+        {
+          "name": "مايكا مونرو",
+          "character": "Mandy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/x4yiKkMnCdf8g4eOrDoqla9FYEA.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T12:44:00+00:00",
+      "stop": "2026-11-17T14:44:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/iQdbCtk1Q3TdZRBKSLU1Vh870l7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/feO6v1UMaCDFsshStLpAv2FwARz.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/iQdbCtk1Q3TdZRBKSLU1Vh870l7.jpg",
+      "channel_icon": "https://i.imgur.com/STmIWSa.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن موفيز دراما",
+          "start": "2026-11-16T18:29:00+00:00"
+        },
+        {
+          "channel": "بي إن موفيز دراما",
+          "start": "2026-11-17T07:29:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 887321,
+      "title": "Dreamin' Wild",
+      "clean_title": "Dreamin' Wild",
+      "original_title": "Dreamin' Wild",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في إطار موسيقي درامي، يبذل الثنائي الموسيقي دوني وجو إيمرسون كل ما لديهما لإنتاج أغنية في السبعينيات.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "موسيقى",
+        "دراما"
+      ],
+      "rating": 6.1,
+      "vote_count": 34,
+      "age_rating": "PG",
+      "year": "2023",
+      "release_date": "2023-08-04",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Bill Pohlad",
+      "cast": [
+        {
+          "name": "كيسي أفليك",
+          "character": "Donnie Emerson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+        },
+        {
+          "name": "Walton Goggins",
+          "character": "Joe Emerson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+        },
+        {
+          "name": "زوي ديشانيل",
+          "character": "Nancy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/30KQyjsXfrdm4Dcori7bDFTg9Le.jpg"
+        },
+        {
+          "name": "Beau Bridges",
+          "character": "Don Emerson Sr.",
+          "profile_image": "https://image.tmdb.org/t/p/w185/Aiezvt0Uj2Ka9QVW3GvuRLkNS2V.jpg"
+        },
+        {
+          "name": "كريس ميسينا",
+          "character": "Matt Sullivan",
+          "profile_image": "https://image.tmdb.org/t/p/w185/l9DbQTK5pI6SOGpmfbADGLhdOYS.jpg"
+        },
+        {
+          "name": "نواه جوب",
+          "character": "Young Donnie Emerson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xbswZN0SHgeCbyo5GQ0xfZKH3vs.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T14:44:00+00:00",
+      "stop": "2026-11-17T16:44:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/58eMSDfgXAUO2wK1y26uN2zcNro.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/eSDz22g7f0pRK9XJXXQnnywUo4I.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/58eMSDfgXAUO2wK1y26uN2zcNro.jpg",
+      "channel_icon": "https://i.imgur.com/STmIWSa.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن موفيز دراما",
+          "start": "2026-11-16T20:29:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 12229,
+      "title": "Acid",
+      "clean_title": "Acid",
+      "original_title": "The Acid House",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتعين على أسرة منفصلة أن تجتمع معًا للهروب من كارثة تجتاح جميع أنحاء فرنسا، بعدما تبدأ سُحُب غريبة في إنزال أمطار حمضية قاتلة، مما يسبب الدمار والذعر والفوضى.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "كوميديا",
+        "دراما"
+      ],
+      "rating": 6.3,
+      "vote_count": 146,
+      "age_rating": "NR",
+      "year": "1998",
+      "release_date": "1998-12-31",
+      "status": "Released",
+      "country": "المملكة المتحدة",
+      "language": "الإنجليزية",
+      "director": "Paul McGuigan",
+      "cast": [
+        {
+          "name": "إوين بريمنر",
+          "character": "Coco Bryce",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7ZayRqxxy5JsQpiUPA0iVeRHny6.jpg"
+        },
+        {
+          "name": "كيفين ماكيد",
+          "character": "Johnny",
+          "profile_image": "https://image.tmdb.org/t/p/w185/KtmEKOSehmQ35JfGjEjpqlypbP.jpg"
+        },
+        {
+          "name": "Stephen McCole",
+          "character": "Boab",
+          "profile_image": "https://image.tmdb.org/t/p/w185/y3IuUJVnfXwdKILa7O4LmMdQr01.jpg"
+        },
+        {
+          "name": "Jemma Redgrave",
+          "character": "Jenny",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1Lgtd9zpwwuyKqjmd5ME2lN9FUq.jpg"
+        },
+        {
+          "name": "Martin Clunes",
+          "character": "Rory",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xoCgVr1h3uhES9MnKCoyd05bW1v.jpg"
+        },
+        {
+          "name": "Maurice Roëves",
+          "character": "God",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3WT7GhYloKzgiizP5pahruFbBOD.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T16:44:00+00:00",
+      "stop": "2026-11-17T18:29:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/o0KvKCgxMFccx3SzDI3p2218921.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/lh57j971CIzI3FruTbFeWpYHjej.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/o0KvKCgxMFccx3SzDI3p2218921.jpg",
+      "channel_icon": "https://i.imgur.com/STmIWSa.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 1887,
+      "title": "Marie Antoinette",
+      "clean_title": "Marie Antoinette",
+      "original_title": "Marie Antoinette",
+      "tagline": "شائعة. فضيحة. شهرة. ثورة.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستعرض الفيلم فصول هامة من حياة آخر ملكات فرنسا وزوجة لويس السادس عشر، ماري أنطوانيت ونضوجها من فتاة في سن المراهقة إلى ملكة لـ(فرنسا) في نهاية المطاف.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما",
+        "تاريخ"
+      ],
+      "rating": 6.7,
+      "vote_count": 3052,
+      "age_rating": "PG-13",
+      "year": "2006",
+      "release_date": "2006-05-24",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "صوفيا كوبولا",
+      "cast": [
+        {
+          "name": "كيرستين دانست",
+          "character": "Marie Antoinette",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+        },
+        {
+          "name": "جيسن شوارتزمن",
+          "character": "Louis XVI",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+        },
+        {
+          "name": "ستيف كوجان",
+          "character": "Ambassador Mercy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg"
+        },
+        {
+          "name": "جودي ديفيس",
+          "character": "Comtesse de Noailles",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yAwsKkca91QJdsf1suUm637mwUx.jpg"
+        },
+        {
+          "name": "Rip Torn",
+          "character": "Louis XV",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jP74MHyQl6R8mH7aZKHrrD2Qjj2.jpg"
+        },
+        {
+          "name": "Asia Argento",
+          "character": "Comtesse du Barry",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dYbYNxMnqhNyAJyrPU7e2C9jcRz.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T18:29:00+00:00",
+      "stop": "2026-11-17T20:29:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9hxBNoRjEDZGjyR1JpmmtxJWmVU.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "channel_icon": "https://i.imgur.com/STmIWSa.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 1127936,
+      "title": "Christmas Waltz",
+      "clean_title": "Christmas Waltz",
+      "original_title": "Paris Christmas Waltz",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تعاني امرأة من ترك خطيبها لها قبل شهر من حفل زفافها الأسطوري الذي كانت تخطط له في عيد الميلاد، لذا تقرر الاستمرار في خططها وتأخذ دروس الرقص المخصصة لرقصة زفافها.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "رومنسية",
+        "كوميديا",
+        "فيلم تلفازي"
+      ],
+      "rating": 6.4,
+      "vote_count": 58,
+      "age_rating": "G",
+      "year": "2023",
+      "release_date": "2023-11-19",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Michael Damian",
+      "cast": [
+        {
+          "name": "Jen Lilley",
+          "character": "Emma",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cACs9E3Nri3raX6D3hvsGs94S9w.jpg"
+        },
+        {
+          "name": "ماثيو موريسون",
+          "character": "Leo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/u3CA6kqhpPVhK3zLD7yW0UfCyWt.jpg"
+        },
+        {
+          "name": "بول فريمان",
+          "character": "Henry",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qrjgLfuNdXektuBwNL6onZBkbHw.jpg"
+        },
+        {
+          "name": "Debbie Matenopoulos",
+          "character": "Camile",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fySlq8QW6Iyv9pZDCsdwnNyz7rE.jpg"
+        },
+        {
+          "name": "Stephanie Siadatan",
+          "character": "Cece",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hjM3ql5bmXoKrVcwfxTaEQrTCVZ.jpg"
+        },
+        {
+          "name": "Matt Salinger",
+          "character": "Angelo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6XekW5u9FAKKkEMiWmsyxCNcoXm.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T20:29:00+00:00",
+      "stop": "2026-11-17T22:00:00+00:00",
+      "duration_minutes": 91,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/zyMGmj4zDSNNUdJyzqbu9Lk0tEO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/njuO8TJQ4QSy3kxnuUgOCapnuDR.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/zyMGmj4zDSNNUdJyzqbu9Lk0tEO.jpg",
+      "channel_icon": "https://i.imgur.com/STmIWSa.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 1032425,
+      "title": "The Dead Don't Hurt",
+      "clean_title": "The Dead Don't Hurt",
+      "original_title": "The Dead Don't Hurt",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يدور العمل في فترة الستينات بالقرن التاسع عشر، حيث تدخل فيفيان المرأة الفرنسية - الكندية في علاقة عاطفية مع المُهاجر الدنماركي هولجر أولسن.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "غربي",
+        "دراما"
+      ],
+      "rating": 6.5,
+      "vote_count": 236,
+      "age_rating": "R",
+      "year": "2024",
+      "release_date": "2024-03-31",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Viggo Mortensen",
+      "cast": [
+        {
+          "name": "فيكي كريبس",
+          "character": "Vivienne Le Coudy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9laK3w40qBnE5UY41wJfnUAYMmC.jpg"
+        },
+        {
+          "name": "Viggo Mortensen",
+          "character": "Holger Olsen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+        },
+        {
+          "name": "سولي ماكلويد",
+          "character": "Weston Jeffries",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg"
+        },
+        {
+          "name": "غاريت ديلاهونت",
+          "character": "Alfred Jeffries",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7wHWTkIhre0j9L9CY2t5VVwg630.jpg"
+        },
+        {
+          "name": "داني هيوستن",
+          "character": "Rudolph Schiller",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mNz9t7MNANopavbLgcsZMMQBJ0u.jpg"
+        },
+        {
+          "name": "W. Earl Brown",
+          "character": "Alan Kendall",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oBHcJc65nUmopx6lVc9ZvYYARZz.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T22:30:00+00:00",
+      "stop": "2026-11-18T00:44:00+00:00",
+      "duration_minutes": 134,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/zmwzs1IbftuEqm70LtoHZRqFMAc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jyj5u40r8fIwzGWpUoYEICNsoTi.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/zmwzs1IbftuEqm70LtoHZRqFMAc.jpg",
+      "channel_icon": "https://i.imgur.com/STmIWSa.png",
+      "is_rerun": false,
+      "reruns": []
+    }
+  ]
+}

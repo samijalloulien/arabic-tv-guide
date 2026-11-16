@@ -1,0 +1,3167 @@
+{
+  "channel_id": "AbuDhabiTV.ae@SD",
+  "channel_name": "Abu Dhabi TV HD",
+  "channel_icon": "https://i.imgur.com/8DAriPs.png",
+  "programs": [
+    {
+      "tmdb_id": null,
+      "title": "كواليس أبو ظبي",
+      "clean_title": "كواليس أبو ظبي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كواليس أبو ظبي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مبادرة تشيدُ بالأبطال الذين يعملون في الخفاء -بعيداً عن الأنظار- للحفاظ على أبوظبي ومكانتها كمدينة نابضة بالحياة، ومشهود لها بجودة الحياة العالية ورفاهية سكانها.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T23:00:00+00:00",
+      "stop": "2026-11-15T23:20:00+00:00",
+      "duration_minutes": 20,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T06:15:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T07:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "شباب الإمارات",
+      "clean_title": "شباب الإمارات",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "شباب الإمارات",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "لمحات ملهمة عن قصص نجاح حققها شباب الإمارات المتميزون، الذين يجسدون قيم المثابرة والتميز ويشكلون قدوةً لأقرانهم من الشباب.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T23:20:00+00:00",
+      "stop": "2026-11-15T23:30:00+00:00",
+      "duration_minutes": 10,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T07:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 86095,
+      "title": "المصيدة",
+      "clean_title": "المصيدة",
+      "original_title": "Caduta Libera",
+      "tagline": null,
+      "episode_title": "المصيدة",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 7,
+      "episodes_count": 9,
+      "description": "تصبح عملية الاحتيال الناجحة التي قامت بها خبيرة إلكترونية موهوبة مع أصدقاؤها خطيرة، مما يؤدي إلى مطاردات لا هوادة فيها ويكشف أسرارًا مدفونة منذ زمن طويل تجبرهم على الدخول في سلسلة من المواجهات الشديدة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "حوار"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2015",
+      "release_date": "2015-05-04",
+      "status": "Returning Series",
+      "country": "إيطاليا",
+      "language": "الإيطالية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Gerry Scotti",
+          "character": "Conduttore",
+          "profile_image": "https://image.tmdb.org/t/p/w185/o1TqX1o4wHQhbPaSE1AkFKbgnSn.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-15T23:30:00+00:00",
+      "stop": "2026-11-16T00:25:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vMx8zPt8bKIVr6WjJC16ryydQvN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3pmCLrqkLnt5Vdc7JAZlBQdaBSB.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/vMx8zPt8bKIVr6WjJC16ryydQvN.jpg",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T04:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T00:49:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 642012,
+      "title": "وزن",
+      "clean_title": "وزن",
+      "original_title": "بی وزنی",
+      "tagline": null,
+      "episode_title": "وزن",
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "وسط طابع شاعري وأجواء عفوية، يشارك شعراء النبطي قصصاً تكشف عما يكمن وراء مواهبهم وانغماسهم في هذا اللون المرموق من التراث الأدبي الإماراتي.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": "2019-10-26",
+      "status": "Released",
+      "country": "IR",
+      "language": "fa",
+      "director": "Mehdi Fard Ghaderi",
+      "cast": [
+        {
+          "name": "Amir Ali Danaei",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/7tqNAwoMZEGBFvYjpN2mgVypWKB.jpg"
+        },
+        {
+          "name": "Jalal Fatemi",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Sepideh Moradpour",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Tina Pakravan",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3FPcx67A7nFQY0AZOTO2XE61mMm.jpg"
+        },
+        {
+          "name": "Behnam Ashrafi",
+          "character": "directing group",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w1MEdXlGEG5S2Akj6GJ6iFOgGpB.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T00:25:00+00:00",
+      "stop": "2026-11-16T01:30:00+00:00",
+      "duration_minutes": 65,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/oHhxRgW3V2Dca9U3orr9ITdJ383.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/plvCEHdDcxWwHcnuQlbb6REKO6w.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/oHhxRgW3V2Dca9U3orr9ITdJ383.jpg",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T11:30:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T05:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 249007,
+      "title": "نسائم",
+      "clean_title": "نسائم",
+      "original_title": "نسائم",
+      "tagline": null,
+      "episode_title": "الحلقة 11",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "يثير موضوع رفاهية الأسرة نقاشات مفيدة تحدد الحقوق الاجتماعية والقانونية لأفراد الأسرة، وكيفية ممارستهم لهذه الحقوق استنادًا إلى المعايير التشريعية الإسلامية ومبادرة «عام المجتمع» في الإمارات العربية المتحدة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-11",
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:30:00+00:00",
+      "stop": "2026-11-16T02:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/6Eyey0HpSduUOWJko8dmLrAtlQw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jIG7xBmimwt4H3PPTyQu4cJ6zW5.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/6Eyey0HpSduUOWJko8dmLrAtlQw.jpg",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T10:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 693271,
+      "title": "+971 (الجزء 3)",
+      "clean_title": "+971 ()",
+      "original_title": "Vuelo 971",
+      "tagline": null,
+      "episode_title": "+971 (الجزء 3)",
+      "content_type": "movie",
+      "season": 3,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نظرة معاصرة على دولة الإمارات العربية المتحدة، تتناول القضايا الوطنية والسياسية والاقتصادية، وتسلّط الضوء على إنجازات الدولة، إلى جانب أحدث المستجدات المحلية والإقليمية والدولية.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما"
+      ],
+      "rating": 7.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "1953",
+      "release_date": "1953-12-27",
+      "status": "Released",
+      "country": "إسبانيا",
+      "language": "الإسبانية",
+      "director": "Rafael J. Salvia",
+      "cast": [
+        {
+          "name": "José Nieto",
+          "character": "Comandante Pedro Zubiri",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pJl21sDDdPMitmdVuYhKrX9m8C9.jpg"
+        },
+        {
+          "name": "Germán Cobos",
+          "character": "Primer oficial",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rUYkYTgOU7adUSB8rsjWHOIenxg.jpg"
+        },
+        {
+          "name": "Vicente Parra",
+          "character": "Rafael Azarías",
+          "profile_image": null
+        },
+        {
+          "name": "Antonio Casas",
+          "character": "Giner",
+          "profile_image": "https://image.tmdb.org/t/p/w185/x3CWO3b5ZlJiAXWtMvnF5n3ntwB.jpg"
+        },
+        {
+          "name": "Santiago Rivero",
+          "character": "Radiooperador",
+          "profile_image": "https://image.tmdb.org/t/p/w185/y5LWcdS6QYFQD7qQphMNA41nEOo.jpg"
+        },
+        {
+          "name": "Raúl Cancio",
+          "character": "Primer sobrecargo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mn8ErO95XPZpxn2jp6cdJjYcpql.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T02:00:00+00:00",
+      "stop": "2026-11-16T03:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/gFfkZzNPKLhcvO0viWZoFg0ugYg.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/gFfkZzNPKLhcvO0viWZoFg0ugYg.jpg",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 53894,
+      "title": "بيوتنا",
+      "clean_title": "بيوتنا",
+      "original_title": "الجنة في بيوتنا",
+      "tagline": null,
+      "episode_title": "الحلقة 9",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بيوتنا (الموسم الرابع)",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Ended",
+      "country": null,
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T03:00:00+00:00",
+      "stop": "2026-11-16T03:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T07:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "زهرة كاست",
+      "clean_title": "زهرة كاست",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 9",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "استناداً إلى مقالات مجلة \"زهرة الخليج\"، تستعرض الحلقات نساءً إماراتيات تركن بصمات النجاح والطموح في عالم الموضة والجمال الآسر.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T03:30:00+00:00",
+      "stop": "2026-11-16T04:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T11:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 86095,
+      "title": "المصيدة",
+      "clean_title": "المصيدة",
+      "original_title": "Caduta Libera",
+      "tagline": null,
+      "episode_title": "المصيدة",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 7,
+      "episodes_count": 9,
+      "description": "تصبح عملية الاحتيال الناجحة التي قامت بها خبيرة إلكترونية موهوبة مع أصدقاؤها خطيرة، مما يؤدي إلى مطاردات لا هوادة فيها ويكشف أسرارًا مدفونة منذ زمن طويل تجبرهم على الدخول في سلسلة من المواجهات الشديدة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "حوار"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2015",
+      "release_date": "2015-05-04",
+      "status": "Returning Series",
+      "country": "إيطاليا",
+      "language": "الإيطالية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Gerry Scotti",
+          "character": "Conduttore",
+          "profile_image": "https://image.tmdb.org/t/p/w185/o1TqX1o4wHQhbPaSE1AkFKbgnSn.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T04:00:00+00:00",
+      "stop": "2026-11-16T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vMx8zPt8bKIVr6WjJC16ryydQvN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3pmCLrqkLnt5Vdc7JAZlBQdaBSB.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/vMx8zPt8bKIVr6WjJC16ryydQvN.jpg",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T00:49:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 43865,
+      "title": "الممر",
+      "clean_title": "الممر",
+      "original_title": "PSYCHO-PASS サイコパス",
+      "tagline": null,
+      "episode_title": "الحلقة 9",
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 41,
+      "description": "رحلة استكشافية لمشاهير عرب في جولة \"افتراضية\" عبر محطات حياتهم، لتسليط الضوء على التجارب المتراكمة التي صاغت هوية كل ضيف وشكّلت ملامح شخصيته على مستويات عدة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "رسوم متحركة",
+        "جريمة",
+        "خيال علمي وفانتازيا",
+        "حركة ومغامرة"
+      ],
+      "rating": 7.8,
+      "vote_count": 504,
+      "age_rating": "TV-MA",
+      "year": "2012",
+      "release_date": "2012-10-12",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "يوكي كاجي",
+          "character": "Shindou Arata",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
+        },
+        {
+          "name": "花澤香菜",
+          "character": "Akane Tsunemori (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9UTBlNRopSOKyoWnCm74tyHOfR1.jpg"
+        },
+        {
+          "name": "中村悠一",
+          "character": "Kei Mikhail Ignatov",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wb8behVKjBHX9XXrEydvNINCYwH.jpg"
+        },
+        {
+          "name": "関智一",
+          "character": "Shinya Kogami (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
+        },
+        {
+          "name": "تاكاهيرو ساكوراي",
+          "character": "Sho Hinakawa (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+        },
+        {
+          "name": "佐倉綾音",
+          "character": "Mika Shimotsuki (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yPbTmntASE9psPIMhNGU5oo6vIH.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T05:00:00+00:00",
+      "stop": "2026-11-16T06:15:00+00:00",
+      "duration_minutes": 75,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/aX6S3P8xiz9nJwXjaka5e9kT6f4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4z8u57awz954GRuK7W86HlhyeeM.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/aX6S3P8xiz9nJwXjaka5e9kT6f4.jpg",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "كواليس أبو ظبي",
+      "clean_title": "كواليس أبو ظبي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كواليس أبو ظبي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مبادرة تشيدُ بالأبطال الذين يعملون في الخفاء -بعيداً عن الأنظار- للحفاظ على أبوظبي ومكانتها كمدينة نابضة بالحياة، ومشهود لها بجودة الحياة العالية ورفاهية سكانها.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T06:15:00+00:00",
+      "stop": "2026-11-16T06:30:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T07:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "من المصدر",
+      "clean_title": "من المصدر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 5",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "سلسلة وثائقية استقصائية تتناول قضايا جوهرية تهم الرأي العام، وذلك عبر أبحاث معمقة وتحليلات موثقة، كاشفةً عن جوانب خفية من خلال رؤى تستند إلى الحقائق ومدعومة بمصادر رسمية.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T06:30:00+00:00",
+      "stop": "2026-11-16T07:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غوكس تشاينيز تيك أواي",
+      "clean_title": "غوكس تشاينيز تيك أواي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 1",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مطعم غوك الصيني للوجبات الجاهزة (ADM): الحلقة 1",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T07:00:00+00:00",
+      "stop": "2026-11-16T08:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العالم",
+      "clean_title": "أخبار العالم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أخبار العالم",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "أخبار عالمية",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:00:00+00:00",
+      "stop": "2026-11-16T08:35:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 249007,
+      "title": "نسائم",
+      "clean_title": "نسائم",
+      "original_title": "نسائم",
+      "tagline": null,
+      "episode_title": "الحلقة 11",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "يثير موضوع رفاهية الأسرة نقاشات مفيدة تحدد الحقوق الاجتماعية والقانونية لأفراد الأسرة، وكيفية ممارستهم لهذه الحقوق استنادًا إلى المعايير التشريعية الإسلامية ومبادرة «عام المجتمع» في الإمارات العربية المتحدة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-11",
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:35:00+00:00",
+      "stop": "2026-11-16T09:00:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/6Eyey0HpSduUOWJko8dmLrAtlQw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jIG7xBmimwt4H3PPTyQu4cJ6zW5.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/6Eyey0HpSduUOWJko8dmLrAtlQw.jpg",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T01:30:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T10:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1373537,
+      "title": "موجات",
+      "clean_title": "موجات",
+      "original_title": "السبع موجات",
+      "tagline": null,
+      "episode_title": "الحلقة 9",
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج بأسلوب \"البودكاست\" يتناول نمط الحياة والتوعية الأسرية والنفسية، من تقديم أميرة محمد.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-06-27",
+      "status": "Released",
+      "country": "الأردن",
+      "language": "العربية",
+      "director": "Asma Bseiso",
+      "cast": [
+        {
+          "name": "Mohammed Baker",
+          "character": "self",
+          "profile_image": null
+        },
+        {
+          "name": "Bisan Zoghra",
+          "character": "self",
+          "profile_image": null
+        },
+        {
+          "name": "Raed Zoghra",
+          "character": "self",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T09:00:00+00:00",
+      "stop": "2026-11-16T10:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/b2LSkCNNfwPPWwR3xg8tkZNjdzD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4kiTRZ4tD3XibJYd8HRcCsRk9OP.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/b2LSkCNNfwPPWwR3xg8tkZNjdzD.jpg",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 693271,
+      "title": "+971 (الجزء 3)",
+      "clean_title": "+971 ()",
+      "original_title": "Vuelo 971",
+      "tagline": null,
+      "episode_title": "+971 (الجزء 3)",
+      "content_type": "movie",
+      "season": 3,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نظرة معاصرة على دولة الإمارات العربية المتحدة، تتناول القضايا الوطنية والسياسية والاقتصادية، وتسلّط الضوء على إنجازات الدولة، إلى جانب أحدث المستجدات المحلية والإقليمية والدولية.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما"
+      ],
+      "rating": 7.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "1953",
+      "release_date": "1953-12-27",
+      "status": "Released",
+      "country": "إسبانيا",
+      "language": "الإسبانية",
+      "director": "Rafael J. Salvia",
+      "cast": [
+        {
+          "name": "José Nieto",
+          "character": "Comandante Pedro Zubiri",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pJl21sDDdPMitmdVuYhKrX9m8C9.jpg"
+        },
+        {
+          "name": "Germán Cobos",
+          "character": "Primer oficial",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rUYkYTgOU7adUSB8rsjWHOIenxg.jpg"
+        },
+        {
+          "name": "Vicente Parra",
+          "character": "Rafael Azarías",
+          "profile_image": null
+        },
+        {
+          "name": "Antonio Casas",
+          "character": "Giner",
+          "profile_image": "https://image.tmdb.org/t/p/w185/x3CWO3b5ZlJiAXWtMvnF5n3ntwB.jpg"
+        },
+        {
+          "name": "Santiago Rivero",
+          "character": "Radiooperador",
+          "profile_image": "https://image.tmdb.org/t/p/w185/y5LWcdS6QYFQD7qQphMNA41nEOo.jpg"
+        },
+        {
+          "name": "Raúl Cancio",
+          "character": "Primer sobrecargo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mn8ErO95XPZpxn2jp6cdJjYcpql.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T10:00:00+00:00",
+      "stop": "2026-11-16T11:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/gFfkZzNPKLhcvO0viWZoFg0ugYg.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/gFfkZzNPKLhcvO0viWZoFg0ugYg.jpg",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T02:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نشرة الاخبار",
+      "clean_title": "نشرة الاخبار",
+      "original_title": "news broadcasting",
+      "tagline": null,
+      "episode_title": "نشرة الاخبار",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نشرة الأخبار",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T11:00:00+00:00",
+      "stop": "2026-11-16T11:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "الشرقية",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "الشرقية",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "الشرقية",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "الأردن",
+          "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 642012,
+      "title": "وزن",
+      "clean_title": "وزن",
+      "original_title": "بی وزنی",
+      "tagline": null,
+      "episode_title": "وزن",
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "وسط طابع شاعري وأجواء عفوية، يشارك شعراء النبطي قصصاً تكشف عما يكمن وراء مواهبهم وانغماسهم في هذا اللون المرموق من التراث الأدبي الإماراتي.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": "2019-10-26",
+      "status": "Released",
+      "country": "IR",
+      "language": "fa",
+      "director": "Mehdi Fard Ghaderi",
+      "cast": [
+        {
+          "name": "Amir Ali Danaei",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/7tqNAwoMZEGBFvYjpN2mgVypWKB.jpg"
+        },
+        {
+          "name": "Jalal Fatemi",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Sepideh Moradpour",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Tina Pakravan",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3FPcx67A7nFQY0AZOTO2XE61mMm.jpg"
+        },
+        {
+          "name": "Behnam Ashrafi",
+          "character": "directing group",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w1MEdXlGEG5S2Akj6GJ6iFOgGpB.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T11:30:00+00:00",
+      "stop": "2026-11-16T12:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/oHhxRgW3V2Dca9U3orr9ITdJ383.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/plvCEHdDcxWwHcnuQlbb6REKO6w.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/oHhxRgW3V2Dca9U3orr9ITdJ383.jpg",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T00:25:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T05:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أمير الشعراء",
+      "clean_title": "أمير الشعراء",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أمير الشعراء",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "أمير الشعراء",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:30:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 86095,
+      "title": "المصيدة",
+      "clean_title": "المصيدة",
+      "original_title": "Caduta Libera",
+      "tagline": null,
+      "episode_title": "المصيدة",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 7,
+      "episodes_count": 9,
+      "description": "تصبح عملية الاحتيال الناجحة التي قامت بها خبيرة إلكترونية موهوبة مع أصدقاؤها خطيرة، مما يؤدي إلى مطاردات لا هوادة فيها ويكشف أسرارًا مدفونة منذ زمن طويل تجبرهم على الدخول في سلسلة من المواجهات الشديدة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "حوار"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2015",
+      "release_date": "2015-05-04",
+      "status": "Returning Series",
+      "country": "إيطاليا",
+      "language": "الإيطالية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Gerry Scotti",
+          "character": "Conduttore",
+          "profile_image": "https://image.tmdb.org/t/p/w185/o1TqX1o4wHQhbPaSE1AkFKbgnSn.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vMx8zPt8bKIVr6WjJC16ryydQvN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3pmCLrqkLnt5Vdc7JAZlBQdaBSB.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/vMx8zPt8bKIVr6WjJC16ryydQvN.jpg",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T04:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T00:49:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نشرة الاخبار",
+      "clean_title": "نشرة الاخبار",
+      "original_title": "news broadcasting",
+      "tagline": null,
+      "episode_title": "نشرة الاخبار",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نشرة الأخبار",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "الشرقية",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "الشرقية",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "الشرقية",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "الأردن",
+          "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مساء أبو ظبي",
+      "clean_title": "مساء أبو ظبي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مساء أبو ظبي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "جولة يومية تستعرض أحدث ما تزخر به أجندة الفعاليات في دولة الإمارات، وتغطي أحداثاً في مختلف أنحاء البلاد، كما تتناول طيفاً واسعاً من الموضوعات والقصص المثيرة للاهتمام.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "علوم الدار",
+      "clean_title": "علوم الدار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "علوم الدار",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تحديث شامل يومي للشؤون والأحداث الوطنية الجارية مع منصة متعددة للأخبار العاجلة في السياسة والرياضة والأعمال وتوقعات الطقس.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T22:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "المنكوس",
+      "clean_title": "المنكوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "المنكوس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "المنكوس",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T18:50:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "السطر الأخير (الجزء 10) (2026)",
+      "clean_title": "السطر الأخير () (2026)",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "السطر الأخير (الجزء 10) (2026)",
+      "content_type": "series",
+      "season": 10,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مجلة متعدّدة الجوانب تقدّم رؤى حول الشؤون الراهنة الناجمة عن الأعراف المستجدّة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:50:00+00:00",
+      "stop": "2026-11-16T19:20:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T01:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نورث ستار",
+      "clean_title": "نورث ستار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نورث ستار",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نورث ستار",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:20:00+00:00",
+      "stop": "2026-11-16T20:10:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سليبي هولو",
+      "clean_title": "سليبي هولو",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "سليبي هولو",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "سليبي هولو",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:10:00+00:00",
+      "stop": "2026-11-16T21:00:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T02:10:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مساء أبو ظبي",
+      "clean_title": "مساء أبو ظبي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مساء أبو ظبي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "جولة يومية تستعرض أحدث ما تزخر به أجندة الفعاليات في دولة الإمارات، وتغطي أحداثاً في مختلف أنحاء البلاد، كما تتناول طيفاً واسعاً من الموضوعات والقصص المثيرة للاهتمام.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T21:00:00+00:00",
+      "stop": "2026-11-16T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "علوم الدار",
+      "clean_title": "علوم الدار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "علوم الدار",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تحديث شامل يومي للشؤون والأحداث الوطنية الجارية مع منصة متعددة للأخبار العاجلة في السياسة والرياضة والأعمال وتوقعات الطقس.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:00:00+00:00",
+      "stop": "2026-11-16T23:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "المنكوس",
+      "clean_title": "المنكوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "المنكوس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "المنكوس",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T23:00:00+00:00",
+      "stop": "2026-11-17T00:49:00+00:00",
+      "duration_minutes": 109,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T08:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 86095,
+      "title": "المصيدة",
+      "clean_title": "المصيدة",
+      "original_title": "Caduta Libera",
+      "tagline": null,
+      "episode_title": "المصيدة",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 7,
+      "episodes_count": 9,
+      "description": "تصبح عملية الاحتيال الناجحة التي قامت بها خبيرة إلكترونية موهوبة مع أصدقاؤها خطيرة، مما يؤدي إلى مطاردات لا هوادة فيها ويكشف أسرارًا مدفونة منذ زمن طويل تجبرهم على الدخول في سلسلة من المواجهات الشديدة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "حوار"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2015",
+      "release_date": "2015-05-04",
+      "status": "Returning Series",
+      "country": "إيطاليا",
+      "language": "الإيطالية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Gerry Scotti",
+          "character": "Conduttore",
+          "profile_image": "https://image.tmdb.org/t/p/w185/o1TqX1o4wHQhbPaSE1AkFKbgnSn.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T00:49:00+00:00",
+      "stop": "2026-11-17T01:35:00+00:00",
+      "duration_minutes": 46,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vMx8zPt8bKIVr6WjJC16ryydQvN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3pmCLrqkLnt5Vdc7JAZlBQdaBSB.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/vMx8zPt8bKIVr6WjJC16ryydQvN.jpg",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T04:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "السطر الأخير (الجزء 10) (2026)",
+      "clean_title": "السطر الأخير () (2026)",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "السطر الأخير (الجزء 10) (2026)",
+      "content_type": "series",
+      "season": 10,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مجلة متعدّدة الجوانب تقدّم رؤى حول الشؤون الراهنة الناجمة عن الأعراف المستجدّة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:35:00+00:00",
+      "stop": "2026-11-17T02:10:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T18:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سليبي هولو",
+      "clean_title": "سليبي هولو",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "سليبي هولو",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "سليبي هولو",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T02:10:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T20:10:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نورث ستار",
+      "clean_title": "نورث ستار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نورث ستار",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نورث ستار",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T19:20:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 86095,
+      "title": "المصيدة",
+      "clean_title": "المصيدة",
+      "original_title": "Caduta Libera",
+      "tagline": null,
+      "episode_title": "المصيدة",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 7,
+      "episodes_count": 9,
+      "description": "تصبح عملية الاحتيال الناجحة التي قامت بها خبيرة إلكترونية موهوبة مع أصدقاؤها خطيرة، مما يؤدي إلى مطاردات لا هوادة فيها ويكشف أسرارًا مدفونة منذ زمن طويل تجبرهم على الدخول في سلسلة من المواجهات الشديدة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "حوار"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2015",
+      "release_date": "2015-05-04",
+      "status": "Returning Series",
+      "country": "إيطاليا",
+      "language": "الإيطالية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Gerry Scotti",
+          "character": "Conduttore",
+          "profile_image": "https://image.tmdb.org/t/p/w185/o1TqX1o4wHQhbPaSE1AkFKbgnSn.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vMx8zPt8bKIVr6WjJC16ryydQvN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3pmCLrqkLnt5Vdc7JAZlBQdaBSB.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/vMx8zPt8bKIVr6WjJC16ryydQvN.jpg",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T04:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T00:49:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 642012,
+      "title": "وزن",
+      "clean_title": "وزن",
+      "original_title": "بی وزنی",
+      "tagline": null,
+      "episode_title": "وزن",
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "وسط طابع شاعري وأجواء عفوية، يشارك شعراء النبطي قصصاً تكشف عما يكمن وراء مواهبهم وانغماسهم في هذا اللون المرموق من التراث الأدبي الإماراتي.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": "2019-10-26",
+      "status": "Released",
+      "country": "IR",
+      "language": "fa",
+      "director": "Mehdi Fard Ghaderi",
+      "cast": [
+        {
+          "name": "Amir Ali Danaei",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/7tqNAwoMZEGBFvYjpN2mgVypWKB.jpg"
+        },
+        {
+          "name": "Jalal Fatemi",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Sepideh Moradpour",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Tina Pakravan",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3FPcx67A7nFQY0AZOTO2XE61mMm.jpg"
+        },
+        {
+          "name": "Behnam Ashrafi",
+          "character": "directing group",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w1MEdXlGEG5S2Akj6GJ6iFOgGpB.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T05:00:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/oHhxRgW3V2Dca9U3orr9ITdJ383.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/plvCEHdDcxWwHcnuQlbb6REKO6w.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/oHhxRgW3V2Dca9U3orr9ITdJ383.jpg",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T00:25:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T11:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كار إس أو إس",
+      "clean_title": "كار إس أو إس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كار إس أو إس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كار إس أو إس",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:00:00+00:00",
+      "stop": "2026-11-17T07:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "كواليس أبو ظبي",
+      "clean_title": "كواليس أبو ظبي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كواليس أبو ظبي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مبادرة تشيدُ بالأبطال الذين يعملون في الخفاء -بعيداً عن الأنظار- للحفاظ على أبوظبي ومكانتها كمدينة نابضة بالحياة، ومشهود لها بجودة الحياة العالية ورفاهية سكانها.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T07:15:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T06:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "شباب الإمارات",
+      "clean_title": "شباب الإمارات",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 8",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "لمحات ملهمة عن قصص نجاح حققها شباب الإمارات المتميزون، الذين يجسدون قيم المثابرة والتميز ويشكلون قدوةً لأقرانهم من الشباب.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T07:15:00+00:00",
+      "stop": "2026-11-17T07:25:00+00:00",
+      "duration_minutes": 10,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-15T23:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 53894,
+      "title": "بيوتنا",
+      "clean_title": "بيوتنا",
+      "original_title": "الجنة في بيوتنا",
+      "tagline": null,
+      "episode_title": "الحلقة 9",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بيوتنا (الموسم الرابع)",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Ended",
+      "country": null,
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T07:25:00+00:00",
+      "stop": "2026-11-17T08:00:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T03:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار العالم",
+      "clean_title": "أخبار العالم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أخبار العالم",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "أخبار عالمية",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:00:00+00:00",
+      "stop": "2026-11-17T08:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "المنكوس",
+      "clean_title": "المنكوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "المنكوس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "المنكوس",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:30:00+00:00",
+      "stop": "2026-11-17T10:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 249007,
+      "title": "نسائم",
+      "clean_title": "نسائم",
+      "original_title": "نسائم",
+      "tagline": null,
+      "episode_title": "الحلقة 11",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "يثير موضوع رفاهية الأسرة نقاشات مفيدة تحدد الحقوق الاجتماعية والقانونية لأفراد الأسرة، وكيفية ممارستهم لهذه الحقوق استنادًا إلى المعايير التشريعية الإسلامية ومبادرة «عام المجتمع» في الإمارات العربية المتحدة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-11",
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:30:00+00:00",
+      "stop": "2026-11-17T11:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/6Eyey0HpSduUOWJko8dmLrAtlQw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jIG7xBmimwt4H3PPTyQu4cJ6zW5.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/6Eyey0HpSduUOWJko8dmLrAtlQw.jpg",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T01:30:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T08:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نشرة الاخبار",
+      "clean_title": "نشرة الاخبار",
+      "original_title": "news broadcasting",
+      "tagline": null,
+      "episode_title": "نشرة الاخبار",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نشرة الأخبار",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:00:00+00:00",
+      "stop": "2026-11-17T11:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "الشرقية",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "الشرقية",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "الشرقية",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "الأردن",
+          "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "زهرة كاست",
+      "clean_title": "زهرة كاست",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 9",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "استناداً إلى مقالات مجلة \"زهرة الخليج\"، تستعرض الحلقات نساءً إماراتيات تركن بصمات النجاح والطموح في عالم الموضة والجمال الآسر.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:30:00+00:00",
+      "stop": "2026-11-17T12:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T03:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1373537,
+      "title": "موجات",
+      "clean_title": "موجات",
+      "original_title": "السبع موجات",
+      "tagline": null,
+      "episode_title": "الحلقة 9",
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج بأسلوب \"البودكاست\" يتناول نمط الحياة والتوعية الأسرية والنفسية، من تقديم أميرة محمد.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-06-27",
+      "status": "Released",
+      "country": "الأردن",
+      "language": "العربية",
+      "director": "Asma Bseiso",
+      "cast": [
+        {
+          "name": "Mohammed Baker",
+          "character": "self",
+          "profile_image": null
+        },
+        {
+          "name": "Bisan Zoghra",
+          "character": "self",
+          "profile_image": null
+        },
+        {
+          "name": "Raed Zoghra",
+          "character": "self",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T12:00:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/b2LSkCNNfwPPWwR3xg8tkZNjdzD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4kiTRZ4tD3XibJYd8HRcCsRk9OP.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/b2LSkCNNfwPPWwR3xg8tkZNjdzD.jpg",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 86095,
+      "title": "المصيدة",
+      "clean_title": "المصيدة",
+      "original_title": "Caduta Libera",
+      "tagline": null,
+      "episode_title": "المصيدة",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 7,
+      "episodes_count": 9,
+      "description": "تصبح عملية الاحتيال الناجحة التي قامت بها خبيرة إلكترونية موهوبة مع أصدقاؤها خطيرة، مما يؤدي إلى مطاردات لا هوادة فيها ويكشف أسرارًا مدفونة منذ زمن طويل تجبرهم على الدخول في سلسلة من المواجهات الشديدة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "حوار"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2015",
+      "release_date": "2015-05-04",
+      "status": "Returning Series",
+      "country": "إيطاليا",
+      "language": "الإيطالية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Gerry Scotti",
+          "character": "Conduttore",
+          "profile_image": "https://image.tmdb.org/t/p/w185/o1TqX1o4wHQhbPaSE1AkFKbgnSn.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vMx8zPt8bKIVr6WjJC16ryydQvN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3pmCLrqkLnt5Vdc7JAZlBQdaBSB.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/vMx8zPt8bKIVr6WjJC16ryydQvN.jpg",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T04:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T00:49:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نشرة الاخبار",
+      "clean_title": "نشرة الاخبار",
+      "original_title": "news broadcasting",
+      "tagline": null,
+      "episode_title": "نشرة الاخبار",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نشرة الأخبار",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "الشرقية",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "الشرقية",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "الشرقية",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "الأردن",
+          "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مساء أبو ظبي",
+      "clean_title": "مساء أبو ظبي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مساء أبو ظبي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "جولة يومية تستعرض أحدث ما تزخر به أجندة الفعاليات في دولة الإمارات، وتغطي أحداثاً في مختلف أنحاء البلاد، كما تتناول طيفاً واسعاً من الموضوعات والقصص المثيرة للاهتمام.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T15:00:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "علوم الدار",
+      "clean_title": "علوم الدار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "علوم الدار",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تحديث شامل يومي للشؤون والأحداث الوطنية الجارية مع منصة متعددة للأخبار العاجلة في السياسة والرياضة والأعمال وتوقعات الطقس.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T22:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "من المصدر",
+      "clean_title": "من المصدر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "من المصدر",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "سلسلة وثائقية استقصائية تتناول قضايا جوهرية تهم الرأي العام، وذلك عبر أبحاث معمقة وتحليلات موثقة، كاشفةً عن جوانب خفية من خلال رؤى تستند إلى الحقائق ومدعومة بمصادر رسمية.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T17:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T06:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 220991,
+      "title": "ضرب نار",
+      "clean_title": "ضرب نار",
+      "original_title": "ضرب نار",
+      "tagline": null,
+      "episode_title": "ضرب نار",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "إن الغموض الذي يحيط بشخصية جابر لا يمنع مهرة من رؤيته على أنه فارس أحلامها، ومن الانغماس في علاقة ستتطور إلى علاقة حب وكراهية شديدة، يحاول الكثيرون تشويهها.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": "TV-G",
+      "year": "2023",
+      "release_date": "2023-03-23",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "ياسمين عبدالعزيز",
+          "character": "Muhra",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6WevW0u4fa47n5NSSps18leaPep.jpg"
+        },
+        {
+          "name": "أحمد العوضي",
+          "character": "Gaber",
+          "profile_image": "https://image.tmdb.org/t/p/w185/okGwM8RGj5A88GWdNevH4LPXYc4.jpg"
+        },
+        {
+          "name": "سهير المرشدي",
+          "character": "Sidiqa (Gaber's mom)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/m63cmGbvdPO4ZXzNyDD82H6IHeR.jpg"
+        },
+        {
+          "name": "إنتصار",
+          "character": "Safaa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ljvthYcSu8we0v2CZ1511Dl5LUL.jpg"
+        },
+        {
+          "name": "إيمان السيد",
+          "character": "Sherine",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3ZBU4Aj2owkabyG3pR2oBUB0sy7.jpg"
+        },
+        {
+          "name": "ضياء عبدالخالق",
+          "character": "Rizq",
+          "profile_image": "https://image.tmdb.org/t/p/w185/u9fJZgzoGujVj28YO9RqG5na7ju.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T17:30:00+00:00",
+      "stop": "2026-11-17T18:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/a4KXcQUwNhSuZkcYxeKgqxVPTKg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/gm75oFGuqqOLJiEqSaod4SyXYzl.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/a4KXcQUwNhSuZkcYxeKgqxVPTKg.jpg",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "السطر الأخير",
+      "clean_title": "السطر الأخير",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "السطر الأخير",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "السطر الأخير",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:30:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "نورث ستار",
+      "clean_title": "نورث ستار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نورث ستار",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نورث ستار",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T19:20:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T03:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سليبي هولو",
+      "clean_title": "سليبي هولو",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "سليبي هولو",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "سليبي هولو",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:00:00+00:00",
+      "stop": "2026-11-17T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T20:10:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T02:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مساء أبو ظبي",
+      "clean_title": "مساء أبو ظبي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مساء أبو ظبي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "جولة يومية تستعرض أحدث ما تزخر به أجندة الفعاليات في دولة الإمارات، وتغطي أحداثاً في مختلف أنحاء البلاد، كما تتناول طيفاً واسعاً من الموضوعات والقصص المثيرة للاهتمام.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:00:00+00:00",
+      "stop": "2026-11-17T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "علوم الدار",
+      "clean_title": "علوم الدار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "علوم الدار",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تحديث شامل يومي للشؤون والأحداث الوطنية الجارية مع منصة متعددة للأخبار العاجلة في السياسة والرياضة والأعمال وتوقعات الطقس.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:00:00+00:00",
+      "stop": "2026-11-17T23:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-16T22:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2398 @@
+{
+  "channel_id": "MoviesAction.sa@SD",
+  "channel_name": "Movies Action",
+  "channel_icon": "https://i.imgur.com/NIVhISa.png",
+  "programs": [
+    {
+      "tmdb_id": 2207,
+      "title": "16 Blocks",
+      "clean_title": "16 Blocks",
+      "original_title": "16 Blocks",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتم توكيل شرطي في مهمة ليرافق مجرم قليل الشأن ليدلي بشهادته، لكن سرعان ما تصبح المهمة الروتينية معركة من أجل البقاء ستغير الرجلين إلى الأبد.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "حركة",
+        "مغامرة",
+        "جريمة",
+        "إثارة"
+      ],
+      "rating": 6.5,
+      "vote_count": 2217,
+      "age_rating": "PG-13",
+      "year": "2006",
+      "release_date": "2006-03-01",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Richard Donner",
+      "cast": [
+        {
+          "name": "Bruce Willis",
+          "character": "Jack Mosley",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+        },
+        {
+          "name": "Yasiin Bey",
+          "character": "Eddie Bunker",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cu6pZ0ThtrT9Mo3l2cKk3UjYhmE.jpg"
+        },
+        {
+          "name": "David Morse",
+          "character": "Frank Nugent",
+          "profile_image": "https://image.tmdb.org/t/p/w185/A6zGbkFjM3uajIakgsSeNTmSKqY.jpg"
+        },
+        {
+          "name": "جينا ستيرن",
+          "character": "Diane Mosley",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eQQQNOpZBwsPmEAFETFNFE9xenV.jpg"
+        },
+        {
+          "name": "Casey Sander",
+          "character": "Captain Gruber",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xHVyamqUbJK2dmFCw7LOQzYREJF.jpg"
+        },
+        {
+          "name": "Cylk Cozart",
+          "character": "Jimmy Mulvey",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nk5nsCvNG8mUQfZPJU40EewtOGo.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-15T22:33:08+00:00",
+      "stop": "2026-11-16T00:18:08+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/cBLqMVfTZpuKmMQKDLKusb93dbR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/z7BhlDkhAprUHugZlkVB9TPcB0T.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/cBLqMVfTZpuKmMQKDLKusb93dbR.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-16T06:03:08+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 429351,
+      "title": "12 Strong",
+      "clean_title": "12 Strong",
+      "original_title": "12 Strong",
+      "tagline": "القصة الحقيقية التي رفعت عنها السرية لجنود الخيول",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتم اختيار فريق من القوات الأمريكية الخاصة بعد هجمات سبتمبر 11 ليكون من أوائل الجنود الأمريكيين الذين سيتم إرسالهم إلى أفغانستان لتنفيذ مهمة في غاية الخطورة.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "حرب",
+        "حركة",
+        "تاريخ"
+      ],
+      "rating": 6.4,
+      "vote_count": 3294,
+      "age_rating": "R",
+      "year": "2018",
+      "release_date": "2018-01-18",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Nicolai Fuglsig",
+      "cast": [
+        {
+          "name": "كريس هيمسوورث",
+          "character": "Mitch Nelson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+        },
+        {
+          "name": "مايكل شانون",
+          "character": "Hal Spencer",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+        },
+        {
+          "name": "مايكل بينا",
+          "character": "Sam Diller",
+          "profile_image": "https://image.tmdb.org/t/p/w185/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+        },
+        {
+          "name": "نافيد نجيبان",
+          "character": "General Dostum",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pWi5tINf4mDvTYbNKZDJPODYKra.jpg"
+        },
+        {
+          "name": "Trevante Rhodes",
+          "character": "Ben Milo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mx11nZOnT5nZbuzFi3TPVBQBZr.jpg"
+        },
+        {
+          "name": "جيوف ستولتس",
+          "character": "Sean Coffers",
+          "profile_image": "https://image.tmdb.org/t/p/w185/815Unu0MUnwsmeAbjR2qNh9toSU.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T00:18:08+00:00",
+      "stop": "2026-11-16T02:33:08+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/37Qwani2g0jVPU7N4OkkTZ7aERz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/x5EUEv1N9g4BCX9GQXKvv3nqMVo.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/37Qwani2g0jVPU7N4OkkTZ7aERz.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-16T07:48:08+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1035806,
+      "title": "Detective Knight: Independence",
+      "clean_title": "Detective Knight: Independence",
+      "original_title": "Detective Knight: Independence",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتحول مهمة نايت بمناسبة عيد الاستقلال إلى سباق محفوف بالمخاطر لإيقاف سيارة إسعاف غير متوازنة من تعريض احتفالات المدينة للخطر.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "حركة",
+        "جريمة",
+        "إثارة"
+      ],
+      "rating": 5.3,
+      "vote_count": 199,
+      "age_rating": "R",
+      "year": "2023",
+      "release_date": "2023-01-20",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Edward Drake",
+      "cast": [
+        {
+          "name": "Bruce Willis",
+          "character": "Det. James Knight",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+        },
+        {
+          "name": "Lochlyn Munro",
+          "character": "Fitzgerald",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bOJ03k0oe2R6snRgzV8M4Qtoo4O.jpg"
+        },
+        {
+          "name": "Jimmy Jean-Louis",
+          "character": "Det.Godwin Sango",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cWfLE9CHVQPn65gkdiQ4We33VAy.jpg"
+        },
+        {
+          "name": "جاك كيلمر",
+          "character": "Dezi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/t3ufi6Zc3YCINV56Bp3AhJgWCBL.jpg"
+        },
+        {
+          "name": "ويلو شيلدز",
+          "character": "Ally",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gd4OIdARNyUj2gaecAEZNdHflgM.jpg"
+        },
+        {
+          "name": "دينا ماير",
+          "character": "Charlotte Burnham",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1AQEXem8soBEKjjDhE0mOyXtjCG.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T02:33:08+00:00",
+      "stop": "2026-11-16T04:18:08+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/jrPKVQGjc3YZXm07OYMriIB47HM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fTLMsF3IVLMcpNqIqJRweGvVwtX.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/jrPKVQGjc3YZXm07OYMriIB47HM.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-16T10:03:08+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 59965,
+      "title": "Abduction",
+      "clean_title": "Abduction",
+      "original_title": "Abduction",
+      "tagline": "لقد سرقوا حياته. إنه يستعيدها.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما يلتقي رجلان في رحلتهما للبحث عن أفراد عائلاتهما المخطوفة، يتوجب عليهما توحيد قواهما لمحاربة الخاطفين، وهم مخلوقات غامضة لم يرها أحدا من قبل.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "إثارة",
+        "حركة",
+        "غموض"
+      ],
+      "rating": 5.8,
+      "vote_count": 3107,
+      "age_rating": "13",
+      "year": "2011",
+      "release_date": "2011-09-22",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "John Singleton",
+      "cast": [
+        {
+          "name": "تايلور لوتنر",
+          "character": "Nathan Harper",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xyRXoKM7UQdijwmjpiCcLGPzcc7.jpg"
+        },
+        {
+          "name": "ليلي كولينز",
+          "character": "Karen Murphy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5bhcp0CyTdHgfW8x45ZKewDnjMc.jpg"
+        },
+        {
+          "name": "ألفريد مولينا",
+          "character": "Frank Burton",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+        },
+        {
+          "name": "سيغورني ويفر",
+          "character": "Dr. Geraldine 'Geri' Bennett",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+        },
+        {
+          "name": "جايسون إسحاق",
+          "character": "Kevin Harper",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+        },
+        {
+          "name": "ماريا بيلو",
+          "character": "Mara Harper",
+          "profile_image": "https://image.tmdb.org/t/p/w185/it1f5mxiGIWO0DzTBfwtLTjphZb.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T04:18:08+00:00",
+      "stop": "2026-11-16T06:03:08+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/d0TIDrwnMFVjg2EO4LsXQn1mbbc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6wWIirFFZPQx7Lamh1iKMgbVezr.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/d0TIDrwnMFVjg2EO4LsXQn1mbbc.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 2207,
+      "title": "16 Blocks",
+      "clean_title": "16 Blocks",
+      "original_title": "16 Blocks",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتم توكيل شرطي في مهمة ليرافق مجرم قليل الشأن ليدلي بشهادته، لكن سرعان ما تصبح المهمة الروتينية معركة من أجل البقاء ستغير الرجلين إلى الأبد.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "حركة",
+        "مغامرة",
+        "جريمة",
+        "إثارة"
+      ],
+      "rating": 6.5,
+      "vote_count": 2217,
+      "age_rating": "PG-13",
+      "year": "2006",
+      "release_date": "2006-03-01",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Richard Donner",
+      "cast": [
+        {
+          "name": "Bruce Willis",
+          "character": "Jack Mosley",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+        },
+        {
+          "name": "Yasiin Bey",
+          "character": "Eddie Bunker",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cu6pZ0ThtrT9Mo3l2cKk3UjYhmE.jpg"
+        },
+        {
+          "name": "David Morse",
+          "character": "Frank Nugent",
+          "profile_image": "https://image.tmdb.org/t/p/w185/A6zGbkFjM3uajIakgsSeNTmSKqY.jpg"
+        },
+        {
+          "name": "جينا ستيرن",
+          "character": "Diane Mosley",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eQQQNOpZBwsPmEAFETFNFE9xenV.jpg"
+        },
+        {
+          "name": "Casey Sander",
+          "character": "Captain Gruber",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xHVyamqUbJK2dmFCw7LOQzYREJF.jpg"
+        },
+        {
+          "name": "Cylk Cozart",
+          "character": "Jimmy Mulvey",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nk5nsCvNG8mUQfZPJU40EewtOGo.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T06:03:08+00:00",
+      "stop": "2026-11-16T07:48:08+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/cBLqMVfTZpuKmMQKDLKusb93dbR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/z7BhlDkhAprUHugZlkVB9TPcB0T.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/cBLqMVfTZpuKmMQKDLKusb93dbR.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-15T22:33:08+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 429351,
+      "title": "12 Strong",
+      "clean_title": "12 Strong",
+      "original_title": "12 Strong",
+      "tagline": "القصة الحقيقية التي رفعت عنها السرية لجنود الخيول",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتم اختيار فريق من القوات الأمريكية الخاصة بعد هجمات سبتمبر 11 ليكون من أوائل الجنود الأمريكيين الذين سيتم إرسالهم إلى أفغانستان لتنفيذ مهمة في غاية الخطورة.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "حرب",
+        "حركة",
+        "تاريخ"
+      ],
+      "rating": 6.4,
+      "vote_count": 3294,
+      "age_rating": "R",
+      "year": "2018",
+      "release_date": "2018-01-18",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Nicolai Fuglsig",
+      "cast": [
+        {
+          "name": "كريس هيمسوورث",
+          "character": "Mitch Nelson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+        },
+        {
+          "name": "مايكل شانون",
+          "character": "Hal Spencer",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+        },
+        {
+          "name": "مايكل بينا",
+          "character": "Sam Diller",
+          "profile_image": "https://image.tmdb.org/t/p/w185/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+        },
+        {
+          "name": "نافيد نجيبان",
+          "character": "General Dostum",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pWi5tINf4mDvTYbNKZDJPODYKra.jpg"
+        },
+        {
+          "name": "Trevante Rhodes",
+          "character": "Ben Milo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mx11nZOnT5nZbuzFi3TPVBQBZr.jpg"
+        },
+        {
+          "name": "جيوف ستولتس",
+          "character": "Sean Coffers",
+          "profile_image": "https://image.tmdb.org/t/p/w185/815Unu0MUnwsmeAbjR2qNh9toSU.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T07:48:08+00:00",
+      "stop": "2026-11-16T10:03:08+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/37Qwani2g0jVPU7N4OkkTZ7aERz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/x5EUEv1N9g4BCX9GQXKvv3nqMVo.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/37Qwani2g0jVPU7N4OkkTZ7aERz.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-16T00:18:08+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1035806,
+      "title": "Detective Knight: Independence",
+      "clean_title": "Detective Knight: Independence",
+      "original_title": "Detective Knight: Independence",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتحول مهمة نايت بمناسبة عيد الاستقلال إلى سباق محفوف بالمخاطر لإيقاف سيارة إسعاف غير متوازنة من تعريض احتفالات المدينة للخطر.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "حركة",
+        "جريمة",
+        "إثارة"
+      ],
+      "rating": 5.3,
+      "vote_count": 199,
+      "age_rating": "R",
+      "year": "2023",
+      "release_date": "2023-01-20",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Edward Drake",
+      "cast": [
+        {
+          "name": "Bruce Willis",
+          "character": "Det. James Knight",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+        },
+        {
+          "name": "Lochlyn Munro",
+          "character": "Fitzgerald",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bOJ03k0oe2R6snRgzV8M4Qtoo4O.jpg"
+        },
+        {
+          "name": "Jimmy Jean-Louis",
+          "character": "Det.Godwin Sango",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cWfLE9CHVQPn65gkdiQ4We33VAy.jpg"
+        },
+        {
+          "name": "جاك كيلمر",
+          "character": "Dezi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/t3ufi6Zc3YCINV56Bp3AhJgWCBL.jpg"
+        },
+        {
+          "name": "ويلو شيلدز",
+          "character": "Ally",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gd4OIdARNyUj2gaecAEZNdHflgM.jpg"
+        },
+        {
+          "name": "دينا ماير",
+          "character": "Charlotte Burnham",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1AQEXem8soBEKjjDhE0mOyXtjCG.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T10:03:08+00:00",
+      "stop": "2026-11-16T11:48:08+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/jrPKVQGjc3YZXm07OYMriIB47HM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fTLMsF3IVLMcpNqIqJRweGvVwtX.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/jrPKVQGjc3YZXm07OYMriIB47HM.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-16T02:33:08+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 637649,
+      "title": "Wrath Of Man",
+      "clean_title": "Wrath Of Man",
+      "original_title": "Wrath of Man",
+      "tagline": "جيش رجل واحد",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد أن انضم إليهم حديثا حارس أمن، يتفاجأ فريق يعمل في نقل الأموال بمهاراته العالية عندما يتعرضون لعملية سطو مسلح، ويبدأون بالتساؤل حول من يكون فعلا هذا الرجل الغامض...",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "إثارة",
+        "جريمة",
+        "دراما"
+      ],
+      "rating": 7.6,
+      "vote_count": 6427,
+      "age_rating": "R",
+      "year": "2021",
+      "release_date": "2021-04-22",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "غاي ريتشي",
+      "cast": [
+        {
+          "name": "جيسون ستاثام",
+          "character": "H",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
+        },
+        {
+          "name": "هولت مكالاني",
+          "character": "Bullet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/b1FEXFQ8ZnvXhVrMqCv5mTJ8aW3.jpg"
+        },
+        {
+          "name": "Rocci Williams",
+          "character": "Hollow Bob",
+          "profile_image": "https://image.tmdb.org/t/p/w185/e5GWh54fUmbupb5DKsSNU5axEx2.jpg"
+        },
+        {
+          "name": "جوش هارتنت",
+          "character": "Boy Sweat Dave",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5eMo8D7h1XrSu6ZN4UXhPcS6YNG.jpg"
+        },
+        {
+          "name": "Jeffrey Donovan",
+          "character": "Jackson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wlDXfXpu6Uz32LUmbFzU8QPDoQH.jpg"
+        },
+        {
+          "name": "Scott Eastwood",
+          "character": "Jan",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tKJEy1bFNxvIj7sivsB7Us2ThmY.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=6vLq6ys_C5o",
+      "start": "2026-11-16T11:48:08+00:00",
+      "stop": "2026-11-16T13:48:08+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/l8XzwPD0QCH5J8TGReIxZpL4ZZa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/l8XzwPD0QCH5J8TGReIxZpL4ZZa.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-16T20:03:08+00:00"
+        },
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-17T04:18:08+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 425274,
+      "title": "Now You See Me 2",
+      "clean_title": "Now You See M",
+      "original_title": "Now You See Me: Now You Don't",
+      "tagline": "تفسير الوهم",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": 2,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعود الفرسان الأربعة من جديد إلى الساحة لتأدية عرضا جديدا وفي داخلهم رغبة في كشف الممارسات غير الأخلاقية لرجل يمتلك نفوذاً قوياً في مجال التكنولوجيا.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "جريمة",
+        "إثارة"
+      ],
+      "rating": 6.4,
+      "vote_count": 1963,
+      "age_rating": "PG-13",
+      "year": "2025",
+      "release_date": "2025-11-12",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "روبن فليشر",
+      "cast": [
+        {
+          "name": "جيسي آيزينبيرغ",
+          "character": "J. Daniel Atlas",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ojZrkt5rdkUi857WSeCatxXdGS.jpg"
+        },
+        {
+          "name": "دومينيك سيسا",
+          "character": "Bosco",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tSRLahrkA3iHJmKjkh3R2ZBFIQN.jpg"
+        },
+        {
+          "name": "اريانا غرينبلات",
+          "character": "June",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lp7lzzBE7EYTMvSb4foN5LyZUkP.jpg"
+        },
+        {
+          "name": "جاستيس سميث",
+          "character": "Charlie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/htJrcOzYkLVcnF4ExT4O1bDN5e5.jpg"
+        },
+        {
+          "name": "روزاموند بايك",
+          "character": "Veronika Vanderberg",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8ObNklHDi2hjdz0ayzJFB9jtqzm.jpg"
+        },
+        {
+          "name": "وودي هارلسون",
+          "character": "Merritt McKinney",
+          "profile_image": "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T13:48:08+00:00",
+      "stop": "2026-11-16T16:03:08+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/fwGHnu3MDZjhNez6UKTvjNOWxDL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/fwGHnu3MDZjhNez6UKTvjNOWxDL.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-16T22:03:08+00:00"
+        },
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-17T06:18:08+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 449443,
+      "title": "Den Of Thieves",
+      "clean_title": "Den Of Thieves",
+      "original_title": "Den of Thieves",
+      "tagline": "أنتم لستم الأشرار. نحن.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتقاطع حياة وحدة من نخبة قسم شرطة مقاطعة لوس أنجلوس مع فريق من أنجح لصوص البنوك.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "جريمة",
+        "إثارة",
+        "حركة"
+      ],
+      "rating": 6.9,
+      "vote_count": 3578,
+      "age_rating": "R",
+      "year": "2018",
+      "release_date": "2018-01-18",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Christian Gudegast",
+      "cast": [
+        {
+          "name": "جيرارد بتلر",
+          "character": "'Big Nick' O'Brien",
+          "profile_image": "https://image.tmdb.org/t/p/w185/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+        },
+        {
+          "name": "بابلو شرايبر",
+          "character": "Ray Merrimen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/trKW3kwhwx4UeCNZg43A1x1h4Uv.jpg"
+        },
+        {
+          "name": "أوشيا جاكسون جونيور",
+          "character": "Donnie Wilson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kXJ02sXvnExbGNJ11piC6d6WMOc.jpg"
+        },
+        {
+          "name": "٥٠ سنت",
+          "character": "Enson Levoux",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7VfwFIwBxy7qBUErosWRDQOovl9.jpg"
+        },
+        {
+          "name": "Meadow Williams",
+          "character": "Holly",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iECIpEM4BWt94kvOMKFJqv5uJEU.jpg"
+        },
+        {
+          "name": "Maurice Compte",
+          "character": "Benny 'Borracho' Magalon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9PFInf2I0kqjAU0CmZhdDWmHfwT.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T16:03:08+00:00",
+      "stop": "2026-11-16T18:18:08+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2VmTZ7kPyYFsSQ2r8FXqOYLWnQt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/gQEfeFzEDhvz1YB3JXU2yUZspmH.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2VmTZ7kPyYFsSQ2r8FXqOYLWnQt.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-17T00:18:08+00:00"
+        },
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-17T08:33:08+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 823625,
+      "title": "Blacklight",
+      "clean_title": "Blacklight",
+      "original_title": "Blacklight",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يجد عميل سري نفسه في محنة عندما يضعه اكتشافه لسر مظلم في مواجهة ضد مدير مكتب التحقيقات الفيدرالي الذي أقسم على حمايته.",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "حركة",
+        "إثارة",
+        "مغامرة"
+      ],
+      "rating": 6.1,
+      "vote_count": 1313,
+      "age_rating": "PG-13",
+      "year": "2022",
+      "release_date": "2022-02-10",
+      "status": "Released",
+      "country": "أستراليا",
+      "language": "الإنجليزية",
+      "director": "مارك ويليامز",
+      "cast": [
+        {
+          "name": "ليام نيسون",
+          "character": "Travis Block",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+        },
+        {
+          "name": "إيمي رافر لامبمان",
+          "character": "Mira Jones",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cBkHUBzqoqrnkxDXWlqQmm91pD2.jpg"
+        },
+        {
+          "name": "Taylor John Smith",
+          "character": "Dusty Crane",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6dXZRf8ePa1oxQN9a5hFGEjDoI0.jpg"
+        },
+        {
+          "name": "Aidan Quinn",
+          "character": "Gabriel Robinson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/viUuUmhiGdsfoQh0IpO5N312qNd.jpg"
+        },
+        {
+          "name": "Tim Draxl",
+          "character": "Drew Hawthorne",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4WeKn0jlTHwmMnlhjd2EsqE4uFp.jpg"
+        },
+        {
+          "name": "Claire van der Boom",
+          "character": "Amanda Block",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1CXZLmtimJksArEZ5afDIH6prwW.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T18:18:08+00:00",
+      "stop": "2026-11-16T20:03:08+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/5mnKPiUc9o4kIPzKrL9vYf46KJ7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tULzz524DuvMxnAuQJpo8dk0EvJ.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/5mnKPiUc9o4kIPzKrL9vYf46KJ7.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-17T02:33:08+00:00"
+        },
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-17T10:48:08+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 637649,
+      "title": "Wrath Of Man",
+      "clean_title": "Wrath Of Man",
+      "original_title": "Wrath of Man",
+      "tagline": "جيش رجل واحد",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد أن انضم إليهم حديثا حارس أمن، يتفاجأ فريق يعمل في نقل الأموال بمهاراته العالية عندما يتعرضون لعملية سطو مسلح، ويبدأون بالتساؤل حول من يكون فعلا هذا الرجل الغامض...",
+      "category": "أجنبي",
+      "genres": [
+        "أجنبي",
+        "إثارة",
+        "جريمة",
+        "دراما"
+      ],
+      "rating": 7.6,
+      "vote_count": 6427,
+      "age_rating": "R",
+      "year": "2021",
+      "release_date": "2021-04-22",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "غاي ريتشي",
+      "cast": [
+        {
+          "name": "جيسون ستاثام",
+          "character": "H",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
+        },
+        {
+          "name": "هولت مكالاني",
+          "character": "Bullet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/b1FEXFQ8ZnvXhVrMqCv5mTJ8aW3.jpg"
+        },
+        {
+          "name": "Rocci Williams",
+          "character": "Hollow Bob",
+          "profile_image": "https://image.tmdb.org/t/p/w185/e5GWh54fUmbupb5DKsSNU5axEx2.jpg"
+        },
+        {
+          "name": "جوش هارتنت",
+          "character": "Boy Sweat Dave",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5eMo8D7h1XrSu6ZN4UXhPcS6YNG.jpg"
+        },
+        {
+          "name": "Jeffrey Donovan",
+          "character": "Jackson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wlDXfXpu6Uz32LUmbFzU8QPDoQH.jpg"
+        },
+        {
+          "name": "Scott Eastwood",
+          "character": "Jan",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tKJEy1bFNxvIj7sivsB7Us2ThmY.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=6vLq6ys_C5o",
+      "start": "2026-11-16T20:03:08+00:00",
+      "stop": "2026-11-16T22:03:08+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/l8XzwPD0QCH5J8TGReIxZpL4ZZa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/l8XzwPD0QCH5J8TGReIxZpL4ZZa.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-16T11:48:08+00:00"
+        },
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-17T04:18:08+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 425274,
+      "title": "Now You See Me 2",
+      "clean_title": "Now You See M",
+      "original_title": "Now You See Me: Now You Don't",
+      "tagline": "تفسير الوهم",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": 2,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعود الفرسان الأربعة من جديد إلى الساحة لتأدية عرضا جديدا وفي داخلهم رغبة في كشف الممارسات غير الأخلاقية لرجل يمتلك نفوذاً قوياً في مجال التكنولوجيا.",
+      "category": "إثارة",
+      "genres": [
+        "إثارة",
+        "جريمة"
+      ],
+      "rating": 6.4,
+      "vote_count": 1963,
+      "age_rating": "PG-13",
+      "year": "2025",
+      "release_date": "2025-11-12",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "روبن فليشر",
+      "cast": [
+        {
+          "name": "جيسي آيزينبيرغ",
+          "character": "J. Daniel Atlas",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ojZrkt5rdkUi857WSeCatxXdGS.jpg"
+        },
+        {
+          "name": "دومينيك سيسا",
+          "character": "Bosco",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tSRLahrkA3iHJmKjkh3R2ZBFIQN.jpg"
+        },
+        {
+          "name": "اريانا غرينبلات",
+          "character": "June",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lp7lzzBE7EYTMvSb4foN5LyZUkP.jpg"
+        },
+        {
+          "name": "جاستيس سميث",
+          "character": "Charlie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/htJrcOzYkLVcnF4ExT4O1bDN5e5.jpg"
+        },
+        {
+          "name": "روزاموند بايك",
+          "character": "Veronika Vanderberg",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8ObNklHDi2hjdz0ayzJFB9jtqzm.jpg"
+        },
+        {
+          "name": "وودي هارلسون",
+          "character": "Merritt McKinney",
+          "profile_image": "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T22:03:08+00:00",
+      "stop": "2026-11-17T00:18:08+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/fwGHnu3MDZjhNez6UKTvjNOWxDL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/fwGHnu3MDZjhNez6UKTvjNOWxDL.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-16T13:48:08+00:00"
+        },
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-17T06:18:08+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 449443,
+      "title": "Den Of Thieves",
+      "clean_title": "Den Of Thieves",
+      "original_title": "Den of Thieves",
+      "tagline": "أنتم لستم الأشرار. نحن.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتقاطع حياة وحدة من نخبة قسم شرطة مقاطعة لوس أنجلوس مع فريق من أنجح لصوص البنوك.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "جريمة",
+        "إثارة",
+        "حركة"
+      ],
+      "rating": 6.9,
+      "vote_count": 3578,
+      "age_rating": "R",
+      "year": "2018",
+      "release_date": "2018-01-18",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Christian Gudegast",
+      "cast": [
+        {
+          "name": "جيرارد بتلر",
+          "character": "'Big Nick' O'Brien",
+          "profile_image": "https://image.tmdb.org/t/p/w185/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+        },
+        {
+          "name": "بابلو شرايبر",
+          "character": "Ray Merrimen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/trKW3kwhwx4UeCNZg43A1x1h4Uv.jpg"
+        },
+        {
+          "name": "أوشيا جاكسون جونيور",
+          "character": "Donnie Wilson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kXJ02sXvnExbGNJ11piC6d6WMOc.jpg"
+        },
+        {
+          "name": "٥٠ سنت",
+          "character": "Enson Levoux",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7VfwFIwBxy7qBUErosWRDQOovl9.jpg"
+        },
+        {
+          "name": "Meadow Williams",
+          "character": "Holly",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iECIpEM4BWt94kvOMKFJqv5uJEU.jpg"
+        },
+        {
+          "name": "Maurice Compte",
+          "character": "Benny 'Borracho' Magalon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9PFInf2I0kqjAU0CmZhdDWmHfwT.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T00:18:08+00:00",
+      "stop": "2026-11-17T02:33:08+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2VmTZ7kPyYFsSQ2r8FXqOYLWnQt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/gQEfeFzEDhvz1YB3JXU2yUZspmH.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2VmTZ7kPyYFsSQ2r8FXqOYLWnQt.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-16T16:03:08+00:00"
+        },
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-17T08:33:08+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 823625,
+      "title": "Blacklight",
+      "clean_title": "Blacklight",
+      "original_title": "Blacklight",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يجد عميل سري نفسه في محنة عندما يضعه اكتشافه لسر مظلم في مواجهة ضد مدير مكتب التحقيقات الفيدرالي الذي أقسم على حمايته.",
+      "category": "إثارة",
+      "genres": [
+        "إثارة",
+        "حركة",
+        "مغامرة"
+      ],
+      "rating": 6.1,
+      "vote_count": 1313,
+      "age_rating": "PG-13",
+      "year": "2022",
+      "release_date": "2022-02-10",
+      "status": "Released",
+      "country": "أستراليا",
+      "language": "الإنجليزية",
+      "director": "مارك ويليامز",
+      "cast": [
+        {
+          "name": "ليام نيسون",
+          "character": "Travis Block",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+        },
+        {
+          "name": "إيمي رافر لامبمان",
+          "character": "Mira Jones",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cBkHUBzqoqrnkxDXWlqQmm91pD2.jpg"
+        },
+        {
+          "name": "Taylor John Smith",
+          "character": "Dusty Crane",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6dXZRf8ePa1oxQN9a5hFGEjDoI0.jpg"
+        },
+        {
+          "name": "Aidan Quinn",
+          "character": "Gabriel Robinson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/viUuUmhiGdsfoQh0IpO5N312qNd.jpg"
+        },
+        {
+          "name": "Tim Draxl",
+          "character": "Drew Hawthorne",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4WeKn0jlTHwmMnlhjd2EsqE4uFp.jpg"
+        },
+        {
+          "name": "Claire van der Boom",
+          "character": "Amanda Block",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1CXZLmtimJksArEZ5afDIH6prwW.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T02:33:08+00:00",
+      "stop": "2026-11-17T04:18:08+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/5mnKPiUc9o4kIPzKrL9vYf46KJ7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tULzz524DuvMxnAuQJpo8dk0EvJ.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/5mnKPiUc9o4kIPzKrL9vYf46KJ7.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-16T18:18:08+00:00"
+        },
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-17T10:48:08+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 637649,
+      "title": "Wrath Of Man",
+      "clean_title": "Wrath Of Man",
+      "original_title": "Wrath of Man",
+      "tagline": "جيش رجل واحد",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد أن انضم إليهم حديثا حارس أمن، يتفاجأ فريق يعمل في نقل الأموال بمهاراته العالية عندما يتعرضون لعملية سطو مسلح، ويبدأون بالتساؤل حول من يكون فعلا هذا الرجل الغامض...",
+      "category": "إثارة",
+      "genres": [
+        "إثارة",
+        "جريمة",
+        "دراما"
+      ],
+      "rating": 7.6,
+      "vote_count": 6427,
+      "age_rating": "R",
+      "year": "2021",
+      "release_date": "2021-04-22",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "غاي ريتشي",
+      "cast": [
+        {
+          "name": "جيسون ستاثام",
+          "character": "H",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
+        },
+        {
+          "name": "هولت مكالاني",
+          "character": "Bullet",
+          "profile_image": "https://image.tmdb.org/t/p/w185/b1FEXFQ8ZnvXhVrMqCv5mTJ8aW3.jpg"
+        },
+        {
+          "name": "Rocci Williams",
+          "character": "Hollow Bob",
+          "profile_image": "https://image.tmdb.org/t/p/w185/e5GWh54fUmbupb5DKsSNU5axEx2.jpg"
+        },
+        {
+          "name": "جوش هارتنت",
+          "character": "Boy Sweat Dave",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5eMo8D7h1XrSu6ZN4UXhPcS6YNG.jpg"
+        },
+        {
+          "name": "Jeffrey Donovan",
+          "character": "Jackson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wlDXfXpu6Uz32LUmbFzU8QPDoQH.jpg"
+        },
+        {
+          "name": "Scott Eastwood",
+          "character": "Jan",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tKJEy1bFNxvIj7sivsB7Us2ThmY.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=6vLq6ys_C5o",
+      "start": "2026-11-17T04:18:08+00:00",
+      "stop": "2026-11-17T06:18:08+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/l8XzwPD0QCH5J8TGReIxZpL4ZZa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/l8XzwPD0QCH5J8TGReIxZpL4ZZa.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-16T11:48:08+00:00"
+        },
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-16T20:03:08+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 425274,
+      "title": "Now You See Me 2",
+      "clean_title": "Now You See M",
+      "original_title": "Now You See Me: Now You Don't",
+      "tagline": "تفسير الوهم",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": 2,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعود الفرسان الأربعة من جديد إلى الساحة لتأدية عرضا جديدا وفي داخلهم رغبة في كشف الممارسات غير الأخلاقية لرجل يمتلك نفوذاً قوياً في مجال التكنولوجيا.",
+      "category": "إثارة",
+      "genres": [
+        "إثارة",
+        "جريمة"
+      ],
+      "rating": 6.4,
+      "vote_count": 1963,
+      "age_rating": "PG-13",
+      "year": "2025",
+      "release_date": "2025-11-12",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "روبن فليشر",
+      "cast": [
+        {
+          "name": "جيسي آيزينبيرغ",
+          "character": "J. Daniel Atlas",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ojZrkt5rdkUi857WSeCatxXdGS.jpg"
+        },
+        {
+          "name": "دومينيك سيسا",
+          "character": "Bosco",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tSRLahrkA3iHJmKjkh3R2ZBFIQN.jpg"
+        },
+        {
+          "name": "اريانا غرينبلات",
+          "character": "June",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lp7lzzBE7EYTMvSb4foN5LyZUkP.jpg"
+        },
+        {
+          "name": "جاستيس سميث",
+          "character": "Charlie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/htJrcOzYkLVcnF4ExT4O1bDN5e5.jpg"
+        },
+        {
+          "name": "روزاموند بايك",
+          "character": "Veronika Vanderberg",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8ObNklHDi2hjdz0ayzJFB9jtqzm.jpg"
+        },
+        {
+          "name": "وودي هارلسون",
+          "character": "Merritt McKinney",
+          "profile_image": "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T06:18:08+00:00",
+      "stop": "2026-11-17T08:33:08+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/fwGHnu3MDZjhNez6UKTvjNOWxDL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/fwGHnu3MDZjhNez6UKTvjNOWxDL.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-16T13:48:08+00:00"
+        },
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-16T22:03:08+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 449443,
+      "title": "Den Of Thieves",
+      "clean_title": "Den Of Thieves",
+      "original_title": "Den of Thieves",
+      "tagline": "أنتم لستم الأشرار. نحن.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتقاطع حياة وحدة من نخبة قسم شرطة مقاطعة لوس أنجلوس مع فريق من أنجح لصوص البنوك.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "جريمة",
+        "إثارة",
+        "حركة"
+      ],
+      "rating": 6.9,
+      "vote_count": 3578,
+      "age_rating": "R",
+      "year": "2018",
+      "release_date": "2018-01-18",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Christian Gudegast",
+      "cast": [
+        {
+          "name": "جيرارد بتلر",
+          "character": "'Big Nick' O'Brien",
+          "profile_image": "https://image.tmdb.org/t/p/w185/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+        },
+        {
+          "name": "بابلو شرايبر",
+          "character": "Ray Merrimen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/trKW3kwhwx4UeCNZg43A1x1h4Uv.jpg"
+        },
+        {
+          "name": "أوشيا جاكسون جونيور",
+          "character": "Donnie Wilson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kXJ02sXvnExbGNJ11piC6d6WMOc.jpg"
+        },
+        {
+          "name": "٥٠ سنت",
+          "character": "Enson Levoux",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7VfwFIwBxy7qBUErosWRDQOovl9.jpg"
+        },
+        {
+          "name": "Meadow Williams",
+          "character": "Holly",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iECIpEM4BWt94kvOMKFJqv5uJEU.jpg"
+        },
+        {
+          "name": "Maurice Compte",
+          "character": "Benny 'Borracho' Magalon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9PFInf2I0kqjAU0CmZhdDWmHfwT.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T08:33:08+00:00",
+      "stop": "2026-11-17T10:48:08+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2VmTZ7kPyYFsSQ2r8FXqOYLWnQt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/gQEfeFzEDhvz1YB3JXU2yUZspmH.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2VmTZ7kPyYFsSQ2r8FXqOYLWnQt.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-16T16:03:08+00:00"
+        },
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-17T00:18:08+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 823625,
+      "title": "Blacklight",
+      "clean_title": "Blacklight",
+      "original_title": "Blacklight",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يجد عميل سري نفسه في محنة عندما يضعه اكتشافه لسر مظلم في مواجهة ضد مدير مكتب التحقيقات الفيدرالي الذي أقسم على حمايته.",
+      "category": "إثارة",
+      "genres": [
+        "إثارة",
+        "حركة",
+        "مغامرة"
+      ],
+      "rating": 6.1,
+      "vote_count": 1313,
+      "age_rating": "PG-13",
+      "year": "2022",
+      "release_date": "2022-02-10",
+      "status": "Released",
+      "country": "أستراليا",
+      "language": "الإنجليزية",
+      "director": "مارك ويليامز",
+      "cast": [
+        {
+          "name": "ليام نيسون",
+          "character": "Travis Block",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+        },
+        {
+          "name": "إيمي رافر لامبمان",
+          "character": "Mira Jones",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cBkHUBzqoqrnkxDXWlqQmm91pD2.jpg"
+        },
+        {
+          "name": "Taylor John Smith",
+          "character": "Dusty Crane",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6dXZRf8ePa1oxQN9a5hFGEjDoI0.jpg"
+        },
+        {
+          "name": "Aidan Quinn",
+          "character": "Gabriel Robinson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/viUuUmhiGdsfoQh0IpO5N312qNd.jpg"
+        },
+        {
+          "name": "Tim Draxl",
+          "character": "Drew Hawthorne",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4WeKn0jlTHwmMnlhjd2EsqE4uFp.jpg"
+        },
+        {
+          "name": "Claire van der Boom",
+          "character": "Amanda Block",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1CXZLmtimJksArEZ5afDIH6prwW.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T10:48:08+00:00",
+      "stop": "2026-11-17T12:33:02+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/5mnKPiUc9o4kIPzKrL9vYf46KJ7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tULzz524DuvMxnAuQJpo8dk0EvJ.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/5mnKPiUc9o4kIPzKrL9vYf46KJ7.jpg",
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-16T18:18:08+00:00"
+        },
+        {
+          "channel": "Movies Action",
+          "start": "2026-11-17T02:33:08+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "جدول البرامج غير متاح",
+      "clean_title": "جدول البرامج غير متاح",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:33:02+00:00",
+      "stop": "2026-11-17T23:59:59+00:00",
+      "duration_minutes": 687,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/NIVhISa.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T00:55:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T01:50:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T02:55:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T03:55:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T04:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T05:38:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T05:54:50+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T05:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T06:34:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T07:53:40+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T08:16:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T08:44:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T08:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T09:30:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T09:39:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T09:50:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T10:50:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T10:52:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T11:04:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T11:36:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T11:50:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T12:28:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T12:50:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T13:19:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T13:37:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T13:53:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T14:43:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T14:53:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T14:56:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T15:20:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T15:45:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T15:49:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T15:55:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T16:00:48+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-16T16:05:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T16:32:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T16:50:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T16:53:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T17:36:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T17:43:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T17:53:09+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T17:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T18:25:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T18:48:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T18:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T19:30:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T19:38:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T19:52:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T19:54:38+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T19:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T20:48:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T20:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-16T21:40:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-16T21:54:30+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T21:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T22:04:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T22:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-16T23:12:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-16T23:50:00+00:00"
+        },
+        {
+          "channel": "العربية",
+          "start": "2026-11-16T23:55:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T00:09:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T00:48:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T00:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T01:17:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T01:50:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T02:25:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T02:40:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T02:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T03:02:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T03:55:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T04:02:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T04:48:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "channel": "مصر دراما",
+          "start": "2026-11-17T05:38:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T05:51:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T05:55:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T06:15:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T06:35:24+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T06:44:22+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T06:50:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T06:52:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T07:10:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T07:21:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T07:43:09+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T07:48:56+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T07:49:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T07:49:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T07:51:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T07:55:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T08:17:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T08:19:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T08:21:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T08:43:44+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T08:52:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T08:53:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T08:54:04+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T09:15:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T09:23:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T09:42:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T09:44:49+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T09:47:22+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T09:50:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T09:55:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T10:07:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T10:23:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T10:43:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T10:45:39+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T10:50:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T10:54:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T11:15:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T11:32:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T11:33:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T11:35:24+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T11:42:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T11:45:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T11:47:59+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T11:50:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T12:25:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T12:41:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T12:43:09+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T12:47:20+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T12:49:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T12:50:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T13:05:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T13:10:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T13:15:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T13:36:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T13:44:49+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T13:47:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T13:47:32+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T13:52:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T13:53:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T14:42:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T14:43:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T14:43:44+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T14:47:22+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T14:52:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T14:52:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T14:54:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T15:17:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T15:20:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T15:23:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T15:35:24+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T15:41:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T15:45:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T15:47:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T15:48:56+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T15:54:00+00:00"
+        },
+        {
+          "channel": "العربية Business",
+          "start": "2026-11-17T16:05:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T16:05:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T16:23:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T16:25:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T16:45:33+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T16:49:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T16:50:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T16:51:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T16:57:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T17:25:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T17:41:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T17:43:09+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T17:44:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T17:46:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T17:49:21+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T17:55:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T18:25:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T18:27:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T18:38:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T18:46:04+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T18:46:26+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T18:50:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T18:55:00+00:00"
+        },
+        {
+          "channel": "MBC Bollywood",
+          "start": "2026-11-17T18:55:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T19:05:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T19:15:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T19:38:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T19:44:37+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T19:48:36+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T19:51:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T19:54:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T19:55:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T20:28:00+00:00"
+        },
+        {
+          "channel": "MBC Plus Drama",
+          "start": "2026-11-17T20:39:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T20:46:04+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T20:49:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T20:51:17+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T21:25:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T21:36:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T21:39:00+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T21:39:44+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T21:47:19+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T21:55:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T21:55:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-17T22:24:00+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T22:42:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T22:46:00+00:00"
+        },
+        {
+          "channel": "MBC Iraq",
+          "start": "2026-11-17T22:47:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T22:47:48+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T22:48:09+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T22:55:00+00:00"
+        },
+        {
+          "channel": "الشرق ديسكفري",
+          "start": "2026-11-17T23:44:52+00:00"
+        },
+        {
+          "channel": "Asharq Documentary",
+          "start": "2026-11-17T23:46:04+00:00"
+        },
+        {
+          "channel": "MBC Masr",
+          "start": "2026-11-17T23:47:00+00:00"
+        },
+        {
+          "channel": "الشرق",
+          "start": "2026-11-17T23:50:00+00:00"
+        }
+      ]
+    }
+  ]
+}

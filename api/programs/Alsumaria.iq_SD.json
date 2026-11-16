@@ -1,0 +1,557 @@
+{
+  "channel_id": "Alsumaria.iq@SD",
+  "channel_name": "السومرية",
+  "channel_icon": "https://i.imgur.com/2eiGt0r.png",
+  "programs": [
+    {
+      "tmdb_id": 74943,
+      "title": "برنامج عشرين",
+      "clean_title": "عشرين",
+      "original_title": "二十面相の娘",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 22,
+      "description": "شيزوكو فتاة صغيرة لعائلة ثرية تفقد أبويها و تعيش في كنف عمها و عمتها الأوصياء الوحيدين لثروة عائلتها الكبيرة و بالرغم من صغر عمرها و ظروف الوحدة التي وجدت نفسها فيها إلا إنها استطاعت أن تكتشف قيام عمها و عمتها بوضع السم لها في الطعام للتخلص منها للإستيلاء على ثروتها الكبيرة و وسط يأسها و محاولتها للهروب من هذا المصير القاتم و حين بلغ بها اليأس حد الرغبة في الموت لإنهاء  معاناتها يظهر ذو العشرون وجها ترى من هو و لماذا تطارده الشرطة هو و جماعته و لما سمي بذي العشرين وجها ؟",
+      "category": "General",
+      "genres": [
+        "General",
+        "رسوم متحركة",
+        "حركة ومغامرة"
+      ],
+      "rating": 3.6,
+      "vote_count": 5,
+      "age_rating": null,
+      "year": "2008",
+      "release_date": "2008-04-12",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "أيا هيرانو",
+          "character": "Mikamo Chizuko (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/AvbCkdSXoKgrQAyG08b4WdGKoX5.jpg"
+        },
+        {
+          "name": "内田夕夜",
+          "character": "Mensou-Nijuu (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4xLLQGEDWtmLWUapo0UnfvCdsXp.jpg"
+        },
+        {
+          "name": "浜田賢二",
+          "character": "Akechi (vocie)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/27bujo3KlawFgrFOO2nnlDgxXsE.jpg"
+        },
+        {
+          "name": "大塚芳忠",
+          "character": "Kouhei Kakishima (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3RHQcrsWnAFK6AifSis1lMq08cR.jpg"
+        },
+        {
+          "name": "ميوكي ساواشيرو",
+          "character": "Nozomi Kayama (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg"
+        },
+        {
+          "name": "松風雅也",
+          "character": "Ken (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tUd3ybETFz4hBGLnaqt3VreGeDJ.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T12:30:00+00:00",
+      "stop": "2026-11-16T13:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/bXj4uYkQAFoXu6smVP1uOwdB2FG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/idcoTHkMBPoQUxMnERc7RuuRCGO.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/bXj4uYkQAFoXu6smVP1uOwdB2FG.jpg",
+      "channel_icon": "https://i.imgur.com/2eiGt0r.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 248571,
+      "title": "الرهان",
+      "clean_title": "الرهان",
+      "original_title": "الرهان",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "في إطار تشويقي، يغوص البطل (عيسى زياني) في دهاليز المؤامرات العائلية والأسرار المخفاة وسط مجموعة كبيرة من الألغاز المعقدة، عقب خروجه من السجن بعد فترة قضاها بداخله.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-03-11",
+      "status": "Returning Series",
+      "country": "الجزائر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Abdelkader Djeriou",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Mohamed Khassani",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Zahra Harkat",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Yasmine Bendaoud",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Jamila Arres",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T13:30:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/1ciNpsVFxWl9tiJnimvG9v1AzAr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iaD79F8e9TGR7IQQg5JrrAIhci6.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/1ciNpsVFxWl9tiJnimvG9v1AzAr.jpg",
+      "channel_icon": "https://i.imgur.com/2eiGt0r.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 310476,
+      "title": "بخمس أرواح",
+      "clean_title": "بخمس أرواح",
+      "original_title": "بخمس ارواح",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "بين ليلة وضحاها، يجد \"شمس\" الملقب بـ \"ابن الميتة\" نفسه أمام مفارقة قدرية؛ فهو الوريث الوحيد لرجل نافذ، لكن الثروة معلقة بشرط تعجيزي: العثور على أشقائه الأربعة الذين طمس والدهم أثرهم من الوجود. في سباقٍ محموم مع الزمن، يخوض شمس رحلةً محفوفة بالدماء لكشف الهوية، حيث الفشل لا يعني ضياع المال فحسب، بل خسارة حياته أمام طامعين ينتظرون سقوطه.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "لبنان",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "قصي خولي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3R2Lb7TFgKVZbBlWmuvEAsF2gGy.jpg"
+        },
+        {
+          "name": "كاريس بشار",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/m55P3chgUAAfawfG5vg6aRXvemU.jpg"
+        },
+        {
+          "name": "عادل كرم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/vr9nbh7GHuRjQMkkpJPrL6gpYdX.jpg"
+        },
+        {
+          "name": "Joseph Bou Nassar",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Talal Jurdi",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/cHt27qVfJMMNLrC9nq5cbNQRfuh.jpg"
+        },
+        {
+          "name": "جنيد زين الدين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/gmfOXESSFI0XNjvmrA2bumTjMEo.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/eSivV5c64B8hacp9cNlX1Ejk53O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/AuzWYk3tppgBbMQGffOxSbpbwJ4.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/eSivV5c64B8hacp9cNlX1Ejk53O.jpg",
+      "channel_icon": "https://i.imgur.com/2eiGt0r.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T10:30:00+00:00"
+        },
+        {
+          "channel": "السومرية",
+          "start": "2026-11-16T17:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T10:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 324260,
+      "title": "برنامج live talk",
+      "clean_title": "live talk",
+      "original_title": "The George Lucas Talk Show: Live",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 9,
+      "episodes_count": 58,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General",
+        "كوميديا",
+        "حوار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2000",
+      "release_date": null,
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Connor Ratliff",
+      "cast": [
+        {
+          "name": "Connor Ratliff",
+          "character": "George Lucas",
+          "profile_image": "https://image.tmdb.org/t/p/w185/72VwOJ7wZOKjpNBfF7Pei5EnvaH.jpg"
+        },
+        {
+          "name": "Griffin Newman",
+          "character": "Watto",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vRnjx2UGdMhvFn5coYZJLKHVWbq.jpg"
+        },
+        {
+          "name": "Patrick Cotnoir",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pYyCiAtmDzn07U9Mz5BZCvkRqT7.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T16:45:00+00:00",
+      "duration_minutes": 105,
+      "is_live": true,
+      "poster": "https://image.tmdb.org/t/p/w500/v5FcrZ8z4AIxovzZsJzhSI7PUR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xH4XxYEUId9eVTJoydQR74z2tQw.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/v5FcrZ8z4AIxovzZsJzhSI7PUR.jpg",
+      "channel_icon": "https://i.imgur.com/2eiGt0r.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "السومرية",
+          "start": "2026-11-16T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نشرة اخبار السومرية",
+      "clean_title": "نشرة اخبار السومرية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:45:00+00:00",
+      "stop": "2026-11-16T17:30:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2eiGt0r.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 310476,
+      "title": "بخمس أرواح",
+      "clean_title": "بخمس أرواح",
+      "original_title": "بخمس ارواح",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "بين ليلة وضحاها، يجد \"شمس\" الملقب بـ \"ابن الميتة\" نفسه أمام مفارقة قدرية؛ فهو الوريث الوحيد لرجل نافذ، لكن الثروة معلقة بشرط تعجيزي: العثور على أشقائه الأربعة الذين طمس والدهم أثرهم من الوجود. في سباقٍ محموم مع الزمن، يخوض شمس رحلةً محفوفة بالدماء لكشف الهوية، حيث الفشل لا يعني ضياع المال فحسب، بل خسارة حياته أمام طامعين ينتظرون سقوطه.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "لبنان",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "قصي خولي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3R2Lb7TFgKVZbBlWmuvEAsF2gGy.jpg"
+        },
+        {
+          "name": "كاريس بشار",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/m55P3chgUAAfawfG5vg6aRXvemU.jpg"
+        },
+        {
+          "name": "عادل كرم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/vr9nbh7GHuRjQMkkpJPrL6gpYdX.jpg"
+        },
+        {
+          "name": "Joseph Bou Nassar",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Talal Jurdi",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/cHt27qVfJMMNLrC9nq5cbNQRfuh.jpg"
+        },
+        {
+          "name": "جنيد زين الدين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/gmfOXESSFI0XNjvmrA2bumTjMEo.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T17:30:00+00:00",
+      "stop": "2026-11-16T19:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/eSivV5c64B8hacp9cNlX1Ejk53O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/AuzWYk3tppgBbMQGffOxSbpbwJ4.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/eSivV5c64B8hacp9cNlX1Ejk53O.jpg",
+      "channel_icon": "https://i.imgur.com/2eiGt0r.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T10:30:00+00:00"
+        },
+        {
+          "channel": "السومرية",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T10:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 273059,
+      "title": "شباب امرأة",
+      "clean_title": "شباب امرأة",
+      "original_title": "شباب امرأة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "تحاول التاجرة المتسلطة (شفاعات) استغلال الشاب الريفي الساذج (إمام) الذي وفد حديثًا إلى القاهرة لإغوائه وإيقاعه في حبها على الرغم من أنه يصغرها سنًا، بينما يسعى كل من حولها إلى إبعاده عن طريقها، لكن يتغير كل شيء عندما يقع في حب فتاة شابة، حينها تشعر (شفاعات) بالغيرة وتخطط للانتقام منه.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 3,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-16",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمد سليمان عبدالمالك",
+      "cast": [
+        {
+          "name": "غادة عبدالرازق",
+          "character": "شفاعات",
+          "profile_image": "https://image.tmdb.org/t/p/w185/57KpAr5jKo8updReZSqig12LycM.jpg"
+        },
+        {
+          "name": "يوسف عمر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8gFoUQbHRFHMuQievHjVIB4zezR.jpg"
+        },
+        {
+          "name": "محمود حافظ",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/j3rqnfwdNttoKOoVUphD7APd9cy.jpg"
+        },
+        {
+          "name": "محمد محمود",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9UIBmYQDSX8N0XZjOdRD5PpQMtl.jpg"
+        },
+        {
+          "name": "جوري بكر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/5TjWERurM5UuFQRuLqRHoO38ybl.jpg"
+        },
+        {
+          "name": "داليا شوقي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/rryZ7zatc5WUhuwk10JwoxEPZmJ.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T19:30:00+00:00",
+      "stop": "2026-11-16T20:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/k00CosikcvHUy9dgEWnLtH59pzg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ta3zGRnjf3iLyeqiZvazcZJc0w.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/k00CosikcvHUy9dgEWnLtH59pzg.jpg",
+      "channel_icon": "https://i.imgur.com/2eiGt0r.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-17T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 324260,
+      "title": "برنامج live talk",
+      "clean_title": "live talk",
+      "original_title": "The George Lucas Talk Show: Live",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 9,
+      "episodes_count": 58,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General",
+        "كوميديا",
+        "حوار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2000",
+      "release_date": null,
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Connor Ratliff",
+      "cast": [
+        {
+          "name": "Connor Ratliff",
+          "character": "George Lucas",
+          "profile_image": "https://image.tmdb.org/t/p/w185/72VwOJ7wZOKjpNBfF7Pei5EnvaH.jpg"
+        },
+        {
+          "name": "Griffin Newman",
+          "character": "Watto",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vRnjx2UGdMhvFn5coYZJLKHVWbq.jpg"
+        },
+        {
+          "name": "Patrick Cotnoir",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pYyCiAtmDzn07U9Mz5BZCvkRqT7.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T20:30:00+00:00",
+      "stop": "2026-11-16T22:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": true,
+      "poster": "https://image.tmdb.org/t/p/w500/v5FcrZ8z4AIxovzZsJzhSI7PUR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xH4XxYEUId9eVTJoydQR74z2tQw.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/v5FcrZ8z4AIxovzZsJzhSI7PUR.jpg",
+      "channel_icon": "https://i.imgur.com/2eiGt0r.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "السومرية",
+          "start": "2026-11-16T15:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1271 @@
+{
+  "channel_id": "Cima.eg@SD",
+  "channel_name": "سيما",
+  "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+  "programs": [
+    {
+      "tmdb_id": 620338,
+      "title": "الأونطجية",
+      "clean_title": "الأونطجية",
+      "original_title": "الأونطجية",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ترفض عايدة زواج ابنها هشام من زوبة للفارق الاجتماعي بينهما ولكنه يتمسك بها، تمثل عايدة الجنون حتى يرضخ ابنها لرغبتها ويرتبط بابنة خالته ثناء التي تدرس في باريس، وتلجأ للمشعوذ جنجل وشريكته بسيمة وتتفق معهما على عمل سحر للتفريق بين الحبيبان ومنع زواجهما، لكنهما بدورهما يتعاطفان مع الحبيبان.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1987",
+      "release_date": "1987-09-28",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "سيد طنطاوي",
+      "cast": [
+        {
+          "name": "سهير البابلي",
+          "character": "عايدة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aX8KjwmPLpe0VZXJAOfSKKikW8I.jpg"
+        },
+        {
+          "name": "عفاف شعيب",
+          "character": "بسيمة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fvI9NmH9x1ur9M5WI0wqQkni040.jpg"
+        },
+        {
+          "name": "سعيد صالح",
+          "character": "صبحىي أبو ريا (حنجل)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hy1PMd0qXiNRGRxlbXtU45LHxlK.jpg"
+        },
+        {
+          "name": "أحمد مرعي",
+          "character": "يسري",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fiOzIc6igNlFmsgqvk3n2G8Nyln.jpg"
+        },
+        {
+          "name": "صابرين",
+          "character": "زوبة (زينب أحمد حسين)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/x9BU8T80Z6se9PnE5q32HPJimhy.jpg"
+        },
+        {
+          "name": "أحمد سلامة",
+          "character": "هشام السيد البحيري",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7ZGBqt04LgkNQVRp1Tj3t8ElCye.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T11:00:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/fCVyP7EDZD6Ij3AQFALC24yS9g7.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/fCVyP7EDZD6Ij3AQFALC24yS9g7.jpg",
+      "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أختي ستيتة",
+      "clean_title": "أختي ستيتة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نبيل مطرب مشهور وعضو في فريق ألف ليلة وليلة، وتعشقه المطربة الصاعدة هدهد وتهيم به حبًا، وتتمنى أن تعمل معه، وتسافر هدهد إلى كفر الزيات حيث يتوجه إلى مرضعته، وتستغل هدهد وتدعي أنها ستيتة شقيقة نبيل في الرضاعة لكي تلفت نظره، وفي نفس الوقت تحاول أنوار أن تمثل عليه الحب وأن تلتصق به في سبيل الاستفادة من شهرته.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 334222,
+      "title": "عيون لا تنام",
+      "clean_title": "عيون لا تنام",
+      "original_title": "عيون لا تنام",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "إبراهيم صاحب ورشة سيارات كبير في السن، يتزوج من فتاة فقيرة تدعى محاسن، وهو الأمر الذي يخشاه إخوته بسبب خوفهم من احتمال مشاركتها لهم في الميراث، وفي نفس الوقت يشعر إسماعيل بالكثير من مشاعر البغضاء والكراهية نحو إبراهيم الذي يعمل لديه في الورشة، مما يدفعه ﻹختلاق المشاكل طيلة الوقت مع محاسن، ولكن سرعان ما يتبدل حال العلاقة بين محاسن وإسماعيل.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما"
+      ],
+      "rating": 5.2,
+      "vote_count": 6,
+      "age_rating": null,
+      "year": "1981",
+      "release_date": "1981-10-05",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "رأفت الميهي",
+      "cast": [
+        {
+          "name": "فريد شوقي",
+          "character": "Ibrahim",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eGQniixtU1hjF2Fa5rYWlvt3nLk.jpg"
+        },
+        {
+          "name": "أحمد زكي",
+          "character": "Ismail",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nEJQTsgWDh1aXQLFsWkXOAv7hD4.jpg"
+        },
+        {
+          "name": "مديحة كامل",
+          "character": "Mahasen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/l5HaBDR9knXllZRIAiX1oga8jjy.jpg"
+        },
+        {
+          "name": "علي الشريف",
+          "character": "Abdullah",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yqbj6gAt8clSeV3P0ymXqx5QN8g.jpg"
+        },
+        {
+          "name": "نعيمة الصغير",
+          "character": "Om Bataa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s1fVNL6G0eEcUlatHbdtBsdrnwF.jpg"
+        },
+        {
+          "name": "Suad Abdallah",
+          "character": "Sameha",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ud0eiTVm6z0b3IOpVDOKtoHLIIB.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/lbLEc73QWCa2NNNXVs9mcQjWXWh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8xCcU2Wi8Fg2e0jE5l0E5wpYh4N.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/lbLEc73QWCa2NNNXVs9mcQjWXWh.jpg",
+      "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "سيما",
+          "start": "2026-11-17T05:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 43401,
+      "title": "أيظن!",
+      "clean_title": "أيظن!",
+      "original_title": "أيظن",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدور أحداث القصة حول رجل الأعمال (حسن حسني) الذي يبحث عن ابنته (جميلة) التي فقدها منذ أكثر من 20 عامًا، يقرر جميع من حوله مساعدته في عملية البحث عن ابنتهت طمعًا في المكافأة المالية التي أعدها لمن يجد ابنته، ووسط رحلة البحث عنها يتعرض للعديد من عمليات النصب بهدف الحصول على المكافأة المالية التي حددها وهي عشرة ملايين جنيه.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "كوميديا"
+      ],
+      "rating": 3.5,
+      "vote_count": 16,
+      "age_rating": "PG13",
+      "year": "2006",
+      "release_date": "2006-12-20",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "أكرم فريد",
+      "cast": [
+        {
+          "name": "مي عز الدين",
+          "character": "عفت / نسمة / زبدة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wY9iQnLrJTwlTu8Nz4lAk3H5d8l.jpg"
+        },
+        {
+          "name": "حسن حسني",
+          "character": "سيد ابو غالى",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vMG9Carh5bi18v5unk06aYvvKZw.jpg"
+        },
+        {
+          "name": "حميد الشاعري",
+          "character": "حظو",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7ND0qHfoR4yWEg3lzdtF2vcDQYm.jpg"
+        },
+        {
+          "name": "ميرنا المهندس",
+          "character": "maha",
+          "profile_image": "https://image.tmdb.org/t/p/w185/a8SnzofedugyQW0QjnuNVkQbEX2.jpg"
+        },
+        {
+          "name": "هالة فاخر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
+        },
+        {
+          "name": "عزت أبو عوف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/b4YIsca9urhYbAUWf1ftW440gcd.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T19:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/g7ib77trYRtwVkyhoBaRLyCVwWz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/892HCdmCjkr2vUzypHkCT8UYnam.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/g7ib77trYRtwVkyhoBaRLyCVwWz.jpg",
+      "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "سيما",
+          "start": "2026-11-17T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 751222,
+      "title": "لعنة امرأة",
+      "clean_title": "لعنة امرأة",
+      "original_title": "لعنة امرأة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقتل المهندس سالم زوجته التي تخونه وتكون الشغالة الصغيرة أمل هى الشاهدة الوحيدة على جريمته، يترك رسالة يوهم فيها الجميع أنه انتحر بعد اكتشافه خيانة زوجته ويهرب مع أمل إلى الإسكندرية. هناك يتعرف بالمعلم إسماعيل وتحاول زوجته اللعوب إغراءه ولكنه يصدها، يكافئه إسماعيل بتسهيل هروبه على إحدى البواخر.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1974",
+      "release_date": "1974-12-23",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "نيازي مصطفى",
+      "cast": [
+        {
+          "name": "فريد شوقي",
+          "character": "Engineer Salem/Mahmoud",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eGQniixtU1hjF2Fa5rYWlvt3nLk.jpg"
+        },
+        {
+          "name": "ناهد شريف",
+          "character": "Lawahiz",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4IxyzS7FAiok8W3LWcqASymMKJ7.jpg"
+        },
+        {
+          "name": "محمود المليجي",
+          "character": "Ismael",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3WWkVGMG4KfWhn2XwPJYdUOasX7.jpg"
+        },
+        {
+          "name": "جلال عيسى",
+          "character": "Magdy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6BOZy3IG3Y1iIC8NJ5GR3CWE5Z7.jpg"
+        },
+        {
+          "name": "إحسان شريف",
+          "character": "Salem's mother",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2cKujbcmpDjhaJCX1LeY3TkukXD.jpg"
+        },
+        {
+          "name": "وحيد سيف",
+          "character": "Sayed",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eDLRmet0ePsP3GPN05wy4f6uxrS.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T19:00:00+00:00",
+      "stop": "2026-11-16T21:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/1iYGqwHrBrteJ7SxKnNoXkiSiji.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/1iYGqwHrBrteJ7SxKnNoXkiSiji.jpg",
+      "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "سيما",
+          "start": "2026-11-17T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 742527,
+      "title": "أرباب سوابق",
+      "clean_title": "أرباب سوابق",
+      "original_title": "أرباب سوابق",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتلقى رجل الأعمال سالم مكالمة هاتفية من مجهول يهدده بالقتل إذا لم يمنحه مبلغًا من المال، ليرسم رجال الشرطة خطة بالتعاون مع سالم والنشال التائب زكي للإيقاع به في قبضتهم وينجحون في مهمتهم، ليفاجأ سالم بأن المتهم هو مدير أعماله شوقي.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما",
+        "كوميديا",
+        "إثارة"
+      ],
+      "rating": 8,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "1988",
+      "release_date": "1988-10-24",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمد أباظة",
+      "cast": [
+        {
+          "name": "سمير غانم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/vSqmd98zrxOAnDFnBGnt4Wihn7B.jpg"
+        },
+        {
+          "name": "دلال عبدالعزيز",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/oIW8HsQaRbb1j81Fi4FghJryuTj.jpg"
+        },
+        {
+          "name": "أسامة عباس",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ow1gKSNAsMefRVJqVcG2kNdpBVT.jpg"
+        },
+        {
+          "name": "يوسف داود",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/uTz8sNPGcTMzwNaPdkTcsiDsQPo.jpg"
+        },
+        {
+          "name": "نعيمة الصغير",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/s1fVNL6G0eEcUlatHbdtBsdrnwF.jpg"
+        },
+        {
+          "name": "نعيم عيسى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/n7ijQZvnxVAoC7XT5orfD7OU602.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T21:00:00+00:00",
+      "stop": "2026-11-16T23:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/pNurU5XHDb0MyO3lThsilOJCoch.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hs0khFLCrl9mBrS4minNGPRWec8.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/pNurU5XHDb0MyO3lThsilOJCoch.jpg",
+      "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "سيما",
+          "start": "2026-11-17T07:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 623190,
+      "title": "الحب في طابا",
+      "clean_title": "الحب في طابا",
+      "original_title": "الحب في طابا",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسافر الأصدقاء الثلاثة مصطفى وفخري وخالد في رحلة إلى شرم الشيخ، حيث يتقابلوا ثلاث سائحات، ويمارسوا معهن علاقة جنسية ليكتشفوا بعدها أن السائحات مصابات بالإيدز، لينهار الثلاثة، ويحاول كل منهم الهروب من أسرته، وتتصاعد الأحداث.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "كوميديا",
+        "دراما",
+        "رومنسية"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "1993",
+      "release_date": "1993-04-04",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "أحمد فؤاد",
+      "cast": [
+        {
+          "name": "جالا فهمي",
+          "character": "Magi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4lKxR6HLEyIAOzRHSGX2u4lmuvk.jpg"
+        },
+        {
+          "name": "هشام عبدالحميد",
+          "character": "Fakhry Fouad",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dJ1B6vC1j5FyY7tHnVhuyI3fLvL.jpg"
+        },
+        {
+          "name": "ممدوح عبدالعليم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/wejgX7J3H9M4XX7hMBVQoBgUGXN.jpg"
+        },
+        {
+          "name": "حنان شوقي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/wh012HByEPAXUNQnB65oFQfyovJ.jpg"
+        },
+        {
+          "name": "وائل نور",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hDudGtpcqGIjtw2zkHDvwtAz2c9.jpg"
+        },
+        {
+          "name": "فؤاد خليل",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/mz4WOp3rWYvT8WcCRRjagz8p5bP.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T23:00:00+00:00",
+      "stop": "2026-11-17T01:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ft8pui2KOuZ8ihUFXRg5LCYQ5bV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/i6Hs1oFXFnGzNSKCZ99U3ktYAj4.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ft8pui2KOuZ8ihUFXRg5LCYQ5bV.jpg",
+      "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 855,
+      "title": "الصقر",
+      "clean_title": "الصقر",
+      "original_title": "Black Hawk Down",
+      "tagline": "لا تترك أي رجل خلفك.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في القرن التاسع عشر، وفي الصحراء يموت أنيس باشا أثناء وجود ابنته ليلى في باريس، تعرف بوفاة والدها، فتقرر العودة إلى مصر، تصحب معها صديقتها فلورا، ولكن قرار عودة ليلى لا يجد صدى في نفس سكرتير والدها ابن عمها إبراهيم الذي كان يختلس أمواله من أملاكه بالصحراء.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "حركة",
+        "حرب",
+        "تاريخ"
+      ],
+      "rating": 7.4,
+      "vote_count": 6726,
+      "age_rating": "R",
+      "year": "2001",
+      "release_date": "2001-12-28",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "ريدلي سكوت",
+      "cast": [
+        {
+          "name": "جوش هارتنت",
+          "character": "Eversmann",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5eMo8D7h1XrSu6ZN4UXhPcS6YNG.jpg"
+        },
+        {
+          "name": "إيوان مكريغور",
+          "character": "Grimes",
+          "profile_image": "https://image.tmdb.org/t/p/w185/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg"
+        },
+        {
+          "name": "Tom Sizemore",
+          "character": "McKnight",
+          "profile_image": "https://image.tmdb.org/t/p/w185/soINOuacuiThRb2LyPD4tTWve7C.jpg"
+        },
+        {
+          "name": "إريك بانا",
+          "character": "Hoot",
+          "profile_image": "https://image.tmdb.org/t/p/w185/l9yoDgw3YFC2gMD1HTo5djGOwSY.jpg"
+        },
+        {
+          "name": "ويليام فيكنر",
+          "character": "Sanderson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg"
+        },
+        {
+          "name": "إوين بريمنر",
+          "character": "Nelson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7ZayRqxxy5JsQpiUPA0iVeRHny6.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T01:00:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg",
+      "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 1119390,
+      "title": "سفينة الحب والعذاب",
+      "clean_title": "سفينة الحب والعذاب",
+      "original_title": "سفينة الحب والعذاب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "(حسن) شاب في الجامعة سجن بتهمة القتل وتساعده جارته (إلهام) بالعناية بوالدته، وعندما يخرج من السجن تؤمن له الوظيفة في المكان الذي تعمل فيه وتعيش معه قصة حب رائعة للغاية ولكن علاقتهما تنتهى بالخطأ الشديد، ويقوم (حسن) بقتلها في مدينة الملاهي لكي يتزوج من ابنة صاحب الشركة، ولكن الحقيقة لا تختفى إلى النهاية، ولا بد لها من يوم كي تظهر فيه للعالم كله.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1993",
+      "release_date": "1993-01-01",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "حسن الصيفي",
+      "cast": [
+        {
+          "name": "فريد شوقي",
+          "character": "Gamil",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eGQniixtU1hjF2Fa5rYWlvt3nLk.jpg"
+        },
+        {
+          "name": "شيرين سيف النصر",
+          "character": "Samira",
+          "profile_image": "https://image.tmdb.org/t/p/w185/g4f9TmXGrwvW5SPJB63k9Jo74Rf.jpg"
+        },
+        {
+          "name": "Helmy Abdelbaky",
+          "character": "Hassan",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jlklPnyqDMdIuLi1lINREFffWhJ.jpg"
+        },
+        {
+          "name": "لمياء الجداوي",
+          "character": "Elham",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6HXKi4Zy1nMIaLOlOEuVFVFl6TZ.jpg"
+        },
+        {
+          "name": "زهرة العلا",
+          "character": "Umm Ilham",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mb3nrkoYuKVfQsrkkoCe4nYhjxa.jpg"
+        },
+        {
+          "name": "عزيزة حلمي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/cAEgxKb7BrJ7P6OIyZtM7Hdie9E.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T05:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/5TT3xMALNeeWEhXxACSNZJpp8tG.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/5TT3xMALNeeWEhXxACSNZJpp8tG.jpg",
+      "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 334222,
+      "title": "عيون لا تنام",
+      "clean_title": "عيون لا تنام",
+      "original_title": "عيون لا تنام",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "إبراهيم صاحب ورشة سيارات كبير في السن، يتزوج من فتاة فقيرة تدعى محاسن، وهو الأمر الذي يخشاه إخوته بسبب خوفهم من احتمال مشاركتها لهم في الميراث، وفي نفس الوقت يشعر إسماعيل بالكثير من مشاعر البغضاء والكراهية نحو إبراهيم الذي يعمل لديه في الورشة، مما يدفعه ﻹختلاق المشاكل طيلة الوقت مع محاسن، ولكن سرعان ما يتبدل حال العلاقة بين محاسن وإسماعيل.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما"
+      ],
+      "rating": 5.2,
+      "vote_count": 6,
+      "age_rating": null,
+      "year": "1981",
+      "release_date": "1981-10-05",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "رأفت الميهي",
+      "cast": [
+        {
+          "name": "فريد شوقي",
+          "character": "Ibrahim",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eGQniixtU1hjF2Fa5rYWlvt3nLk.jpg"
+        },
+        {
+          "name": "أحمد زكي",
+          "character": "Ismail",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nEJQTsgWDh1aXQLFsWkXOAv7hD4.jpg"
+        },
+        {
+          "name": "مديحة كامل",
+          "character": "Mahasen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/l5HaBDR9knXllZRIAiX1oga8jjy.jpg"
+        },
+        {
+          "name": "علي الشريف",
+          "character": "Abdullah",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yqbj6gAt8clSeV3P0ymXqx5QN8g.jpg"
+        },
+        {
+          "name": "نعيمة الصغير",
+          "character": "Om Bataa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s1fVNL6G0eEcUlatHbdtBsdrnwF.jpg"
+        },
+        {
+          "name": "Suad Abdallah",
+          "character": "Sameha",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ud0eiTVm6z0b3IOpVDOKtoHLIIB.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T05:00:00+00:00",
+      "stop": "2026-11-17T07:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/lbLEc73QWCa2NNNXVs9mcQjWXWh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8xCcU2Wi8Fg2e0jE5l0E5wpYh4N.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/lbLEc73QWCa2NNNXVs9mcQjWXWh.jpg",
+      "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سيما",
+          "start": "2026-11-16T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 742527,
+      "title": "أرباب سوابق",
+      "clean_title": "أرباب سوابق",
+      "original_title": "أرباب سوابق",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتلقى رجل الأعمال سالم مكالمة هاتفية من مجهول يهدده بالقتل إذا لم يمنحه مبلغًا من المال، ليرسم رجال الشرطة خطة بالتعاون مع سالم والنشال التائب زكي للإيقاع به في قبضتهم وينجحون في مهمتهم، ليفاجأ سالم بأن المتهم هو مدير أعماله شوقي.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما",
+        "كوميديا",
+        "إثارة"
+      ],
+      "rating": 8,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "1988",
+      "release_date": "1988-10-24",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمد أباظة",
+      "cast": [
+        {
+          "name": "سمير غانم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/vSqmd98zrxOAnDFnBGnt4Wihn7B.jpg"
+        },
+        {
+          "name": "دلال عبدالعزيز",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/oIW8HsQaRbb1j81Fi4FghJryuTj.jpg"
+        },
+        {
+          "name": "أسامة عباس",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ow1gKSNAsMefRVJqVcG2kNdpBVT.jpg"
+        },
+        {
+          "name": "يوسف داود",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/uTz8sNPGcTMzwNaPdkTcsiDsQPo.jpg"
+        },
+        {
+          "name": "نعيمة الصغير",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/s1fVNL6G0eEcUlatHbdtBsdrnwF.jpg"
+        },
+        {
+          "name": "نعيم عيسى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/n7ijQZvnxVAoC7XT5orfD7OU602.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/pNurU5XHDb0MyO3lThsilOJCoch.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hs0khFLCrl9mBrS4minNGPRWec8.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/pNurU5XHDb0MyO3lThsilOJCoch.jpg",
+      "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سيما",
+          "start": "2026-11-16T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 43401,
+      "title": "أيظن!",
+      "clean_title": "أيظن!",
+      "original_title": "أيظن",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدور أحداث القصة حول رجل الأعمال (حسن حسني) الذي يبحث عن ابنته (جميلة) التي فقدها منذ أكثر من 20 عامًا، يقرر جميع من حوله مساعدته في عملية البحث عن ابنتهت طمعًا في المكافأة المالية التي أعدها لمن يجد ابنته، ووسط رحلة البحث عنها يتعرض للعديد من عمليات النصب بهدف الحصول على المكافأة المالية التي حددها وهي عشرة ملايين جنيه.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "كوميديا"
+      ],
+      "rating": 3.5,
+      "vote_count": 16,
+      "age_rating": "PG13",
+      "year": "2006",
+      "release_date": "2006-12-20",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "أكرم فريد",
+      "cast": [
+        {
+          "name": "مي عز الدين",
+          "character": "عفت / نسمة / زبدة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wY9iQnLrJTwlTu8Nz4lAk3H5d8l.jpg"
+        },
+        {
+          "name": "حسن حسني",
+          "character": "سيد ابو غالى",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vMG9Carh5bi18v5unk06aYvvKZw.jpg"
+        },
+        {
+          "name": "حميد الشاعري",
+          "character": "حظو",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7ND0qHfoR4yWEg3lzdtF2vcDQYm.jpg"
+        },
+        {
+          "name": "ميرنا المهندس",
+          "character": "maha",
+          "profile_image": "https://image.tmdb.org/t/p/w185/a8SnzofedugyQW0QjnuNVkQbEX2.jpg"
+        },
+        {
+          "name": "هالة فاخر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
+        },
+        {
+          "name": "عزت أبو عوف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/b4YIsca9urhYbAUWf1ftW440gcd.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T11:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/g7ib77trYRtwVkyhoBaRLyCVwWz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/892HCdmCjkr2vUzypHkCT8UYnam.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/g7ib77trYRtwVkyhoBaRLyCVwWz.jpg",
+      "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سيما",
+          "start": "2026-11-16T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 751222,
+      "title": "لعنة امرأة",
+      "clean_title": "لعنة امرأة",
+      "original_title": "لعنة امرأة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقتل المهندس سالم زوجته التي تخونه وتكون الشغالة الصغيرة أمل هى الشاهدة الوحيدة على جريمته، يترك رسالة يوهم فيها الجميع أنه انتحر بعد اكتشافه خيانة زوجته ويهرب مع أمل إلى الإسكندرية. هناك يتعرف بالمعلم إسماعيل وتحاول زوجته اللعوب إغراءه ولكنه يصدها، يكافئه إسماعيل بتسهيل هروبه على إحدى البواخر.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1974",
+      "release_date": "1974-12-23",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "نيازي مصطفى",
+      "cast": [
+        {
+          "name": "فريد شوقي",
+          "character": "Engineer Salem/Mahmoud",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eGQniixtU1hjF2Fa5rYWlvt3nLk.jpg"
+        },
+        {
+          "name": "ناهد شريف",
+          "character": "Lawahiz",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4IxyzS7FAiok8W3LWcqASymMKJ7.jpg"
+        },
+        {
+          "name": "محمود المليجي",
+          "character": "Ismael",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3WWkVGMG4KfWhn2XwPJYdUOasX7.jpg"
+        },
+        {
+          "name": "جلال عيسى",
+          "character": "Magdy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6BOZy3IG3Y1iIC8NJ5GR3CWE5Z7.jpg"
+        },
+        {
+          "name": "إحسان شريف",
+          "character": "Salem's mother",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2cKujbcmpDjhaJCX1LeY3TkukXD.jpg"
+        },
+        {
+          "name": "وحيد سيف",
+          "character": "Sayed",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eDLRmet0ePsP3GPN05wy4f6uxrS.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T11:00:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/1iYGqwHrBrteJ7SxKnNoXkiSiji.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/1iYGqwHrBrteJ7SxKnNoXkiSiji.jpg",
+      "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سيما",
+          "start": "2026-11-16T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "العميل ٧٧",
+      "clean_title": "العميل ٧٧",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدخل إحدى العصابات الدولية إلى الأراضي المصرية في هيئة فريق تصوير سينمائي ، لكنهم يستهدفون في الحقيقة تصوير مجموعة من الأماكن العسكرية الحساسة على ميكروفيلم ، وخلال إحدى عملياتهم يصير الميكروفيلم بالخطأ في حوزة الثلاثي (الضيف) ، و(سمير) ، و(جورج) الذين يبحثون عن عمل في مجال السينما ، لكنهم يصيرون شاهدين على جريمة قتل ، مما يجعل حياتهم في خطر ، ومن هنا يتدخل أحد ضباط الشرطة ليتقمص شخصية شقيق القتيل ؛ من أجل الكشف عن أفراد هذه العصابة .",
+      "category": "فيلم",
+      "genres": [
+        "فيلم"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T15:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 620431,
+      "title": "أجراس الخطر",
+      "clean_title": "أجراس الخطر",
+      "original_title": "اجراس الخطر",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يلصق شكري بك صديقه جابر تهمة تزوير أوراق رسمية، تدخله السجن ثلاث سنوات. فى السجن يتعرف جابر بقاسم، وبعد الإفراج عنه يلتقي مع نعيمة التي تعطيه مالًا ليبدأ حياة جديدة، يكون شركة مع قاسم ويكسبان الكثير من العمليات المشبوهة، ويتمكنان من الحصول على مستندات تدين شكري ليستخدمانها في ابتزازه.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1986",
+      "release_date": "1986-01-13",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمد عبدالعزيز",
+      "cast": [
+        {
+          "name": "نور الشريف",
+          "character": "Jaber Metwali Ismael - جابر متولي إسماعيل",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wBFojkh5Tr2JCHWkQ7sfmo2SKgd.jpg"
+        },
+        {
+          "name": "نورا",
+          "character": "نعيمة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qQKaFfhCXx8zk2BJeA6CCkD6rxR.jpg"
+        },
+        {
+          "name": "سعيد صالح",
+          "character": "Qasim - قاسم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hy1PMd0qXiNRGRxlbXtU45LHxlK.jpg"
+        },
+        {
+          "name": "حاتم ذو الفقار",
+          "character": "شكرى عبدالحميد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/esbeTATCtBCZ2UiQVU27v8I3CjD.jpg"
+        },
+        {
+          "name": "أحمد راتب",
+          "character": "Ahmed Salah Aldin - أحمد صلاح الدين",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nJr6S2q3hdXZlffPRNp9Mldl34U.jpg"
+        },
+        {
+          "name": "المنتصر بالله",
+          "character": "سباعى عبدالستار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4AMmeiKoBaLlt4cdl8BoamyoBGF.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T15:00:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/bepS1nizZZPY5gDLh3bUtXDv8Ba.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pUZq7EIaOUno1eX296d6OVmh2wQ.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/bepS1nizZZPY5gDLh3bUtXDv8Ba.jpg",
+      "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 573362,
+      "title": "كلام في الحب (شلة المشاغبين)",
+      "clean_title": "كلام في الحب (شلة المشاغبين)",
+      "original_title": "شلة المشاغبين",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ريكو مخرج لفرقة مسرحية مصرية، تأتي رسالة من متعهد حفلات في لبنان كي تذهب الفرقة إلى لبنان، وعند الوصول إلى هناك، تفاجئ الفرقة أن المتعهد مات، وترفض الزوجة تنفيذ العقد الذي أبرم مع الفرقة، تعاني الفرقة من البطالة وتبحث عن فرصة عمل، تقع بطلة الفرقة في غرام شاب ثري يحاول مساعدة الفتاة.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "كوميديا",
+        "موسيقى"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1973",
+      "release_date": "1973-01-01",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمد سلمان",
+      "cast": [
+        {
+          "name": "صباح",
+          "character": "رشا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/99KbGfDOKrSOBqHY27fMXKv1VMA.jpg"
+        },
+        {
+          "name": "عادل إمام",
+          "character": "المخرج ريكو",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vPEubkxYDRfkSUDoAfJUWQgg4cD.jpg"
+        },
+        {
+          "name": "سعيد صالح",
+          "character": "سلامة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hy1PMd0qXiNRGRxlbXtU45LHxlK.jpg"
+        },
+        {
+          "name": "يونس شلبي",
+          "character": "مجدي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jLtc7MnYVPHGdIyIhKeVESVdpb7.jpg"
+        },
+        {
+          "name": "أحمد زكي",
+          "character": "سيد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nEJQTsgWDh1aXQLFsWkXOAv7hD4.jpg"
+        },
+        {
+          "name": "صلاح السعدني",
+          "character": "صبحي مؤلف الفرقة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/28grVfa5TiWx8JP7MteCPR0AGND.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ai2KpyFFbwk7oIeUGzeQlR4aPxj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6AjeMEksdjnEyPZopwzzLTplzoO.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ai2KpyFFbwk7oIeUGzeQlR4aPxj.jpg",
+      "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 620379,
+      "title": "نساء خلف القضبان",
+      "clean_title": "نساء خلف القضبان",
+      "original_title": "نساء خلف القضبان",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "الشاويش طلعت سجانة بسجن النساء. تبذل ما في وسعها لتعليم وتربية ابنتيها نادية ومنى بعد وفاة والدهما. يطلب حاتم المعيد بكلية الحقوق يد نادية تلميذته لكن أمها نادية تمتنع لأنها تحلم بأن تزوج ابنتها من أحد الأثرياء. تصدم طلعت بابنتها نادية عندما تستقبلها كنزيلة بالسجن بسبب تورطها في قضية مخلة بالآداب.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1986",
+      "release_date": "1986-11-03",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "نادية حمزة",
+      "cast": [
+        {
+          "name": "سناء جميل",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/vpq8JBsnMVF34z6dwv9rPzaQ5OJ.jpg"
+        },
+        {
+          "name": "بوسي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/A3hzfSRLFP31ejymBw3uc6h11E7.jpg"
+        },
+        {
+          "name": "فاروق الفيشاوي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/kSatrCW9N69Px33OTRzTwc90XmQ.jpg"
+        },
+        {
+          "name": "سماح أنور",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/l8qoHeDrHdqYZz1wUDCfurbHMzF.jpg"
+        },
+        {
+          "name": "صفاء السبع",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/luijQPl1o4abFWPMN2lA4gyqc7C.jpg"
+        },
+        {
+          "name": "عفاف رشاد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4bZa5zg6syszXOMbW4W2wcaixNw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T21:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2vBy50F1RlyzlAxNyufJi7UvuB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/lFFr2lihLedd89zJl2wybeC0Qk1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2vBy50F1RlyzlAxNyufJi7UvuB.jpg",
+      "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 1190750,
+      "title": "أنغام",
+      "clean_title": "أنغام",
+      "original_title": "أنغام الغريب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تكرس المطربة المعتزلة نجوى حياتها لتربية ابنها مجدي الطالب بنهائي الطب، يدرس مجدي الموسيقى ويخفي الأمر عن أمه وتشجعه حبيبته دينا، تثور عليه أمه عندما تكتشف الأمر فهي تريد أن يكون طبيبًا مثل والده الراحل، يترك مجدي المنزل ويتعرف على الراقصة طماطم ويعيش معها، تتعاون دينا ونجوى على إبعاده عنها وإعادته.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "دراما",
+        "موسيقى"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1994",
+      "release_date": "1994-01-01",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "شريف حمودة",
+      "cast": [
+        {
+          "name": "Hassan ElAsmar",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/yn5LQjoVERSQoKsl0szwOPDVMDb.jpg"
+        },
+        {
+          "name": "حنان شوقي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/wh012HByEPAXUNQnB65oFQfyovJ.jpg"
+        },
+        {
+          "name": "نبيلة كرم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/n3eqDRPxLqG1FvVIB1dlxk1NvA0.jpg"
+        },
+        {
+          "name": "حسين الشربيني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/1GnDu7kInqO3nftZGUrUpC7cZy1.jpg"
+        },
+        {
+          "name": "وفاء عامر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dpUrp4IJlujffHZaeIsOIVTIqKd.jpg"
+        },
+        {
+          "name": "مصطفى كريم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/vmYUUpR07bV84TMbe3Anl21ucen.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T21:00:00+00:00",
+      "stop": "2026-11-17T23:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/zFut0b4YwkaqbzdZxwfP326Y6rE.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/zFut0b4YwkaqbzdZxwfP326Y6rE.jpg",
+      "channel_icon": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+      "is_rerun": false,
+      "reruns": []
+    }
+  ]
+}

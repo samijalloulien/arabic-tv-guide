@@ -1,0 +1,3263 @@
+{
+  "channel_id": "MBC1.ae@SD",
+  "channel_name": "إم بي سي",
+  "channel_icon": "https://i.imgur.com/CiA3plN.png",
+  "programs": [
+    {
+      "tmdb_id": 336153,
+      "title": "أحلى نصيب",
+      "clean_title": "أحلى نصيب",
+      "original_title": "أحلى نصيب",
+      "tagline": "النسخة السعودية المعرّبة والمقتبسة رسميًا من المسلسل التركي الشهير \"العشق مجدداً\" (Aşk Yeniden)",
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 90,
+      "description": "زواج مؤقت يتحول تدريجيًا إلى ورطة يصعب الخروج منها. وبينما يسعى ركان ونورة إلى الحفاظ على قصتهما المصطنعة وإحكامها قبل أن تلاحقهما الشائعات، يبدأ الاتفاق الذي بدا مثاليًا في البداية بالانحراف عن الخطة شيئًا فشيئًا.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا",
+        "دراما"
+      ],
+      "rating": 8,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-10-04",
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "ميلا الزهراني",
+          "character": "نورة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3ZO3rP4zRVzQq8GPV82YHlSKLHS.jpg"
+        },
+        {
+          "name": "محمد الشهري",
+          "character": "راكان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/waJKqOBODBn1xjTwGHKgqQKFuM6.jpg"
+        },
+        {
+          "name": "عبدالله السدحان",
+          "character": "فلاح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4448FTHtSzHrfohskwQieFHQMH2.jpg"
+        },
+        {
+          "name": "عبدالإله السناني",
+          "character": "فيصل",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wA3ssZuENZyaOtFAgJ57lJqfEld.jpg"
+        },
+        {
+          "name": "هند محمد",
+          "character": "نوال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/35tv9nzzNNYL8F7Y0xPaFQM2Jp4.jpg"
+        },
+        {
+          "name": "غادة الملا",
+          "character": "منيرة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8JVqMNp942Kw26olxkb6hJD3J6R.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=qsNTnphZlJo",
+      "start": "2026-11-16T12:15:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kVrKhYmtxdw4OWsMcfo74heTdJV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/loMCG8zmz7FdGwDwasUr26xfIgf.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kVrKhYmtxdw4OWsMcfo74heTdJV.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T12:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T22:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 99945,
+      "title": "مولانا",
+      "clean_title": "مولانا",
+      "original_title": "مولانا العاشق",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "هارباً من جمر ماضيه ونبذ مجتمعه، يلقي \"جابر\" بنفسه في لجة حيلة جريئة، متخفياً خلف ستار \"نسب مقدس\" في قريةٍ منسية. هناك، حيث يقتات الناس على انتظار \"المولى\" منذ عقود، يبعث جابر في أرواحهم أملأً مزيفاً يتحول تدريجياً إلى عزيمة حقيقية على البقاء. بين قدسية القناع وهشاشة الحقيقة، يجد جابر نفسه منقذاً لقرية ترفض الموت، ومطارداً بصراع أخلاقي قد يحرق الأخضر واليابس إذا انكشف المستور.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2015",
+      "release_date": "2015-06-19",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "مصطفى شعبان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4INssD8ge1uqtYvtUJeL4WeEqMr.jpg"
+        },
+        {
+          "name": "سارة سلامة",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/v12kkjF9kosrINKlqxj1vkhmrHj.jpg"
+        },
+        {
+          "name": "حنان سليمان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/whfk48vNtSAijcOuT3esPlXbVSz.jpg"
+        },
+        {
+          "name": "محمد لطفي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/Akh0XZ1gRWeMWAmDz7kbg6xwz4V.jpg"
+        },
+        {
+          "name": "خالد سرحان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/fmPmWfGd85UHuG30ldCtBaN9J51.jpg"
+        },
+        {
+          "name": "محمد الشقنقيري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ArteNFfza0t9ewCNyWXQNAkFkhN.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/doV13gwAVYh4wJiar0Xofjlnxyn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9c3Xn41Wl8rAOJc3yUYnWJjavjg.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/doV13gwAVYh4wJiar0Xofjlnxyn.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T00:45:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T07:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 302982,
+      "title": "الست موناليزا",
+      "clean_title": "الست موناليزا",
+      "original_title": "الست موناليزا",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "ظنت \"موناليزا\" أنها تفتح باب الجنة، لكن في القاهرة تبدد الوهم سريعاً؛ زوجٌ يقتنص المصالح وعائلةٌ تتربص بها كغنيمة في زواجٍ كُبل بشروطٍ خفية. هي رحلة امرأة تخرج من رماد زواج فاشل لتواجه عواصف المجتمع وأوجاع الانفصال، محاولةً إعادة بناء ذاتها من جديد. فهل يزهر الحب في قلبها مرة أخرى وسط هذه التحديات، أم أن ثمن الحرية سيكون أغلى مما توقعت؟",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.7,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمد سيد بشير",
+      "cast": [
+        {
+          "name": "مي عمر",
+          "character": "موناليزا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/52e4H8J66b2jMBSt9SrlQgisirB.jpg"
+        },
+        {
+          "name": "أحمد مجدي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/kcbZnjkdCZaDm8CHZAhHo5PxgNK.jpg"
+        },
+        {
+          "name": "سوسن بدر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/yHgnipZ0bDUjjdf1Pu9S7bEhcun.jpg"
+        },
+        {
+          "name": "محمد محمود",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9UIBmYQDSX8N0XZjOdRD5PpQMtl.jpg"
+        },
+        {
+          "name": "إنجي المقدم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/raC5TRO2pZOXCi5LnbbHyicfQV6.jpg"
+        },
+        {
+          "name": "وفاء عامر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dpUrp4IJlujffHZaeIsOIVTIqKd.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=amrZlkBQKls",
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3jlWlBsqgf5tqwvmoatzBA9fFIS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1c26FvqUaoVmyVrTxTEhgIi6Gr4.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3jlWlBsqgf5tqwvmoatzBA9fFIS.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T23:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T02:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T11:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 241309,
+      "title": "ملفات منسية",
+      "clean_title": "ملفات منسية",
+      "original_title": "ملفات منسية",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في إطار من التشويق والإثارة، يتناول المسلسل قضية اختطاف الأطفال في فترة تسعينيات القرن الماضي ومطلع الألفية الحالية، وحل لغز حوادث اختفاء فتيات في ظروف غامضة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": "TV-PG",
+      "year": "2024",
+      "release_date": "2024-03-11",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "شجون الهاجري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/wRS96fvYnVovFUNqhxscKBVlCEs.jpg"
+        },
+        {
+          "name": "عبدالله بوشهري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/n0qYVtTMho2mJp0lW3dHAqLBiaR.jpg"
+        },
+        {
+          "name": "Mohammad Hashim",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9cMveoa9nEHmeBl9BSPZrWYVd5A.jpg"
+        },
+        {
+          "name": "فجر السعيد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/6f3yT5bdVyDpMgyvDjCpkby0Rsc.jpg"
+        },
+        {
+          "name": "Ranine Matar",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/YWp4qN5KtJpk5YLL4xQE7E8Q7V.jpg"
+        },
+        {
+          "name": "Asawer Ezzat",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/sYEtp3GyyaBSNPAdeUsj366uU2a.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/po427w3e89wsCPPfzjJ8lANxgqB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qlUJvrUiv2kvCP9UzFZtx3qETVW.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/po427w3e89wsCPPfzjJ8lANxgqB.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 256719,
+      "title": "كرمال الولد",
+      "clean_title": "كرمال الولد",
+      "original_title": "كرمال الولد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "description": "في إطار كوميدي، تدور الأحداث حول شاب يجبره والده على ترك إقامته في لبنان والعودة للعيش في قريته بالسعودية، فيجد صعوبة في التأقلم مع الوضع الجديد، كما يُصبح في موقف لا مفر منه؛ عندما يجبره والده على الزواج.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-06-13",
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T16:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/lC95ah4PHJy0VUCM7oL2Qbc7db2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/l1HRPXxb72DrnfmpxoDPwDerarF.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/lC95ah4PHJy0VUCM7oL2Qbc7db2.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T00:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T05:45:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T10:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 11990,
+      "title": "Far Away S3",
+      "clean_title": "Far Away",
+      "original_title": "Long Ago and Far Away",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 3,
+      "episode": null,
+      "seasons_count": 4,
+      "episodes_count": 35,
+      "description": "في الموسم الثالث، وبعد حفل زفاف دموي، يخيم الحزن على قصر (ألبورا). تعود (أليا) إلى ماردين، وتواجه حقائق مريرة، بينما تحاول بدء حياة جديدة في بودابست مع ابنها، لكن لقاءً غير متوقع يعيد هزّ ماضيها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "رسوم متحركة",
+        "دراما",
+        "عائلي"
+      ],
+      "rating": 8,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "1989",
+      "release_date": "1989-02-11",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "جيمس إيرل جونز",
+          "character": "Host",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg"
+        },
+        {
+          "name": "Tammy Grimes",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3fDIbQibma0LiRouHOZkF8GmEFb.jpg"
+        },
+        {
+          "name": "Kim Loughran",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "David Suchet",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4X4TT8Uf8mAmRIYgYh4EeR4mWva.jpg"
+        },
+        {
+          "name": "مايا فارو",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ApgaJRoRrEzmMLlYW5VJ0tcFqPY.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T16:30:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T11:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T16:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 336153,
+      "title": "أحلى نصيب",
+      "clean_title": "أحلى نصيب",
+      "original_title": "أحلى نصيب",
+      "tagline": "النسخة السعودية المعرّبة والمقتبسة رسميًا من المسلسل التركي الشهير \"العشق مجدداً\" (Aşk Yeniden)",
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 90,
+      "description": "زواج مؤقت يتحول تدريجيًا إلى ورطة يصعب الخروج منها. وبينما يسعى ركان ونورة إلى الحفاظ على قصتهما المصطنعة وإحكامها قبل أن تلاحقهما الشائعات، يبدأ الاتفاق الذي بدا مثاليًا في البداية بالانحراف عن الخطة شيئًا فشيئًا.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا",
+        "دراما"
+      ],
+      "rating": 8,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-10-04",
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "ميلا الزهراني",
+          "character": "نورة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3ZO3rP4zRVzQq8GPV82YHlSKLHS.jpg"
+        },
+        {
+          "name": "محمد الشهري",
+          "character": "راكان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/waJKqOBODBn1xjTwGHKgqQKFuM6.jpg"
+        },
+        {
+          "name": "عبدالله السدحان",
+          "character": "فلاح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4448FTHtSzHrfohskwQieFHQMH2.jpg"
+        },
+        {
+          "name": "عبدالإله السناني",
+          "character": "فيصل",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wA3ssZuENZyaOtFAgJ57lJqfEld.jpg"
+        },
+        {
+          "name": "هند محمد",
+          "character": "نوال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/35tv9nzzNNYL8F7Y0xPaFQM2Jp4.jpg"
+        },
+        {
+          "name": "غادة الملا",
+          "character": "منيرة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8JVqMNp942Kw26olxkb6hJD3J6R.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=qsNTnphZlJo",
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kVrKhYmtxdw4OWsMcfo74heTdJV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/loMCG8zmz7FdGwDwasUr26xfIgf.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kVrKhYmtxdw4OWsMcfo74heTdJV.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T12:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T12:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T22:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار MBC",
+      "clean_title": "أخبار MBC",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نشرة الأخبار الخاصة بشبكة قنوات (MBC)، والتي تعمل على مدار الساعة لتغطية كافة الأخبار والأحداث في شتى المجالات، مع عرض تفاصيلها وتطوراتها المختلفة من كافة الزوايا.",
+      "category": "برنامج",
+      "genres": [
+        "برنامج"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:00:00+00:00",
+      "stop": "2026-11-16T18:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 136487,
+      "title": "أحلى ما طاش",
+      "clean_title": "أحلى ما طاش",
+      "original_title": "أحلى ما طاش",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 136,
+      "description": "يعيد برنامج (أحلى ما طاش) عرضا لمجموعة من أفضل الحلقات التي تم تقديمها من خلال المسلسل الكوميدي السعودي (طاش ما طاش)، والذي استمر عرضه على التليفزيون السعودي لمدة 18 موسمًا متواصلًا، والتي ناقش من خلالها (ناصر القصبي) و(عبدالله السدحان) مجموعة من القضايا الاجتماعية التي تشغل بال المجتمع السعودي بطريقة ساخرة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-03-23",
+      "status": "Ended",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "عبدالله السدحان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4448FTHtSzHrfohskwQieFHQMH2.jpg"
+        },
+        {
+          "name": "ناصر القصبي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hNo0lzvLp323QjomlcS3Dw6rSbA.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T18:30:00+00:00",
+      "stop": "2026-11-16T19:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/yT2NKjQpCVbbUBMvATC6jmoVeXD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hMzXChDOMxmrTDKzyyHJSGe2jkO.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/yT2NKjQpCVbbUBMvATC6jmoVeXD.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 305745,
+      "title": "برنامج ليلة فونطاستيك مع أبلة فاهيتا",
+      "clean_title": "ليلة فونطاستيك مع أبلة فاهيتا",
+      "original_title": "ليلة فونطاستيك مع أبلة فاهيتا",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "description": "اية سماحة",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-11-15",
+      "status": "Returning Series",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "أبلة فاهيتا",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/toNttNxJRKYxHzO3To30ZnQXOeB.jpg"
+        },
+        {
+          "name": "Caro",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/6gMnZjS1dmXUo44jOjVCesOjkUL.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T19:00:00+00:00",
+      "stop": "2026-11-16T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/9svBA4xGz7NHNA7no396OCB0ex0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pPLhEvhTlJjj6yQXyg08M49nLOr.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/9svBA4xGz7NHNA7no396OCB0ex0.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج نادينا",
+      "clean_title": "نادينا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:00:00+00:00",
+      "stop": "2026-11-16T21:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 11990,
+      "title": "Far Away S3",
+      "clean_title": "Far Away",
+      "original_title": "Long Ago and Far Away",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 3,
+      "episode": null,
+      "seasons_count": 4,
+      "episodes_count": 35,
+      "description": "في الموسم الثالث، وبعد حفل زفاف دموي، يخيم الحزن على قصر (ألبورا). تعود (أليا) إلى ماردين، وتواجه حقائق مريرة، بينما تحاول بدء حياة جديدة في بودابست مع ابنها، لكن لقاءً غير متوقع يعيد هزّ ماضيها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "رسوم متحركة",
+        "دراما",
+        "عائلي"
+      ],
+      "rating": 8,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "1989",
+      "release_date": "1989-02-11",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "جيمس إيرل جونز",
+          "character": "Host",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg"
+        },
+        {
+          "name": "Tammy Grimes",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3fDIbQibma0LiRouHOZkF8GmEFb.jpg"
+        },
+        {
+          "name": "Kim Loughran",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "David Suchet",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4X4TT8Uf8mAmRIYgYh4EeR4mWva.jpg"
+        },
+        {
+          "name": "مايا فارو",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ApgaJRoRrEzmMLlYW5VJ0tcFqPY.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T21:30:00+00:00",
+      "stop": "2026-11-16T22:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T11:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T16:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 302982,
+      "title": "الست موناليزا",
+      "clean_title": "الست موناليزا",
+      "original_title": "الست موناليزا",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "ظنت \"موناليزا\" أنها تفتح باب الجنة، لكن في القاهرة تبدد الوهم سريعاً؛ زوجٌ يقتنص المصالح وعائلةٌ تتربص بها كغنيمة في زواجٍ كُبل بشروطٍ خفية. هي رحلة امرأة تخرج من رماد زواج فاشل لتواجه عواصف المجتمع وأوجاع الانفصال، محاولةً إعادة بناء ذاتها من جديد. فهل يزهر الحب في قلبها مرة أخرى وسط هذه التحديات، أم أن ثمن الحرية سيكون أغلى مما توقعت؟",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.7,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمد سيد بشير",
+      "cast": [
+        {
+          "name": "مي عمر",
+          "character": "موناليزا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/52e4H8J66b2jMBSt9SrlQgisirB.jpg"
+        },
+        {
+          "name": "أحمد مجدي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/kcbZnjkdCZaDm8CHZAhHo5PxgNK.jpg"
+        },
+        {
+          "name": "سوسن بدر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/yHgnipZ0bDUjjdf1Pu9S7bEhcun.jpg"
+        },
+        {
+          "name": "محمد محمود",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9UIBmYQDSX8N0XZjOdRD5PpQMtl.jpg"
+        },
+        {
+          "name": "إنجي المقدم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/raC5TRO2pZOXCi5LnbbHyicfQV6.jpg"
+        },
+        {
+          "name": "وفاء عامر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dpUrp4IJlujffHZaeIsOIVTIqKd.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=amrZlkBQKls",
+      "start": "2026-11-16T23:30:00+00:00",
+      "stop": "2026-11-17T00:15:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3jlWlBsqgf5tqwvmoatzBA9fFIS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1c26FvqUaoVmyVrTxTEhgIi6Gr4.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3jlWlBsqgf5tqwvmoatzBA9fFIS.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T02:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T11:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 256719,
+      "title": "كرمال الولد",
+      "clean_title": "كرمال الولد",
+      "original_title": "كرمال الولد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "description": "في إطار كوميدي، تدور الأحداث حول شاب يجبره والده على ترك إقامته في لبنان والعودة للعيش في قريته بالسعودية، فيجد صعوبة في التأقلم مع الوضع الجديد، كما يُصبح في موقف لا مفر منه؛ عندما يجبره والده على الزواج.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-06-13",
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:15:00+00:00",
+      "stop": "2026-11-17T00:45:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/lC95ah4PHJy0VUCM7oL2Qbc7db2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/l1HRPXxb72DrnfmpxoDPwDerarF.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/lC95ah4PHJy0VUCM7oL2Qbc7db2.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T05:45:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T10:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 99945,
+      "title": "مولانا",
+      "clean_title": "مولانا",
+      "original_title": "مولانا العاشق",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "هارباً من جمر ماضيه ونبذ مجتمعه، يلقي \"جابر\" بنفسه في لجة حيلة جريئة، متخفياً خلف ستار \"نسب مقدس\" في قريةٍ منسية. هناك، حيث يقتات الناس على انتظار \"المولى\" منذ عقود، يبعث جابر في أرواحهم أملأً مزيفاً يتحول تدريجياً إلى عزيمة حقيقية على البقاء. بين قدسية القناع وهشاشة الحقيقة، يجد جابر نفسه منقذاً لقرية ترفض الموت، ومطارداً بصراع أخلاقي قد يحرق الأخضر واليابس إذا انكشف المستور.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2015",
+      "release_date": "2015-06-19",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "مصطفى شعبان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4INssD8ge1uqtYvtUJeL4WeEqMr.jpg"
+        },
+        {
+          "name": "سارة سلامة",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/v12kkjF9kosrINKlqxj1vkhmrHj.jpg"
+        },
+        {
+          "name": "حنان سليمان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/whfk48vNtSAijcOuT3esPlXbVSz.jpg"
+        },
+        {
+          "name": "محمد لطفي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/Akh0XZ1gRWeMWAmDz7kbg6xwz4V.jpg"
+        },
+        {
+          "name": "خالد سرحان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/fmPmWfGd85UHuG30ldCtBaN9J51.jpg"
+        },
+        {
+          "name": "محمد الشقنقيري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ArteNFfza0t9ewCNyWXQNAkFkhN.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T00:45:00+00:00",
+      "stop": "2026-11-17T01:30:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/doV13gwAVYh4wJiar0Xofjlnxyn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9c3Xn41Wl8rAOJc3yUYnWJjavjg.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/doV13gwAVYh4wJiar0Xofjlnxyn.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T07:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 336153,
+      "title": "أحلى نصيب",
+      "clean_title": "أحلى نصيب",
+      "original_title": "أحلى نصيب",
+      "tagline": "النسخة السعودية المعرّبة والمقتبسة رسميًا من المسلسل التركي الشهير \"العشق مجدداً\" (Aşk Yeniden)",
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 90,
+      "description": "زواج مؤقت يتحول تدريجيًا إلى ورطة يصعب الخروج منها. وبينما يسعى ركان ونورة إلى الحفاظ على قصتهما المصطنعة وإحكامها قبل أن تلاحقهما الشائعات، يبدأ الاتفاق الذي بدا مثاليًا في البداية بالانحراف عن الخطة شيئًا فشيئًا.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا",
+        "دراما"
+      ],
+      "rating": 8,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-10-04",
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "ميلا الزهراني",
+          "character": "نورة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3ZO3rP4zRVzQq8GPV82YHlSKLHS.jpg"
+        },
+        {
+          "name": "محمد الشهري",
+          "character": "راكان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/waJKqOBODBn1xjTwGHKgqQKFuM6.jpg"
+        },
+        {
+          "name": "عبدالله السدحان",
+          "character": "فلاح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4448FTHtSzHrfohskwQieFHQMH2.jpg"
+        },
+        {
+          "name": "عبدالإله السناني",
+          "character": "فيصل",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wA3ssZuENZyaOtFAgJ57lJqfEld.jpg"
+        },
+        {
+          "name": "هند محمد",
+          "character": "نوال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/35tv9nzzNNYL8F7Y0xPaFQM2Jp4.jpg"
+        },
+        {
+          "name": "غادة الملا",
+          "character": "منيرة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8JVqMNp942Kw26olxkb6hJD3J6R.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=qsNTnphZlJo",
+      "start": "2026-11-17T01:30:00+00:00",
+      "stop": "2026-11-17T02:15:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kVrKhYmtxdw4OWsMcfo74heTdJV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/loMCG8zmz7FdGwDwasUr26xfIgf.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kVrKhYmtxdw4OWsMcfo74heTdJV.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T12:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T12:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T22:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 302982,
+      "title": "الست موناليزا",
+      "clean_title": "الست موناليزا",
+      "original_title": "الست موناليزا",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "ظنت \"موناليزا\" أنها تفتح باب الجنة، لكن في القاهرة تبدد الوهم سريعاً؛ زوجٌ يقتنص المصالح وعائلةٌ تتربص بها كغنيمة في زواجٍ كُبل بشروطٍ خفية. هي رحلة امرأة تخرج من رماد زواج فاشل لتواجه عواصف المجتمع وأوجاع الانفصال، محاولةً إعادة بناء ذاتها من جديد. فهل يزهر الحب في قلبها مرة أخرى وسط هذه التحديات، أم أن ثمن الحرية سيكون أغلى مما توقعت؟",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.7,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمد سيد بشير",
+      "cast": [
+        {
+          "name": "مي عمر",
+          "character": "موناليزا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/52e4H8J66b2jMBSt9SrlQgisirB.jpg"
+        },
+        {
+          "name": "أحمد مجدي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/kcbZnjkdCZaDm8CHZAhHo5PxgNK.jpg"
+        },
+        {
+          "name": "سوسن بدر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/yHgnipZ0bDUjjdf1Pu9S7bEhcun.jpg"
+        },
+        {
+          "name": "محمد محمود",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9UIBmYQDSX8N0XZjOdRD5PpQMtl.jpg"
+        },
+        {
+          "name": "إنجي المقدم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/raC5TRO2pZOXCi5LnbbHyicfQV6.jpg"
+        },
+        {
+          "name": "وفاء عامر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dpUrp4IJlujffHZaeIsOIVTIqKd.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=amrZlkBQKls",
+      "start": "2026-11-17T02:15:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3jlWlBsqgf5tqwvmoatzBA9fFIS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1c26FvqUaoVmyVrTxTEhgIi6Gr4.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3jlWlBsqgf5tqwvmoatzBA9fFIS.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T23:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T11:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 11990,
+      "title": "Far Away S3",
+      "clean_title": "Far Away",
+      "original_title": "Long Ago and Far Away",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 3,
+      "episode": null,
+      "seasons_count": 4,
+      "episodes_count": 35,
+      "description": "في الموسم الثالث، وبعد حفل زفاف دموي، يخيم الحزن على قصر (ألبورا). تعود (أليا) إلى ماردين، وتواجه حقائق مريرة، بينما تحاول بدء حياة جديدة في بودابست مع ابنها، لكن لقاءً غير متوقع يعيد هزّ ماضيها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "رسوم متحركة",
+        "دراما",
+        "عائلي"
+      ],
+      "rating": 8,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "1989",
+      "release_date": "1989-02-11",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "جيمس إيرل جونز",
+          "character": "Host",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg"
+        },
+        {
+          "name": "Tammy Grimes",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3fDIbQibma0LiRouHOZkF8GmEFb.jpg"
+        },
+        {
+          "name": "Kim Loughran",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "David Suchet",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4X4TT8Uf8mAmRIYgYh4EeR4mWva.jpg"
+        },
+        {
+          "name": "مايا فارو",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ApgaJRoRrEzmMLlYW5VJ0tcFqPY.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T03:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T11:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T16:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج نادينا",
+      "clean_title": "نادينا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:30:00+00:00",
+      "stop": "2026-11-17T05:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 241309,
+      "title": "ملفات منسية",
+      "clean_title": "ملفات منسية",
+      "original_title": "ملفات منسية",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في إطار من التشويق والإثارة، يتناول المسلسل قضية اختطاف الأطفال في فترة تسعينيات القرن الماضي ومطلع الألفية الحالية، وحل لغز حوادث اختفاء فتيات في ظروف غامضة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": "TV-PG",
+      "year": "2024",
+      "release_date": "2024-03-11",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "شجون الهاجري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/wRS96fvYnVovFUNqhxscKBVlCEs.jpg"
+        },
+        {
+          "name": "عبدالله بوشهري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/n0qYVtTMho2mJp0lW3dHAqLBiaR.jpg"
+        },
+        {
+          "name": "Mohammad Hashim",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9cMveoa9nEHmeBl9BSPZrWYVd5A.jpg"
+        },
+        {
+          "name": "فجر السعيد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/6f3yT5bdVyDpMgyvDjCpkby0Rsc.jpg"
+        },
+        {
+          "name": "Ranine Matar",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/YWp4qN5KtJpk5YLL4xQE7E8Q7V.jpg"
+        },
+        {
+          "name": "Asawer Ezzat",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/sYEtp3GyyaBSNPAdeUsj366uU2a.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T05:00:00+00:00",
+      "stop": "2026-11-17T05:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/po427w3e89wsCPPfzjJ8lANxgqB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qlUJvrUiv2kvCP9UzFZtx3qETVW.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/po427w3e89wsCPPfzjJ8lANxgqB.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 256719,
+      "title": "كرمال الولد",
+      "clean_title": "كرمال الولد",
+      "original_title": "كرمال الولد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "description": "في إطار كوميدي، تدور الأحداث حول شاب يجبره والده على ترك إقامته في لبنان والعودة للعيش في قريته بالسعودية، فيجد صعوبة في التأقلم مع الوضع الجديد، كما يُصبح في موقف لا مفر منه؛ عندما يجبره والده على الزواج.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-06-13",
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T05:45:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/lC95ah4PHJy0VUCM7oL2Qbc7db2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/l1HRPXxb72DrnfmpxoDPwDerarF.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/lC95ah4PHJy0VUCM7oL2Qbc7db2.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T00:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T10:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 11990,
+      "title": "Far Away S3",
+      "clean_title": "Far Away",
+      "original_title": "Long Ago and Far Away",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 3,
+      "episode": null,
+      "seasons_count": 4,
+      "episodes_count": 35,
+      "description": "في الموسم الثالث، وبعد حفل زفاف دموي، يخيم الحزن على قصر (ألبورا). تعود (أليا) إلى ماردين، وتواجه حقائق مريرة، بينما تحاول بدء حياة جديدة في بودابست مع ابنها، لكن لقاءً غير متوقع يعيد هزّ ماضيها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "رسوم متحركة",
+        "دراما",
+        "عائلي"
+      ],
+      "rating": 8,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "1989",
+      "release_date": "1989-02-11",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "جيمس إيرل جونز",
+          "character": "Host",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg"
+        },
+        {
+          "name": "Tammy Grimes",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3fDIbQibma0LiRouHOZkF8GmEFb.jpg"
+        },
+        {
+          "name": "Kim Loughran",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "David Suchet",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4X4TT8Uf8mAmRIYgYh4EeR4mWva.jpg"
+        },
+        {
+          "name": "مايا فارو",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ApgaJRoRrEzmMLlYW5VJ0tcFqPY.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T06:00:00+00:00",
+      "stop": "2026-11-17T06:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T11:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T16:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 302982,
+      "title": "الست موناليزا",
+      "clean_title": "الست موناليزا",
+      "original_title": "الست موناليزا",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "ظنت \"موناليزا\" أنها تفتح باب الجنة، لكن في القاهرة تبدد الوهم سريعاً؛ زوجٌ يقتنص المصالح وعائلةٌ تتربص بها كغنيمة في زواجٍ كُبل بشروطٍ خفية. هي رحلة امرأة تخرج من رماد زواج فاشل لتواجه عواصف المجتمع وأوجاع الانفصال، محاولةً إعادة بناء ذاتها من جديد. فهل يزهر الحب في قلبها مرة أخرى وسط هذه التحديات، أم أن ثمن الحرية سيكون أغلى مما توقعت؟",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.7,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمد سيد بشير",
+      "cast": [
+        {
+          "name": "مي عمر",
+          "character": "موناليزا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/52e4H8J66b2jMBSt9SrlQgisirB.jpg"
+        },
+        {
+          "name": "أحمد مجدي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/kcbZnjkdCZaDm8CHZAhHo5PxgNK.jpg"
+        },
+        {
+          "name": "سوسن بدر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/yHgnipZ0bDUjjdf1Pu9S7bEhcun.jpg"
+        },
+        {
+          "name": "محمد محمود",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9UIBmYQDSX8N0XZjOdRD5PpQMtl.jpg"
+        },
+        {
+          "name": "إنجي المقدم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/raC5TRO2pZOXCi5LnbbHyicfQV6.jpg"
+        },
+        {
+          "name": "وفاء عامر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dpUrp4IJlujffHZaeIsOIVTIqKd.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=amrZlkBQKls",
+      "start": "2026-11-17T06:30:00+00:00",
+      "stop": "2026-11-17T07:15:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3jlWlBsqgf5tqwvmoatzBA9fFIS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1c26FvqUaoVmyVrTxTEhgIi6Gr4.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3jlWlBsqgf5tqwvmoatzBA9fFIS.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T23:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T02:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T11:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 99945,
+      "title": "مولانا",
+      "clean_title": "مولانا",
+      "original_title": "مولانا العاشق",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "هارباً من جمر ماضيه ونبذ مجتمعه، يلقي \"جابر\" بنفسه في لجة حيلة جريئة، متخفياً خلف ستار \"نسب مقدس\" في قريةٍ منسية. هناك، حيث يقتات الناس على انتظار \"المولى\" منذ عقود، يبعث جابر في أرواحهم أملأً مزيفاً يتحول تدريجياً إلى عزيمة حقيقية على البقاء. بين قدسية القناع وهشاشة الحقيقة، يجد جابر نفسه منقذاً لقرية ترفض الموت، ومطارداً بصراع أخلاقي قد يحرق الأخضر واليابس إذا انكشف المستور.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2015",
+      "release_date": "2015-06-19",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "مصطفى شعبان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4INssD8ge1uqtYvtUJeL4WeEqMr.jpg"
+        },
+        {
+          "name": "سارة سلامة",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/v12kkjF9kosrINKlqxj1vkhmrHj.jpg"
+        },
+        {
+          "name": "حنان سليمان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/whfk48vNtSAijcOuT3esPlXbVSz.jpg"
+        },
+        {
+          "name": "محمد لطفي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/Akh0XZ1gRWeMWAmDz7kbg6xwz4V.jpg"
+        },
+        {
+          "name": "خالد سرحان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/fmPmWfGd85UHuG30ldCtBaN9J51.jpg"
+        },
+        {
+          "name": "محمد الشقنقيري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ArteNFfza0t9ewCNyWXQNAkFkhN.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T07:15:00+00:00",
+      "stop": "2026-11-17T08:00:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/doV13gwAVYh4wJiar0Xofjlnxyn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9c3Xn41Wl8rAOJc3yUYnWJjavjg.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/doV13gwAVYh4wJiar0Xofjlnxyn.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T00:45:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "صباح الخير يا عرب",
+      "clean_title": "صباح الخير يا عرب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج صباحي يومي، يقوم بمناقشة المشاكل الإجتماعية التي تهم المواطن العربي، يعرض الكثير من الفقرات كالأمومة، والصحة، والجمال، والفن، والسفر، ومشاكل المجتمع.",
+      "category": "برنامج",
+      "genres": [
+        "برنامج"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:00:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 241309,
+      "title": "ملفات منسية",
+      "clean_title": "ملفات منسية",
+      "original_title": "ملفات منسية",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في إطار من التشويق والإثارة، يتناول المسلسل قضية اختطاف الأطفال في فترة تسعينيات القرن الماضي ومطلع الألفية الحالية، وحل لغز حوادث اختفاء فتيات في ظروف غامضة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": "TV-PG",
+      "year": "2024",
+      "release_date": "2024-03-11",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "شجون الهاجري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/wRS96fvYnVovFUNqhxscKBVlCEs.jpg"
+        },
+        {
+          "name": "عبدالله بوشهري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/n0qYVtTMho2mJp0lW3dHAqLBiaR.jpg"
+        },
+        {
+          "name": "Mohammad Hashim",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9cMveoa9nEHmeBl9BSPZrWYVd5A.jpg"
+        },
+        {
+          "name": "فجر السعيد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/6f3yT5bdVyDpMgyvDjCpkby0Rsc.jpg"
+        },
+        {
+          "name": "Ranine Matar",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/YWp4qN5KtJpk5YLL4xQE7E8Q7V.jpg"
+        },
+        {
+          "name": "Asawer Ezzat",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/sYEtp3GyyaBSNPAdeUsj366uU2a.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T10:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/po427w3e89wsCPPfzjJ8lANxgqB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qlUJvrUiv2kvCP9UzFZtx3qETVW.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/po427w3e89wsCPPfzjJ8lANxgqB.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 256719,
+      "title": "كرمال الولد",
+      "clean_title": "كرمال الولد",
+      "original_title": "كرمال الولد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "description": "في إطار كوميدي، تدور الأحداث حول شاب يجبره والده على ترك إقامته في لبنان والعودة للعيش في قريته بالسعودية، فيجد صعوبة في التأقلم مع الوضع الجديد، كما يُصبح في موقف لا مفر منه؛ عندما يجبره والده على الزواج.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": "2024-06-13",
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:45:00+00:00",
+      "stop": "2026-11-17T11:15:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/lC95ah4PHJy0VUCM7oL2Qbc7db2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/l1HRPXxb72DrnfmpxoDPwDerarF.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/lC95ah4PHJy0VUCM7oL2Qbc7db2.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T00:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T05:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 11990,
+      "title": "Far Away S3",
+      "clean_title": "Far Away",
+      "original_title": "Long Ago and Far Away",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 3,
+      "episode": null,
+      "seasons_count": 4,
+      "episodes_count": 35,
+      "description": "في الموسم الثالث، وبعد حفل زفاف دموي، يخيم الحزن على قصر (ألبورا). تعود (أليا) إلى ماردين، وتواجه حقائق مريرة، بينما تحاول بدء حياة جديدة في بودابست مع ابنها، لكن لقاءً غير متوقع يعيد هزّ ماضيها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "رسوم متحركة",
+        "دراما",
+        "عائلي"
+      ],
+      "rating": 8,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "1989",
+      "release_date": "1989-02-11",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "جيمس إيرل جونز",
+          "character": "Host",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg"
+        },
+        {
+          "name": "Tammy Grimes",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3fDIbQibma0LiRouHOZkF8GmEFb.jpg"
+        },
+        {
+          "name": "Kim Loughran",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "David Suchet",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4X4TT8Uf8mAmRIYgYh4EeR4mWva.jpg"
+        },
+        {
+          "name": "مايا فارو",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ApgaJRoRrEzmMLlYW5VJ0tcFqPY.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T11:15:00+00:00",
+      "stop": "2026-11-17T11:30:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T16:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 302982,
+      "title": "الست موناليزا",
+      "clean_title": "الست موناليزا",
+      "original_title": "الست موناليزا",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "ظنت \"موناليزا\" أنها تفتح باب الجنة، لكن في القاهرة تبدد الوهم سريعاً؛ زوجٌ يقتنص المصالح وعائلةٌ تتربص بها كغنيمة في زواجٍ كُبل بشروطٍ خفية. هي رحلة امرأة تخرج من رماد زواج فاشل لتواجه عواصف المجتمع وأوجاع الانفصال، محاولةً إعادة بناء ذاتها من جديد. فهل يزهر الحب في قلبها مرة أخرى وسط هذه التحديات، أم أن ثمن الحرية سيكون أغلى مما توقعت؟",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.7,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمد سيد بشير",
+      "cast": [
+        {
+          "name": "مي عمر",
+          "character": "موناليزا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/52e4H8J66b2jMBSt9SrlQgisirB.jpg"
+        },
+        {
+          "name": "أحمد مجدي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/kcbZnjkdCZaDm8CHZAhHo5PxgNK.jpg"
+        },
+        {
+          "name": "سوسن بدر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/yHgnipZ0bDUjjdf1Pu9S7bEhcun.jpg"
+        },
+        {
+          "name": "محمد محمود",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9UIBmYQDSX8N0XZjOdRD5PpQMtl.jpg"
+        },
+        {
+          "name": "إنجي المقدم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/raC5TRO2pZOXCi5LnbbHyicfQV6.jpg"
+        },
+        {
+          "name": "وفاء عامر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dpUrp4IJlujffHZaeIsOIVTIqKd.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=amrZlkBQKls",
+      "start": "2026-11-17T11:30:00+00:00",
+      "stop": "2026-11-17T12:15:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3jlWlBsqgf5tqwvmoatzBA9fFIS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1c26FvqUaoVmyVrTxTEhgIi6Gr4.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3jlWlBsqgf5tqwvmoatzBA9fFIS.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T23:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T02:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 336153,
+      "title": "أحلى نصيب",
+      "clean_title": "أحلى نصيب",
+      "original_title": "أحلى نصيب",
+      "tagline": "النسخة السعودية المعرّبة والمقتبسة رسميًا من المسلسل التركي الشهير \"العشق مجدداً\" (Aşk Yeniden)",
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 90,
+      "description": "زواج مؤقت يتحول تدريجيًا إلى ورطة يصعب الخروج منها. وبينما يسعى ركان ونورة إلى الحفاظ على قصتهما المصطنعة وإحكامها قبل أن تلاحقهما الشائعات، يبدأ الاتفاق الذي بدا مثاليًا في البداية بالانحراف عن الخطة شيئًا فشيئًا.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا",
+        "دراما"
+      ],
+      "rating": 8,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-10-04",
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "ميلا الزهراني",
+          "character": "نورة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3ZO3rP4zRVzQq8GPV82YHlSKLHS.jpg"
+        },
+        {
+          "name": "محمد الشهري",
+          "character": "راكان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/waJKqOBODBn1xjTwGHKgqQKFuM6.jpg"
+        },
+        {
+          "name": "عبدالله السدحان",
+          "character": "فلاح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4448FTHtSzHrfohskwQieFHQMH2.jpg"
+        },
+        {
+          "name": "عبدالإله السناني",
+          "character": "فيصل",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wA3ssZuENZyaOtFAgJ57lJqfEld.jpg"
+        },
+        {
+          "name": "هند محمد",
+          "character": "نوال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/35tv9nzzNNYL8F7Y0xPaFQM2Jp4.jpg"
+        },
+        {
+          "name": "غادة الملا",
+          "character": "منيرة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8JVqMNp942Kw26olxkb6hJD3J6R.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=qsNTnphZlJo",
+      "start": "2026-11-17T12:15:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kVrKhYmtxdw4OWsMcfo74heTdJV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/loMCG8zmz7FdGwDwasUr26xfIgf.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kVrKhYmtxdw4OWsMcfo74heTdJV.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T12:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T22:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 99945,
+      "title": "مولانا",
+      "clean_title": "مولانا",
+      "original_title": "مولانا العاشق",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "هارباً من جمر ماضيه ونبذ مجتمعه، يلقي \"جابر\" بنفسه في لجة حيلة جريئة، متخفياً خلف ستار \"نسب مقدس\" في قريةٍ منسية. هناك، حيث يقتات الناس على انتظار \"المولى\" منذ عقود، يبعث جابر في أرواحهم أملأً مزيفاً يتحول تدريجياً إلى عزيمة حقيقية على البقاء. بين قدسية القناع وهشاشة الحقيقة، يجد جابر نفسه منقذاً لقرية ترفض الموت، ومطارداً بصراع أخلاقي قد يحرق الأخضر واليابس إذا انكشف المستور.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2015",
+      "release_date": "2015-06-19",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "مصطفى شعبان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4INssD8ge1uqtYvtUJeL4WeEqMr.jpg"
+        },
+        {
+          "name": "سارة سلامة",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/v12kkjF9kosrINKlqxj1vkhmrHj.jpg"
+        },
+        {
+          "name": "حنان سليمان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/whfk48vNtSAijcOuT3esPlXbVSz.jpg"
+        },
+        {
+          "name": "محمد لطفي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/Akh0XZ1gRWeMWAmDz7kbg6xwz4V.jpg"
+        },
+        {
+          "name": "خالد سرحان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/fmPmWfGd85UHuG30ldCtBaN9J51.jpg"
+        },
+        {
+          "name": "محمد الشقنقيري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ArteNFfza0t9ewCNyWXQNAkFkhN.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/doV13gwAVYh4wJiar0Xofjlnxyn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9c3Xn41Wl8rAOJc3yUYnWJjavjg.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/doV13gwAVYh4wJiar0Xofjlnxyn.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T00:45:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T07:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 302982,
+      "title": "الست موناليزا",
+      "clean_title": "الست موناليزا",
+      "original_title": "الست موناليزا",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "ظنت \"موناليزا\" أنها تفتح باب الجنة، لكن في القاهرة تبدد الوهم سريعاً؛ زوجٌ يقتنص المصالح وعائلةٌ تتربص بها كغنيمة في زواجٍ كُبل بشروطٍ خفية. هي رحلة امرأة تخرج من رماد زواج فاشل لتواجه عواصف المجتمع وأوجاع الانفصال، محاولةً إعادة بناء ذاتها من جديد. فهل يزهر الحب في قلبها مرة أخرى وسط هذه التحديات، أم أن ثمن الحرية سيكون أغلى مما توقعت؟",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.7,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمد سيد بشير",
+      "cast": [
+        {
+          "name": "مي عمر",
+          "character": "موناليزا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/52e4H8J66b2jMBSt9SrlQgisirB.jpg"
+        },
+        {
+          "name": "أحمد مجدي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/kcbZnjkdCZaDm8CHZAhHo5PxgNK.jpg"
+        },
+        {
+          "name": "سوسن بدر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/yHgnipZ0bDUjjdf1Pu9S7bEhcun.jpg"
+        },
+        {
+          "name": "محمد محمود",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9UIBmYQDSX8N0XZjOdRD5PpQMtl.jpg"
+        },
+        {
+          "name": "إنجي المقدم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/raC5TRO2pZOXCi5LnbbHyicfQV6.jpg"
+        },
+        {
+          "name": "وفاء عامر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dpUrp4IJlujffHZaeIsOIVTIqKd.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=amrZlkBQKls",
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3jlWlBsqgf5tqwvmoatzBA9fFIS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1c26FvqUaoVmyVrTxTEhgIi6Gr4.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3jlWlBsqgf5tqwvmoatzBA9fFIS.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T23:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T02:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T11:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 241309,
+      "title": "ملفات منسية",
+      "clean_title": "ملفات منسية",
+      "original_title": "ملفات منسية",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في إطار من التشويق والإثارة، يتناول المسلسل قضية اختطاف الأطفال في فترة تسعينيات القرن الماضي ومطلع الألفية الحالية، وحل لغز حوادث اختفاء فتيات في ظروف غامضة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": "TV-PG",
+      "year": "2024",
+      "release_date": "2024-03-11",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "شجون الهاجري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/wRS96fvYnVovFUNqhxscKBVlCEs.jpg"
+        },
+        {
+          "name": "عبدالله بوشهري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/n0qYVtTMho2mJp0lW3dHAqLBiaR.jpg"
+        },
+        {
+          "name": "Mohammad Hashim",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9cMveoa9nEHmeBl9BSPZrWYVd5A.jpg"
+        },
+        {
+          "name": "فجر السعيد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/6f3yT5bdVyDpMgyvDjCpkby0Rsc.jpg"
+        },
+        {
+          "name": "Ranine Matar",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/YWp4qN5KtJpk5YLL4xQE7E8Q7V.jpg"
+        },
+        {
+          "name": "Asawer Ezzat",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/sYEtp3GyyaBSNPAdeUsj366uU2a.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T15:00:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/po427w3e89wsCPPfzjJ8lANxgqB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qlUJvrUiv2kvCP9UzFZtx3qETVW.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/po427w3e89wsCPPfzjJ8lANxgqB.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سكة سفر ج2",
+      "clean_title": "سكة سفر ج2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواصل الإخوة الثلاثة (خالد وناصر ووليد) التعرض للمواقف والمفارقات الكوميدية أثناء توليهم إدارة فندق والدهم المتوفى، ويحاولون حل المشاكل التي يتعرضون لها سويًا.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T16:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 11990,
+      "title": "Far Away S3",
+      "clean_title": "Far Away",
+      "original_title": "Long Ago and Far Away",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 3,
+      "episode": null,
+      "seasons_count": 4,
+      "episodes_count": 35,
+      "description": "في الموسم الثالث، وبعد حفل زفاف دموي، يخيم الحزن على قصر (ألبورا). تعود (أليا) إلى ماردين، وتواجه حقائق مريرة، بينما تحاول بدء حياة جديدة في بودابست مع ابنها، لكن لقاءً غير متوقع يعيد هزّ ماضيها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "رسوم متحركة",
+        "دراما",
+        "عائلي"
+      ],
+      "rating": 8,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "1989",
+      "release_date": "1989-02-11",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "جيمس إيرل جونز",
+          "character": "Host",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg"
+        },
+        {
+          "name": "Tammy Grimes",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3fDIbQibma0LiRouHOZkF8GmEFb.jpg"
+        },
+        {
+          "name": "Kim Loughran",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "David Suchet",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4X4TT8Uf8mAmRIYgYh4EeR4mWva.jpg"
+        },
+        {
+          "name": "مايا فارو",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ApgaJRoRrEzmMLlYW5VJ0tcFqPY.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T16:30:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T11:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 336153,
+      "title": "أحلى نصيب",
+      "clean_title": "أحلى نصيب",
+      "original_title": "أحلى نصيب",
+      "tagline": "النسخة السعودية المعرّبة والمقتبسة رسميًا من المسلسل التركي الشهير \"العشق مجدداً\" (Aşk Yeniden)",
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 90,
+      "description": "زواج مؤقت يتحول تدريجيًا إلى ورطة يصعب الخروج منها. وبينما يسعى ركان ونورة إلى الحفاظ على قصتهما المصطنعة وإحكامها قبل أن تلاحقهما الشائعات، يبدأ الاتفاق الذي بدا مثاليًا في البداية بالانحراف عن الخطة شيئًا فشيئًا.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا",
+        "دراما"
+      ],
+      "rating": 8,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-10-04",
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "ميلا الزهراني",
+          "character": "نورة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3ZO3rP4zRVzQq8GPV82YHlSKLHS.jpg"
+        },
+        {
+          "name": "محمد الشهري",
+          "character": "راكان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/waJKqOBODBn1xjTwGHKgqQKFuM6.jpg"
+        },
+        {
+          "name": "عبدالله السدحان",
+          "character": "فلاح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4448FTHtSzHrfohskwQieFHQMH2.jpg"
+        },
+        {
+          "name": "عبدالإله السناني",
+          "character": "فيصل",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wA3ssZuENZyaOtFAgJ57lJqfEld.jpg"
+        },
+        {
+          "name": "هند محمد",
+          "character": "نوال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/35tv9nzzNNYL8F7Y0xPaFQM2Jp4.jpg"
+        },
+        {
+          "name": "غادة الملا",
+          "character": "منيرة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8JVqMNp942Kw26olxkb6hJD3J6R.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=qsNTnphZlJo",
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kVrKhYmtxdw4OWsMcfo74heTdJV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/loMCG8zmz7FdGwDwasUr26xfIgf.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kVrKhYmtxdw4OWsMcfo74heTdJV.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T12:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T12:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T22:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار MBC",
+      "clean_title": "أخبار MBC",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نشرة الأخبار الخاصة بشبكة قنوات (MBC)، والتي تعمل على مدار الساعة لتغطية كافة الأخبار والأحداث في شتى المجالات، مع عرض تفاصيلها وتطوراتها المختلفة من كافة الزوايا.",
+      "category": "برنامج",
+      "genres": [
+        "برنامج"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T18:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 136487,
+      "title": "أحلى ما طاش",
+      "clean_title": "أحلى ما طاش",
+      "original_title": "أحلى ما طاش",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 136,
+      "description": "يعيد برنامج (أحلى ما طاش) عرضا لمجموعة من أفضل الحلقات التي تم تقديمها من خلال المسلسل الكوميدي السعودي (طاش ما طاش)، والذي استمر عرضه على التليفزيون السعودي لمدة 18 موسمًا متواصلًا، والتي ناقش من خلالها (ناصر القصبي) و(عبدالله السدحان) مجموعة من القضايا الاجتماعية التي تشغل بال المجتمع السعودي بطريقة ساخرة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-03-23",
+      "status": "Ended",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "عبدالله السدحان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4448FTHtSzHrfohskwQieFHQMH2.jpg"
+        },
+        {
+          "name": "ناصر القصبي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hNo0lzvLp323QjomlcS3Dw6rSbA.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T18:30:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/yT2NKjQpCVbbUBMvATC6jmoVeXD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hMzXChDOMxmrTDKzyyHJSGe2jkO.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/yT2NKjQpCVbbUBMvATC6jmoVeXD.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 341744,
+      "title": "برنامج ذا فلور: الأرض لك اكسبها",
+      "clean_title": "ذا فلور: الأرض لك اكسبها",
+      "original_title": "The Floor Saudi",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "تتحول الإجابات إلى مكاسب والمساحات إلى مناطق نفوذ. تدير لبنى عبدالعزيز منافسة تجمع 100 متسابق على أرضية إل إي دي عملاقة، حيث تتسع رقعة السيطرة مع كل إجابة صحيحة. اكسب ما يكفي من المساحات... لتصبح الأرض لك.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": 8,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-11-10",
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "لبنى عبدالعزيز",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/khio3GlGNpHGG0eg8x4Em49ukss.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=lab9977atTI",
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/xEmLJxgI46TsFKcoBzRtxw7ubl2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tTwebXNzrSlPiqwx4hq7VtfRiuX.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/xEmLJxgI46TsFKcoBzRtxw7ubl2.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج نادينا",
+      "clean_title": "نادينا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:00:00+00:00",
+      "stop": "2026-11-17T21:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T03:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 11990,
+      "title": "Far Away S3",
+      "clean_title": "Far Away",
+      "original_title": "Long Ago and Far Away",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 3,
+      "episode": null,
+      "seasons_count": 4,
+      "episodes_count": 35,
+      "description": "في الموسم الثالث، وبعد حفل زفاف دموي، يخيم الحزن على قصر (ألبورا). تعود (أليا) إلى ماردين، وتواجه حقائق مريرة، بينما تحاول بدء حياة جديدة في بودابست مع ابنها، لكن لقاءً غير متوقع يعيد هزّ ماضيها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "رسوم متحركة",
+        "دراما",
+        "عائلي"
+      ],
+      "rating": 8,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "1989",
+      "release_date": "1989-02-11",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "جيمس إيرل جونز",
+          "character": "Host",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg"
+        },
+        {
+          "name": "Tammy Grimes",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3fDIbQibma0LiRouHOZkF8GmEFb.jpg"
+        },
+        {
+          "name": "Kim Loughran",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "David Suchet",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4X4TT8Uf8mAmRIYgYh4EeR4mWva.jpg"
+        },
+        {
+          "name": "مايا فارو",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ApgaJRoRrEzmMLlYW5VJ0tcFqPY.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T21:30:00+00:00",
+      "stop": "2026-11-17T22:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T11:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T16:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 241309,
+      "title": "ملفات منسية",
+      "clean_title": "ملفات منسية",
+      "original_title": "ملفات منسية",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في إطار من التشويق والإثارة، يتناول المسلسل قضية اختطاف الأطفال في فترة تسعينيات القرن الماضي ومطلع الألفية الحالية، وحل لغز حوادث اختفاء فتيات في ظروف غامضة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": "TV-PG",
+      "year": "2024",
+      "release_date": "2024-03-11",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "شجون الهاجري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/wRS96fvYnVovFUNqhxscKBVlCEs.jpg"
+        },
+        {
+          "name": "عبدالله بوشهري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/n0qYVtTMho2mJp0lW3dHAqLBiaR.jpg"
+        },
+        {
+          "name": "Mohammad Hashim",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9cMveoa9nEHmeBl9BSPZrWYVd5A.jpg"
+        },
+        {
+          "name": "فجر السعيد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/6f3yT5bdVyDpMgyvDjCpkby0Rsc.jpg"
+        },
+        {
+          "name": "Ranine Matar",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/YWp4qN5KtJpk5YLL4xQE7E8Q7V.jpg"
+        },
+        {
+          "name": "Asawer Ezzat",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/sYEtp3GyyaBSNPAdeUsj366uU2a.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T22:00:00+00:00",
+      "stop": "2026-11-17T22:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/po427w3e89wsCPPfzjJ8lANxgqB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qlUJvrUiv2kvCP9UzFZtx3qETVW.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/po427w3e89wsCPPfzjJ8lANxgqB.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 336153,
+      "title": "أحلى نصيب",
+      "clean_title": "أحلى نصيب",
+      "original_title": "أحلى نصيب",
+      "tagline": "النسخة السعودية المعرّبة والمقتبسة رسميًا من المسلسل التركي الشهير \"العشق مجدداً\" (Aşk Yeniden)",
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 90,
+      "description": "زواج مؤقت يتحول تدريجيًا إلى ورطة يصعب الخروج منها. وبينما يسعى ركان ونورة إلى الحفاظ على قصتهما المصطنعة وإحكامها قبل أن تلاحقهما الشائعات، يبدأ الاتفاق الذي بدا مثاليًا في البداية بالانحراف عن الخطة شيئًا فشيئًا.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا",
+        "دراما"
+      ],
+      "rating": 8,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-10-04",
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "ميلا الزهراني",
+          "character": "نورة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3ZO3rP4zRVzQq8GPV82YHlSKLHS.jpg"
+        },
+        {
+          "name": "محمد الشهري",
+          "character": "راكان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/waJKqOBODBn1xjTwGHKgqQKFuM6.jpg"
+        },
+        {
+          "name": "عبدالله السدحان",
+          "character": "فلاح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4448FTHtSzHrfohskwQieFHQMH2.jpg"
+        },
+        {
+          "name": "عبدالإله السناني",
+          "character": "فيصل",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wA3ssZuENZyaOtFAgJ57lJqfEld.jpg"
+        },
+        {
+          "name": "هند محمد",
+          "character": "نوال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/35tv9nzzNNYL8F7Y0xPaFQM2Jp4.jpg"
+        },
+        {
+          "name": "غادة الملا",
+          "character": "منيرة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8JVqMNp942Kw26olxkb6hJD3J6R.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=qsNTnphZlJo",
+      "start": "2026-11-17T22:45:00+00:00",
+      "stop": "2026-11-17T23:30:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kVrKhYmtxdw4OWsMcfo74heTdJV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/loMCG8zmz7FdGwDwasUr26xfIgf.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kVrKhYmtxdw4OWsMcfo74heTdJV.jpg",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T12:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T12:15:00+00:00"
+        },
+        {
+          "channel": "إم بي سي",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

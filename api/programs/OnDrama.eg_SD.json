@@ -1,0 +1,2952 @@
+{
+  "channel_id": "OnDrama.eg@SD",
+  "channel_name": "أون دراما",
+  "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+  "programs": [
+    {
+      "tmdb_id": 102446,
+      "title": "لما كنا صغيرين",
+      "clean_title": "لما كنا صغيرين",
+      "original_title": "لما كنا صغيرين",
+      "tagline": "لما كنا صغيرين",
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في إطار تشويقي مثير تدور أحداث المسلسل حول خمس أصدقاء تخرجوا في الجامعة الأمريكية، وعملوا في مكان واحد سويا يترأسه دكتور الجامعة سليم منصور الذي يتورط في أعمال مشبوهة، وإذا بجريمة قتل تقع تغير مجريات الأمور.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "جريمة",
+        "دراما"
+      ],
+      "rating": 6.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-04-24",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "أيمن سلامة",
+      "cast": [
+        {
+          "name": "محمود حميدة",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8uSJfakEstaPOBqCtn1oIzJm7VZ.jpg"
+        },
+        {
+          "name": "خالد النبوي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dCZgjQ42Wm7vbQWNGsJEGOMBeBB.jpg"
+        },
+        {
+          "name": "ريهام حجاج",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xCbVOGEiJg7rIjcpY76Q5wyZ5B4.jpg"
+        },
+        {
+          "name": "نسرين أمين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xOqnEsfAEgZrAXS3MzgKDVGmywS.jpg"
+        },
+        {
+          "name": "كريم قاسم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/nB52EaGeMPCmcoVJoWEZrO3gckX.jpg"
+        },
+        {
+          "name": "نبيل عيسى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/rZTGdfjmDBWs7iw68JvWTulHBl4.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T12:30:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/KL5NATIw3CcOKBskRI3bm2Zt1O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aqtD7kqqjLC5DJfI0ZhTDyoB30W.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/KL5NATIw3CcOKBskRI3bm2Zt1O.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 260658,
+      "title": "لام شمسية",
+      "clean_title": "لام شمسية",
+      "original_title": "لام شمسية",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "تكتشف مُعلمة أن عددًا من الأطفال يتعرضون للتحرش والتنمر في المدرسة، وتحاول بذل قصارى جهدها لمساندتهم ودعمهم وإيجاد حلول للدفاع عنهم، بينما تظهر العديد من المشكلات التي تهدد استقرار عائلتها، وتبعث التوتر والقلق في حياتها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 9.1,
+      "vote_count": 11,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-16",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "مريم نعوم, SARD",
+      "cast": [
+        {
+          "name": "أمينة خليل",
+          "character": "Nelly",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eHJBpaypMN52VSIF84r5MgvC0Mr.jpg"
+        },
+        {
+          "name": "أحمد السعدني",
+          "character": "Tarek",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bWNJ21irKIjy4aT0GB3EEAZAri8.jpg"
+        },
+        {
+          "name": "محمد شاهين",
+          "character": "Wessam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6Qg3CvAQzWkANgz3gunfa1U9xta.jpg"
+        },
+        {
+          "name": "يسرا اللوزي",
+          "character": "Rabab",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2glB9fdsojFGY4uronEqPb8tpjj.jpg"
+        },
+        {
+          "name": "أسيل عمران",
+          "character": "Heba",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sDKFB7qeM97tFsdRRruaP7BszaU.jpg"
+        },
+        {
+          "name": "صفاء الطوخي",
+          "character": "Nadia",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yxOX751sJBUB5UdkSomgXT86hK5.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=_qvCAv92zU4",
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/z1XUfhL0s1zcXLSvqmJwZuMx47Y.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/c0DKrHZXGSQn8ntAC5GVhQSAjuM.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/z1XUfhL0s1zcXLSvqmJwZuMx47Y.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T06:50:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301342,
+      "title": "اللون الأزرق",
+      "clean_title": "اللون الأزرق",
+      "original_title": "اللون الأزرق",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "تعود عائلة إلى أرض الوطن لتصطدم بواقع مرير، حيث تبدأ رحلة مضنية لعلاج ابنهم في مواجهة نظرات المجتمع الرافضة، بينما تعيش الأم صراعاً مريراً بين آلام الحاضر ومخاوفها القاتمة من المستقبل.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-03-05",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "جومانا مراد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/593m2ImBQmsODGQfmr4a6HLvkbZ.jpg"
+        },
+        {
+          "name": "أحمد رزق",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/st0gdwDQQ6SuVjdR6YzebQ4rmEg.jpg"
+        },
+        {
+          "name": "أحمد بدير",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/czumAPB9nIYytuVEELuhnBgqc10.jpg"
+        },
+        {
+          "name": "كمال أبو رية",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/1EktBy2LmZjKaldAjBObiISq4D8.jpg"
+        },
+        {
+          "name": "نجلاء بدر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/2Ke20ALk6WLyNOpqETQwBotBeId.jpg"
+        },
+        {
+          "name": "يارا قاسم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/lX8arUK6LdLNPPt89So148ib4AK.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=tutHDztRl4I",
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/i5KdBagr9mhVWBuPixxiuIXotQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nMFBhFwmD7TX6tqpwiE1Omm2fH0.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/i5KdBagr9mhVWBuPixxiuIXotQ.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T17:30:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T17:30:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 227922,
+      "title": "تاجر السعادة",
+      "clean_title": "تاجر السعادة",
+      "original_title": "تاجر السعادة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 32,
+      "description": "تدور أحداث المسلسل فى إطار درامي كوميدي، من خلال شخصية مصباح (خالد صالح) بائع الخواتم الكفيف، الذي لم يكمل دراسته الأزهرية، وبرغم من أنه فقد بصره إلا أنه لم يفقد البصيرة في التعامل مع الآخرين، حيث يعتمد أهل حارته عليه في حل مشاكلهم، ويزعم أنه صاحب \"كرامات\"، فيلتف حوله أهل المنطقة التي يعيش بها من أجل أن يحظوا بقسم من بركته.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2009",
+      "release_date": "2009-08-22",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "خالد صالح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/704KztEDhJn437IwVeJI0PNPQ9M.jpg"
+        },
+        {
+          "name": "داليا مصطفى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ceCw6VQVFTyFDjqlvkZnvix84E6.jpg"
+        },
+        {
+          "name": "هالة فاخر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
+        },
+        {
+          "name": "أحمد صيام",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/1NOtuMfgN4K1a8sAuuywV8DHgf9.jpg"
+        },
+        {
+          "name": "أشرف مصيلحي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/eI2wWB1RT1DHikO5mgLpGf6YHJq.jpg"
+        },
+        {
+          "name": "سيد الرومي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/7JwMnPhCDYG5pewMvNSPQCZg0Q5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/199jKSA7veVWDarMXusyUVHLqdd.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/199jKSA7veVWDarMXusyUVHLqdd.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 89163,
+      "title": "لمس أكتاف",
+      "clean_title": "لمس أكتاف",
+      "original_title": "لمس أكتاف",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "تدور أحداث المسلسل حول (أدهم عبد الجابر) المصارع الطموح والقوي والذي فاز بالعديد من الميداليات والجوائز، ويعتزل بسبب إصابة لحقت به، ويمر بالعديد من الظروف الصعبة ويدخل السجن بعد اتهامه بارتكاب جريمة قتل، وعند خروجه من السجن، يتورط في أعمال إجرامية، وعندما يقرر التوبة، يواجه مشكلات كبرى مع عصابات كبيرة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حركة ومغامرة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": "2019-05-06",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "ياسر جلال",
+          "character": "Adham",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eKv8dyxnnBtUofwzq4VjuvwAoEq.jpg"
+        },
+        {
+          "name": "إيمان العاصي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/raeuNnSkVgDJ1lbbYFeWVcIqSm9.jpg"
+        },
+        {
+          "name": "فتحي عبدالوهاب",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/kYIlzvwURNRxrQED5OtkqYCUN8Z.jpg"
+        },
+        {
+          "name": "حنان مطاوع",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3Nl6UYi2fgswbZDL4B5NZEXRPyM.jpg"
+        },
+        {
+          "name": "كرم جابر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/2xShcz0MXk2DOfmW7k5RsRRgPPB.jpg"
+        },
+        {
+          "name": "خالد كمال",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hFLJEGbDpTfly0ffYXPNDAJX4ch.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/86iIYios5eJiGA6Tgcqn4CZU8Dk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cTqsi9YbOQxZ8nPrevg6a9HDgHL.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/86iIYios5eJiGA6Tgcqn4CZU8Dk.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 102446,
+      "title": "لما كنا صغيرين",
+      "clean_title": "لما كنا صغيرين",
+      "original_title": "لما كنا صغيرين",
+      "tagline": "لما كنا صغيرين",
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في إطار تشويقي مثير تدور أحداث المسلسل حول خمس أصدقاء تخرجوا في الجامعة الأمريكية، وعملوا في مكان واحد سويا يترأسه دكتور الجامعة سليم منصور الذي يتورط في أعمال مشبوهة، وإذا بجريمة قتل تقع تغير مجريات الأمور.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "جريمة",
+        "دراما"
+      ],
+      "rating": 6.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-04-24",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "أيمن سلامة",
+      "cast": [
+        {
+          "name": "محمود حميدة",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8uSJfakEstaPOBqCtn1oIzJm7VZ.jpg"
+        },
+        {
+          "name": "خالد النبوي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dCZgjQ42Wm7vbQWNGsJEGOMBeBB.jpg"
+        },
+        {
+          "name": "ريهام حجاج",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xCbVOGEiJg7rIjcpY76Q5wyZ5B4.jpg"
+        },
+        {
+          "name": "نسرين أمين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xOqnEsfAEgZrAXS3MzgKDVGmywS.jpg"
+        },
+        {
+          "name": "كريم قاسم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/nB52EaGeMPCmcoVJoWEZrO3gckX.jpg"
+        },
+        {
+          "name": "نبيل عيسى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/rZTGdfjmDBWs7iw68JvWTulHBl4.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T18:00:00+00:00",
+      "stop": "2026-11-16T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/KL5NATIw3CcOKBskRI3bm2Zt1O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aqtD7kqqjLC5DJfI0ZhTDyoB30W.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/KL5NATIw3CcOKBskRI3bm2Zt1O.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 195563,
+      "title": "ملف سري",
+      "clean_title": "ملف سري",
+      "original_title": "ملف سري",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "عندما يوكل إلى القاضي يحيى عز الدين مهمة محاكمة عائلة المالكي الثرية بتهمة الفساد، يدفعه سعيه لتحقيق العدالة لخوض مغامرة خطيرة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 8,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-04-02",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "هاني سلامة",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/if3kqt07FLm0Ku4e7sZiSBjagPT.jpg"
+        },
+        {
+          "name": "ماجد المصري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hCFDKcAiotPNs5cvlhHXgFS6dX0.jpg"
+        },
+        {
+          "name": "محمد محمود عبدالعزيز",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/oS1hDu0t13ez3kyI2dPCCyIEtYb.jpg"
+        },
+        {
+          "name": "دينا",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/o5PJosMXLhe7gfmxpWmcp6fZxYP.jpg"
+        },
+        {
+          "name": "نضال الشافعي",
+          "character": "Akram",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8p85jHxtltLqMrerHvP1nHxJfZS.jpg"
+        },
+        {
+          "name": "عائشة بن أحمد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/jrViFEKQsMSELJd3yoqW6wbL9rB.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=NBYd1CeonMU",
+      "start": "2026-11-16T19:00:00+00:00",
+      "stop": "2026-11-16T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/zyywRczPfhjUdMFdJw0KIQuH4Ha.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aUYOxqGuspMWXS24xDfIwFIAY6a.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/zyywRczPfhjUdMFdJw0KIQuH4Ha.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301342,
+      "title": "اللون الأزرق",
+      "clean_title": "اللون الأزرق",
+      "original_title": "اللون الأزرق",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "تعود عائلة إلى أرض الوطن لتصطدم بواقع مرير، حيث تبدأ رحلة مضنية لعلاج ابنهم في مواجهة نظرات المجتمع الرافضة، بينما تعيش الأم صراعاً مريراً بين آلام الحاضر ومخاوفها القاتمة من المستقبل.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-03-05",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "جومانا مراد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/593m2ImBQmsODGQfmr4a6HLvkbZ.jpg"
+        },
+        {
+          "name": "أحمد رزق",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/st0gdwDQQ6SuVjdR6YzebQ4rmEg.jpg"
+        },
+        {
+          "name": "أحمد بدير",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/czumAPB9nIYytuVEELuhnBgqc10.jpg"
+        },
+        {
+          "name": "كمال أبو رية",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/1EktBy2LmZjKaldAjBObiISq4D8.jpg"
+        },
+        {
+          "name": "نجلاء بدر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/2Ke20ALk6WLyNOpqETQwBotBeId.jpg"
+        },
+        {
+          "name": "يارا قاسم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/lX8arUK6LdLNPPt89So148ib4AK.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=tutHDztRl4I",
+      "start": "2026-11-16T20:00:00+00:00",
+      "stop": "2026-11-16T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/i5KdBagr9mhVWBuPixxiuIXotQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nMFBhFwmD7TX6tqpwiE1Omm2fH0.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/i5KdBagr9mhVWBuPixxiuIXotQ.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T17:30:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T17:30:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 260658,
+      "title": "لام شمسية",
+      "clean_title": "لام شمسية",
+      "original_title": "لام شمسية",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "تكتشف مُعلمة أن عددًا من الأطفال يتعرضون للتحرش والتنمر في المدرسة، وتحاول بذل قصارى جهدها لمساندتهم ودعمهم وإيجاد حلول للدفاع عنهم، بينما تظهر العديد من المشكلات التي تهدد استقرار عائلتها، وتبعث التوتر والقلق في حياتها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 9.1,
+      "vote_count": 11,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-16",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "مريم نعوم, SARD",
+      "cast": [
+        {
+          "name": "أمينة خليل",
+          "character": "Nelly",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eHJBpaypMN52VSIF84r5MgvC0Mr.jpg"
+        },
+        {
+          "name": "أحمد السعدني",
+          "character": "Tarek",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bWNJ21irKIjy4aT0GB3EEAZAri8.jpg"
+        },
+        {
+          "name": "محمد شاهين",
+          "character": "Wessam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6Qg3CvAQzWkANgz3gunfa1U9xta.jpg"
+        },
+        {
+          "name": "يسرا اللوزي",
+          "character": "Rabab",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2glB9fdsojFGY4uronEqPb8tpjj.jpg"
+        },
+        {
+          "name": "أسيل عمران",
+          "character": "Heba",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sDKFB7qeM97tFsdRRruaP7BszaU.jpg"
+        },
+        {
+          "name": "صفاء الطوخي",
+          "character": "Nadia",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yxOX751sJBUB5UdkSomgXT86hK5.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=_qvCAv92zU4",
+      "start": "2026-11-16T21:00:00+00:00",
+      "stop": "2026-11-16T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/z1XUfhL0s1zcXLSvqmJwZuMx47Y.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/c0DKrHZXGSQn8ntAC5GVhQSAjuM.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/z1XUfhL0s1zcXLSvqmJwZuMx47Y.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T06:50:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 227922,
+      "title": "تاجر السعادة",
+      "clean_title": "تاجر السعادة",
+      "original_title": "تاجر السعادة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 32,
+      "description": "تدور أحداث المسلسل فى إطار درامي كوميدي، من خلال شخصية مصباح (خالد صالح) بائع الخواتم الكفيف، الذي لم يكمل دراسته الأزهرية، وبرغم من أنه فقد بصره إلا أنه لم يفقد البصيرة في التعامل مع الآخرين، حيث يعتمد أهل حارته عليه في حل مشاكلهم، ويزعم أنه صاحب \"كرامات\"، فيلتف حوله أهل المنطقة التي يعيش بها من أجل أن يحظوا بقسم من بركته.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2009",
+      "release_date": "2009-08-22",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "خالد صالح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/704KztEDhJn437IwVeJI0PNPQ9M.jpg"
+        },
+        {
+          "name": "داليا مصطفى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ceCw6VQVFTyFDjqlvkZnvix84E6.jpg"
+        },
+        {
+          "name": "هالة فاخر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
+        },
+        {
+          "name": "أحمد صيام",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/1NOtuMfgN4K1a8sAuuywV8DHgf9.jpg"
+        },
+        {
+          "name": "أشرف مصيلحي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/eI2wWB1RT1DHikO5mgLpGf6YHJq.jpg"
+        },
+        {
+          "name": "سيد الرومي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/7JwMnPhCDYG5pewMvNSPQCZg0Q5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T23:00:00+00:00",
+      "stop": "2026-11-17T00:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/199jKSA7veVWDarMXusyUVHLqdd.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/199jKSA7veVWDarMXusyUVHLqdd.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 89163,
+      "title": "لمس أكتاف",
+      "clean_title": "لمس أكتاف",
+      "original_title": "لمس أكتاف",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "تدور أحداث المسلسل حول (أدهم عبد الجابر) المصارع الطموح والقوي والذي فاز بالعديد من الميداليات والجوائز، ويعتزل بسبب إصابة لحقت به، ويمر بالعديد من الظروف الصعبة ويدخل السجن بعد اتهامه بارتكاب جريمة قتل، وعند خروجه من السجن، يتورط في أعمال إجرامية، وعندما يقرر التوبة، يواجه مشكلات كبرى مع عصابات كبيرة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حركة ومغامرة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": "2019-05-06",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "ياسر جلال",
+          "character": "Adham",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eKv8dyxnnBtUofwzq4VjuvwAoEq.jpg"
+        },
+        {
+          "name": "إيمان العاصي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/raeuNnSkVgDJ1lbbYFeWVcIqSm9.jpg"
+        },
+        {
+          "name": "فتحي عبدالوهاب",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/kYIlzvwURNRxrQED5OtkqYCUN8Z.jpg"
+        },
+        {
+          "name": "حنان مطاوع",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3Nl6UYi2fgswbZDL4B5NZEXRPyM.jpg"
+        },
+        {
+          "name": "كرم جابر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/2xShcz0MXk2DOfmW7k5RsRRgPPB.jpg"
+        },
+        {
+          "name": "خالد كمال",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hFLJEGbDpTfly0ffYXPNDAJX4ch.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T00:00:00+00:00",
+      "stop": "2026-11-17T01:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/86iIYios5eJiGA6Tgcqn4CZU8Dk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cTqsi9YbOQxZ8nPrevg6a9HDgHL.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/86iIYios5eJiGA6Tgcqn4CZU8Dk.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هجمة مرتدة",
+      "clean_title": "هجمة مرتدة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتناول المسلسل أحد ملفات المخابرات المصرية، حيث يخوض سيف ودينا سلسلة من العمليات السرية التي تهدف كشف المؤامرات والمخططات الإرهابية التي تسعى لتقسيم المنطقة العربية، ونشر تنظيم القاعدة بالعالم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:00:00+00:00",
+      "stop": "2026-11-17T02:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Sky News Arabia HD",
+          "start": "2026-11-16T20:15:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T11:30:00+00:00"
+        },
+        {
+          "channel": "Sky News Arabia HD",
+          "start": "2026-11-17T20:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 102446,
+      "title": "لما كنا صغيرين",
+      "clean_title": "لما كنا صغيرين",
+      "original_title": "لما كنا صغيرين",
+      "tagline": "لما كنا صغيرين",
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في إطار تشويقي مثير تدور أحداث المسلسل حول خمس أصدقاء تخرجوا في الجامعة الأمريكية، وعملوا في مكان واحد سويا يترأسه دكتور الجامعة سليم منصور الذي يتورط في أعمال مشبوهة، وإذا بجريمة قتل تقع تغير مجريات الأمور.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "جريمة",
+        "دراما"
+      ],
+      "rating": 6.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-04-24",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "أيمن سلامة",
+      "cast": [
+        {
+          "name": "محمود حميدة",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8uSJfakEstaPOBqCtn1oIzJm7VZ.jpg"
+        },
+        {
+          "name": "خالد النبوي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dCZgjQ42Wm7vbQWNGsJEGOMBeBB.jpg"
+        },
+        {
+          "name": "ريهام حجاج",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xCbVOGEiJg7rIjcpY76Q5wyZ5B4.jpg"
+        },
+        {
+          "name": "نسرين أمين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xOqnEsfAEgZrAXS3MzgKDVGmywS.jpg"
+        },
+        {
+          "name": "كريم قاسم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/nB52EaGeMPCmcoVJoWEZrO3gckX.jpg"
+        },
+        {
+          "name": "نبيل عيسى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/rZTGdfjmDBWs7iw68JvWTulHBl4.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T02:00:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/KL5NATIw3CcOKBskRI3bm2Zt1O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aqtD7kqqjLC5DJfI0ZhTDyoB30W.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/KL5NATIw3CcOKBskRI3bm2Zt1O.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 227922,
+      "title": "تاجر السعادة",
+      "clean_title": "تاجر السعادة",
+      "original_title": "تاجر السعادة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 32,
+      "description": "تدور أحداث المسلسل فى إطار درامي كوميدي، من خلال شخصية مصباح (خالد صالح) بائع الخواتم الكفيف، الذي لم يكمل دراسته الأزهرية، وبرغم من أنه فقد بصره إلا أنه لم يفقد البصيرة في التعامل مع الآخرين، حيث يعتمد أهل حارته عليه في حل مشاكلهم، ويزعم أنه صاحب \"كرامات\"، فيلتف حوله أهل المنطقة التي يعيش بها من أجل أن يحظوا بقسم من بركته.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2009",
+      "release_date": "2009-08-22",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "خالد صالح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/704KztEDhJn437IwVeJI0PNPQ9M.jpg"
+        },
+        {
+          "name": "داليا مصطفى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ceCw6VQVFTyFDjqlvkZnvix84E6.jpg"
+        },
+        {
+          "name": "هالة فاخر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
+        },
+        {
+          "name": "أحمد صيام",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/1NOtuMfgN4K1a8sAuuywV8DHgf9.jpg"
+        },
+        {
+          "name": "أشرف مصيلحي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/eI2wWB1RT1DHikO5mgLpGf6YHJq.jpg"
+        },
+        {
+          "name": "سيد الرومي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/7JwMnPhCDYG5pewMvNSPQCZg0Q5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/199jKSA7veVWDarMXusyUVHLqdd.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/199jKSA7veVWDarMXusyUVHLqdd.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 260658,
+      "title": "لام شمسية",
+      "clean_title": "لام شمسية",
+      "original_title": "لام شمسية",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "تكتشف مُعلمة أن عددًا من الأطفال يتعرضون للتحرش والتنمر في المدرسة، وتحاول بذل قصارى جهدها لمساندتهم ودعمهم وإيجاد حلول للدفاع عنهم، بينما تظهر العديد من المشكلات التي تهدد استقرار عائلتها، وتبعث التوتر والقلق في حياتها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 9.1,
+      "vote_count": 11,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-16",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "مريم نعوم, SARD",
+      "cast": [
+        {
+          "name": "أمينة خليل",
+          "character": "Nelly",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eHJBpaypMN52VSIF84r5MgvC0Mr.jpg"
+        },
+        {
+          "name": "أحمد السعدني",
+          "character": "Tarek",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bWNJ21irKIjy4aT0GB3EEAZAri8.jpg"
+        },
+        {
+          "name": "محمد شاهين",
+          "character": "Wessam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6Qg3CvAQzWkANgz3gunfa1U9xta.jpg"
+        },
+        {
+          "name": "يسرا اللوزي",
+          "character": "Rabab",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2glB9fdsojFGY4uronEqPb8tpjj.jpg"
+        },
+        {
+          "name": "أسيل عمران",
+          "character": "Heba",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sDKFB7qeM97tFsdRRruaP7BszaU.jpg"
+        },
+        {
+          "name": "صفاء الطوخي",
+          "character": "Nadia",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yxOX751sJBUB5UdkSomgXT86hK5.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=_qvCAv92zU4",
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/z1XUfhL0s1zcXLSvqmJwZuMx47Y.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/c0DKrHZXGSQn8ntAC5GVhQSAjuM.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/z1XUfhL0s1zcXLSvqmJwZuMx47Y.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T06:50:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301342,
+      "title": "اللون الأزرق",
+      "clean_title": "اللون الأزرق",
+      "original_title": "اللون الأزرق",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "تعود عائلة إلى أرض الوطن لتصطدم بواقع مرير، حيث تبدأ رحلة مضنية لعلاج ابنهم في مواجهة نظرات المجتمع الرافضة، بينما تعيش الأم صراعاً مريراً بين آلام الحاضر ومخاوفها القاتمة من المستقبل.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-03-05",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "جومانا مراد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/593m2ImBQmsODGQfmr4a6HLvkbZ.jpg"
+        },
+        {
+          "name": "أحمد رزق",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/st0gdwDQQ6SuVjdR6YzebQ4rmEg.jpg"
+        },
+        {
+          "name": "أحمد بدير",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/czumAPB9nIYytuVEELuhnBgqc10.jpg"
+        },
+        {
+          "name": "كمال أبو رية",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/1EktBy2LmZjKaldAjBObiISq4D8.jpg"
+        },
+        {
+          "name": "نجلاء بدر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/2Ke20ALk6WLyNOpqETQwBotBeId.jpg"
+        },
+        {
+          "name": "يارا قاسم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/lX8arUK6LdLNPPt89So148ib4AK.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=tutHDztRl4I",
+      "start": "2026-11-17T05:00:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/i5KdBagr9mhVWBuPixxiuIXotQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nMFBhFwmD7TX6tqpwiE1Omm2fH0.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/i5KdBagr9mhVWBuPixxiuIXotQ.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T17:30:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T17:30:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أبو العروسة ج3",
+      "clean_title": "أبو العروسة ج3",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في هذا الجزء يواجه عبد الحميد الذى خرج على المعاش مشكلة زواج ابنته هاجر التى ما زالت تدرس بالجامعة، وتخوفاتها النفسية، ومشاكل ابنته الكبرى زينة مع زوجها طارق، إضافة إلى مشكلة ابنه أكرم مع خطيبته وقراره لترك العمل، وكذلك مشاكل ابنه الأصغر مرزوق.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:00:00+00:00",
+      "stop": "2026-11-17T07:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 227922,
+      "title": "تاجر السعادة",
+      "clean_title": "تاجر السعادة",
+      "original_title": "تاجر السعادة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 32,
+      "description": "تدور أحداث المسلسل فى إطار درامي كوميدي، من خلال شخصية مصباح (خالد صالح) بائع الخواتم الكفيف، الذي لم يكمل دراسته الأزهرية، وبرغم من أنه فقد بصره إلا أنه لم يفقد البصيرة في التعامل مع الآخرين، حيث يعتمد أهل حارته عليه في حل مشاكلهم، ويزعم أنه صاحب \"كرامات\"، فيلتف حوله أهل المنطقة التي يعيش بها من أجل أن يحظوا بقسم من بركته.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2009",
+      "release_date": "2009-08-22",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "خالد صالح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/704KztEDhJn437IwVeJI0PNPQ9M.jpg"
+        },
+        {
+          "name": "داليا مصطفى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ceCw6VQVFTyFDjqlvkZnvix84E6.jpg"
+        },
+        {
+          "name": "هالة فاخر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
+        },
+        {
+          "name": "أحمد صيام",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/1NOtuMfgN4K1a8sAuuywV8DHgf9.jpg"
+        },
+        {
+          "name": "أشرف مصيلحي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/eI2wWB1RT1DHikO5mgLpGf6YHJq.jpg"
+        },
+        {
+          "name": "سيد الرومي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/7JwMnPhCDYG5pewMvNSPQCZg0Q5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T08:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/199jKSA7veVWDarMXusyUVHLqdd.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/199jKSA7veVWDarMXusyUVHLqdd.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 89163,
+      "title": "لمس أكتاف",
+      "clean_title": "لمس أكتاف",
+      "original_title": "لمس أكتاف",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "تدور أحداث المسلسل حول (أدهم عبد الجابر) المصارع الطموح والقوي والذي فاز بالعديد من الميداليات والجوائز، ويعتزل بسبب إصابة لحقت به، ويمر بالعديد من الظروف الصعبة ويدخل السجن بعد اتهامه بارتكاب جريمة قتل، وعند خروجه من السجن، يتورط في أعمال إجرامية، وعندما يقرر التوبة، يواجه مشكلات كبرى مع عصابات كبيرة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حركة ومغامرة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": "2019-05-06",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "ياسر جلال",
+          "character": "Adham",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eKv8dyxnnBtUofwzq4VjuvwAoEq.jpg"
+        },
+        {
+          "name": "إيمان العاصي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/raeuNnSkVgDJ1lbbYFeWVcIqSm9.jpg"
+        },
+        {
+          "name": "فتحي عبدالوهاب",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/kYIlzvwURNRxrQED5OtkqYCUN8Z.jpg"
+        },
+        {
+          "name": "حنان مطاوع",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3Nl6UYi2fgswbZDL4B5NZEXRPyM.jpg"
+        },
+        {
+          "name": "كرم جابر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/2xShcz0MXk2DOfmW7k5RsRRgPPB.jpg"
+        },
+        {
+          "name": "خالد كمال",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hFLJEGbDpTfly0ffYXPNDAJX4ch.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T08:00:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/86iIYios5eJiGA6Tgcqn4CZU8Dk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cTqsi9YbOQxZ8nPrevg6a9HDgHL.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/86iIYios5eJiGA6Tgcqn4CZU8Dk.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 260658,
+      "title": "لام شمسية",
+      "clean_title": "لام شمسية",
+      "original_title": "لام شمسية",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "تكتشف مُعلمة أن عددًا من الأطفال يتعرضون للتحرش والتنمر في المدرسة، وتحاول بذل قصارى جهدها لمساندتهم ودعمهم وإيجاد حلول للدفاع عنهم، بينما تظهر العديد من المشكلات التي تهدد استقرار عائلتها، وتبعث التوتر والقلق في حياتها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 9.1,
+      "vote_count": 11,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-16",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "مريم نعوم, SARD",
+      "cast": [
+        {
+          "name": "أمينة خليل",
+          "character": "Nelly",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eHJBpaypMN52VSIF84r5MgvC0Mr.jpg"
+        },
+        {
+          "name": "أحمد السعدني",
+          "character": "Tarek",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bWNJ21irKIjy4aT0GB3EEAZAri8.jpg"
+        },
+        {
+          "name": "محمد شاهين",
+          "character": "Wessam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6Qg3CvAQzWkANgz3gunfa1U9xta.jpg"
+        },
+        {
+          "name": "يسرا اللوزي",
+          "character": "Rabab",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2glB9fdsojFGY4uronEqPb8tpjj.jpg"
+        },
+        {
+          "name": "أسيل عمران",
+          "character": "Heba",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sDKFB7qeM97tFsdRRruaP7BszaU.jpg"
+        },
+        {
+          "name": "صفاء الطوخي",
+          "character": "Nadia",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yxOX751sJBUB5UdkSomgXT86hK5.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=_qvCAv92zU4",
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/z1XUfhL0s1zcXLSvqmJwZuMx47Y.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/c0DKrHZXGSQn8ntAC5GVhQSAjuM.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/z1XUfhL0s1zcXLSvqmJwZuMx47Y.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T06:50:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أبو العروسة ج3",
+      "clean_title": "أبو العروسة ج3",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في هذا الجزء يواجه عبد الحميد الذى خرج على المعاش مشكلة زواج ابنته هاجر التى ما زالت تدرس بالجامعة، وتخوفاتها النفسية، ومشاكل ابنته الكبرى زينة مع زوجها طارق، إضافة إلى مشكلة ابنه أكرم مع خطيبته وقراره لترك العمل، وكذلك مشاكل ابنه الأصغر مرزوق.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T11:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301342,
+      "title": "اللون الأزرق",
+      "clean_title": "اللون الأزرق",
+      "original_title": "اللون الأزرق",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "تعود عائلة إلى أرض الوطن لتصطدم بواقع مرير، حيث تبدأ رحلة مضنية لعلاج ابنهم في مواجهة نظرات المجتمع الرافضة، بينما تعيش الأم صراعاً مريراً بين آلام الحاضر ومخاوفها القاتمة من المستقبل.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-03-05",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "جومانا مراد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/593m2ImBQmsODGQfmr4a6HLvkbZ.jpg"
+        },
+        {
+          "name": "أحمد رزق",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/st0gdwDQQ6SuVjdR6YzebQ4rmEg.jpg"
+        },
+        {
+          "name": "أحمد بدير",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/czumAPB9nIYytuVEELuhnBgqc10.jpg"
+        },
+        {
+          "name": "كمال أبو رية",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/1EktBy2LmZjKaldAjBObiISq4D8.jpg"
+        },
+        {
+          "name": "نجلاء بدر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/2Ke20ALk6WLyNOpqETQwBotBeId.jpg"
+        },
+        {
+          "name": "يارا قاسم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/lX8arUK6LdLNPPt89So148ib4AK.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=tutHDztRl4I",
+      "start": "2026-11-17T11:00:00+00:00",
+      "stop": "2026-11-17T11:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/i5KdBagr9mhVWBuPixxiuIXotQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nMFBhFwmD7TX6tqpwiE1Omm2fH0.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/i5KdBagr9mhVWBuPixxiuIXotQ.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T17:30:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T17:30:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هجمة مرتدة",
+      "clean_title": "هجمة مرتدة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتناول المسلسل أحد ملفات المخابرات المصرية، حيث يخوض سيف ودينا سلسلة من العمليات السرية التي تهدف كشف المؤامرات والمخططات الإرهابية التي تسعى لتقسيم المنطقة العربية، ونشر تنظيم القاعدة بالعالم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:30:00+00:00",
+      "stop": "2026-11-17T12:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Sky News Arabia HD",
+          "start": "2026-11-16T20:15:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "Sky News Arabia HD",
+          "start": "2026-11-17T20:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 102446,
+      "title": "لما كنا صغيرين",
+      "clean_title": "لما كنا صغيرين",
+      "original_title": "لما كنا صغيرين",
+      "tagline": "لما كنا صغيرين",
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في إطار تشويقي مثير تدور أحداث المسلسل حول خمس أصدقاء تخرجوا في الجامعة الأمريكية، وعملوا في مكان واحد سويا يترأسه دكتور الجامعة سليم منصور الذي يتورط في أعمال مشبوهة، وإذا بجريمة قتل تقع تغير مجريات الأمور.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "جريمة",
+        "دراما"
+      ],
+      "rating": 6.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-04-24",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "أيمن سلامة",
+      "cast": [
+        {
+          "name": "محمود حميدة",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8uSJfakEstaPOBqCtn1oIzJm7VZ.jpg"
+        },
+        {
+          "name": "خالد النبوي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dCZgjQ42Wm7vbQWNGsJEGOMBeBB.jpg"
+        },
+        {
+          "name": "ريهام حجاج",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xCbVOGEiJg7rIjcpY76Q5wyZ5B4.jpg"
+        },
+        {
+          "name": "نسرين أمين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xOqnEsfAEgZrAXS3MzgKDVGmywS.jpg"
+        },
+        {
+          "name": "كريم قاسم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/nB52EaGeMPCmcoVJoWEZrO3gckX.jpg"
+        },
+        {
+          "name": "نبيل عيسى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/rZTGdfjmDBWs7iw68JvWTulHBl4.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T12:30:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/KL5NATIw3CcOKBskRI3bm2Zt1O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aqtD7kqqjLC5DJfI0ZhTDyoB30W.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/KL5NATIw3CcOKBskRI3bm2Zt1O.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 260658,
+      "title": "لام شمسية",
+      "clean_title": "لام شمسية",
+      "original_title": "لام شمسية",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "تكتشف مُعلمة أن عددًا من الأطفال يتعرضون للتحرش والتنمر في المدرسة، وتحاول بذل قصارى جهدها لمساندتهم ودعمهم وإيجاد حلول للدفاع عنهم، بينما تظهر العديد من المشكلات التي تهدد استقرار عائلتها، وتبعث التوتر والقلق في حياتها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 9.1,
+      "vote_count": 11,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-16",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "مريم نعوم, SARD",
+      "cast": [
+        {
+          "name": "أمينة خليل",
+          "character": "Nelly",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eHJBpaypMN52VSIF84r5MgvC0Mr.jpg"
+        },
+        {
+          "name": "أحمد السعدني",
+          "character": "Tarek",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bWNJ21irKIjy4aT0GB3EEAZAri8.jpg"
+        },
+        {
+          "name": "محمد شاهين",
+          "character": "Wessam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6Qg3CvAQzWkANgz3gunfa1U9xta.jpg"
+        },
+        {
+          "name": "يسرا اللوزي",
+          "character": "Rabab",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2glB9fdsojFGY4uronEqPb8tpjj.jpg"
+        },
+        {
+          "name": "أسيل عمران",
+          "character": "Heba",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sDKFB7qeM97tFsdRRruaP7BszaU.jpg"
+        },
+        {
+          "name": "صفاء الطوخي",
+          "character": "Nadia",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yxOX751sJBUB5UdkSomgXT86hK5.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=_qvCAv92zU4",
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/z1XUfhL0s1zcXLSvqmJwZuMx47Y.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/c0DKrHZXGSQn8ntAC5GVhQSAjuM.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/z1XUfhL0s1zcXLSvqmJwZuMx47Y.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T06:50:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301342,
+      "title": "اللون الأزرق",
+      "clean_title": "اللون الأزرق",
+      "original_title": "اللون الأزرق",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "تعود عائلة إلى أرض الوطن لتصطدم بواقع مرير، حيث تبدأ رحلة مضنية لعلاج ابنهم في مواجهة نظرات المجتمع الرافضة، بينما تعيش الأم صراعاً مريراً بين آلام الحاضر ومخاوفها القاتمة من المستقبل.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-03-05",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "جومانا مراد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/593m2ImBQmsODGQfmr4a6HLvkbZ.jpg"
+        },
+        {
+          "name": "أحمد رزق",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/st0gdwDQQ6SuVjdR6YzebQ4rmEg.jpg"
+        },
+        {
+          "name": "أحمد بدير",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/czumAPB9nIYytuVEELuhnBgqc10.jpg"
+        },
+        {
+          "name": "كمال أبو رية",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/1EktBy2LmZjKaldAjBObiISq4D8.jpg"
+        },
+        {
+          "name": "نجلاء بدر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/2Ke20ALk6WLyNOpqETQwBotBeId.jpg"
+        },
+        {
+          "name": "يارا قاسم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/lX8arUK6LdLNPPt89So148ib4AK.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=tutHDztRl4I",
+      "start": "2026-11-17T15:00:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/i5KdBagr9mhVWBuPixxiuIXotQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nMFBhFwmD7TX6tqpwiE1Omm2fH0.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/i5KdBagr9mhVWBuPixxiuIXotQ.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T17:30:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T17:30:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 227922,
+      "title": "تاجر السعادة",
+      "clean_title": "تاجر السعادة",
+      "original_title": "تاجر السعادة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 32,
+      "description": "تدور أحداث المسلسل فى إطار درامي كوميدي، من خلال شخصية مصباح (خالد صالح) بائع الخواتم الكفيف، الذي لم يكمل دراسته الأزهرية، وبرغم من أنه فقد بصره إلا أنه لم يفقد البصيرة في التعامل مع الآخرين، حيث يعتمد أهل حارته عليه في حل مشاكلهم، ويزعم أنه صاحب \"كرامات\"، فيلتف حوله أهل المنطقة التي يعيش بها من أجل أن يحظوا بقسم من بركته.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2009",
+      "release_date": "2009-08-22",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "خالد صالح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/704KztEDhJn437IwVeJI0PNPQ9M.jpg"
+        },
+        {
+          "name": "داليا مصطفى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/ceCw6VQVFTyFDjqlvkZnvix84E6.jpg"
+        },
+        {
+          "name": "هالة فاخر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
+        },
+        {
+          "name": "أحمد صيام",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/1NOtuMfgN4K1a8sAuuywV8DHgf9.jpg"
+        },
+        {
+          "name": "أشرف مصيلحي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/eI2wWB1RT1DHikO5mgLpGf6YHJq.jpg"
+        },
+        {
+          "name": "سيد الرومي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/7JwMnPhCDYG5pewMvNSPQCZg0Q5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/199jKSA7veVWDarMXusyUVHLqdd.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/199jKSA7veVWDarMXusyUVHLqdd.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T07:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 89163,
+      "title": "لمس أكتاف",
+      "clean_title": "لمس أكتاف",
+      "original_title": "لمس أكتاف",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "تدور أحداث المسلسل حول (أدهم عبد الجابر) المصارع الطموح والقوي والذي فاز بالعديد من الميداليات والجوائز، ويعتزل بسبب إصابة لحقت به، ويمر بالعديد من الظروف الصعبة ويدخل السجن بعد اتهامه بارتكاب جريمة قتل، وعند خروجه من السجن، يتورط في أعمال إجرامية، وعندما يقرر التوبة، يواجه مشكلات كبرى مع عصابات كبيرة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حركة ومغامرة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": "2019-05-06",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "ياسر جلال",
+          "character": "Adham",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eKv8dyxnnBtUofwzq4VjuvwAoEq.jpg"
+        },
+        {
+          "name": "إيمان العاصي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/raeuNnSkVgDJ1lbbYFeWVcIqSm9.jpg"
+        },
+        {
+          "name": "فتحي عبدالوهاب",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/kYIlzvwURNRxrQED5OtkqYCUN8Z.jpg"
+        },
+        {
+          "name": "حنان مطاوع",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3Nl6UYi2fgswbZDL4B5NZEXRPyM.jpg"
+        },
+        {
+          "name": "كرم جابر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/2xShcz0MXk2DOfmW7k5RsRRgPPB.jpg"
+        },
+        {
+          "name": "خالد كمال",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hFLJEGbDpTfly0ffYXPNDAJX4ch.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/86iIYios5eJiGA6Tgcqn4CZU8Dk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cTqsi9YbOQxZ8nPrevg6a9HDgHL.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/86iIYios5eJiGA6Tgcqn4CZU8Dk.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 102446,
+      "title": "لما كنا صغيرين",
+      "clean_title": "لما كنا صغيرين",
+      "original_title": "لما كنا صغيرين",
+      "tagline": "لما كنا صغيرين",
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في إطار تشويقي مثير تدور أحداث المسلسل حول خمس أصدقاء تخرجوا في الجامعة الأمريكية، وعملوا في مكان واحد سويا يترأسه دكتور الجامعة سليم منصور الذي يتورط في أعمال مشبوهة، وإذا بجريمة قتل تقع تغير مجريات الأمور.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "جريمة",
+        "دراما"
+      ],
+      "rating": 6.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-04-24",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "أيمن سلامة",
+      "cast": [
+        {
+          "name": "محمود حميدة",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8uSJfakEstaPOBqCtn1oIzJm7VZ.jpg"
+        },
+        {
+          "name": "خالد النبوي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dCZgjQ42Wm7vbQWNGsJEGOMBeBB.jpg"
+        },
+        {
+          "name": "ريهام حجاج",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xCbVOGEiJg7rIjcpY76Q5wyZ5B4.jpg"
+        },
+        {
+          "name": "نسرين أمين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xOqnEsfAEgZrAXS3MzgKDVGmywS.jpg"
+        },
+        {
+          "name": "كريم قاسم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/nB52EaGeMPCmcoVJoWEZrO3gckX.jpg"
+        },
+        {
+          "name": "نبيل عيسى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/rZTGdfjmDBWs7iw68JvWTulHBl4.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/KL5NATIw3CcOKBskRI3bm2Zt1O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aqtD7kqqjLC5DJfI0ZhTDyoB30W.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/KL5NATIw3CcOKBskRI3bm2Zt1O.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 195563,
+      "title": "ملف سري",
+      "clean_title": "ملف سري",
+      "original_title": "ملف سري",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "عندما يوكل إلى القاضي يحيى عز الدين مهمة محاكمة عائلة المالكي الثرية بتهمة الفساد، يدفعه سعيه لتحقيق العدالة لخوض مغامرة خطيرة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 8,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-04-02",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "هاني سلامة",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/if3kqt07FLm0Ku4e7sZiSBjagPT.jpg"
+        },
+        {
+          "name": "ماجد المصري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hCFDKcAiotPNs5cvlhHXgFS6dX0.jpg"
+        },
+        {
+          "name": "محمد محمود عبدالعزيز",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/oS1hDu0t13ez3kyI2dPCCyIEtYb.jpg"
+        },
+        {
+          "name": "دينا",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/o5PJosMXLhe7gfmxpWmcp6fZxYP.jpg"
+        },
+        {
+          "name": "نضال الشافعي",
+          "character": "Akram",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8p85jHxtltLqMrerHvP1nHxJfZS.jpg"
+        },
+        {
+          "name": "عائشة بن أحمد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/jrViFEKQsMSELJd3yoqW6wbL9rB.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=NBYd1CeonMU",
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/zyywRczPfhjUdMFdJw0KIQuH4Ha.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aUYOxqGuspMWXS24xDfIwFIAY6a.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/zyywRczPfhjUdMFdJw0KIQuH4Ha.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301342,
+      "title": "اللون الأزرق",
+      "clean_title": "اللون الأزرق",
+      "original_title": "اللون الأزرق",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "تعود عائلة إلى أرض الوطن لتصطدم بواقع مرير، حيث تبدأ رحلة مضنية لعلاج ابنهم في مواجهة نظرات المجتمع الرافضة، بينما تعيش الأم صراعاً مريراً بين آلام الحاضر ومخاوفها القاتمة من المستقبل.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-03-05",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "جومانا مراد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/593m2ImBQmsODGQfmr4a6HLvkbZ.jpg"
+        },
+        {
+          "name": "أحمد رزق",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/st0gdwDQQ6SuVjdR6YzebQ4rmEg.jpg"
+        },
+        {
+          "name": "أحمد بدير",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/czumAPB9nIYytuVEELuhnBgqc10.jpg"
+        },
+        {
+          "name": "كمال أبو رية",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/1EktBy2LmZjKaldAjBObiISq4D8.jpg"
+        },
+        {
+          "name": "نجلاء بدر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/2Ke20ALk6WLyNOpqETQwBotBeId.jpg"
+        },
+        {
+          "name": "يارا قاسم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/lX8arUK6LdLNPPt89So148ib4AK.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=tutHDztRl4I",
+      "start": "2026-11-17T20:00:00+00:00",
+      "stop": "2026-11-17T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/i5KdBagr9mhVWBuPixxiuIXotQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nMFBhFwmD7TX6tqpwiE1Omm2fH0.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/i5KdBagr9mhVWBuPixxiuIXotQ.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T17:30:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T17:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 260658,
+      "title": "لام شمسية",
+      "clean_title": "لام شمسية",
+      "original_title": "لام شمسية",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "description": "تكتشف مُعلمة أن عددًا من الأطفال يتعرضون للتحرش والتنمر في المدرسة، وتحاول بذل قصارى جهدها لمساندتهم ودعمهم وإيجاد حلول للدفاع عنهم، بينما تظهر العديد من المشكلات التي تهدد استقرار عائلتها، وتبعث التوتر والقلق في حياتها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 9.1,
+      "vote_count": 11,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-16",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "مريم نعوم, SARD",
+      "cast": [
+        {
+          "name": "أمينة خليل",
+          "character": "Nelly",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eHJBpaypMN52VSIF84r5MgvC0Mr.jpg"
+        },
+        {
+          "name": "أحمد السعدني",
+          "character": "Tarek",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bWNJ21irKIjy4aT0GB3EEAZAri8.jpg"
+        },
+        {
+          "name": "محمد شاهين",
+          "character": "Wessam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6Qg3CvAQzWkANgz3gunfa1U9xta.jpg"
+        },
+        {
+          "name": "يسرا اللوزي",
+          "character": "Rabab",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2glB9fdsojFGY4uronEqPb8tpjj.jpg"
+        },
+        {
+          "name": "أسيل عمران",
+          "character": "Heba",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sDKFB7qeM97tFsdRRruaP7BszaU.jpg"
+        },
+        {
+          "name": "صفاء الطوخي",
+          "character": "Nadia",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yxOX751sJBUB5UdkSomgXT86hK5.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=_qvCAv92zU4",
+      "start": "2026-11-17T21:00:00+00:00",
+      "stop": "2026-11-17T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/z1XUfhL0s1zcXLSvqmJwZuMx47Y.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/c0DKrHZXGSQn8ntAC5GVhQSAjuM.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/z1XUfhL0s1zcXLSvqmJwZuMx47Y.jpg",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T06:50:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أبو العروسة ج3",
+      "clean_title": "أبو العروسة ج3",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في هذا الجزء يواجه عبد الحميد الذى خرج على المعاش مشكلة زواج ابنته هاجر التى ما زالت تدرس بالجامعة، وتخوفاتها النفسية، ومشاكل ابنته الكبرى زينة مع زوجها طارق، إضافة إلى مشكلة ابنه أكرم مع خطيبته وقراره لترك العمل، وكذلك مشاكل ابنه الأصغر مرزوق.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:00:00+00:00",
+      "stop": "2026-11-17T23:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "أون دراما",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

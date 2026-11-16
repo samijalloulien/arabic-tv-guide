@@ -1,0 +1,2505 @@
+{
+  "channel_id": "iFilmArabic.ir@SD",
+  "channel_name": "آي فيلم",
+  "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+  "programs": [
+    {
+      "tmdb_id": null,
+      "title": "المال القذر",
+      "clean_title": "المال القذر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدور الأحداث في إطار درامي، حول زوجين يمتلكان مصنعًا لصناعة الملابس، لكنهما في طريقهما للإفلاس بسبب فساد مالي ومشكلات اقتصادية كبيرة، وتتوالى الأحداث.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:00:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 322159,
+      "title": "Ahle Iran",
+      "clean_title": "Ahle Iran",
+      "original_title": "Ahl Iran",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "تدور أحداث المسلسل حول الصمود المستمر والنضال للشعب الإيراني، حيث يحاولون مواصلة حياتهم في ظل عمليات القصف المدمرة التي تتعرض لها طهران خلال الحرب.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حرب وسياسة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-04-10",
+      "status": "Returning Series",
+      "country": "IR",
+      "language": "fa",
+      "director": null,
+      "cast": [
+        {
+          "name": "Kazem HajirAzad",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/jdJxgpUH9nru1XzI8Di691xgh4x.jpg"
+        },
+        {
+          "name": "Alireza Zamaninasab",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9MbdND16BxaxbkACsmcSHPCbpUz.jpg"
+        },
+        {
+          "name": "Alireza Rashidi",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Sahra Fathi",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Badri Beranjani",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وارش",
+      "clean_title": "وارش",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يلجأ يار محمد للشمال هربا من الجوع، ويقرر العمل بالصيد ولا يدرك سيطرة تراب الرجل المتعجرف البلطجي على الصيد بالمنطقة، فيخوض حربا ضده، بينما ترفض وارش أرملة جواد الزواج من تراب، وتقع في حب الشاب الشهم يار محمد.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Privacy Policy",
+      "clean_title": "Privacy Policy",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في إطار كوميدي، يتقابل ناصر مع امرأة ويتفقا على الزواج بشكل صوري لمساعدتها على العيش بشكل مستقل، وحينما تعود المرأة لطلب الطلاق سرعان ما تكتشف أن ناصر يعاني من مشاكل أكثر خطورة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 302162,
+      "title": "Youthful Days",
+      "clean_title": "Youthful Days",
+      "original_title": "ちるらん 新撰組鎮魂歌 江戸青春篇",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "description": "تنشأ صداقة بين أربعة شباب فقراء من مناطق مختلفة في إيران خلال تأديتهم الخدمة العسكرية، حيث يجدون أنفسهم بعد ذلك في الجامعة ذاتها بالعاصمة بعد ذلك بالصدفة وينضم إليهم شاب من عائلة ثرية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "حركة ومغامرة"
+      ],
+      "rating": 9.2,
+      "vote_count": 27,
+      "age_rating": "TV-MA",
+      "year": "2026",
+      "release_date": "2026-03-26",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "يوكي يامادا",
+          "character": "Toshizo Hijikata",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg"
+        },
+        {
+          "name": "鈴木伸之",
+          "character": "Isamu Kondo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xtqy7WCwD9QFFfaZCbB2nsokbZS.jpg"
+        },
+        {
+          "name": "中村蒼",
+          "character": "Keisuke Yamanami",
+          "profile_image": "https://image.tmdb.org/t/p/w185/melP3Udhsm8jpesyHURSFh3gGEL.jpg"
+        },
+        {
+          "name": "細田佳央太",
+          "character": "Souji Okita",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jzAY3P40g705sXd3QEfM1BtwVul.jpg"
+        },
+        {
+          "name": "上杉柊平",
+          "character": "Shinpachi Nagakura",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tpK9KBUhSqEJ6yOo1xvaZjDgha.jpg"
+        },
+        {
+          "name": "藤原季節",
+          "character": "Hajime Saitou",
+          "profile_image": "https://image.tmdb.org/t/p/w185/prxUmwYEdyHYfs5Ig5gU0LcrLUq.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/nggt2VQ3QXegDdKJZReSs3Dgcl8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pdenjEfBr6m3mlbWofJS0pAEQkf.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/nggt2VQ3QXegDdKJZReSs3Dgcl8.jpg",
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 209419,
+      "title": "Mastooran",
+      "clean_title": "Mastooran",
+      "original_title": "مستوران",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "في إطار من الدراما والخيال، يروي المسلسل أحداثاً مستوحاة من الحكايات التراثية الفارسية القديمة، والتي تدور في مدينة خيالية تسمى (مستوران)، قبل 500 عام في إيران.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "غموض",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.7,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-06-23",
+      "status": "Ended",
+      "country": "IR",
+      "language": "fa",
+      "director": null,
+      "cast": [
+        {
+          "name": "بیژن بنفشه‌خواه",
+          "character": "Shaver",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fYdwKkLK6GuQgsaevueUW8KkmcO.jpg"
+        },
+        {
+          "name": "حمیدرضا آذرنگ",
+          "character": "Leith",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7rDjHoUOjXvi2SSCoJ72nb7Taa0.jpg"
+        },
+        {
+          "name": "نازنین فراهانی",
+          "character": "Latifeh",
+          "profile_image": "https://image.tmdb.org/t/p/w185/a5vNeiBSm8pG0RLHfxvhukHd7zZ.jpg"
+        },
+        {
+          "name": "محمدرضا سرشار",
+          "character": "Narrator",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4yxHPRBiyKeUjw4yII5OJOzF6kB.jpg"
+        },
+        {
+          "name": "رویا میرعلمی",
+          "character": "Jahandokht",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3wDfN9wnCzWpOKHH7SBQzOrb52s.jpg"
+        },
+        {
+          "name": "Rasoul Naghavi",
+          "character": "Samsam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7jSywK0MnxdmCw3xmU2JNQRiKk5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2ptjL8EwIEjbVbDEW8iDHSj04Lw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/dgvAEWoFnbaFF5FFNF0jmGHErW1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2ptjL8EwIEjbVbDEW8iDHSj04Lw.jpg",
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "المال القذر",
+      "clean_title": "المال القذر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدور الأحداث في إطار درامي، حول زوجين يمتلكان مصنعًا لصناعة الملابس، لكنهما في طريقهما للإفلاس بسبب فساد مالي ومشكلات اقتصادية كبيرة، وتتوالى الأحداث.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:00:00+00:00",
+      "stop": "2026-11-16T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 322159,
+      "title": "Ahle Iran",
+      "clean_title": "Ahle Iran",
+      "original_title": "Ahl Iran",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "تدور أحداث المسلسل حول الصمود المستمر والنضال للشعب الإيراني، حيث يحاولون مواصلة حياتهم في ظل عمليات القصف المدمرة التي تتعرض لها طهران خلال الحرب.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حرب وسياسة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-04-10",
+      "status": "Returning Series",
+      "country": "IR",
+      "language": "fa",
+      "director": null,
+      "cast": [
+        {
+          "name": "Kazem HajirAzad",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/jdJxgpUH9nru1XzI8Di691xgh4x.jpg"
+        },
+        {
+          "name": "Alireza Zamaninasab",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9MbdND16BxaxbkACsmcSHPCbpUz.jpg"
+        },
+        {
+          "name": "Alireza Rashidi",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Sahra Fathi",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Badri Beranjani",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T19:00:00+00:00",
+      "stop": "2026-11-16T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وارش",
+      "clean_title": "وارش",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يلجأ يار محمد للشمال هربا من الجوع، ويقرر العمل بالصيد ولا يدرك سيطرة تراب الرجل المتعجرف البلطجي على الصيد بالمنطقة، فيخوض حربا ضده، بينما ترفض وارش أرملة جواد الزواج من تراب، وتقع في حب الشاب الشهم يار محمد.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:00:00+00:00",
+      "stop": "2026-11-16T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Privacy Policy",
+      "clean_title": "Privacy Policy",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في إطار كوميدي، يتقابل ناصر مع امرأة ويتفقا على الزواج بشكل صوري لمساعدتها على العيش بشكل مستقل، وحينما تعود المرأة لطلب الطلاق سرعان ما تكتشف أن ناصر يعاني من مشاكل أكثر خطورة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T21:00:00+00:00",
+      "stop": "2026-11-16T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 209419,
+      "title": "Mastooran",
+      "clean_title": "Mastooran",
+      "original_title": "مستوران",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "في إطار من الدراما والخيال، يروي المسلسل أحداثاً مستوحاة من الحكايات التراثية الفارسية القديمة، والتي تدور في مدينة خيالية تسمى (مستوران)، قبل 500 عام في إيران.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "غموض",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.7,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-06-23",
+      "status": "Ended",
+      "country": "IR",
+      "language": "fa",
+      "director": null,
+      "cast": [
+        {
+          "name": "بیژن بنفشه‌خواه",
+          "character": "Shaver",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fYdwKkLK6GuQgsaevueUW8KkmcO.jpg"
+        },
+        {
+          "name": "حمیدرضا آذرنگ",
+          "character": "Leith",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7rDjHoUOjXvi2SSCoJ72nb7Taa0.jpg"
+        },
+        {
+          "name": "نازنین فراهانی",
+          "character": "Latifeh",
+          "profile_image": "https://image.tmdb.org/t/p/w185/a5vNeiBSm8pG0RLHfxvhukHd7zZ.jpg"
+        },
+        {
+          "name": "محمدرضا سرشار",
+          "character": "Narrator",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4yxHPRBiyKeUjw4yII5OJOzF6kB.jpg"
+        },
+        {
+          "name": "رویا میرعلمی",
+          "character": "Jahandokht",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3wDfN9wnCzWpOKHH7SBQzOrb52s.jpg"
+        },
+        {
+          "name": "Rasoul Naghavi",
+          "character": "Samsam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7jSywK0MnxdmCw3xmU2JNQRiKk5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T23:00:00+00:00",
+      "stop": "2026-11-17T00:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2ptjL8EwIEjbVbDEW8iDHSj04Lw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/dgvAEWoFnbaFF5FFNF0jmGHErW1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2ptjL8EwIEjbVbDEW8iDHSj04Lw.jpg",
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "المال القذر",
+      "clean_title": "المال القذر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدور الأحداث في إطار درامي، حول زوجين يمتلكان مصنعًا لصناعة الملابس، لكنهما في طريقهما للإفلاس بسبب فساد مالي ومشكلات اقتصادية كبيرة، وتتوالى الأحداث.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:00:00+00:00",
+      "stop": "2026-11-17T01:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 322159,
+      "title": "Ahle Iran",
+      "clean_title": "Ahle Iran",
+      "original_title": "Ahl Iran",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "تدور أحداث المسلسل حول الصمود المستمر والنضال للشعب الإيراني، حيث يحاولون مواصلة حياتهم في ظل عمليات القصف المدمرة التي تتعرض لها طهران خلال الحرب.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حرب وسياسة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-04-10",
+      "status": "Returning Series",
+      "country": "IR",
+      "language": "fa",
+      "director": null,
+      "cast": [
+        {
+          "name": "Kazem HajirAzad",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/jdJxgpUH9nru1XzI8Di691xgh4x.jpg"
+        },
+        {
+          "name": "Alireza Zamaninasab",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9MbdND16BxaxbkACsmcSHPCbpUz.jpg"
+        },
+        {
+          "name": "Alireza Rashidi",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Sahra Fathi",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Badri Beranjani",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T01:00:00+00:00",
+      "stop": "2026-11-17T02:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وارش",
+      "clean_title": "وارش",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يلجأ يار محمد للشمال هربا من الجوع، ويقرر العمل بالصيد ولا يدرك سيطرة تراب الرجل المتعجرف البلطجي على الصيد بالمنطقة، فيخوض حربا ضده، بينما ترفض وارش أرملة جواد الزواج من تراب، وتقع في حب الشاب الشهم يار محمد.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T02:00:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Privacy Policy",
+      "clean_title": "Privacy Policy",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في إطار كوميدي، يتقابل ناصر مع امرأة ويتفقا على الزواج بشكل صوري لمساعدتها على العيش بشكل مستقل، وحينما تعود المرأة لطلب الطلاق سرعان ما تكتشف أن ناصر يعاني من مشاكل أكثر خطورة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 302162,
+      "title": "Youthful Days",
+      "clean_title": "Youthful Days",
+      "original_title": "ちるらん 新撰組鎮魂歌 江戸青春篇",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "description": "تنشأ صداقة بين أربعة شباب فقراء من مناطق مختلفة في إيران خلال تأديتهم الخدمة العسكرية، حيث يجدون أنفسهم بعد ذلك في الجامعة ذاتها بالعاصمة بعد ذلك بالصدفة وينضم إليهم شاب من عائلة ثرية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "حركة ومغامرة"
+      ],
+      "rating": 9.2,
+      "vote_count": 27,
+      "age_rating": "TV-MA",
+      "year": "2026",
+      "release_date": "2026-03-26",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "يوكي يامادا",
+          "character": "Toshizo Hijikata",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg"
+        },
+        {
+          "name": "鈴木伸之",
+          "character": "Isamu Kondo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xtqy7WCwD9QFFfaZCbB2nsokbZS.jpg"
+        },
+        {
+          "name": "中村蒼",
+          "character": "Keisuke Yamanami",
+          "profile_image": "https://image.tmdb.org/t/p/w185/melP3Udhsm8jpesyHURSFh3gGEL.jpg"
+        },
+        {
+          "name": "細田佳央太",
+          "character": "Souji Okita",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jzAY3P40g705sXd3QEfM1BtwVul.jpg"
+        },
+        {
+          "name": "上杉柊平",
+          "character": "Shinpachi Nagakura",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tpK9KBUhSqEJ6yOo1xvaZjDgha.jpg"
+        },
+        {
+          "name": "藤原季節",
+          "character": "Hajime Saitou",
+          "profile_image": "https://image.tmdb.org/t/p/w185/prxUmwYEdyHYfs5Ig5gU0LcrLUq.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/nggt2VQ3QXegDdKJZReSs3Dgcl8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pdenjEfBr6m3mlbWofJS0pAEQkf.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/nggt2VQ3QXegDdKJZReSs3Dgcl8.jpg",
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 209419,
+      "title": "Mastooran",
+      "clean_title": "Mastooran",
+      "original_title": "مستوران",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "في إطار من الدراما والخيال، يروي المسلسل أحداثاً مستوحاة من الحكايات التراثية الفارسية القديمة، والتي تدور في مدينة خيالية تسمى (مستوران)، قبل 500 عام في إيران.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "غموض",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.7,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-06-23",
+      "status": "Ended",
+      "country": "IR",
+      "language": "fa",
+      "director": null,
+      "cast": [
+        {
+          "name": "بیژن بنفشه‌خواه",
+          "character": "Shaver",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fYdwKkLK6GuQgsaevueUW8KkmcO.jpg"
+        },
+        {
+          "name": "حمیدرضا آذرنگ",
+          "character": "Leith",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7rDjHoUOjXvi2SSCoJ72nb7Taa0.jpg"
+        },
+        {
+          "name": "نازنین فراهانی",
+          "character": "Latifeh",
+          "profile_image": "https://image.tmdb.org/t/p/w185/a5vNeiBSm8pG0RLHfxvhukHd7zZ.jpg"
+        },
+        {
+          "name": "محمدرضا سرشار",
+          "character": "Narrator",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4yxHPRBiyKeUjw4yII5OJOzF6kB.jpg"
+        },
+        {
+          "name": "رویا میرعلمی",
+          "character": "Jahandokht",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3wDfN9wnCzWpOKHH7SBQzOrb52s.jpg"
+        },
+        {
+          "name": "Rasoul Naghavi",
+          "character": "Samsam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7jSywK0MnxdmCw3xmU2JNQRiKk5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T05:00:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2ptjL8EwIEjbVbDEW8iDHSj04Lw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/dgvAEWoFnbaFF5FFNF0jmGHErW1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2ptjL8EwIEjbVbDEW8iDHSj04Lw.jpg",
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "المال القذر",
+      "clean_title": "المال القذر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدور الأحداث في إطار درامي، حول زوجين يمتلكان مصنعًا لصناعة الملابس، لكنهما في طريقهما للإفلاس بسبب فساد مالي ومشكلات اقتصادية كبيرة، وتتوالى الأحداث.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:00:00+00:00",
+      "stop": "2026-11-17T07:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 322159,
+      "title": "Ahle Iran",
+      "clean_title": "Ahle Iran",
+      "original_title": "Ahl Iran",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "تدور أحداث المسلسل حول الصمود المستمر والنضال للشعب الإيراني، حيث يحاولون مواصلة حياتهم في ظل عمليات القصف المدمرة التي تتعرض لها طهران خلال الحرب.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حرب وسياسة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-04-10",
+      "status": "Returning Series",
+      "country": "IR",
+      "language": "fa",
+      "director": null,
+      "cast": [
+        {
+          "name": "Kazem HajirAzad",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/jdJxgpUH9nru1XzI8Di691xgh4x.jpg"
+        },
+        {
+          "name": "Alireza Zamaninasab",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9MbdND16BxaxbkACsmcSHPCbpUz.jpg"
+        },
+        {
+          "name": "Alireza Rashidi",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Sahra Fathi",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Badri Beranjani",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T08:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وارش",
+      "clean_title": "وارش",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يلجأ يار محمد للشمال هربا من الجوع، ويقرر العمل بالصيد ولا يدرك سيطرة تراب الرجل المتعجرف البلطجي على الصيد بالمنطقة، فيخوض حربا ضده، بينما ترفض وارش أرملة جواد الزواج من تراب، وتقع في حب الشاب الشهم يار محمد.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:00:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Privacy Policy",
+      "clean_title": "Privacy Policy",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في إطار كوميدي، يتقابل ناصر مع امرأة ويتفقا على الزواج بشكل صوري لمساعدتها على العيش بشكل مستقل، وحينما تعود المرأة لطلب الطلاق سرعان ما تكتشف أن ناصر يعاني من مشاكل أكثر خطورة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 302162,
+      "title": "Youthful Days",
+      "clean_title": "Youthful Days",
+      "original_title": "ちるらん 新撰組鎮魂歌 江戸青春篇",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "description": "تنشأ صداقة بين أربعة شباب فقراء من مناطق مختلفة في إيران خلال تأديتهم الخدمة العسكرية، حيث يجدون أنفسهم بعد ذلك في الجامعة ذاتها بالعاصمة بعد ذلك بالصدفة وينضم إليهم شاب من عائلة ثرية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "حركة ومغامرة"
+      ],
+      "rating": 9.2,
+      "vote_count": 27,
+      "age_rating": "TV-MA",
+      "year": "2026",
+      "release_date": "2026-03-26",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "يوكي يامادا",
+          "character": "Toshizo Hijikata",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg"
+        },
+        {
+          "name": "鈴木伸之",
+          "character": "Isamu Kondo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xtqy7WCwD9QFFfaZCbB2nsokbZS.jpg"
+        },
+        {
+          "name": "中村蒼",
+          "character": "Keisuke Yamanami",
+          "profile_image": "https://image.tmdb.org/t/p/w185/melP3Udhsm8jpesyHURSFh3gGEL.jpg"
+        },
+        {
+          "name": "細田佳央太",
+          "character": "Souji Okita",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jzAY3P40g705sXd3QEfM1BtwVul.jpg"
+        },
+        {
+          "name": "上杉柊平",
+          "character": "Shinpachi Nagakura",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tpK9KBUhSqEJ6yOo1xvaZjDgha.jpg"
+        },
+        {
+          "name": "藤原季節",
+          "character": "Hajime Saitou",
+          "profile_image": "https://image.tmdb.org/t/p/w185/prxUmwYEdyHYfs5Ig5gU0LcrLUq.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T11:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/nggt2VQ3QXegDdKJZReSs3Dgcl8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pdenjEfBr6m3mlbWofJS0pAEQkf.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/nggt2VQ3QXegDdKJZReSs3Dgcl8.jpg",
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 209419,
+      "title": "Mastooran",
+      "clean_title": "Mastooran",
+      "original_title": "مستوران",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "في إطار من الدراما والخيال، يروي المسلسل أحداثاً مستوحاة من الحكايات التراثية الفارسية القديمة، والتي تدور في مدينة خيالية تسمى (مستوران)، قبل 500 عام في إيران.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "غموض",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.7,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-06-23",
+      "status": "Ended",
+      "country": "IR",
+      "language": "fa",
+      "director": null,
+      "cast": [
+        {
+          "name": "بیژن بنفشه‌خواه",
+          "character": "Shaver",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fYdwKkLK6GuQgsaevueUW8KkmcO.jpg"
+        },
+        {
+          "name": "حمیدرضا آذرنگ",
+          "character": "Leith",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7rDjHoUOjXvi2SSCoJ72nb7Taa0.jpg"
+        },
+        {
+          "name": "نازنین فراهانی",
+          "character": "Latifeh",
+          "profile_image": "https://image.tmdb.org/t/p/w185/a5vNeiBSm8pG0RLHfxvhukHd7zZ.jpg"
+        },
+        {
+          "name": "محمدرضا سرشار",
+          "character": "Narrator",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4yxHPRBiyKeUjw4yII5OJOzF6kB.jpg"
+        },
+        {
+          "name": "رویا میرعلمی",
+          "character": "Jahandokht",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3wDfN9wnCzWpOKHH7SBQzOrb52s.jpg"
+        },
+        {
+          "name": "Rasoul Naghavi",
+          "character": "Samsam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7jSywK0MnxdmCw3xmU2JNQRiKk5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T11:00:00+00:00",
+      "stop": "2026-11-17T12:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2ptjL8EwIEjbVbDEW8iDHSj04Lw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/dgvAEWoFnbaFF5FFNF0jmGHErW1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2ptjL8EwIEjbVbDEW8iDHSj04Lw.jpg",
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "المال القذر",
+      "clean_title": "المال القذر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدور الأحداث في إطار درامي، حول زوجين يمتلكان مصنعًا لصناعة الملابس، لكنهما في طريقهما للإفلاس بسبب فساد مالي ومشكلات اقتصادية كبيرة، وتتوالى الأحداث.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:00:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 322159,
+      "title": "Ahle Iran",
+      "clean_title": "Ahle Iran",
+      "original_title": "Ahl Iran",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "تدور أحداث المسلسل حول الصمود المستمر والنضال للشعب الإيراني، حيث يحاولون مواصلة حياتهم في ظل عمليات القصف المدمرة التي تتعرض لها طهران خلال الحرب.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حرب وسياسة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-04-10",
+      "status": "Returning Series",
+      "country": "IR",
+      "language": "fa",
+      "director": null,
+      "cast": [
+        {
+          "name": "Kazem HajirAzad",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/jdJxgpUH9nru1XzI8Di691xgh4x.jpg"
+        },
+        {
+          "name": "Alireza Zamaninasab",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9MbdND16BxaxbkACsmcSHPCbpUz.jpg"
+        },
+        {
+          "name": "Alireza Rashidi",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Sahra Fathi",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Badri Beranjani",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وارش",
+      "clean_title": "وارش",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يلجأ يار محمد للشمال هربا من الجوع، ويقرر العمل بالصيد ولا يدرك سيطرة تراب الرجل المتعجرف البلطجي على الصيد بالمنطقة، فيخوض حربا ضده، بينما ترفض وارش أرملة جواد الزواج من تراب، وتقع في حب الشاب الشهم يار محمد.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Privacy Policy",
+      "clean_title": "Privacy Policy",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في إطار كوميدي، يتقابل ناصر مع امرأة ويتفقا على الزواج بشكل صوري لمساعدتها على العيش بشكل مستقل، وحينما تعود المرأة لطلب الطلاق سرعان ما تكتشف أن ناصر يعاني من مشاكل أكثر خطورة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T15:00:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 302162,
+      "title": "Youthful Days",
+      "clean_title": "Youthful Days",
+      "original_title": "ちるらん 新撰組鎮魂歌 江戸青春篇",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "description": "تنشأ صداقة بين أربعة شباب فقراء من مناطق مختلفة في إيران خلال تأديتهم الخدمة العسكرية، حيث يجدون أنفسهم بعد ذلك في الجامعة ذاتها بالعاصمة بعد ذلك بالصدفة وينضم إليهم شاب من عائلة ثرية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "حركة ومغامرة"
+      ],
+      "rating": 9.2,
+      "vote_count": 27,
+      "age_rating": "TV-MA",
+      "year": "2026",
+      "release_date": "2026-03-26",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "يوكي يامادا",
+          "character": "Toshizo Hijikata",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg"
+        },
+        {
+          "name": "鈴木伸之",
+          "character": "Isamu Kondo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xtqy7WCwD9QFFfaZCbB2nsokbZS.jpg"
+        },
+        {
+          "name": "中村蒼",
+          "character": "Keisuke Yamanami",
+          "profile_image": "https://image.tmdb.org/t/p/w185/melP3Udhsm8jpesyHURSFh3gGEL.jpg"
+        },
+        {
+          "name": "細田佳央太",
+          "character": "Souji Okita",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jzAY3P40g705sXd3QEfM1BtwVul.jpg"
+        },
+        {
+          "name": "上杉柊平",
+          "character": "Shinpachi Nagakura",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tpK9KBUhSqEJ6yOo1xvaZjDgha.jpg"
+        },
+        {
+          "name": "藤原季節",
+          "character": "Hajime Saitou",
+          "profile_image": "https://image.tmdb.org/t/p/w185/prxUmwYEdyHYfs5Ig5gU0LcrLUq.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/nggt2VQ3QXegDdKJZReSs3Dgcl8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pdenjEfBr6m3mlbWofJS0pAEQkf.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/nggt2VQ3QXegDdKJZReSs3Dgcl8.jpg",
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 209419,
+      "title": "Mastooran",
+      "clean_title": "Mastooran",
+      "original_title": "مستوران",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "في إطار من الدراما والخيال، يروي المسلسل أحداثاً مستوحاة من الحكايات التراثية الفارسية القديمة، والتي تدور في مدينة خيالية تسمى (مستوران)، قبل 500 عام في إيران.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "غموض",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.7,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": "2022-06-23",
+      "status": "Ended",
+      "country": "IR",
+      "language": "fa",
+      "director": null,
+      "cast": [
+        {
+          "name": "بیژن بنفشه‌خواه",
+          "character": "Shaver",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fYdwKkLK6GuQgsaevueUW8KkmcO.jpg"
+        },
+        {
+          "name": "حمیدرضا آذرنگ",
+          "character": "Leith",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7rDjHoUOjXvi2SSCoJ72nb7Taa0.jpg"
+        },
+        {
+          "name": "نازنین فراهانی",
+          "character": "Latifeh",
+          "profile_image": "https://image.tmdb.org/t/p/w185/a5vNeiBSm8pG0RLHfxvhukHd7zZ.jpg"
+        },
+        {
+          "name": "محمدرضا سرشار",
+          "character": "Narrator",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4yxHPRBiyKeUjw4yII5OJOzF6kB.jpg"
+        },
+        {
+          "name": "رویا میرعلمی",
+          "character": "Jahandokht",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3wDfN9wnCzWpOKHH7SBQzOrb52s.jpg"
+        },
+        {
+          "name": "Rasoul Naghavi",
+          "character": "Samsam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7jSywK0MnxdmCw3xmU2JNQRiKk5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2ptjL8EwIEjbVbDEW8iDHSj04Lw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/dgvAEWoFnbaFF5FFNF0jmGHErW1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2ptjL8EwIEjbVbDEW8iDHSj04Lw.jpg",
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "المال القذر",
+      "clean_title": "المال القذر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدور الأحداث في إطار درامي، حول زوجين يمتلكان مصنعًا لصناعة الملابس، لكنهما في طريقهما للإفلاس بسبب فساد مالي ومشكلات اقتصادية كبيرة، وتتوالى الأحداث.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 322159,
+      "title": "Ahle Iran",
+      "clean_title": "Ahle Iran",
+      "original_title": "Ahl Iran",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "تدور أحداث المسلسل حول الصمود المستمر والنضال للشعب الإيراني، حيث يحاولون مواصلة حياتهم في ظل عمليات القصف المدمرة التي تتعرض لها طهران خلال الحرب.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حرب وسياسة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-04-10",
+      "status": "Returning Series",
+      "country": "IR",
+      "language": "fa",
+      "director": null,
+      "cast": [
+        {
+          "name": "Kazem HajirAzad",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/jdJxgpUH9nru1XzI8Di691xgh4x.jpg"
+        },
+        {
+          "name": "Alireza Zamaninasab",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9MbdND16BxaxbkACsmcSHPCbpUz.jpg"
+        },
+        {
+          "name": "Alireza Rashidi",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Sahra Fathi",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Badri Beranjani",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وارش",
+      "clean_title": "وارش",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يلجأ يار محمد للشمال هربا من الجوع، ويقرر العمل بالصيد ولا يدرك سيطرة تراب الرجل المتعجرف البلطجي على الصيد بالمنطقة، فيخوض حربا ضده، بينما ترفض وارش أرملة جواد الزواج من تراب، وتقع في حب الشاب الشهم يار محمد.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:00:00+00:00",
+      "stop": "2026-11-17T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Privacy Policy",
+      "clean_title": "Privacy Policy",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في إطار كوميدي، يتقابل ناصر مع امرأة ويتفقا على الزواج بشكل صوري لمساعدتها على العيش بشكل مستقل، وحينما تعود المرأة لطلب الطلاق سرعان ما تكتشف أن ناصر يعاني من مشاكل أكثر خطورة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:00:00+00:00",
+      "stop": "2026-11-17T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 302162,
+      "title": "Youthful Days",
+      "clean_title": "Youthful Days",
+      "original_title": "ちるらん 新撰組鎮魂歌 江戸青春篇",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "description": "تنشأ صداقة بين أربعة شباب فقراء من مناطق مختلفة في إيران خلال تأديتهم الخدمة العسكرية، حيث يجدون أنفسهم بعد ذلك في الجامعة ذاتها بالعاصمة بعد ذلك بالصدفة وينضم إليهم شاب من عائلة ثرية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "حركة ومغامرة"
+      ],
+      "rating": 9.2,
+      "vote_count": 27,
+      "age_rating": "TV-MA",
+      "year": "2026",
+      "release_date": "2026-03-26",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "يوكي يامادا",
+          "character": "Toshizo Hijikata",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg"
+        },
+        {
+          "name": "鈴木伸之",
+          "character": "Isamu Kondo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xtqy7WCwD9QFFfaZCbB2nsokbZS.jpg"
+        },
+        {
+          "name": "中村蒼",
+          "character": "Keisuke Yamanami",
+          "profile_image": "https://image.tmdb.org/t/p/w185/melP3Udhsm8jpesyHURSFh3gGEL.jpg"
+        },
+        {
+          "name": "細田佳央太",
+          "character": "Souji Okita",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jzAY3P40g705sXd3QEfM1BtwVul.jpg"
+        },
+        {
+          "name": "上杉柊平",
+          "character": "Shinpachi Nagakura",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tpK9KBUhSqEJ6yOo1xvaZjDgha.jpg"
+        },
+        {
+          "name": "藤原季節",
+          "character": "Hajime Saitou",
+          "profile_image": "https://image.tmdb.org/t/p/w185/prxUmwYEdyHYfs5Ig5gU0LcrLUq.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T22:00:00+00:00",
+      "stop": "2026-11-17T23:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/nggt2VQ3QXegDdKJZReSs3Dgcl8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pdenjEfBr6m3mlbWofJS0pAEQkf.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/nggt2VQ3QXegDdKJZReSs3Dgcl8.jpg",
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "آي فيلم",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

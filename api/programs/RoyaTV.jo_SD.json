@@ -1,0 +1,2422 @@
+{
+  "channel_id": "RoyaTV.jo@SD",
+  "channel_name": "Roya TV HD",
+  "channel_icon": "https://i.imgur.com/WX80rty.png",
+  "programs": [
+    {
+      "tmdb_id": 286066,
+      "title": "دنيا يا دنيا",
+      "clean_title": "دنيا يا دنيا",
+      "original_title": "غريب يا دنيا",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "description": "يقوم المضيفون بدعوة الخبراء لمناقشة مواضيع مختلفة وتقديم نصائح قيمة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-01",
+      "status": "Returning Series",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "مي كساب",
+          "character": "دنيا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/n8CUAduiVrIKHAlCmyFKCpVwTwE.jpg"
+        },
+        {
+          "name": "محمد ثروت",
+          "character": "غريب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3uqttDmL1KH7811E3plwINeGtUs.jpg"
+        },
+        {
+          "name": "سامي مغاوري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/675TmIEoWDqpHYF5BCe0moimtXr.jpg"
+        },
+        {
+          "name": "عمرو عبدالعزيز",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/wnIWpFuRFwJEADwbA9Ats4YskNd.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=rW__FIFWIQw",
+      "start": "2026-11-15T22:30:00+00:00",
+      "stop": "2026-11-16T01:30:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/cGeOkMrXJCxkbh5rT2Rr9oOk8k2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/j9XAnkVjYBbcRmXjDAM9gY8yYG9.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/cGeOkMrXJCxkbh5rT2Rr9oOk8k2.jpg",
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مطبخ رؤيا",
+      "clean_title": "مطبخ رؤيا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم طهاة موهوبون وصفات ويحضرون أطباقاً لذيذة من مطابخ مختلفة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:30:00+00:00",
+      "stop": "2026-11-16T03:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "من هنا نبدأ",
+      "clean_title": "من هنا نبدأ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج حواري",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T03:00:00+00:00",
+      "stop": "2026-11-16T03:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار رؤيا",
+      "clean_title": "أخبار رؤيا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المذيع آخر الأخبار والتطورات من جميع أنحاء العالم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T03:30:00+00:00",
+      "stop": "2026-11-16T04:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار الصباح",
+      "clean_title": "أخبار الصباح",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ويسلط المذيعون الضوء على آخر الأخبار وأبرز التطورات والمستجدات التي تشهدها الأردن، بالإضافة إلى استعراض معدلات درجات الحرارة المتوقعة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T04:00:00+00:00",
+      "stop": "2026-11-16T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 286066,
+      "title": "دنيا يا دنيا",
+      "clean_title": "دنيا يا دنيا",
+      "original_title": "غريب يا دنيا",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "description": "يقوم المضيفون بدعوة الخبراء لمناقشة مواضيع مختلفة وتقديم نصائح قيمة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-01",
+      "status": "Returning Series",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "مي كساب",
+          "character": "دنيا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/n8CUAduiVrIKHAlCmyFKCpVwTwE.jpg"
+        },
+        {
+          "name": "محمد ثروت",
+          "character": "غريب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3uqttDmL1KH7811E3plwINeGtUs.jpg"
+        },
+        {
+          "name": "سامي مغاوري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/675TmIEoWDqpHYF5BCe0moimtXr.jpg"
+        },
+        {
+          "name": "عمرو عبدالعزيز",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/wnIWpFuRFwJEADwbA9Ats4YskNd.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=rW__FIFWIQw",
+      "start": "2026-11-16T05:00:00+00:00",
+      "stop": "2026-11-16T08:00:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/cGeOkMrXJCxkbh5rT2Rr9oOk8k2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/j9XAnkVjYBbcRmXjDAM9gY8yYG9.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/cGeOkMrXJCxkbh5rT2Rr9oOk8k2.jpg",
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-15T22:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مطبخ رؤيا",
+      "clean_title": "مطبخ رؤيا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم طهاة موهوبون وصفات ويحضرون أطباقاً لذيذة من مطابخ مختلفة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:00:00+00:00",
+      "stop": "2026-11-16T09:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T01:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كارافان بلاس",
+      "clean_title": "كارافان بلاس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ويقوم المذيعون بدعوة شخصيات مختلفة لمناقشة الأخبار والتحديثات الاجتماعية والموضوعات التي تهم الشباب الأردني وتسليط الضوء على بعض الموسيقى والبرامج التلفزيونية والأفلام الأكثر شعبية.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T09:30:00+00:00",
+      "stop": "2026-11-16T10:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 310476,
+      "title": "بخمس أرواح",
+      "clean_title": "بخمس أرواح",
+      "original_title": "بخمس ارواح",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "يجب على شمس نحقيق شرط واحد للحصول على ثروة والده.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "لبنان",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "قصي خولي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3R2Lb7TFgKVZbBlWmuvEAsF2gGy.jpg"
+        },
+        {
+          "name": "كاريس بشار",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/m55P3chgUAAfawfG5vg6aRXvemU.jpg"
+        },
+        {
+          "name": "عادل كرم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/vr9nbh7GHuRjQMkkpJPrL6gpYdX.jpg"
+        },
+        {
+          "name": "Joseph Bou Nassar",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Talal Jurdi",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/cHt27qVfJMMNLrC9nq5cbNQRfuh.jpg"
+        },
+        {
+          "name": "جنيد زين الدين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/gmfOXESSFI0XNjvmrA2bumTjMEo.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T10:30:00+00:00",
+      "stop": "2026-11-16T11:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/eSivV5c64B8hacp9cNlX1Ejk53O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/AuzWYk3tppgBbMQGffOxSbpbwJ4.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/eSivV5c64B8hacp9cNlX1Ejk53O.jpg",
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "السومرية",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "السومرية",
+          "start": "2026-11-16T17:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T10:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فترة الأطفال",
+      "clean_title": "فترة الأطفال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مجموعة متنوعة من البرامج التلفزيونية الشهيرة والرسوم المتحركة والأفلام التي تهدف إلى تعليم الأطفال دروسًا قيمة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T11:30:00+00:00",
+      "stop": "2026-11-16T12:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T11:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 241812,
+      "title": "خبز وملح",
+      "clean_title": "خبز وملح",
+      "original_title": "خبز وملح",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "تحاول عائلة يعاني أفرادها من زيادة الوزن اتباع حمية غذائية صحية وخسارة الوزن",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2003",
+      "release_date": "2003-12-18",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "قصي خولي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3R2Lb7TFgKVZbBlWmuvEAsF2gGy.jpg"
+        },
+        {
+          "name": "سعد الدين بقدونس",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/iNfLlgthVKl9UTEYD4RgybqnSri.jpg"
+        },
+        {
+          "name": "شكران مرتجى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/mMVEvrN2tCOZuAv4ffMuhRISyqT.jpg"
+        },
+        {
+          "name": "Laila Jabr",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/niHJJSUDZF8wlWeFH8bo6YlM1HO.jpg"
+        },
+        {
+          "name": "مانيا نبواني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/NDyN3TnHcqODBKa3cGCsQtIaKX.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T12:30:00+00:00",
+      "stop": "2026-11-16T13:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/sD1c91ZXYpszGEcFZZD1WkYLTIE.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/sD1c91ZXYpszGEcFZZD1WkYLTIE.jpg",
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار رؤيا",
+      "clean_title": "أخبار رؤيا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المذيع آخر الأخبار والتطورات من جميع أنحاء العالم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:30:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "مطبخ رؤيا",
+      "clean_title": "مطبخ رؤيا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم طهاة موهوبون وصفات ويحضرون أطباقاً لذيذة من مطابخ مختلفة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T01:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "من هنا نبدأ",
+      "clean_title": "من هنا نبدأ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج حواري",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:30:00+00:00",
+      "stop": "2026-11-16T16:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T03:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار رؤيا",
+      "clean_title": "أخبار رؤيا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المذيع آخر الأخبار والتطورات من جميع أنحاء العالم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:30:00+00:00",
+      "stop": "2026-11-16T17:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "نبض البلد",
+      "clean_title": "نبض البلد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "شخصيات بارزة وخبراء يناقشون أهم القضايا السياسية والاقتصادية والاجتماعية التي يواجهها المجتمع الأردني.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T17:30:00+00:00",
+      "stop": "2026-11-16T18:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T17:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كارافان بلاس",
+      "clean_title": "كارافان بلاس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ويقوم المذيعون بدعوة شخصيات مختلفة لمناقشة الأخبار والتحديثات الاجتماعية والموضوعات التي تهم الشباب الأردني وتسليط الضوء على بعض الموسيقى والبرامج التلفزيونية والأفلام الأكثر شعبية.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:30:00+00:00",
+      "stop": "2026-11-16T19:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T09:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 313371,
+      "title": "السوق الحرة",
+      "clean_title": "السوق الحرة",
+      "original_title": "السوق الحرة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "يواجه موظفو المطارات الدولية أكثر المواقف طرافةً بشكل يومي.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-19",
+      "status": "Returning Series",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "محمد رضوان",
+          "character": "كاظم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/e2vasSp3ZkGlRoPWGzCOHYN3oJs.jpg"
+        },
+        {
+          "name": "محمد ثروت",
+          "character": "جمعة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3uqttDmL1KH7811E3plwINeGtUs.jpg"
+        },
+        {
+          "name": "هالة فاخر",
+          "character": "وفاء",
+          "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
+        },
+        {
+          "name": "حسام داغر",
+          "character": "أشرف",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rqqsGlQJVvWvQx9RX4eQp8SQHA2.jpg"
+        },
+        {
+          "name": "محمود الليثي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/enhoyho0wMymuOwxMnPp5iwmh30.jpg"
+        },
+        {
+          "name": "Dina Mohsen",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/5d6WvClOPREq164sIYJlyaCbVIv.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=SkanDUpAwfI",
+      "start": "2026-11-16T19:30:00+00:00",
+      "stop": "2026-11-16T20:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vqhkDp1gX8hlSHwRKaEvAj0Yw0D.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3sXiZqjFfJQxxVc4hQlr73z1tqd.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/vqhkDp1gX8hlSHwRKaEvAj0Yw0D.jpg",
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 309843,
+      "title": "النويلاتي",
+      "clean_title": "النويلاتي",
+      "original_title": "النويلاتي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "يخرج فيصل من السجن وفي قلبه رغبة قوية بالانتقام",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": 8,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "سامر المصري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/fTejJQh10ydJRf2RLat0R7qB5da.jpg"
+        },
+        {
+          "name": "ديمة قندلفت",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4RRk5nHvs2SijmgPxTUWCYo4d2A.jpg"
+        },
+        {
+          "name": "محمد حداقي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8aPZ2jzyWX4irsCtoMf07WpcEb4.jpg"
+        },
+        {
+          "name": "فادي صبيح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/sT8eh6gx7DHa4RGuC69HV50YMHW.jpg"
+        },
+        {
+          "name": "نادين تحسين بيك",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/vUwsBAExr8vimdS7l95YyB0drOe.jpg"
+        },
+        {
+          "name": "رامز الأسود",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T20:30:00+00:00",
+      "stop": "2026-11-16T21:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/4Qbffql5vv9BE6lGPdERmT97iuV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fxXZn4Xm6ZxwqX3zgDm2lpuqVqs.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/4Qbffql5vv9BE6lGPdERmT97iuV.jpg",
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "ال تي في",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "ال تي في",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "ال تي في",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نبض البلد",
+      "clean_title": "نبض البلد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "شخصيات بارزة وخبراء يناقشون أهم القضايا السياسية والاقتصادية والاجتماعية التي يواجهها المجتمع الأردني.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T21:30:00+00:00",
+      "stop": "2026-11-16T22:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T17:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T17:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 286066,
+      "title": "دنيا يا دنيا",
+      "clean_title": "دنيا يا دنيا",
+      "original_title": "غريب يا دنيا",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "description": "يقوم المضيفون بدعوة الخبراء لمناقشة مواضيع مختلفة وتقديم نصائح قيمة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-01",
+      "status": "Returning Series",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "مي كساب",
+          "character": "دنيا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/n8CUAduiVrIKHAlCmyFKCpVwTwE.jpg"
+        },
+        {
+          "name": "محمد ثروت",
+          "character": "غريب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3uqttDmL1KH7811E3plwINeGtUs.jpg"
+        },
+        {
+          "name": "سامي مغاوري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/675TmIEoWDqpHYF5BCe0moimtXr.jpg"
+        },
+        {
+          "name": "عمرو عبدالعزيز",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/wnIWpFuRFwJEADwbA9Ats4YskNd.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=rW__FIFWIQw",
+      "start": "2026-11-16T22:30:00+00:00",
+      "stop": "2026-11-17T01:30:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/cGeOkMrXJCxkbh5rT2Rr9oOk8k2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/j9XAnkVjYBbcRmXjDAM9gY8yYG9.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/cGeOkMrXJCxkbh5rT2Rr9oOk8k2.jpg",
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-15T22:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مطبخ رؤيا",
+      "clean_title": "مطبخ رؤيا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم طهاة موهوبون وصفات ويحضرون أطباقاً لذيذة من مطابخ مختلفة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:30:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T01:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "من هنا نبدأ",
+      "clean_title": "من هنا نبدأ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج حواري",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T03:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T03:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار رؤيا",
+      "clean_title": "أخبار رؤيا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المذيع آخر الأخبار والتطورات من جميع أنحاء العالم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:30:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار الصباح",
+      "clean_title": "أخبار الصباح",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ويسلط المذيعون الضوء على آخر الأخبار وأبرز التطورات والمستجدات التي تشهدها الأردن، بالإضافة إلى استعراض معدلات درجات الحرارة المتوقعة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 286066,
+      "title": "دنيا يا دنيا",
+      "clean_title": "دنيا يا دنيا",
+      "original_title": "غريب يا دنيا",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "description": "يقوم المضيفون بدعوة الخبراء لمناقشة مواضيع مختلفة وتقديم نصائح قيمة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-01",
+      "status": "Returning Series",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "مي كساب",
+          "character": "دنيا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/n8CUAduiVrIKHAlCmyFKCpVwTwE.jpg"
+        },
+        {
+          "name": "محمد ثروت",
+          "character": "غريب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3uqttDmL1KH7811E3plwINeGtUs.jpg"
+        },
+        {
+          "name": "سامي مغاوري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/675TmIEoWDqpHYF5BCe0moimtXr.jpg"
+        },
+        {
+          "name": "عمرو عبدالعزيز",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/wnIWpFuRFwJEADwbA9Ats4YskNd.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=rW__FIFWIQw",
+      "start": "2026-11-17T05:00:00+00:00",
+      "stop": "2026-11-17T08:00:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/cGeOkMrXJCxkbh5rT2Rr9oOk8k2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/j9XAnkVjYBbcRmXjDAM9gY8yYG9.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/cGeOkMrXJCxkbh5rT2Rr9oOk8k2.jpg",
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-15T22:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مطبخ رؤيا",
+      "clean_title": "مطبخ رؤيا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم طهاة موهوبون وصفات ويحضرون أطباقاً لذيذة من مطابخ مختلفة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:00:00+00:00",
+      "stop": "2026-11-17T09:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T01:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كارافان بلاس",
+      "clean_title": "كارافان بلاس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ويقوم المذيعون بدعوة شخصيات مختلفة لمناقشة الأخبار والتحديثات الاجتماعية والموضوعات التي تهم الشباب الأردني وتسليط الضوء على بعض الموسيقى والبرامج التلفزيونية والأفلام الأكثر شعبية.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T09:30:00+00:00",
+      "stop": "2026-11-17T10:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T09:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 310476,
+      "title": "بخمس أرواح",
+      "clean_title": "بخمس أرواح",
+      "original_title": "بخمس ارواح",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "يجب على شمس نحقيق شرط واحد للحصول على ثروة والده.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "لبنان",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "قصي خولي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3R2Lb7TFgKVZbBlWmuvEAsF2gGy.jpg"
+        },
+        {
+          "name": "كاريس بشار",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/m55P3chgUAAfawfG5vg6aRXvemU.jpg"
+        },
+        {
+          "name": "عادل كرم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/vr9nbh7GHuRjQMkkpJPrL6gpYdX.jpg"
+        },
+        {
+          "name": "Joseph Bou Nassar",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Talal Jurdi",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/cHt27qVfJMMNLrC9nq5cbNQRfuh.jpg"
+        },
+        {
+          "name": "جنيد زين الدين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/gmfOXESSFI0XNjvmrA2bumTjMEo.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T10:30:00+00:00",
+      "stop": "2026-11-17T11:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/eSivV5c64B8hacp9cNlX1Ejk53O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/AuzWYk3tppgBbMQGffOxSbpbwJ4.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/eSivV5c64B8hacp9cNlX1Ejk53O.jpg",
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T10:30:00+00:00"
+        },
+        {
+          "channel": "السومرية",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "السومرية",
+          "start": "2026-11-16T17:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فترة الأطفال",
+      "clean_title": "فترة الأطفال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مجموعة متنوعة من البرامج التلفزيونية الشهيرة والرسوم المتحركة والأفلام التي تهدف إلى تعليم الأطفال دروسًا قيمة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:30:00+00:00",
+      "stop": "2026-11-17T12:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T11:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 241812,
+      "title": "خبز وملح",
+      "clean_title": "خبز وملح",
+      "original_title": "خبز وملح",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "تحاول عائلة يعاني أفرادها من زيادة الوزن اتباع حمية غذائية صحية وخسارة الوزن",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2003",
+      "release_date": "2003-12-18",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "قصي خولي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3R2Lb7TFgKVZbBlWmuvEAsF2gGy.jpg"
+        },
+        {
+          "name": "سعد الدين بقدونس",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/iNfLlgthVKl9UTEYD4RgybqnSri.jpg"
+        },
+        {
+          "name": "شكران مرتجى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/mMVEvrN2tCOZuAv4ffMuhRISyqT.jpg"
+        },
+        {
+          "name": "Laila Jabr",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/niHJJSUDZF8wlWeFH8bo6YlM1HO.jpg"
+        },
+        {
+          "name": "مانيا نبواني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/NDyN3TnHcqODBKa3cGCsQtIaKX.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T12:30:00+00:00",
+      "stop": "2026-11-17T13:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/sD1c91ZXYpszGEcFZZD1WkYLTIE.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/sD1c91ZXYpszGEcFZZD1WkYLTIE.jpg",
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار رؤيا",
+      "clean_title": "أخبار رؤيا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المذيع آخر الأخبار والتطورات من جميع أنحاء العالم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:30:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "مطبخ رؤيا",
+      "clean_title": "مطبخ رؤيا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم طهاة موهوبون وصفات ويحضرون أطباقاً لذيذة من مطابخ مختلفة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T15:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T01:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "من هنا نبدأ",
+      "clean_title": "من هنا نبدأ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "برنامج حواري",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T15:30:00+00:00",
+      "stop": "2026-11-17T16:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T03:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T03:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أخبار رؤيا",
+      "clean_title": "أخبار رؤيا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المذيع آخر الأخبار والتطورات من جميع أنحاء العالم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T16:30:00+00:00",
+      "stop": "2026-11-17T17:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "نبض البلد",
+      "clean_title": "نبض البلد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "شخصيات بارزة وخبراء يناقشون أهم القضايا السياسية والاقتصادية والاجتماعية التي يواجهها المجتمع الأردني.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T17:30:00+00:00",
+      "stop": "2026-11-17T18:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T17:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كارافان بلاس",
+      "clean_title": "كارافان بلاس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ويقوم المذيعون بدعوة شخصيات مختلفة لمناقشة الأخبار والتحديثات الاجتماعية والموضوعات التي تهم الشباب الأردني وتسليط الضوء على بعض الموسيقى والبرامج التلفزيونية والأفلام الأكثر شعبية.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:30:00+00:00",
+      "stop": "2026-11-17T19:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T09:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T09:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 313371,
+      "title": "السوق الحرة",
+      "clean_title": "السوق الحرة",
+      "original_title": "السوق الحرة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "يواجه موظفو المطارات الدولية أكثر المواقف طرافةً بشكل يومي.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-19",
+      "status": "Returning Series",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "محمد رضوان",
+          "character": "كاظم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/e2vasSp3ZkGlRoPWGzCOHYN3oJs.jpg"
+        },
+        {
+          "name": "محمد ثروت",
+          "character": "جمعة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3uqttDmL1KH7811E3plwINeGtUs.jpg"
+        },
+        {
+          "name": "هالة فاخر",
+          "character": "وفاء",
+          "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
+        },
+        {
+          "name": "حسام داغر",
+          "character": "أشرف",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rqqsGlQJVvWvQx9RX4eQp8SQHA2.jpg"
+        },
+        {
+          "name": "محمود الليثي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/enhoyho0wMymuOwxMnPp5iwmh30.jpg"
+        },
+        {
+          "name": "Dina Mohsen",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/5d6WvClOPREq164sIYJlyaCbVIv.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=SkanDUpAwfI",
+      "start": "2026-11-17T19:30:00+00:00",
+      "stop": "2026-11-17T20:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vqhkDp1gX8hlSHwRKaEvAj0Yw0D.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3sXiZqjFfJQxxVc4hQlr73z1tqd.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/vqhkDp1gX8hlSHwRKaEvAj0Yw0D.jpg",
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 309843,
+      "title": "النويلاتي",
+      "clean_title": "النويلاتي",
+      "original_title": "النويلاتي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "يخرج فيصل من السجن وفي قلبه رغبة قوية بالانتقام",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": 8,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "سامر المصري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/fTejJQh10ydJRf2RLat0R7qB5da.jpg"
+        },
+        {
+          "name": "ديمة قندلفت",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4RRk5nHvs2SijmgPxTUWCYo4d2A.jpg"
+        },
+        {
+          "name": "محمد حداقي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8aPZ2jzyWX4irsCtoMf07WpcEb4.jpg"
+        },
+        {
+          "name": "فادي صبيح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/sT8eh6gx7DHa4RGuC69HV50YMHW.jpg"
+        },
+        {
+          "name": "نادين تحسين بيك",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/vUwsBAExr8vimdS7l95YyB0drOe.jpg"
+        },
+        {
+          "name": "رامز الأسود",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T20:30:00+00:00",
+      "stop": "2026-11-17T21:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/4Qbffql5vv9BE6lGPdERmT97iuV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fxXZn4Xm6ZxwqX3zgDm2lpuqVqs.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/4Qbffql5vv9BE6lGPdERmT97iuV.jpg",
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T20:30:00+00:00"
+        },
+        {
+          "channel": "ال تي في",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "ال تي في",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "ال تي في",
+          "start": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نبض البلد",
+      "clean_title": "نبض البلد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "شخصيات بارزة وخبراء يناقشون أهم القضايا السياسية والاقتصادية والاجتماعية التي يواجهها المجتمع الأردني.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:30:00+00:00",
+      "stop": "2026-11-17T22:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T17:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T17:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 286066,
+      "title": "دنيا يا دنيا",
+      "clean_title": "دنيا يا دنيا",
+      "original_title": "غريب يا دنيا",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "description": "يقوم المضيفون بدعوة الخبراء لمناقشة مواضيع مختلفة وتقديم نصائح قيمة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-01",
+      "status": "Returning Series",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "مي كساب",
+          "character": "دنيا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/n8CUAduiVrIKHAlCmyFKCpVwTwE.jpg"
+        },
+        {
+          "name": "محمد ثروت",
+          "character": "غريب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3uqttDmL1KH7811E3plwINeGtUs.jpg"
+        },
+        {
+          "name": "سامي مغاوري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/675TmIEoWDqpHYF5BCe0moimtXr.jpg"
+        },
+        {
+          "name": "عمرو عبدالعزيز",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/wnIWpFuRFwJEADwbA9Ats4YskNd.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=rW__FIFWIQw",
+      "start": "2026-11-17T22:30:00+00:00",
+      "stop": "2026-11-18T01:30:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/cGeOkMrXJCxkbh5rT2Rr9oOk8k2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/j9XAnkVjYBbcRmXjDAM9gY8yYG9.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/cGeOkMrXJCxkbh5rT2Rr9oOk8k2.jpg",
+      "channel_icon": "https://i.imgur.com/WX80rty.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-15T22:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "Roya TV HD",
+          "start": "2026-11-17T05:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

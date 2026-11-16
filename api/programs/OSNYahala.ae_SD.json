@@ -1,0 +1,3659 @@
+{
+  "channel_id": "OSNYahala.ae@SD",
+  "channel_name": "OSNtv Yahala",
+  "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+  "programs": [
+    {
+      "tmdb_id": 285521,
+      "title": "عابر سبيل",
+      "clean_title": "عابر سبيل",
+      "original_title": "عابر سبيل",
+      "tagline": null,
+      "episode_title": "الحلقة 21",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "تصاعدت التوترات العائلیة عندما واجھت زینب منصور بالحقیقة حول نسب بدر، مما دفعه لإجراء اختبار DNA، بینما حاولت ھند إقناع سالم بالعیش معھا وسعت للحصول على حضانته قانونیًا.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-01",
+      "status": "Returning Series",
+      "country": "البحرين",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "عبدالمحسن النمر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/vfHsm67Ow2p86IPhPe5P8hhYdzw.jpg"
+        },
+        {
+          "name": "عبدالله ملك",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/eGwco4l3Crtce69Bk5GFaqgokhR.jpg"
+        },
+        {
+          "name": "وفاء عامر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dpUrp4IJlujffHZaeIsOIVTIqKd.jpg"
+        },
+        {
+          "name": "منى حسين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/MFsmKychRwbF8vEHAb0IiTtTRw.jpg"
+        },
+        {
+          "name": "عبدالله بوشهري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/n0qYVtTMho2mJp0lW3dHAqLBiaR.jpg"
+        },
+        {
+          "name": "ليلى عبدالله",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/2HDP8ko5OlY0iIMOB5F7EyQRqyp.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=ULpqScZHAF0",
+      "start": "2026-11-15T22:40:00+00:00",
+      "stop": "2026-11-15T23:20:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/4gDGxzGT9OsTj3EVWwleoKVUUUu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3GszMP0fI2fT8dAwppJDfcLJbJl.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/4gDGxzGT9OsTj3EVWwleoKVUUUu.jpg",
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-15T23:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 285521,
+      "title": "عابر سبيل",
+      "clean_title": "عابر سبيل",
+      "original_title": "عابر سبيل",
+      "tagline": null,
+      "episode_title": "الحلقة 22",
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "تصاعدت الأحداث عندما كشف أیوب لعابر عن وفاة شقیقه التوأم یعقوب، مما دفع عابر لطلب الزواج من صباح التي وافقت على مضض خوفًا من كشف سرھا. في الوقت نفسه، تكتشف زینب أن فاطمة تراقب تحركاتھا، بینما تخسر حبیبة وأیوب حضانة سالم لصالح ھند.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-03-01",
+      "status": "Returning Series",
+      "country": "البحرين",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "عبدالمحسن النمر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/vfHsm67Ow2p86IPhPe5P8hhYdzw.jpg"
+        },
+        {
+          "name": "عبدالله ملك",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/eGwco4l3Crtce69Bk5GFaqgokhR.jpg"
+        },
+        {
+          "name": "وفاء عامر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dpUrp4IJlujffHZaeIsOIVTIqKd.jpg"
+        },
+        {
+          "name": "منى حسين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/MFsmKychRwbF8vEHAb0IiTtTRw.jpg"
+        },
+        {
+          "name": "عبدالله بوشهري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/n0qYVtTMho2mJp0lW3dHAqLBiaR.jpg"
+        },
+        {
+          "name": "ليلى عبدالله",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/2HDP8ko5OlY0iIMOB5F7EyQRqyp.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=ULpqScZHAF0",
+      "start": "2026-11-15T23:20:00+00:00",
+      "stop": "2026-11-16T00:00:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/4gDGxzGT9OsTj3EVWwleoKVUUUu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3GszMP0fI2fT8dAwppJDfcLJbJl.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/4gDGxzGT9OsTj3EVWwleoKVUUUu.jpg",
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-15T22:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستريت آوتلوز: ممفيس",
+      "clean_title": "ستريت آوتلوز: ممفيس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "راهن على ممفيس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "إنها الجولة الثانية من سباقات فيغاس، وبعد نجاحهم في الجولة الأولى، يجد فريق ممفيس نفسه في مواجهة مباشرة؛ إنها مواجهة بين عائلة وأخرى!",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T00:05:00+00:00",
+      "stop": "2026-11-16T00:50:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T00:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T07:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T10:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T12:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T07:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T12:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستريت آوتلوز: ممفيس",
+      "clean_title": "ستريت آوتلوز: ممفيس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "باد بويز فور لايف",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما يتلقى دوغبوي تحديًا بقيمة 10,000 دولار من 901 باد بويز، وهي مجموعة أخرى من المتسابقين في ممفيس، يقنع جي جي العائلة بالاجتماع لقضاء ليلة من سباقات الثأر.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T00:50:00+00:00",
+      "stop": "2026-11-16T01:35:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T00:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T07:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T10:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T12:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T07:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T12:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كار فيكس",
+      "clean_title": "كار فيكس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 14",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم كل من لو سانتياغو وجاريد زيمرمان مشاريع عملية مميزة تشمل التعديلات والتحسينات والإصلاحات باستخدام منتجات عالية الأداء ومنتجات ما بعد البيع.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:35:00+00:00",
+      "stop": "2026-11-16T02:00:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T01:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هاو اتز ميد",
+      "clean_title": "هاو اتز ميد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقه 5",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتم وضع المزيد من العناصر اليومية تحت المجهر حيث نكتشف كيفية صنع ألواح التزلج على الأمواج والملصقات وملفات تعريف الارتباط الساندويتش وبلاط الأسقف الخرساني.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T02:00:00+00:00",
+      "stop": "2026-11-16T02:25:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T04:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "موتور ماثبوسترز",
+      "clean_title": "موتور ماثبوسترز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بيدروك باغي أند رولينغ باك",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم الفريق باختبار ما إذا كان من الممكن تشغيل سيارة على غرار سيارات فلينستون باستخدام أقدامهم. بالإضافة إلى ذلك، يحاولون معرفة ما إذا كان بإمكانهم إعادة عداد المسافة المقطوعة إلى الوراء بمقدار عدة أميال.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T02:25:00+00:00",
+      "stop": "2026-11-16T03:10:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T03:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T05:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T08:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T03:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T05:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T08:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "موتور ماثبوسترز",
+      "clean_title": "موتور ماثبوسترز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "هوت رود الهجينة/عطل المكابح",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يختبر الفريق ما إذا كان المحرك التوربيني يجعل السيارة الهجينة أكثر كفاءة. ثم يحاولون محاكاة عطل في المكابح كما ظهر في أحد الأفلام الكلاسيكية.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T03:10:00+00:00",
+      "stop": "2026-11-16T04:00:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T05:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T08:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T03:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T05:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T08:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هاو اتز ميد",
+      "clean_title": "هاو اتز ميد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 6",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتم وضع المزيد من العناصر اليومية تحت المجهر حيث نكتشف كيفية صنع نظارات التزلج والرافعات البرجية والتماثيل الخزفية ومحركات الديزل.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T04:00:00+00:00",
+      "stop": "2026-11-16T04:25:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T02:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستريت آوتلوز: ممفيس",
+      "clean_title": "ستريت آوتلوز: ممفيس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نيدنغ داو",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تخوض مجموعة من المتسابقين القادمين من ولاية إنديانا سباقاً ضد مجموعة من ممفيس. ولكن، عندما يلجأ المنافسون إلى الكذب بشأن حجم الإطارات من أجل تأمين السباق، يجد جي جي نفسه مضطراً للتدخل وتهدئة ابنه.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T04:25:00+00:00",
+      "stop": "2026-11-16T05:10:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T00:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T00:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T07:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T10:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T12:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T07:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T12:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "موتور ماثبوسترز",
+      "clean_title": "موتور ماثبوسترز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ديتنيشن ديفليكشن/ إي في رينج",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "استلهاماً من أحد أفلام العصابات، يسعى الفريق لمعرفة ما إذا كان بإمكانهم جعل سيارة كاديلاك إلدورادو موديل 1981 محصنة ضد الانفجارات. كما يختبرون ثلاث خرافات تتعلق بالسيارات الكهربائية.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T05:10:00+00:00",
+      "stop": "2026-11-16T05:55:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T03:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T08:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T03:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T05:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T08:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سوبرتراكرز",
+      "clean_title": "سوبرتراكرز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 2",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتولى ستيف وشاربي وآندي أكبر مهمة في تاريخ شركة ميتكالف، وهي نقل ثلاثة أجزاء ضخمة من منصة نفطية. بالإضافة إلى ذلك، يواجه سيمون وبول مهمة أكبر من طاقتهما في عملية نقل على رصيف الميناء.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T05:55:00+00:00",
+      "stop": "2026-11-16T06:40:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T08:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T17:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T05:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T17:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "تكساس ميتال",
+      "clean_title": "تكساس ميتال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "رام تافر أند لاودر",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يأخذ بيل سيارة سي10 موديل 1968 إلى منطقة مجهولة من خلال عمليات تصنيع مبالغ فيها والذي يختبر مهاراتهم كما لم يحدث من قبل.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T06:40:00+00:00",
+      "stop": "2026-11-16T07:25:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T06:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T14:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستريت آوتلوز: ممفيس",
+      "clean_title": "ستريت آوتلوز: ممفيس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نيدنغ داو",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تخوض مجموعة من المتسابقين القادمين من ولاية إنديانا سباقاً ضد مجموعة من ممفيس. ولكن، عندما يلجأ المنافسون إلى الكذب بشأن حجم الإطارات من أجل تأمين السباق، يجد جي جي نفسه مضطراً للتدخل وتهدئة ابنه.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T07:25:00+00:00",
+      "stop": "2026-11-16T08:10:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T00:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T00:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T10:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T12:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T07:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T12:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "موتور ماثبوسترز",
+      "clean_title": "موتور ماثبوسترز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ليكينغ راديتور/كار ضد جسم طائر",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستخدم الفريق مغناطيسًا كهربائيًا ومحركًا نفاثًا لمحاكاة وجود جسم طائر مجهول، وذلك لاختبار تأثيره على السيارات، تمامًا كما يحدث في أفلام الخيال العلمي.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:10:00+00:00",
+      "stop": "2026-11-16T08:55:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T03:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T05:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T03:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T05:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T08:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سوبرتراكرز",
+      "clean_title": "سوبرتراكرز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 2",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتولى ستيف وشاربي وآندي أكبر مهمة في تاريخ شركة ميتكالف، وهي نقل ثلاثة أجزاء ضخمة من منصة نفطية. بالإضافة إلى ذلك، يواجه سيمون وبول مهمة أكبر من طاقتهما في عملية نقل على رصيف الميناء.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:55:00+00:00",
+      "stop": "2026-11-16T09:40:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T05:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T17:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T05:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T17:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سافدج بيلدز",
+      "clean_title": "سافدج بيلدز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "دوغفايت ديربي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتعاون آدم مع بيتر جاكسون، مخرج سلسلة \"سيد الخواتم، لترميم أسطول من الطائرات المقاتلة الفتاكة، ثم ينظمان معركة جوية تحاكي تماماً معارك الحرب العالمية الأولى.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T09:40:00+00:00",
+      "stop": "2026-11-16T10:30:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستريت آوتلوز: ممفيس",
+      "clean_title": "ستريت آوتلوز: ممفيس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "يولو إم إف",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تزداد قيمة الرهانات في لاس فيغاس؛ فمع دخول بريشس وتريشيا في سباقات ضد بعض الأسماء الثقيلة من الساحل الغربي، تضع إم سي أو أكثر من 25 ألف دولار على المحك.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T10:30:00+00:00",
+      "stop": "2026-11-16T11:20:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T00:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T00:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T07:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T12:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T07:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T12:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ألتميت سرفايفل",
+      "clean_title": "ألتميت سرفايفل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "صحراء مواب",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواجه بير ثعابين مجلجلة ورمالاً متحركة بعد أن أُسقط في صحراء مواب بولاية يوتا، وذلك ليُظهر كيف يمكن للمتنزّهين الذين ضلوا طريقهم النجاة في واحدة من أقسى البيئات على وجه الأرض.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T11:20:00+00:00",
+      "stop": "2026-11-16T12:10:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستريت آوتلوز: ممفيس",
+      "clean_title": "ستريت آوتلوز: ممفيس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نو- هيو",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتوجه ممفيس إلى ولاية أوهايو للقاء مجموعة تمتلك سيارات فارهة وميزانيات ضخمة. لكن جي جي يشعر بالتردد عندما يوافق على خوض سباق بسياراته ذات الإطارات الصغيرة ضد سيارات ذات إطارات كبيرة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:10:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T00:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T00:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T07:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T10:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T07:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T12:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سبيد إيز ذا نيو بلاك",
+      "clean_title": "سبيد إيز ذا نيو بلاك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أيه هيفي ميتل مودال",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يُستهل الموسم الثاني بعميل من نجوم موسيقى الروك يطلب من نُوا إضفاء طابع معدني على سيارة من طراز فورد. تحصل هذه السيارة التقليدية القديمة على بعض ميزات السيارات الجديدة حيث يعمل الفريق لتحويلها إلى تحفة فنية تنتمي إلى موسيقى الروك أند رول.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T13:50:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T22:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T22:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أيرون ريزراكشن",
+      "clean_title": "أيرون ريزراكشن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بيل إير بيغ بلوك الجزء 2",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم جو وفريقه بوضع اللمسات الأخيرة على سيارة بيل إير طراز 1957 ذات المحرك الكبير. كما يستخدم جو كل حيله لتحويل غطاء محرك سيارة شيفروليه طراز سي10 القديمة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:50:00+00:00",
+      "stop": "2026-11-16T14:45:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T23:20:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T13:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "تكساس ميتال",
+      "clean_title": "تكساس ميتال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "سي 10 تو إيند أول سي 10",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "لا يتردد بيل في الكشف عن كل تفاصيل سيارة سي10 طراز 1968، التي تكتمل بتصميم فخم على غرار تكساس، ولا تشبه أي سيارة سبق لهم تخصيصها من قبل.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T14:45:00+00:00",
+      "stop": "2026-11-16T15:35:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T06:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T06:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T14:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فاست أن لاود: ديمولوشن ثيتر",
+      "clean_title": "فاست أن لاود: ديمولوشن ثيتر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مزيج من حوادث السيارات",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستعرض ريتشارد رولينغز المزيد من اللقطات الغريبة والمنتشرة على نطاق واسع؛ حيث تقود امرأة سيارتها لتسقط من أعلى مبنى مخصص لمواقف السيارات، بينما يلوذ مجرم بالفرار من سيارة تابعة للشرطة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:35:00+00:00",
+      "stop": "2026-11-16T16:25:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T20:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T10:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "توين توربوس",
+      "clean_title": "توين توربوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بناء مستقبل",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يصنع الثنائي الأب والابن ، دوغ وبراد ديبرتي ، سيارات وشاحنات مخصصة لتمويل حلم براد في أن يصبح سائق ناسكار. طلب فورد شراء شاحنة مقاتلة ذات طابع نفاث بينما يستعد براد لسباقه الأول بعد أن وضعه حادث في المستشفى.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:25:00+00:00",
+      "stop": "2026-11-16T17:15:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T21:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T11:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سوبرتراكرز",
+      "clean_title": "سوبرتراكرز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 3",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تقوم جانيت ومات وتشيلسي بول بنقل أسطول من السيارات المدرعة بين القواعد العسكرية. بالإضافة إلى ذلك، يتعين على ستيف وسام اجتياز زحام لندن المروري لتوصيل رافعة بالقرب من الاستاد الأولمبي.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T17:15:00+00:00",
+      "stop": "2026-11-16T18:10:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T05:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T08:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T05:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T17:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كوبرز تريجر",
+      "clean_title": "كوبرز تريجر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "خريطة الكنز من الفضاء",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينطلق داريل بحثاً عن حطام المركبات التي شاهدها رائد فضاء من الفضاء.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:10:00+00:00",
+      "stop": "2026-11-16T19:05:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T00:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T09:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T18:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ألاسكا: ذا لاست فرونتير",
+      "clean_title": "ألاسكا: ذا لاست فرونتير",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إيمرجنسي! الجزء 2",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "سرب الماشية مهدد من قبل حصان هارب، لَاقَى إيفين إصابة خطيرة في ورشته، ويحتاج إلى جراحة طارئة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:05:00+00:00",
+      "stop": "2026-11-16T20:00:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T00:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T19:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "تكساس ميتال",
+      "clean_title": "تكساس ميتال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "سي 10 تو إيند أول سي 10",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "لا يتردد بيل في الكشف عن كل تفاصيل سيارة سي10 طراز 1968، التي تكتمل بتصميم فخم على غرار تكساس، ولا تشبه أي سيارة سبق لهم تخصيصها من قبل.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:00:00+00:00",
+      "stop": "2026-11-16T20:55:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T06:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T06:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T14:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فاست أن لاود: ديمولوشن ثيتر",
+      "clean_title": "فاست أن لاود: ديمولوشن ثيتر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مزيج من حوادث السيارات",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستعرض ريتشارد رولينغز المزيد من اللقطات الغريبة والمنتشرة على نطاق واسع؛ حيث تقود امرأة سيارتها لتسقط من أعلى مبنى مخصص لمواقف السيارات، بينما يلوذ مجرم بالفرار من سيارة تابعة للشرطة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:55:00+00:00",
+      "stop": "2026-11-16T21:50:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T15:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T10:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "توين توربوس",
+      "clean_title": "توين توربوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بناء مستقبل",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يصنع الثنائي الأب والابن ، دوغ وبراد ديبرتي ، سيارات وشاحنات مخصصة لتمويل حلم براد في أن يصبح سائق ناسكار. طلب فورد شراء شاحنة مقاتلة ذات طابع نفاث بينما يستعد براد لسباقه الأول بعد أن وضعه حادث في المستشفى.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T21:50:00+00:00",
+      "stop": "2026-11-16T22:35:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T16:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T11:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سبيد إيز ذا نيو بلاك",
+      "clean_title": "سبيد إيز ذا نيو بلاك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أيه هيفي ميتل مودال",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يُستهل الموسم الثاني بعميل من نجوم موسيقى الروك يطلب من نُوا إضفاء طابع معدني على سيارة من طراز فورد. تحصل هذه السيارة التقليدية القديمة على بعض ميزات السيارات الجديدة حيث يعمل الفريق لتحويلها إلى تحفة فنية تنتمي إلى موسيقى الروك أند رول.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:35:00+00:00",
+      "stop": "2026-11-16T23:20:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T22:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أيرون ريزراكشن",
+      "clean_title": "أيرون ريزراكشن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بيل إير بيغ بلوك الجزء 2",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم جو وفريقه بوضع اللمسات الأخيرة على سيارة بيل إير طراز 1957 ذات المحرك الكبير. كما يستخدم جو كل حيله لتحويل غطاء محرك سيارة شيفروليه طراز سي10 القديمة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T23:20:00+00:00",
+      "stop": "2026-11-17T00:05:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T13:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T13:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كوبرز تريجر",
+      "clean_title": "كوبرز تريجر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "خريطة الكنز من الفضاء",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينطلق داريل بحثاً عن حطام المركبات التي شاهدها رائد فضاء من الفضاء.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:05:00+00:00",
+      "stop": "2026-11-17T00:50:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T18:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T09:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T18:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ألاسكا: ذا لاست فرونتير",
+      "clean_title": "ألاسكا: ذا لاست فرونتير",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إيمرجنسي! الجزء 2",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "سرب الماشية مهدد من قبل حصان هارب، لَاقَى إيفين إصابة خطيرة في ورشته، ويحتاج إلى جراحة طارئة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:50:00+00:00",
+      "stop": "2026-11-17T01:35:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T19:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T19:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كار فيكس",
+      "clean_title": "كار فيكس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 15",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستعرض كل من لو سانتياغو وجاريد زيمرمان مشاريع عملية مميزة، تتضمن تعديلات وترقيات وإصلاحات باستخدام منتجات عالية الأداء وقطع غيار وإكسسوارات من شركات متخصصة في ما بعد البيع.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:35:00+00:00",
+      "stop": "2026-11-17T02:00:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T01:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هاو اتز ميد",
+      "clean_title": "هاو اتز ميد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 6",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتم وضع المزيد من العناصر اليومية تحت المجهر حيث نكتشف كيفية صنع نظارات التزلج والرافعات البرجية والتماثيل الخزفية ومحركات الديزل.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T02:00:00+00:00",
+      "stop": "2026-11-17T02:25:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T02:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T04:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستريت آوتلوز: ممفيس",
+      "clean_title": "ستريت آوتلوز: ممفيس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نو- هيو",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتوجه ممفيس إلى ولاية أوهايو للقاء مجموعة تمتلك سيارات فارهة وميزانيات ضخمة. لكن جي جي يشعر بالتردد عندما يوافق على خوض سباق بسياراته ذات الإطارات الصغيرة ضد سيارات ذات إطارات كبيرة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T02:25:00+00:00",
+      "stop": "2026-11-17T03:10:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T00:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T00:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T07:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T10:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T12:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T07:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T12:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "موتور ماثبوسترز",
+      "clean_title": "موتور ماثبوسترز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ليكينغ راديتور/كار ضد جسم طائر",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستخدم الفريق مغناطيسًا كهربائيًا ومحركًا نفاثًا لمحاكاة وجود جسم طائر مجهول، وذلك لاختبار تأثيره على السيارات، تمامًا كما يحدث في أفلام الخيال العلمي.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:10:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T03:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T05:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T08:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T05:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T08:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هاو اتز ميد",
+      "clean_title": "هاو اتز ميد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 7",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "لمزيد من المواد نراها تحت المجهر لنكتشف ما هي المادة المستخدمة في صناعتها واليوم سنكتشف طريقة صنع المظلات الورقية، الفحم، مقاعد الطائرات، وجرار حفظ رماد الموتى.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T04:25:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T02:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T04:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T02:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستريت آوتلوز: ممفيس",
+      "clean_title": "ستريت آوتلوز: ممفيس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نو- هيو",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتوجه ممفيس إلى ولاية أوهايو للقاء مجموعة تمتلك سيارات فارهة وميزانيات ضخمة. لكن جي جي يشعر بالتردد عندما يوافق على خوض سباق بسياراته ذات الإطارات الصغيرة ضد سيارات ذات إطارات كبيرة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:25:00+00:00",
+      "stop": "2026-11-17T05:10:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T00:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T00:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T07:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T10:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T12:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T07:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T12:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "موتور ماثبوسترز",
+      "clean_title": "موتور ماثبوسترز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ليكينغ راديتور/كار ضد جسم طائر",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستخدم الفريق مغناطيسًا كهربائيًا ومحركًا نفاثًا لمحاكاة وجود جسم طائر مجهول، وذلك لاختبار تأثيره على السيارات، تمامًا كما يحدث في أفلام الخيال العلمي.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T05:10:00+00:00",
+      "stop": "2026-11-17T05:55:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T03:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T05:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T08:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T03:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T08:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سوبرتراكرز",
+      "clean_title": "سوبرتراكرز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 3",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تقوم جانيت ومات وتشيلسي بول بنقل أسطول من السيارات المدرعة بين القواعد العسكرية. بالإضافة إلى ذلك، يتعين على ستيف وسام اجتياز زحام لندن المروري لتوصيل رافعة بالقرب من الاستاد الأولمبي.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T05:55:00+00:00",
+      "stop": "2026-11-17T06:40:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T05:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T08:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T17:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T08:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T17:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "تكساس ميتال",
+      "clean_title": "تكساس ميتال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "سي 10 تو إيند أول سي 10",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "لا يتردد بيل في الكشف عن كل تفاصيل سيارة سي10 طراز 1968، التي تكتمل بتصميم فخم على غرار تكساس، ولا تشبه أي سيارة سبق لهم تخصيصها من قبل.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:40:00+00:00",
+      "stop": "2026-11-17T07:25:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T06:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T14:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستريت آوتلوز: ممفيس",
+      "clean_title": "ستريت آوتلوز: ممفيس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "نو- هيو",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتوجه ممفيس إلى ولاية أوهايو للقاء مجموعة تمتلك سيارات فارهة وميزانيات ضخمة. لكن جي جي يشعر بالتردد عندما يوافق على خوض سباق بسياراته ذات الإطارات الصغيرة ضد سيارات ذات إطارات كبيرة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T07:25:00+00:00",
+      "stop": "2026-11-17T08:10:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T00:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T00:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T07:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T10:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T12:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T12:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "موتور ماثبوسترز",
+      "clean_title": "موتور ماثبوسترز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "تشوب تو أند فاست لين فارتس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يختبر الفريق فكرة شائعة تزعم بأن إزالة سقف المركبة تجعلها تسير بسرعة أكبر. ثم يبحثون عن أفضل طريقة للتخلص من الروائح الكريهة داخل المركبة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:10:00+00:00",
+      "stop": "2026-11-17T08:55:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T03:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T05:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T08:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T03:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T05:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سوبرتراكرز",
+      "clean_title": "سوبرتراكرز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 3",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تقوم جانيت ومات وتشيلسي بول بنقل أسطول من السيارات المدرعة بين القواعد العسكرية. بالإضافة إلى ذلك، يتعين على ستيف وسام اجتياز زحام لندن المروري لتوصيل رافعة بالقرب من الاستاد الأولمبي.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:55:00+00:00",
+      "stop": "2026-11-17T09:40:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T05:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T08:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T17:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T05:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T17:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كوبرز تريجر",
+      "clean_title": "كوبرز تريجر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "خريطة الكنز من الفضاء",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينطلق داريل بحثاً عن حطام المركبات التي شاهدها رائد فضاء من الفضاء.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T09:40:00+00:00",
+      "stop": "2026-11-17T10:30:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T18:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T00:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T18:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فاست أن لاود: ديمولوشن ثيتر",
+      "clean_title": "فاست أن لاود: ديمولوشن ثيتر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مزيج من حوادث السيارات",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستعرض ريتشارد رولينغز المزيد من اللقطات الغريبة والمنتشرة على نطاق واسع؛ حيث تقود امرأة سيارتها لتسقط من أعلى مبنى مخصص لمواقف السيارات، بينما يلوذ مجرم بالفرار من سيارة تابعة للشرطة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:30:00+00:00",
+      "stop": "2026-11-17T11:20:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T15:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T20:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "توين توربوس",
+      "clean_title": "توين توربوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بناء مستقبل",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يصنع الثنائي الأب والابن ، دوغ وبراد ديبرتي ، سيارات وشاحنات مخصصة لتمويل حلم براد في أن يصبح سائق ناسكار. طلب فورد شراء شاحنة مقاتلة ذات طابع نفاث بينما يستعد براد لسباقه الأول بعد أن وضعه حادث في المستشفى.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:20:00+00:00",
+      "stop": "2026-11-17T12:10:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T16:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T21:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستريت آوتلوز: ممفيس",
+      "clean_title": "ستريت آوتلوز: ممفيس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "غراسروتس ريسنغ",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتوجه ممفيس إلى ولاية كنتاكي للقاء متسابقي شوارع يستخدمون سيارات عادية. وبعد بداية متعثرة، يتحول السباق الذي تخوضه ريشيا في نهاية الليلة والذي تبلغ قيمته 4000 دولار إلى لحظة حاسمة قد تحدد مصيرهم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:10:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T00:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T00:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T07:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T10:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T12:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T07:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سبيد إيز ذا نيو بلاك",
+      "clean_title": "سبيد إيز ذا نيو بلاك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بليزنغ فاست إف-100",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يُستهل الموسم الثاني بعميل من نجوم موسيقى الروك يطلب من نُوا إضفاء طابع معدني على سيارة من طراز فورد. تحصل هذه السيارة التقليدية القديمة على بعض ميزات السيارات الجديدة حيث يعمل الفريق لتحويلها إلى تحفة فنية تنتمي إلى موسيقى الروك أند رول.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T13:50:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T22:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T22:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أيرون ريزراكشن",
+      "clean_title": "أيرون ريزراكشن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "راد ريد كريسماس ترك",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتولى جو وفريقه تنفيذ طلب فريد من نوعه وهو تحويل شاحنة شيفروليه 3100 حمراء من طراز عام 1951 - تم إنقاذها من التلف - إلى مركبة صالحة للسير على الطريق، لتصبح تحفة مبهرة في موكب عيد الميلاد.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:50:00+00:00",
+      "stop": "2026-11-17T14:45:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T13:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T23:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "تكساس ميتال",
+      "clean_title": "تكساس ميتال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مركبة بيل الديزل بقوة 1500 حصان",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم الفريق بتصنيع كل قطعة خصيصًا لأول مركبة على الإطلاق من إنتاج شركة إكستينسيف، والتي صُنعت بالكامل من الصفر، وهي عربة شديدة التحمل بقوة 1,500 حصان التي طالما حلم بها بيل.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T14:45:00+00:00",
+      "stop": "2026-11-17T15:35:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T06:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T06:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سالفج هنترز",
+      "clean_title": "سالفج هنترز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 2",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتواجد درو في مزاد بيع منزل ريفي في نورفولك، وفي جلاسكو وجد قطعة فريدة من قماش الترتان لدى خياط كلاسيكي. بالإضافة إلى ذلك، وجد أغرب عملية شراء له على الإطلاق في ليفربول.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T15:35:00+00:00",
+      "stop": "2026-11-17T16:25:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T16:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T21:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سالفج هنترز",
+      "clean_title": "سالفج هنترز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 3",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "درو يتسابق في متحف لامبريتا سكوتر في ويستون سوبر ماري - هل ستغريه دراجة عتيقة ؟ في والسال، هناك مسافة تاريخية في أحد آخر مصانع الجلود في المملكة المتحدة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T16:25:00+00:00",
+      "stop": "2026-11-17T17:15:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T15:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T20:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T21:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سوبرتراكرز",
+      "clean_title": "سوبرتراكرز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 4",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواجه جون مهمة صعبة تتمثل في نقل رافعة تزن 60 طنًا إلى قلب مدينة إدنبرة، ويتسابق ستيف وسام لنقل رافعة حاويات من رصيف الميناء من سندرلاند لشحنها إلى السويد.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T17:15:00+00:00",
+      "stop": "2026-11-17T18:10:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T05:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T08:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T17:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T05:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T08:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كوبرز تريجر",
+      "clean_title": "كوبرز تريجر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "سكوت تام",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواجه داريل الخطر بينما يلاحق جزءاً جديداً من خريطة كنز كوبر.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:10:00+00:00",
+      "stop": "2026-11-17T19:05:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T18:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T00:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T09:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ألاسكا: ذا لاست فرونتير",
+      "clean_title": "ألاسكا: ذا لاست فرونتير",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "آي دونت ونت تو داي توداي الجزء 1",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "طريق كيلشر مُهدد بفيضان خطير، ويجب على أوتو إصلاح هذا الطريق الحيوي قبل أن يجرفه الفيضان. يتعافى أتز الأب من جراحته.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:05:00+00:00",
+      "stop": "2026-11-17T20:00:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T19:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T00:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "تكساس ميتال",
+      "clean_title": "تكساس ميتال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مركبة بيل الديزل بقوة 1500 حصان",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم الفريق بتصنيع كل قطعة خصيصًا لأول مركبة على الإطلاق من إنتاج شركة إكستينسيف، والتي صُنعت بالكامل من الصفر، وهي عربة شديدة التحمل بقوة 1,500 حصان التي طالما حلم بها بيل.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:00:00+00:00",
+      "stop": "2026-11-17T20:55:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T06:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T06:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T14:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سالفج هنترز",
+      "clean_title": "سالفج هنترز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 2",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتواجد درو في مزاد بيع منزل ريفي في نورفولك، وفي جلاسكو وجد قطعة فريدة من قماش الترتان لدى خياط كلاسيكي. بالإضافة إلى ذلك، وجد أغرب عملية شراء له على الإطلاق في ليفربول.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:55:00+00:00",
+      "stop": "2026-11-17T21:45:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T15:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T16:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T21:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سالفج هنترز",
+      "clean_title": "سالفج هنترز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 3",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "درو يتسابق في متحف لامبريتا سكوتر في ويستون سوبر ماري - هل ستغريه دراجة عتيقة ؟ في والسال، هناك مسافة تاريخية في أحد آخر مصانع الجلود في المملكة المتحدة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:45:00+00:00",
+      "stop": "2026-11-17T22:35:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T15:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T16:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T20:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سبيد إيز ذا نيو بلاك",
+      "clean_title": "سبيد إيز ذا نيو بلاك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بليزنغ فاست إف-100",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يُستهل الموسم الثاني بعميل من نجوم موسيقى الروك يطلب من نُوا إضفاء طابع معدني على سيارة من طراز فورد. تحصل هذه السيارة التقليدية القديمة على بعض ميزات السيارات الجديدة حيث يعمل الفريق لتحويلها إلى تحفة فنية تنتمي إلى موسيقى الروك أند رول.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:35:00+00:00",
+      "stop": "2026-11-17T23:20:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/FHyYEDC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-16T22:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

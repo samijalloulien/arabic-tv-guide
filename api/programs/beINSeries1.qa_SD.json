@@ -1,0 +1,4202 @@
+{
+  "channel_id": "beINSeries1.qa@SD",
+  "channel_name": "بي إن سيريس",
+  "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+  "programs": [
+    {
+      "tmdb_id": 283319,
+      "title": "Marble Hall Murders",
+      "clean_title": "Marble Hall Murders",
+      "original_title": "Marble Hall Murders",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "description": "في إطار من الجريمة والدراما، تعود سوزان إلى إنجلترا، حيث تحقق في لغز يتعلق بوفاة مؤلف قصص أطفال، وهي قضية ترتبط بقصة تعود لعام 1955 وتدور أحداثها في جزيرة كورفو.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "غموض",
+        "جريمة"
+      ],
+      "rating": 8.5,
+      "vote_count": 13,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-09-06",
+      "status": "Ended",
+      "country": "المملكة المتحدة",
+      "language": "الإنجليزية",
+      "director": "Rebecca Gatward",
+      "cast": [
+        {
+          "name": "ليزلي مانفيل",
+          "character": "Susan Ryeland",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tioPlSoypjdME3oMu3g7XmgIIKS.jpg"
+        },
+        {
+          "name": "Tim McMullan",
+          "character": "Atticus Pünd",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7RaL5N5riQlgdjEvgK4hWJie4mc.jpg"
+        },
+        {
+          "name": "Luke Lambert",
+          "character": "Young Roland Crace",
+          "profile_image": null
+        },
+        {
+          "name": "هاري لويد",
+          "character": "Roland Crace / Robert Waysmith",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qZSf6OzRpDaZdOCX6pynSRp6jVV.jpg"
+        },
+        {
+          "name": "Rupert Penry-Jones",
+          "character": "Jonathan Crace / Jeffrey Chalfont",
+          "profile_image": "https://image.tmdb.org/t/p/w185/50mfkdU5TY8nHuz7vXCz60ywg2c.jpg"
+        },
+        {
+          "name": "Mark Bonnar",
+          "character": "Edward Crace / Elmer Waysmith",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qEOp1lj0HGAVy1wpqIxMNkxIzn7.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3WfgRJBIaOTsiu2bQO23xWb08ro.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/woa9xtYfw1dib4JLnvQdLSZK0D2.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3WfgRJBIaOTsiu2bQO23xWb08ro.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 71712,
+      "title": "The Good Doctor S3",
+      "clean_title": "The Good Doctor",
+      "original_title": "The Good Doctor",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 3,
+      "episode": null,
+      "seasons_count": 7,
+      "episodes_count": 126,
+      "description": "بينما يبدأ (شون) البحث عن جوانب جديدة في حياته الاجتماعية، تزداد الأمور توترًا في العمل في المستشفى، ويصبح على شون فعل المستحيل من أجل إنقاذ كل شيء ووضعه في نصابه.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 8.5,
+      "vote_count": 12985,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-09-25",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "ديفيد شور",
+      "cast": [
+        {
+          "name": "Freddie Highmore",
+          "character": "Dr. Shaun Murphy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg"
+        },
+        {
+          "name": "فيونا جوبلمان",
+          "character": "Dr. Morgan Reznick",
+          "profile_image": "https://image.tmdb.org/t/p/w185/c80VyX8RyupJXb7EqTxHNHtN4Cn.jpg"
+        },
+        {
+          "name": "ويل يان لي",
+          "character": "Dr. Alex Park",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+        },
+        {
+          "name": "كريستينا تشانغ",
+          "character": "Dr. Audrey Lim",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5e8zzySBeJzozWJixt3E2HmZSv1.jpg"
+        },
+        {
+          "name": "بايج سبارا",
+          "character": "Lea Dilallo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/elcx21E3X5xBjW31gXBJnWTSvYX.jpg"
+        },
+        {
+          "name": "Bria Samoné Henderson",
+          "character": "Dr. Jordan Allen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/b2Zi6Hb6SLLunl3Ndr9OLz8bTld.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/lniwLyBHJ5PSqHpFdEBC3XgPqal.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/lniwLyBHJ5PSqHpFdEBC3XgPqal.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 65930,
+      "title": "My Hero Academia",
+      "clean_title": "My Hero Academia",
+      "original_title": "僕のヒーローアカデミア",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 170,
+      "description": "في عالم يسكنه البشر الخارقون، أصبح إيزوكو ميدوريا محب الأبطال الخارقين بلا قوة. وبمجرد التحاقه بالمدرسة الثانوية للأبطال، سرعان ما يكتشف إيزوكو أن كونه بطلاً هو أمر أكثر تعقيدًا مما يبدو.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "حركة ومغامرة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.6,
+      "vote_count": 5435,
+      "age_rating": "TV-14",
+      "year": "2016",
+      "release_date": "2016-04-03",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "دايكي ياماشيتا",
+          "character": "Izuku Midoriya (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T15:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 65930,
+      "title": "My Hero Academia",
+      "clean_title": "My Hero Academia",
+      "original_title": "僕のヒーローアカデミア",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 170,
+      "description": "في عالم يسكنه البشر الخارقون، أصبح إيزوكو ميدوريا محب الأبطال الخارقين بلا قوة. وبمجرد التحاقه بالمدرسة الثانوية للأبطال، سرعان ما يكتشف إيزوكو أن كونه بطلاً هو أمر أكثر تعقيدًا مما يبدو.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "حركة ومغامرة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.6,
+      "vote_count": 5435,
+      "age_rating": "TV-14",
+      "year": "2016",
+      "release_date": "2016-04-03",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "دايكي ياماشيتا",
+          "character": "Izuku Midoriya (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T15:30:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 95479,
+      "title": "Jujutsu Kaisen",
+      "clean_title": "Jujutsu Kaisen",
+      "original_title": "呪術廻戦",
+      "tagline": "فتى يقاتل... من أجل \"الموت الصحيح\".",
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 59,
+      "description": "في إطار من الرسوم المتحركة، يبتلع صبي تعويذة ملعونة فيُصاب هو أيضًا باللعنة، فينضم إلى منظمة سرية من سحرة الجوجوتسو للقضاء على تلك اللعنة وطرد أرواحه الشريرة.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا",
+        "حركة ومغامرة"
+      ],
+      "rating": 8.6,
+      "vote_count": 4744,
+      "age_rating": "TV-MA",
+      "year": "2020",
+      "release_date": "2020-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Junya Enoki",
+          "character": "Yuji Itadori",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/33/84168.jpg"
+        },
+        {
+          "name": "Yūma Uchida",
+          "character": "Megumi Fushiguro",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/59/148371.jpg"
+        },
+        {
+          "name": "Yuichi Nakamura",
+          "character": "Satoru Gojō",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176702.jpg"
+        },
+        {
+          "name": "Asami Seto",
+          "character": "Nobara Kugisaki",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/557/1393182.jpg"
+        },
+        {
+          "name": "Nobunaga Shimazaki",
+          "character": "Mahito",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/86/215779.jpg"
+        },
+        {
+          "name": "Mikako Komatsu",
+          "character": "Maki Zen'in",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176710.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T16:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/flgn0jXbg8GIe2qaWfd70A0uzfp.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T04:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T10:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:40:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 95479,
+      "title": "Jujutsu Kaisen",
+      "clean_title": "Jujutsu Kaisen",
+      "original_title": "呪術廻戦",
+      "tagline": "فتى يقاتل... من أجل \"الموت الصحيح\".",
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 59,
+      "description": "في إطار من الرسوم المتحركة، يبتلع صبي تعويذة ملعونة فيُصاب هو أيضًا باللعنة، فينضم إلى منظمة سرية من سحرة الجوجوتسو للقضاء على تلك اللعنة وطرد أرواحه الشريرة.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا",
+        "حركة ومغامرة"
+      ],
+      "rating": 8.6,
+      "vote_count": 4744,
+      "age_rating": "TV-MA",
+      "year": "2020",
+      "release_date": "2020-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Junya Enoki",
+          "character": "Yuji Itadori",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/33/84168.jpg"
+        },
+        {
+          "name": "Yūma Uchida",
+          "character": "Megumi Fushiguro",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/59/148371.jpg"
+        },
+        {
+          "name": "Yuichi Nakamura",
+          "character": "Satoru Gojō",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176702.jpg"
+        },
+        {
+          "name": "Asami Seto",
+          "character": "Nobara Kugisaki",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/557/1393182.jpg"
+        },
+        {
+          "name": "Nobunaga Shimazaki",
+          "character": "Mahito",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/86/215779.jpg"
+        },
+        {
+          "name": "Mikako Komatsu",
+          "character": "Maki Zen'in",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176710.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T16:30:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/flgn0jXbg8GIe2qaWfd70A0uzfp.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T04:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T10:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:40:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 56570,
+      "title": "Outlander S7",
+      "clean_title": "Outlander",
+      "original_title": "Outlander",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 7,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 101,
+      "description": "تجبر عائلة فريزر على خوض الحرب الثورية من أجل الحفاظ على ما حققوه طوال هذه الفترة، بينما يتعلموا أنه يجب عليهم ترك ما يحبوه وراءهم لحمايته من المخاطر.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.2,
+      "vote_count": 3024,
+      "age_rating": "TV-MA",
+      "year": "2014",
+      "release_date": "2014-08-09",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "رونالد مور",
+      "cast": [
+        {
+          "name": "كاترينا بالف",
+          "character": "Claire Randall Fraser",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lerCNTjO6FQIam2lF5SXHA4dY7H.jpg"
+        },
+        {
+          "name": "سام هيوين",
+          "character": "Jamie Fraser",
+          "profile_image": "https://image.tmdb.org/t/p/w185/f35MnE74N2U0Dq6CVKwzF7DL8nN.jpg"
+        },
+        {
+          "name": "Sophie Skelton",
+          "character": "Brianna MacKenzie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oBkearm8XdrYTEK0VCWCGmwURt6.jpg"
+        },
+        {
+          "name": "Richard Rankin",
+          "character": "Roger MacKenzie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gmtK4zTBxlOEcHQgvXOwdfLHObc.jpg"
+        },
+        {
+          "name": "John Bell",
+          "character": "Ian Fraser Murray",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aPMEzcv36aAXyCLgsRkP0H2ezf6.jpg"
+        },
+        {
+          "name": "David Berry",
+          "character": "Lord John Grey",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hiuSdXFjI7EIMv8Y83zh2KtGbbk.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/htXCyw8lcodCLG24cbwqf1NGJAg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/htXCyw8lcodCLG24cbwqf1NGJAg.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 82428,
+      "title": "All American S8",
+      "clean_title": "All American",
+      "original_title": "All American",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 8,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 132,
+      "description": "يتتبع المسلسل شخصيات جوردان، وليلى، وكوب، وكاسيوس، وكي جي، وخليل، وأمينة خلال رخلتهم وراء أحلامهم، حيث يجدون أنفسهم أمام تحديات غير متوقعة لعلاقات الصداقة والروابط العائلية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 8.1,
+      "vote_count": 506,
+      "age_rating": "TV-14",
+      "year": "2018",
+      "release_date": "2018-10-10",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "ابريل بلير",
+      "cast": [
+        {
+          "name": "Michael Evans Behling",
+          "character": "Jordan Baker",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iuvexJKUPNJAkrueFsIs82VbgBP.jpg"
+        },
+        {
+          "name": "Greta Onieogou",
+          "character": "Layla Keating",
+          "profile_image": "https://image.tmdb.org/t/p/w185/o1DfuSyYiLTjFPUuk2PriKuTPoH.jpg"
+        },
+        {
+          "name": "Bre-Z",
+          "character": "Tamia 'Coop' Cooper",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1deusFdMrNW3uTlTzxs1MLV5mpO.jpg"
+        },
+        {
+          "name": "Osy Ikhile",
+          "character": "Cassius Jeremy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/slg4iOhtcVmj2ekXIkkEGotitZS.jpg"
+        },
+        {
+          "name": "Alexis Chikaeze",
+          "character": "Amina",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4hPLayxTfEFO1ahX0wO9pE9oC5o.jpg"
+        },
+        {
+          "name": "Nathaniel Logan McIntyre",
+          "character": "Kingston Jeremy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ijhDtOElLvBX1KRGKZKnv6cettW.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T18:00:00+00:00",
+      "stop": "2026-11-16T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2sAQs9nIhLXcJU7rz8Vq19j8rO0.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 46262,
+      "title": "Doc S3",
+      "clean_title": "Doc",
+      "original_title": "Doc McStuffins",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 3,
+      "episode": null,
+      "seasons_count": 5,
+      "episodes_count": 242,
+      "description": "يعود الجزء الثالث بتولي إيمي لارسن وسونيا ميترا رئاسة الأطباء المقيمين في المستشفى، حيث تدربان مجموعة جديدة من الأطباء على التعامل مع الحالات المعقدة، وذلك بالتزامن مع محاولات إيمي لبناء حياتها من جديد بعد فقدانها ذكريات الثماني سنوات الأخيرة من حياتها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "رسوم متحركة",
+        "أطفال",
+        "عائلي"
+      ],
+      "rating": 6.1,
+      "vote_count": 79,
+      "age_rating": "TV-G",
+      "year": "2012",
+      "release_date": "2012-03-23",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Chris Nee",
+      "cast": [
+        {
+          "name": "Kiara Muhammad",
+          "character": "Doc McStuffins (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5sqwn2pPk5ymSmSaAqU1brhfys2.jpg"
+        },
+        {
+          "name": "كيمبرلي بروكس",
+          "character": "Dr. Maisha McStuffins (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iPlCk1VQ8fnAtsMow6HlCZoQc0w.jpg"
+        },
+        {
+          "name": "غاري وليامز",
+          "character": "Marcus McStuffins (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/96BbiV8rQOeGyoDxgrepRd6lUjm.jpg"
+        },
+        {
+          "name": "لوريتا ديفين",
+          "character": "Nurse Hallie (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cGTQ0X19bkMWqL6O00JK2t6uJBK.jpg"
+        },
+        {
+          "name": "Jess Harnell",
+          "character": "Chilly (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+        },
+        {
+          "name": "Robbie Rist",
+          "character": "Stuffy Filbert McStuffins (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xaDQBCyjEOtgsto7xTiVRP0PsKe.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T19:00:00+00:00",
+      "stop": "2026-11-16T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/oKsiy7ZyuyOGAgw49KpEdgULtdC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5hXkZ1CQlH24OB5Nr32boR4RgmT.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/oKsiy7ZyuyOGAgw49KpEdgULtdC.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 71712,
+      "title": "The Good Doctor S3",
+      "clean_title": "The Good Doctor",
+      "original_title": "The Good Doctor",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 3,
+      "episode": null,
+      "seasons_count": 7,
+      "episodes_count": 126,
+      "description": "بينما يبدأ (شون) البحث عن جوانب جديدة في حياته الاجتماعية، تزداد الأمور توترًا في العمل في المستشفى، ويصبح على شون فعل المستحيل من أجل إنقاذ كل شيء ووضعه في نصابه.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 8.5,
+      "vote_count": 12985,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-09-25",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "ديفيد شور",
+      "cast": [
+        {
+          "name": "Freddie Highmore",
+          "character": "Dr. Shaun Murphy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg"
+        },
+        {
+          "name": "فيونا جوبلمان",
+          "character": "Dr. Morgan Reznick",
+          "profile_image": "https://image.tmdb.org/t/p/w185/c80VyX8RyupJXb7EqTxHNHtN4Cn.jpg"
+        },
+        {
+          "name": "ويل يان لي",
+          "character": "Dr. Alex Park",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+        },
+        {
+          "name": "كريستينا تشانغ",
+          "character": "Dr. Audrey Lim",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5e8zzySBeJzozWJixt3E2HmZSv1.jpg"
+        },
+        {
+          "name": "بايج سبارا",
+          "character": "Lea Dilallo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/elcx21E3X5xBjW31gXBJnWTSvYX.jpg"
+        },
+        {
+          "name": "Bria Samoné Henderson",
+          "character": "Dr. Jordan Allen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/b2Zi6Hb6SLLunl3Ndr9OLz8bTld.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T20:00:00+00:00",
+      "stop": "2026-11-16T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/lniwLyBHJ5PSqHpFdEBC3XgPqal.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/lniwLyBHJ5PSqHpFdEBC3XgPqal.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 65930,
+      "title": "My Hero Academia",
+      "clean_title": "My Hero Academia",
+      "original_title": "僕のヒーローアカデミア",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 170,
+      "description": "في عالم يسكنه البشر الخارقون، أصبح إيزوكو ميدوريا محب الأبطال الخارقين بلا قوة. وبمجرد التحاقه بالمدرسة الثانوية للأبطال، سرعان ما يكتشف إيزوكو أن كونه بطلاً هو أمر أكثر تعقيدًا مما يبدو.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "حركة ومغامرة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.6,
+      "vote_count": 5435,
+      "age_rating": "TV-14",
+      "year": "2016",
+      "release_date": "2016-04-03",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "دايكي ياماشيتا",
+          "character": "Izuku Midoriya (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T21:00:00+00:00",
+      "stop": "2026-11-16T21:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 65930,
+      "title": "My Hero Academia",
+      "clean_title": "My Hero Academia",
+      "original_title": "僕のヒーローアカデミア",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 170,
+      "description": "في عالم يسكنه البشر الخارقون، أصبح إيزوكو ميدوريا محب الأبطال الخارقين بلا قوة. وبمجرد التحاقه بالمدرسة الثانوية للأبطال، سرعان ما يكتشف إيزوكو أن كونه بطلاً هو أمر أكثر تعقيدًا مما يبدو.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "حركة ومغامرة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.6,
+      "vote_count": 5435,
+      "age_rating": "TV-14",
+      "year": "2016",
+      "release_date": "2016-04-03",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "دايكي ياماشيتا",
+          "character": "Izuku Midoriya (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T21:30:00+00:00",
+      "stop": "2026-11-16T22:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 56570,
+      "title": "Outlander S7",
+      "clean_title": "Outlander",
+      "original_title": "Outlander",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 7,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 101,
+      "description": "تجبر عائلة فريزر على خوض الحرب الثورية من أجل الحفاظ على ما حققوه طوال هذه الفترة، بينما يتعلموا أنه يجب عليهم ترك ما يحبوه وراءهم لحمايته من المخاطر.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.2,
+      "vote_count": 3024,
+      "age_rating": "TV-MA",
+      "year": "2014",
+      "release_date": "2014-08-09",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "رونالد مور",
+      "cast": [
+        {
+          "name": "كاترينا بالف",
+          "character": "Claire Randall Fraser",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lerCNTjO6FQIam2lF5SXHA4dY7H.jpg"
+        },
+        {
+          "name": "سام هيوين",
+          "character": "Jamie Fraser",
+          "profile_image": "https://image.tmdb.org/t/p/w185/f35MnE74N2U0Dq6CVKwzF7DL8nN.jpg"
+        },
+        {
+          "name": "Sophie Skelton",
+          "character": "Brianna MacKenzie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oBkearm8XdrYTEK0VCWCGmwURt6.jpg"
+        },
+        {
+          "name": "Richard Rankin",
+          "character": "Roger MacKenzie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gmtK4zTBxlOEcHQgvXOwdfLHObc.jpg"
+        },
+        {
+          "name": "John Bell",
+          "character": "Ian Fraser Murray",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aPMEzcv36aAXyCLgsRkP0H2ezf6.jpg"
+        },
+        {
+          "name": "David Berry",
+          "character": "Lord John Grey",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hiuSdXFjI7EIMv8Y83zh2KtGbbk.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T23:00:00+00:00",
+      "stop": "2026-11-17T00:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/htXCyw8lcodCLG24cbwqf1NGJAg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/htXCyw8lcodCLG24cbwqf1NGJAg.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 82428,
+      "title": "All American S8",
+      "clean_title": "All American",
+      "original_title": "All American",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 8,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 132,
+      "description": "يتتبع المسلسل شخصيات جوردان، وليلى، وكوب، وكاسيوس، وكي جي، وخليل، وأمينة خلال رخلتهم وراء أحلامهم، حيث يجدون أنفسهم أمام تحديات غير متوقعة لعلاقات الصداقة والروابط العائلية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 8.1,
+      "vote_count": 506,
+      "age_rating": "TV-14",
+      "year": "2018",
+      "release_date": "2018-10-10",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "ابريل بلير",
+      "cast": [
+        {
+          "name": "Michael Evans Behling",
+          "character": "Jordan Baker",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iuvexJKUPNJAkrueFsIs82VbgBP.jpg"
+        },
+        {
+          "name": "Greta Onieogou",
+          "character": "Layla Keating",
+          "profile_image": "https://image.tmdb.org/t/p/w185/o1DfuSyYiLTjFPUuk2PriKuTPoH.jpg"
+        },
+        {
+          "name": "Bre-Z",
+          "character": "Tamia 'Coop' Cooper",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1deusFdMrNW3uTlTzxs1MLV5mpO.jpg"
+        },
+        {
+          "name": "Osy Ikhile",
+          "character": "Cassius Jeremy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/slg4iOhtcVmj2ekXIkkEGotitZS.jpg"
+        },
+        {
+          "name": "Alexis Chikaeze",
+          "character": "Amina",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4hPLayxTfEFO1ahX0wO9pE9oC5o.jpg"
+        },
+        {
+          "name": "Nathaniel Logan McIntyre",
+          "character": "Kingston Jeremy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ijhDtOElLvBX1KRGKZKnv6cettW.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T00:00:00+00:00",
+      "stop": "2026-11-17T01:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2sAQs9nIhLXcJU7rz8Vq19j8rO0.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 46262,
+      "title": "Doc S3",
+      "clean_title": "Doc",
+      "original_title": "Doc McStuffins",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 3,
+      "episode": null,
+      "seasons_count": 5,
+      "episodes_count": 242,
+      "description": "يعود الجزء الثالث بتولي إيمي لارسن وسونيا ميترا رئاسة الأطباء المقيمين في المستشفى، حيث تدربان مجموعة جديدة من الأطباء على التعامل مع الحالات المعقدة، وذلك بالتزامن مع محاولات إيمي لبناء حياتها من جديد بعد فقدانها ذكريات الثماني سنوات الأخيرة من حياتها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "رسوم متحركة",
+        "أطفال",
+        "عائلي"
+      ],
+      "rating": 6.1,
+      "vote_count": 79,
+      "age_rating": "TV-G",
+      "year": "2012",
+      "release_date": "2012-03-23",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Chris Nee",
+      "cast": [
+        {
+          "name": "Kiara Muhammad",
+          "character": "Doc McStuffins (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5sqwn2pPk5ymSmSaAqU1brhfys2.jpg"
+        },
+        {
+          "name": "كيمبرلي بروكس",
+          "character": "Dr. Maisha McStuffins (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iPlCk1VQ8fnAtsMow6HlCZoQc0w.jpg"
+        },
+        {
+          "name": "غاري وليامز",
+          "character": "Marcus McStuffins (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/96BbiV8rQOeGyoDxgrepRd6lUjm.jpg"
+        },
+        {
+          "name": "لوريتا ديفين",
+          "character": "Nurse Hallie (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cGTQ0X19bkMWqL6O00JK2t6uJBK.jpg"
+        },
+        {
+          "name": "Jess Harnell",
+          "character": "Chilly (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+        },
+        {
+          "name": "Robbie Rist",
+          "character": "Stuffy Filbert McStuffins (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xaDQBCyjEOtgsto7xTiVRP0PsKe.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T01:00:00+00:00",
+      "stop": "2026-11-17T02:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/oKsiy7ZyuyOGAgw49KpEdgULtdC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5hXkZ1CQlH24OB5Nr32boR4RgmT.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/oKsiy7ZyuyOGAgw49KpEdgULtdC.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 71712,
+      "title": "The Good Doctor S3",
+      "clean_title": "The Good Doctor",
+      "original_title": "The Good Doctor",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 3,
+      "episode": null,
+      "seasons_count": 7,
+      "episodes_count": 126,
+      "description": "بينما يبدأ (شون) البحث عن جوانب جديدة في حياته الاجتماعية، تزداد الأمور توترًا في العمل في المستشفى، ويصبح على شون فعل المستحيل من أجل إنقاذ كل شيء ووضعه في نصابه.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 8.5,
+      "vote_count": 12985,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-09-25",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "ديفيد شور",
+      "cast": [
+        {
+          "name": "Freddie Highmore",
+          "character": "Dr. Shaun Murphy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg"
+        },
+        {
+          "name": "فيونا جوبلمان",
+          "character": "Dr. Morgan Reznick",
+          "profile_image": "https://image.tmdb.org/t/p/w185/c80VyX8RyupJXb7EqTxHNHtN4Cn.jpg"
+        },
+        {
+          "name": "ويل يان لي",
+          "character": "Dr. Alex Park",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+        },
+        {
+          "name": "كريستينا تشانغ",
+          "character": "Dr. Audrey Lim",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5e8zzySBeJzozWJixt3E2HmZSv1.jpg"
+        },
+        {
+          "name": "بايج سبارا",
+          "character": "Lea Dilallo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/elcx21E3X5xBjW31gXBJnWTSvYX.jpg"
+        },
+        {
+          "name": "Bria Samoné Henderson",
+          "character": "Dr. Jordan Allen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/b2Zi6Hb6SLLunl3Ndr9OLz8bTld.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T02:00:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/lniwLyBHJ5PSqHpFdEBC3XgPqal.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/lniwLyBHJ5PSqHpFdEBC3XgPqal.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 65930,
+      "title": "My Hero Academia",
+      "clean_title": "My Hero Academia",
+      "original_title": "僕のヒーローアカデミア",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 170,
+      "description": "في عالم يسكنه البشر الخارقون، أصبح إيزوكو ميدوريا محب الأبطال الخارقين بلا قوة. وبمجرد التحاقه بالمدرسة الثانوية للأبطال، سرعان ما يكتشف إيزوكو أن كونه بطلاً هو أمر أكثر تعقيدًا مما يبدو.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "حركة ومغامرة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.6,
+      "vote_count": 5435,
+      "age_rating": "TV-14",
+      "year": "2016",
+      "release_date": "2016-04-03",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "دايكي ياماشيتا",
+          "character": "Izuku Midoriya (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T03:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 65930,
+      "title": "My Hero Academia",
+      "clean_title": "My Hero Academia",
+      "original_title": "僕のヒーローアカデミア",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 170,
+      "description": "في عالم يسكنه البشر الخارقون، أصبح إيزوكو ميدوريا محب الأبطال الخارقين بلا قوة. وبمجرد التحاقه بالمدرسة الثانوية للأبطال، سرعان ما يكتشف إيزوكو أن كونه بطلاً هو أمر أكثر تعقيدًا مما يبدو.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "حركة ومغامرة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.6,
+      "vote_count": 5435,
+      "age_rating": "TV-14",
+      "year": "2016",
+      "release_date": "2016-04-03",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "دايكي ياماشيتا",
+          "character": "Izuku Midoriya (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T03:30:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 95479,
+      "title": "Jujutsu Kaisen",
+      "clean_title": "Jujutsu Kaisen",
+      "original_title": "呪術廻戦",
+      "tagline": "فتى يقاتل... من أجل \"الموت الصحيح\".",
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 59,
+      "description": "في إطار من الرسوم المتحركة، يبتلع صبي تعويذة ملعونة فيُصاب هو أيضًا باللعنة، فينضم إلى منظمة سرية من سحرة الجوجوتسو للقضاء على تلك اللعنة وطرد أرواحه الشريرة.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا",
+        "حركة ومغامرة"
+      ],
+      "rating": 8.6,
+      "vote_count": 4744,
+      "age_rating": "TV-MA",
+      "year": "2020",
+      "release_date": "2020-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Junya Enoki",
+          "character": "Yuji Itadori",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/33/84168.jpg"
+        },
+        {
+          "name": "Yūma Uchida",
+          "character": "Megumi Fushiguro",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/59/148371.jpg"
+        },
+        {
+          "name": "Yuichi Nakamura",
+          "character": "Satoru Gojō",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176702.jpg"
+        },
+        {
+          "name": "Asami Seto",
+          "character": "Nobara Kugisaki",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/557/1393182.jpg"
+        },
+        {
+          "name": "Nobunaga Shimazaki",
+          "character": "Mahito",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/86/215779.jpg"
+        },
+        {
+          "name": "Mikako Komatsu",
+          "character": "Maki Zen'in",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176710.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T04:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/flgn0jXbg8GIe2qaWfd70A0uzfp.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T04:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T10:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:40:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 95479,
+      "title": "Jujutsu Kaisen",
+      "clean_title": "Jujutsu Kaisen",
+      "original_title": "呪術廻戦",
+      "tagline": "فتى يقاتل... من أجل \"الموت الصحيح\".",
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 59,
+      "description": "في إطار من الرسوم المتحركة، يبتلع صبي تعويذة ملعونة فيُصاب هو أيضًا باللعنة، فينضم إلى منظمة سرية من سحرة الجوجوتسو للقضاء على تلك اللعنة وطرد أرواحه الشريرة.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا",
+        "حركة ومغامرة"
+      ],
+      "rating": 8.6,
+      "vote_count": 4744,
+      "age_rating": "TV-MA",
+      "year": "2020",
+      "release_date": "2020-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Junya Enoki",
+          "character": "Yuji Itadori",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/33/84168.jpg"
+        },
+        {
+          "name": "Yūma Uchida",
+          "character": "Megumi Fushiguro",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/59/148371.jpg"
+        },
+        {
+          "name": "Yuichi Nakamura",
+          "character": "Satoru Gojō",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176702.jpg"
+        },
+        {
+          "name": "Asami Seto",
+          "character": "Nobara Kugisaki",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/557/1393182.jpg"
+        },
+        {
+          "name": "Nobunaga Shimazaki",
+          "character": "Mahito",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/86/215779.jpg"
+        },
+        {
+          "name": "Mikako Komatsu",
+          "character": "Maki Zen'in",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176710.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T04:30:00+00:00",
+      "stop": "2026-11-17T05:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/flgn0jXbg8GIe2qaWfd70A0uzfp.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T10:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:40:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 56570,
+      "title": "Outlander S7",
+      "clean_title": "Outlander",
+      "original_title": "Outlander",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 7,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 101,
+      "description": "تجبر عائلة فريزر على خوض الحرب الثورية من أجل الحفاظ على ما حققوه طوال هذه الفترة، بينما يتعلموا أنه يجب عليهم ترك ما يحبوه وراءهم لحمايته من المخاطر.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.2,
+      "vote_count": 3024,
+      "age_rating": "TV-MA",
+      "year": "2014",
+      "release_date": "2014-08-09",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "رونالد مور",
+      "cast": [
+        {
+          "name": "كاترينا بالف",
+          "character": "Claire Randall Fraser",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lerCNTjO6FQIam2lF5SXHA4dY7H.jpg"
+        },
+        {
+          "name": "سام هيوين",
+          "character": "Jamie Fraser",
+          "profile_image": "https://image.tmdb.org/t/p/w185/f35MnE74N2U0Dq6CVKwzF7DL8nN.jpg"
+        },
+        {
+          "name": "Sophie Skelton",
+          "character": "Brianna MacKenzie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oBkearm8XdrYTEK0VCWCGmwURt6.jpg"
+        },
+        {
+          "name": "Richard Rankin",
+          "character": "Roger MacKenzie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gmtK4zTBxlOEcHQgvXOwdfLHObc.jpg"
+        },
+        {
+          "name": "John Bell",
+          "character": "Ian Fraser Murray",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aPMEzcv36aAXyCLgsRkP0H2ezf6.jpg"
+        },
+        {
+          "name": "David Berry",
+          "character": "Lord John Grey",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hiuSdXFjI7EIMv8Y83zh2KtGbbk.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T05:00:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/htXCyw8lcodCLG24cbwqf1NGJAg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/htXCyw8lcodCLG24cbwqf1NGJAg.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 82428,
+      "title": "All American S8",
+      "clean_title": "All American",
+      "original_title": "All American",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 8,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 132,
+      "description": "يتتبع المسلسل شخصيات جوردان، وليلى، وكوب، وكاسيوس، وكي جي، وخليل، وأمينة خلال رخلتهم وراء أحلامهم، حيث يجدون أنفسهم أمام تحديات غير متوقعة لعلاقات الصداقة والروابط العائلية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 8.1,
+      "vote_count": 506,
+      "age_rating": "TV-14",
+      "year": "2018",
+      "release_date": "2018-10-10",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "ابريل بلير",
+      "cast": [
+        {
+          "name": "Michael Evans Behling",
+          "character": "Jordan Baker",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iuvexJKUPNJAkrueFsIs82VbgBP.jpg"
+        },
+        {
+          "name": "Greta Onieogou",
+          "character": "Layla Keating",
+          "profile_image": "https://image.tmdb.org/t/p/w185/o1DfuSyYiLTjFPUuk2PriKuTPoH.jpg"
+        },
+        {
+          "name": "Bre-Z",
+          "character": "Tamia 'Coop' Cooper",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1deusFdMrNW3uTlTzxs1MLV5mpO.jpg"
+        },
+        {
+          "name": "Osy Ikhile",
+          "character": "Cassius Jeremy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/slg4iOhtcVmj2ekXIkkEGotitZS.jpg"
+        },
+        {
+          "name": "Alexis Chikaeze",
+          "character": "Amina",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4hPLayxTfEFO1ahX0wO9pE9oC5o.jpg"
+        },
+        {
+          "name": "Nathaniel Logan McIntyre",
+          "character": "Kingston Jeremy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ijhDtOElLvBX1KRGKZKnv6cettW.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T06:00:00+00:00",
+      "stop": "2026-11-17T07:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2sAQs9nIhLXcJU7rz8Vq19j8rO0.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 46262,
+      "title": "Doc S3",
+      "clean_title": "Doc",
+      "original_title": "Doc McStuffins",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 3,
+      "episode": null,
+      "seasons_count": 5,
+      "episodes_count": 242,
+      "description": "يعود الجزء الثالث بتولي إيمي لارسن وسونيا ميترا رئاسة الأطباء المقيمين في المستشفى، حيث تدربان مجموعة جديدة من الأطباء على التعامل مع الحالات المعقدة، وذلك بالتزامن مع محاولات إيمي لبناء حياتها من جديد بعد فقدانها ذكريات الثماني سنوات الأخيرة من حياتها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "رسوم متحركة",
+        "أطفال",
+        "عائلي"
+      ],
+      "rating": 6.1,
+      "vote_count": 79,
+      "age_rating": "TV-G",
+      "year": "2012",
+      "release_date": "2012-03-23",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Chris Nee",
+      "cast": [
+        {
+          "name": "Kiara Muhammad",
+          "character": "Doc McStuffins (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5sqwn2pPk5ymSmSaAqU1brhfys2.jpg"
+        },
+        {
+          "name": "كيمبرلي بروكس",
+          "character": "Dr. Maisha McStuffins (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iPlCk1VQ8fnAtsMow6HlCZoQc0w.jpg"
+        },
+        {
+          "name": "غاري وليامز",
+          "character": "Marcus McStuffins (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/96BbiV8rQOeGyoDxgrepRd6lUjm.jpg"
+        },
+        {
+          "name": "لوريتا ديفين",
+          "character": "Nurse Hallie (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cGTQ0X19bkMWqL6O00JK2t6uJBK.jpg"
+        },
+        {
+          "name": "Jess Harnell",
+          "character": "Chilly (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+        },
+        {
+          "name": "Robbie Rist",
+          "character": "Stuffy Filbert McStuffins (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xaDQBCyjEOtgsto7xTiVRP0PsKe.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T08:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/oKsiy7ZyuyOGAgw49KpEdgULtdC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5hXkZ1CQlH24OB5Nr32boR4RgmT.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/oKsiy7ZyuyOGAgw49KpEdgULtdC.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 71712,
+      "title": "The Good Doctor S3",
+      "clean_title": "The Good Doctor",
+      "original_title": "The Good Doctor",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 3,
+      "episode": null,
+      "seasons_count": 7,
+      "episodes_count": 126,
+      "description": "بينما يبدأ (شون) البحث عن جوانب جديدة في حياته الاجتماعية، تزداد الأمور توترًا في العمل في المستشفى، ويصبح على شون فعل المستحيل من أجل إنقاذ كل شيء ووضعه في نصابه.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 8.5,
+      "vote_count": 12985,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-09-25",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "ديفيد شور",
+      "cast": [
+        {
+          "name": "Freddie Highmore",
+          "character": "Dr. Shaun Murphy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg"
+        },
+        {
+          "name": "فيونا جوبلمان",
+          "character": "Dr. Morgan Reznick",
+          "profile_image": "https://image.tmdb.org/t/p/w185/c80VyX8RyupJXb7EqTxHNHtN4Cn.jpg"
+        },
+        {
+          "name": "ويل يان لي",
+          "character": "Dr. Alex Park",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+        },
+        {
+          "name": "كريستينا تشانغ",
+          "character": "Dr. Audrey Lim",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5e8zzySBeJzozWJixt3E2HmZSv1.jpg"
+        },
+        {
+          "name": "بايج سبارا",
+          "character": "Lea Dilallo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/elcx21E3X5xBjW31gXBJnWTSvYX.jpg"
+        },
+        {
+          "name": "Bria Samoné Henderson",
+          "character": "Dr. Jordan Allen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/b2Zi6Hb6SLLunl3Ndr9OLz8bTld.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T08:00:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/lniwLyBHJ5PSqHpFdEBC3XgPqal.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/lniwLyBHJ5PSqHpFdEBC3XgPqal.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 65930,
+      "title": "My Hero Academia",
+      "clean_title": "My Hero Academia",
+      "original_title": "僕のヒーローアカデミア",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 170,
+      "description": "في عالم يسكنه البشر الخارقون، أصبح إيزوكو ميدوريا محب الأبطال الخارقين بلا قوة. وبمجرد التحاقه بالمدرسة الثانوية للأبطال، سرعان ما يكتشف إيزوكو أن كونه بطلاً هو أمر أكثر تعقيدًا مما يبدو.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "حركة ومغامرة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.6,
+      "vote_count": 5435,
+      "age_rating": "TV-14",
+      "year": "2016",
+      "release_date": "2016-04-03",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "دايكي ياماشيتا",
+          "character": "Izuku Midoriya (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T09:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 65930,
+      "title": "My Hero Academia",
+      "clean_title": "My Hero Academia",
+      "original_title": "僕のヒーローアカデミア",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 170,
+      "description": "في عالم يسكنه البشر الخارقون، أصبح إيزوكو ميدوريا محب الأبطال الخارقين بلا قوة. وبمجرد التحاقه بالمدرسة الثانوية للأبطال، سرعان ما يكتشف إيزوكو أن كونه بطلاً هو أمر أكثر تعقيدًا مما يبدو.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "حركة ومغامرة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.6,
+      "vote_count": 5435,
+      "age_rating": "TV-14",
+      "year": "2016",
+      "release_date": "2016-04-03",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "دايكي ياماشيتا",
+          "character": "Izuku Midoriya (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T09:30:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 95479,
+      "title": "Jujutsu Kaisen",
+      "clean_title": "Jujutsu Kaisen",
+      "original_title": "呪術廻戦",
+      "tagline": "فتى يقاتل... من أجل \"الموت الصحيح\".",
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 59,
+      "description": "في إطار من الرسوم المتحركة، يبتلع صبي تعويذة ملعونة فيُصاب هو أيضًا باللعنة، فينضم إلى منظمة سرية من سحرة الجوجوتسو للقضاء على تلك اللعنة وطرد أرواحه الشريرة.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا",
+        "حركة ومغامرة"
+      ],
+      "rating": 8.6,
+      "vote_count": 4744,
+      "age_rating": "TV-MA",
+      "year": "2020",
+      "release_date": "2020-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Junya Enoki",
+          "character": "Yuji Itadori",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/33/84168.jpg"
+        },
+        {
+          "name": "Yūma Uchida",
+          "character": "Megumi Fushiguro",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/59/148371.jpg"
+        },
+        {
+          "name": "Yuichi Nakamura",
+          "character": "Satoru Gojō",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176702.jpg"
+        },
+        {
+          "name": "Asami Seto",
+          "character": "Nobara Kugisaki",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/557/1393182.jpg"
+        },
+        {
+          "name": "Nobunaga Shimazaki",
+          "character": "Mahito",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/86/215779.jpg"
+        },
+        {
+          "name": "Mikako Komatsu",
+          "character": "Maki Zen'in",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176710.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T10:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/flgn0jXbg8GIe2qaWfd70A0uzfp.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T04:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T10:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:40:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 95479,
+      "title": "Jujutsu Kaisen",
+      "clean_title": "Jujutsu Kaisen",
+      "original_title": "呪術廻戦",
+      "tagline": "فتى يقاتل... من أجل \"الموت الصحيح\".",
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 59,
+      "description": "في إطار من الرسوم المتحركة، يبتلع صبي تعويذة ملعونة فيُصاب هو أيضًا باللعنة، فينضم إلى منظمة سرية من سحرة الجوجوتسو للقضاء على تلك اللعنة وطرد أرواحه الشريرة.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا",
+        "حركة ومغامرة"
+      ],
+      "rating": 8.6,
+      "vote_count": 4744,
+      "age_rating": "TV-MA",
+      "year": "2020",
+      "release_date": "2020-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Junya Enoki",
+          "character": "Yuji Itadori",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/33/84168.jpg"
+        },
+        {
+          "name": "Yūma Uchida",
+          "character": "Megumi Fushiguro",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/59/148371.jpg"
+        },
+        {
+          "name": "Yuichi Nakamura",
+          "character": "Satoru Gojō",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176702.jpg"
+        },
+        {
+          "name": "Asami Seto",
+          "character": "Nobara Kugisaki",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/557/1393182.jpg"
+        },
+        {
+          "name": "Nobunaga Shimazaki",
+          "character": "Mahito",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/86/215779.jpg"
+        },
+        {
+          "name": "Mikako Komatsu",
+          "character": "Maki Zen'in",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176710.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T10:30:00+00:00",
+      "stop": "2026-11-17T11:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/flgn0jXbg8GIe2qaWfd70A0uzfp.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T04:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:40:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 56570,
+      "title": "Outlander S7",
+      "clean_title": "Outlander",
+      "original_title": "Outlander",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 7,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 101,
+      "description": "تجبر عائلة فريزر على خوض الحرب الثورية من أجل الحفاظ على ما حققوه طوال هذه الفترة، بينما يتعلموا أنه يجب عليهم ترك ما يحبوه وراءهم لحمايته من المخاطر.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.2,
+      "vote_count": 3024,
+      "age_rating": "TV-MA",
+      "year": "2014",
+      "release_date": "2014-08-09",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "رونالد مور",
+      "cast": [
+        {
+          "name": "كاترينا بالف",
+          "character": "Claire Randall Fraser",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lerCNTjO6FQIam2lF5SXHA4dY7H.jpg"
+        },
+        {
+          "name": "سام هيوين",
+          "character": "Jamie Fraser",
+          "profile_image": "https://image.tmdb.org/t/p/w185/f35MnE74N2U0Dq6CVKwzF7DL8nN.jpg"
+        },
+        {
+          "name": "Sophie Skelton",
+          "character": "Brianna MacKenzie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oBkearm8XdrYTEK0VCWCGmwURt6.jpg"
+        },
+        {
+          "name": "Richard Rankin",
+          "character": "Roger MacKenzie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gmtK4zTBxlOEcHQgvXOwdfLHObc.jpg"
+        },
+        {
+          "name": "John Bell",
+          "character": "Ian Fraser Murray",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aPMEzcv36aAXyCLgsRkP0H2ezf6.jpg"
+        },
+        {
+          "name": "David Berry",
+          "character": "Lord John Grey",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hiuSdXFjI7EIMv8Y83zh2KtGbbk.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T11:00:00+00:00",
+      "stop": "2026-11-17T12:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/htXCyw8lcodCLG24cbwqf1NGJAg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/htXCyw8lcodCLG24cbwqf1NGJAg.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 82428,
+      "title": "All American S8",
+      "clean_title": "All American",
+      "original_title": "All American",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 8,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 132,
+      "description": "يتتبع المسلسل شخصيات جوردان، وليلى، وكوب، وكاسيوس، وكي جي، وخليل، وأمينة خلال رخلتهم وراء أحلامهم، حيث يجدون أنفسهم أمام تحديات غير متوقعة لعلاقات الصداقة والروابط العائلية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 8.1,
+      "vote_count": 506,
+      "age_rating": "TV-14",
+      "year": "2018",
+      "release_date": "2018-10-10",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "ابريل بلير",
+      "cast": [
+        {
+          "name": "Michael Evans Behling",
+          "character": "Jordan Baker",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iuvexJKUPNJAkrueFsIs82VbgBP.jpg"
+        },
+        {
+          "name": "Greta Onieogou",
+          "character": "Layla Keating",
+          "profile_image": "https://image.tmdb.org/t/p/w185/o1DfuSyYiLTjFPUuk2PriKuTPoH.jpg"
+        },
+        {
+          "name": "Bre-Z",
+          "character": "Tamia 'Coop' Cooper",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1deusFdMrNW3uTlTzxs1MLV5mpO.jpg"
+        },
+        {
+          "name": "Osy Ikhile",
+          "character": "Cassius Jeremy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/slg4iOhtcVmj2ekXIkkEGotitZS.jpg"
+        },
+        {
+          "name": "Alexis Chikaeze",
+          "character": "Amina",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4hPLayxTfEFO1ahX0wO9pE9oC5o.jpg"
+        },
+        {
+          "name": "Nathaniel Logan McIntyre",
+          "character": "Kingston Jeremy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ijhDtOElLvBX1KRGKZKnv6cettW.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T12:00:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2sAQs9nIhLXcJU7rz8Vq19j8rO0.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 46262,
+      "title": "Doc S3",
+      "clean_title": "Doc",
+      "original_title": "Doc McStuffins",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": 3,
+      "episode": null,
+      "seasons_count": 5,
+      "episodes_count": 242,
+      "description": "يعود الجزء الثالث بتولي إيمي لارسن وسونيا ميترا رئاسة الأطباء المقيمين في المستشفى، حيث تدربان مجموعة جديدة من الأطباء على التعامل مع الحالات المعقدة، وذلك بالتزامن مع محاولات إيمي لبناء حياتها من جديد بعد فقدانها ذكريات الثماني سنوات الأخيرة من حياتها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "رسوم متحركة",
+        "أطفال",
+        "عائلي"
+      ],
+      "rating": 6.1,
+      "vote_count": 79,
+      "age_rating": "TV-G",
+      "year": "2012",
+      "release_date": "2012-03-23",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Chris Nee",
+      "cast": [
+        {
+          "name": "Kiara Muhammad",
+          "character": "Doc McStuffins (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5sqwn2pPk5ymSmSaAqU1brhfys2.jpg"
+        },
+        {
+          "name": "كيمبرلي بروكس",
+          "character": "Dr. Maisha McStuffins (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iPlCk1VQ8fnAtsMow6HlCZoQc0w.jpg"
+        },
+        {
+          "name": "غاري وليامز",
+          "character": "Marcus McStuffins (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/96BbiV8rQOeGyoDxgrepRd6lUjm.jpg"
+        },
+        {
+          "name": "لوريتا ديفين",
+          "character": "Nurse Hallie (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cGTQ0X19bkMWqL6O00JK2t6uJBK.jpg"
+        },
+        {
+          "name": "Jess Harnell",
+          "character": "Chilly (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+        },
+        {
+          "name": "Robbie Rist",
+          "character": "Stuffy Filbert McStuffins (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xaDQBCyjEOtgsto7xTiVRP0PsKe.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/oKsiy7ZyuyOGAgw49KpEdgULtdC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5hXkZ1CQlH24OB5Nr32boR4RgmT.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/oKsiy7ZyuyOGAgw49KpEdgULtdC.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T07:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 71712,
+      "title": "The Good Doctor S3",
+      "clean_title": "The Good Doctor",
+      "original_title": "The Good Doctor",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 3,
+      "episode": null,
+      "seasons_count": 7,
+      "episodes_count": 126,
+      "description": "بينما يبدأ (شون) البحث عن جوانب جديدة في حياته الاجتماعية، تزداد الأمور توترًا في العمل في المستشفى، ويصبح على شون فعل المستحيل من أجل إنقاذ كل شيء ووضعه في نصابه.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 8.5,
+      "vote_count": 12985,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-09-25",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "ديفيد شور",
+      "cast": [
+        {
+          "name": "Freddie Highmore",
+          "character": "Dr. Shaun Murphy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg"
+        },
+        {
+          "name": "فيونا جوبلمان",
+          "character": "Dr. Morgan Reznick",
+          "profile_image": "https://image.tmdb.org/t/p/w185/c80VyX8RyupJXb7EqTxHNHtN4Cn.jpg"
+        },
+        {
+          "name": "ويل يان لي",
+          "character": "Dr. Alex Park",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+        },
+        {
+          "name": "كريستينا تشانغ",
+          "character": "Dr. Audrey Lim",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5e8zzySBeJzozWJixt3E2HmZSv1.jpg"
+        },
+        {
+          "name": "بايج سبارا",
+          "character": "Lea Dilallo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/elcx21E3X5xBjW31gXBJnWTSvYX.jpg"
+        },
+        {
+          "name": "Bria Samoné Henderson",
+          "character": "Dr. Jordan Allen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/b2Zi6Hb6SLLunl3Ndr9OLz8bTld.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/lniwLyBHJ5PSqHpFdEBC3XgPqal.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/lniwLyBHJ5PSqHpFdEBC3XgPqal.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 65930,
+      "title": "My Hero Academia",
+      "clean_title": "My Hero Academia",
+      "original_title": "僕のヒーローアカデミア",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 170,
+      "description": "في عالم يسكنه البشر الخارقون، أصبح إيزوكو ميدوريا محب الأبطال الخارقين بلا قوة. وبمجرد التحاقه بالمدرسة الثانوية للأبطال، سرعان ما يكتشف إيزوكو أن كونه بطلاً هو أمر أكثر تعقيدًا مما يبدو.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "حركة ومغامرة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.6,
+      "vote_count": 5435,
+      "age_rating": "TV-14",
+      "year": "2016",
+      "release_date": "2016-04-03",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "دايكي ياماشيتا",
+          "character": "Izuku Midoriya (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T15:00:00+00:00",
+      "stop": "2026-11-17T15:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 65930,
+      "title": "My Hero Academia",
+      "clean_title": "My Hero Academia",
+      "original_title": "僕のヒーローアカデミア",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 170,
+      "description": "في عالم يسكنه البشر الخارقون، أصبح إيزوكو ميدوريا محب الأبطال الخارقين بلا قوة. وبمجرد التحاقه بالمدرسة الثانوية للأبطال، سرعان ما يكتشف إيزوكو أن كونه بطلاً هو أمر أكثر تعقيدًا مما يبدو.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "حركة ومغامرة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.6,
+      "vote_count": 5435,
+      "age_rating": "TV-14",
+      "year": "2016",
+      "release_date": "2016-04-03",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "دايكي ياماشيتا",
+          "character": "Izuku Midoriya (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T15:30:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 15379,
+      "title": "برنامج beIN Action",
+      "clean_title": "beIN Action",
+      "original_title": "Missing in Action",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد فراره من معسكر أسرى في فيتنام، يعود عقيد في القوات الخاصة في مهمة لتحديد مكان الجنود الأمريكيين المفقودين الذين لا يزالون محتجزين وإنقاذهم.",
+      "category": "General",
+      "genres": [
+        "General",
+        "حركة",
+        "مغامرة",
+        "إثارة",
+        "حرب"
+      ],
+      "rating": 5.9,
+      "vote_count": 608,
+      "age_rating": "R",
+      "year": "1984",
+      "release_date": "1984-11-16",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Joseph Zito",
+      "cast": [
+        {
+          "name": "تشاك نوريس",
+          "character": "Col. James Braddock",
+          "profile_image": "https://image.tmdb.org/t/p/w185/m3uLikdhi9qObRvGVHsKX5H93lR.jpg"
+        },
+        {
+          "name": "مايكل إيمت ولش",
+          "character": "Tuck",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fVWvBxvwyk4aTA9vKZOV9qHRNNk.jpg"
+        },
+        {
+          "name": "David Tress",
+          "character": "Sen. Porter",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gLyDdtF4CbKj8hxJ5LLP3ZRnjnJ.jpg"
+        },
+        {
+          "name": "Lenore Kasdorf",
+          "character": "Ann",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zyU2cEF8RUC8Zx11SmVBYIPQ62a.jpg"
+        },
+        {
+          "name": "James Hong",
+          "character": "Gen. Trau",
+          "profile_image": "https://image.tmdb.org/t/p/w185/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+        },
+        {
+          "name": "Pierrino Mascarino",
+          "character": "Jacques",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5ZD0q5LEsVXYSUPFoCHBRSeZTaD.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T16:15:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/nBrDcnNQca88ed1gRwZ1Q5cjNxE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8GVHeU77wFodIkwetIufkTVPgOF.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/nBrDcnNQca88ed1gRwZ1Q5cjNxE.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T19:40:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T13:40:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس إتش...",
+          "start": "2026-11-17T19:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 95479,
+      "title": "Jujutsu Kaisen",
+      "clean_title": "Jujutsu Kaisen",
+      "original_title": "呪術廻戦",
+      "tagline": "فتى يقاتل... من أجل \"الموت الصحيح\".",
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 59,
+      "description": "في إطار من الرسوم المتحركة، يبتلع صبي تعويذة ملعونة فيُصاب هو أيضًا باللعنة، فينضم إلى منظمة سرية من سحرة الجوجوتسو للقضاء على تلك اللعنة وطرد أرواحه الشريرة.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا",
+        "حركة ومغامرة"
+      ],
+      "rating": 8.6,
+      "vote_count": 4744,
+      "age_rating": "TV-MA",
+      "year": "2020",
+      "release_date": "2020-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Junya Enoki",
+          "character": "Yuji Itadori",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/33/84168.jpg"
+        },
+        {
+          "name": "Yūma Uchida",
+          "character": "Megumi Fushiguro",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/59/148371.jpg"
+        },
+        {
+          "name": "Yuichi Nakamura",
+          "character": "Satoru Gojō",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176702.jpg"
+        },
+        {
+          "name": "Asami Seto",
+          "character": "Nobara Kugisaki",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/557/1393182.jpg"
+        },
+        {
+          "name": "Nobunaga Shimazaki",
+          "character": "Mahito",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/86/215779.jpg"
+        },
+        {
+          "name": "Mikako Komatsu",
+          "character": "Maki Zen'in",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176710.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T16:15:00+00:00",
+      "stop": "2026-11-17T16:40:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/flgn0jXbg8GIe2qaWfd70A0uzfp.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T04:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T10:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:40:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 95479,
+      "title": "Jujutsu Kaisen",
+      "clean_title": "Jujutsu Kaisen",
+      "original_title": "呪術廻戦",
+      "tagline": "فتى يقاتل... من أجل \"الموت الصحيح\".",
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 59,
+      "description": "في إطار من الرسوم المتحركة، يبتلع صبي تعويذة ملعونة فيُصاب هو أيضًا باللعنة، فينضم إلى منظمة سرية من سحرة الجوجوتسو للقضاء على تلك اللعنة وطرد أرواحه الشريرة.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا",
+        "حركة ومغامرة"
+      ],
+      "rating": 8.6,
+      "vote_count": 4744,
+      "age_rating": "TV-MA",
+      "year": "2020",
+      "release_date": "2020-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Junya Enoki",
+          "character": "Yuji Itadori",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/33/84168.jpg"
+        },
+        {
+          "name": "Yūma Uchida",
+          "character": "Megumi Fushiguro",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/59/148371.jpg"
+        },
+        {
+          "name": "Yuichi Nakamura",
+          "character": "Satoru Gojō",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176702.jpg"
+        },
+        {
+          "name": "Asami Seto",
+          "character": "Nobara Kugisaki",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/557/1393182.jpg"
+        },
+        {
+          "name": "Nobunaga Shimazaki",
+          "character": "Mahito",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/86/215779.jpg"
+        },
+        {
+          "name": "Mikako Komatsu",
+          "character": "Maki Zen'in",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176710.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T16:40:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 20,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/flgn0jXbg8GIe2qaWfd70A0uzfp.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T04:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T10:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 56570,
+      "title": "Outlander S7",
+      "clean_title": "Outlander",
+      "original_title": "Outlander",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 7,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 101,
+      "description": "تجبر عائلة فريزر على خوض الحرب الثورية من أجل الحفاظ على ما حققوه طوال هذه الفترة، بينما يتعلموا أنه يجب عليهم ترك ما يحبوه وراءهم لحمايته من المخاطر.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.2,
+      "vote_count": 3024,
+      "age_rating": "TV-MA",
+      "year": "2014",
+      "release_date": "2014-08-09",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "رونالد مور",
+      "cast": [
+        {
+          "name": "كاترينا بالف",
+          "character": "Claire Randall Fraser",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lerCNTjO6FQIam2lF5SXHA4dY7H.jpg"
+        },
+        {
+          "name": "سام هيوين",
+          "character": "Jamie Fraser",
+          "profile_image": "https://image.tmdb.org/t/p/w185/f35MnE74N2U0Dq6CVKwzF7DL8nN.jpg"
+        },
+        {
+          "name": "Sophie Skelton",
+          "character": "Brianna MacKenzie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oBkearm8XdrYTEK0VCWCGmwURt6.jpg"
+        },
+        {
+          "name": "Richard Rankin",
+          "character": "Roger MacKenzie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gmtK4zTBxlOEcHQgvXOwdfLHObc.jpg"
+        },
+        {
+          "name": "John Bell",
+          "character": "Ian Fraser Murray",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aPMEzcv36aAXyCLgsRkP0H2ezf6.jpg"
+        },
+        {
+          "name": "David Berry",
+          "character": "Lord John Grey",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hiuSdXFjI7EIMv8Y83zh2KtGbbk.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/htXCyw8lcodCLG24cbwqf1NGJAg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/htXCyw8lcodCLG24cbwqf1NGJAg.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 207484,
+      "title": "Outlander: Blood of My Blood S2",
+      "clean_title": "Outlander: Blood of My Blood",
+      "original_title": "Outlander: Blood of My Blood",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 20,
+      "description": "تدور الأحداث بعد مباشرة من نهاية الموسم الأول، حيث تستكمل القصة ما حدث من صدمات ومنعطفات مفاجئة، فتتابع حكاية زوجين في عالمين مختلفين، تفرّق بينهما الحرب والزمن.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 8.7,
+      "vote_count": 127,
+      "age_rating": "TV-MA",
+      "year": "2025",
+      "release_date": "2025-08-08",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Matthew B. Roberts",
+      "cast": [
+        {
+          "name": "Harriet Slater",
+          "character": "Ellen MacKenzie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9BJxdhi4tuiQdgT8bfDuiPipnsx.jpg"
+        },
+        {
+          "name": "Jamie Roy",
+          "character": "Brian Fraser",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nYy56LbMANPBVGW0VD1VxoKd75B.jpg"
+        },
+        {
+          "name": "هيرميون كورفيلد",
+          "character": "Julia Moriston Beauchamp",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2bNXWCpmw2vsdVQjDfkbulDpgFd.jpg"
+        },
+        {
+          "name": "Jeremy Irvine",
+          "character": "Henry Beauchamp",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wnyLs0r9j1IB4zK2QBkgg2TyAzZ.jpg"
+        },
+        {
+          "name": "Tony Curran",
+          "character": "Lord Lovat (Simon Fraser)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s50kh2ubcoCV6rvXobebvcyNALE.jpg"
+        },
+        {
+          "name": "Séamus McLean Ross",
+          "character": "Colum MacKenzie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/janW4BcseXD78sG6PvkPPnbi7s3.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 262967,
+      "title": "Titanic Sinks Tonight",
+      "clean_title": "Titanic Sinks Tonight",
+      "original_title": "Titanic Sinks Tonight",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "description": "يسلط الوثائقي الضوء على حادث غرق سفينة تايتانيك من خلال سرد دقيق لروايات الناجين الحقيقيين، حيث يتتبع العمل تجارب 16 راكبًا بشكل متوازي.",
+      "category": "مسلسل - وثائقي/تسجيلي",
+      "genres": [
+        "مسلسل - وثائقي/تسجيلي",
+        "وثائقي",
+        "دراما"
+      ],
+      "rating": 7.4,
+      "vote_count": 12,
+      "age_rating": "TV-14",
+      "year": "2025",
+      "release_date": "2025-12-28",
+      "status": "Ended",
+      "country": "المملكة المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Martha Newson",
+          "character": "Self - Expert",
+          "profile_image": null
+        },
+        {
+          "name": "Jeanette Winterson",
+          "character": "Self - Expert",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wwtvTW0VckPRHXVcoCnMD6r69SL.jpg"
+        },
+        {
+          "name": "JJ Chalmers",
+          "character": "Self - Expert",
+          "profile_image": null
+        },
+        {
+          "name": "Alan West",
+          "character": "Self - Expert",
+          "profile_image": null
+        },
+        {
+          "name": "Nadifa Mohamed",
+          "character": "Self - Expert",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vBjMWkLg0LJUmtcg97w8A7zrcLf.jpg"
+        },
+        {
+          "name": "Suzannah Lipscomb",
+          "character": "Self - Expert",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iobq6g4IFynLzS1IRESNJ8n5xZN.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/icJbEDVQeJMnQyHr903lg2CFo6q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/sSVlOEH3FPzYojMe02iACfO61Wy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/icJbEDVQeJMnQyHr903lg2CFo6q.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 71712,
+      "title": "The Good Doctor S3",
+      "clean_title": "The Good Doctor",
+      "original_title": "The Good Doctor",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 3,
+      "episode": null,
+      "seasons_count": 7,
+      "episodes_count": 126,
+      "description": "بينما يبدأ (شون) البحث عن جوانب جديدة في حياته الاجتماعية، تزداد الأمور توترًا في العمل في المستشفى، ويصبح على شون فعل المستحيل من أجل إنقاذ كل شيء ووضعه في نصابه.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 8.5,
+      "vote_count": 12985,
+      "age_rating": "TV-14",
+      "year": "2017",
+      "release_date": "2017-09-25",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "ديفيد شور",
+      "cast": [
+        {
+          "name": "Freddie Highmore",
+          "character": "Dr. Shaun Murphy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg"
+        },
+        {
+          "name": "فيونا جوبلمان",
+          "character": "Dr. Morgan Reznick",
+          "profile_image": "https://image.tmdb.org/t/p/w185/c80VyX8RyupJXb7EqTxHNHtN4Cn.jpg"
+        },
+        {
+          "name": "ويل يان لي",
+          "character": "Dr. Alex Park",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+        },
+        {
+          "name": "كريستينا تشانغ",
+          "character": "Dr. Audrey Lim",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5e8zzySBeJzozWJixt3E2HmZSv1.jpg"
+        },
+        {
+          "name": "بايج سبارا",
+          "character": "Lea Dilallo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/elcx21E3X5xBjW31gXBJnWTSvYX.jpg"
+        },
+        {
+          "name": "Bria Samoné Henderson",
+          "character": "Dr. Jordan Allen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/b2Zi6Hb6SLLunl3Ndr9OLz8bTld.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T20:00:00+00:00",
+      "stop": "2026-11-17T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/lniwLyBHJ5PSqHpFdEBC3XgPqal.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/lniwLyBHJ5PSqHpFdEBC3XgPqal.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T20:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 65930,
+      "title": "My Hero Academia",
+      "clean_title": "My Hero Academia",
+      "original_title": "僕のヒーローアカデミア",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 170,
+      "description": "في عالم يسكنه البشر الخارقون، أصبح إيزوكو ميدوريا محب الأبطال الخارقين بلا قوة. وبمجرد التحاقه بالمدرسة الثانوية للأبطال، سرعان ما يكتشف إيزوكو أن كونه بطلاً هو أمر أكثر تعقيدًا مما يبدو.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "حركة ومغامرة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.6,
+      "vote_count": 5435,
+      "age_rating": "TV-14",
+      "year": "2016",
+      "release_date": "2016-04-03",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "دايكي ياماشيتا",
+          "character": "Izuku Midoriya (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T21:00:00+00:00",
+      "stop": "2026-11-17T21:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 65930,
+      "title": "My Hero Academia",
+      "clean_title": "My Hero Academia",
+      "original_title": "僕のヒーローアカデミア",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 8,
+      "episodes_count": 170,
+      "description": "في عالم يسكنه البشر الخارقون، أصبح إيزوكو ميدوريا محب الأبطال الخارقين بلا قوة. وبمجرد التحاقه بالمدرسة الثانوية للأبطال، سرعان ما يكتشف إيزوكو أن كونه بطلاً هو أمر أكثر تعقيدًا مما يبدو.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "حركة ومغامرة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا"
+      ],
+      "rating": 8.6,
+      "vote_count": 5435,
+      "age_rating": "TV-14",
+      "year": "2016",
+      "release_date": "2016-04-03",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "دايكي ياماشيتا",
+          "character": "Izuku Midoriya (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T21:30:00+00:00",
+      "stop": "2026-11-17T22:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T03:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T09:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 95479,
+      "title": "Jujutsu Kaisen",
+      "clean_title": "Jujutsu Kaisen",
+      "original_title": "呪術廻戦",
+      "tagline": "فتى يقاتل... من أجل \"الموت الصحيح\".",
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 59,
+      "description": "في إطار من الرسوم المتحركة، يبتلع صبي تعويذة ملعونة فيُصاب هو أيضًا باللعنة، فينضم إلى منظمة سرية من سحرة الجوجوتسو للقضاء على تلك اللعنة وطرد أرواحه الشريرة.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا",
+        "حركة ومغامرة"
+      ],
+      "rating": 8.6,
+      "vote_count": 4744,
+      "age_rating": "TV-MA",
+      "year": "2020",
+      "release_date": "2020-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Junya Enoki",
+          "character": "Yuji Itadori",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/33/84168.jpg"
+        },
+        {
+          "name": "Yūma Uchida",
+          "character": "Megumi Fushiguro",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/59/148371.jpg"
+        },
+        {
+          "name": "Yuichi Nakamura",
+          "character": "Satoru Gojō",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176702.jpg"
+        },
+        {
+          "name": "Asami Seto",
+          "character": "Nobara Kugisaki",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/557/1393182.jpg"
+        },
+        {
+          "name": "Nobunaga Shimazaki",
+          "character": "Mahito",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/86/215779.jpg"
+        },
+        {
+          "name": "Mikako Komatsu",
+          "character": "Maki Zen'in",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176710.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T22:00:00+00:00",
+      "stop": "2026-11-17T22:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/flgn0jXbg8GIe2qaWfd70A0uzfp.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T04:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T10:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:40:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 95479,
+      "title": "Jujutsu Kaisen",
+      "clean_title": "Jujutsu Kaisen",
+      "original_title": "呪術廻戦",
+      "tagline": "فتى يقاتل... من أجل \"الموت الصحيح\".",
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 59,
+      "description": "في إطار من الرسوم المتحركة، يبتلع صبي تعويذة ملعونة فيُصاب هو أيضًا باللعنة، فينضم إلى منظمة سرية من سحرة الجوجوتسو للقضاء على تلك اللعنة وطرد أرواحه الشريرة.",
+      "category": "مسلسل - رسوم متحركة",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا",
+        "حركة ومغامرة"
+      ],
+      "rating": 8.6,
+      "vote_count": 4744,
+      "age_rating": "TV-MA",
+      "year": "2020",
+      "release_date": "2020-10-03",
+      "status": "Returning Series",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Junya Enoki",
+          "character": "Yuji Itadori",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/33/84168.jpg"
+        },
+        {
+          "name": "Yūma Uchida",
+          "character": "Megumi Fushiguro",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/59/148371.jpg"
+        },
+        {
+          "name": "Yuichi Nakamura",
+          "character": "Satoru Gojō",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176702.jpg"
+        },
+        {
+          "name": "Asami Seto",
+          "character": "Nobara Kugisaki",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/557/1393182.jpg"
+        },
+        {
+          "name": "Nobunaga Shimazaki",
+          "character": "Mahito",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/86/215779.jpg"
+        },
+        {
+          "name": "Mikako Komatsu",
+          "character": "Maki Zen'in",
+          "profile_image": "https://static.tvmaze.com/uploads/images/medium_portrait/70/176710.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T22:30:00+00:00",
+      "stop": "2026-11-17T23:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/flgn0jXbg8GIe2qaWfd70A0uzfp.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T04:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T10:30:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:15:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T16:40:00+00:00"
+        },
+        {
+          "channel": "بي إن سيريس",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

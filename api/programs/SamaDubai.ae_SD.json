@@ -1,0 +1,2617 @@
+{
+  "channel_id": "SamaDubai.ae@SD",
+  "channel_name": "سما دبي",
+  "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+  "programs": [
+    {
+      "tmdb_id": 86087,
+      "title": "مع حصة قلم",
+      "clean_title": "مع حصة قلم",
+      "original_title": "مع حصة قلم",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في إطار درامي اجتماعي تدور أحداث المسلسل حول امرأة تنسى ما يدور حولها طول الوقت، مما يضطرها إلى أن تحتفظ بورقة وقلم لتدوين أبرز الأمور، وتفرق الأيام بينها وبين أولادها مما يضعها في أقسى الظروف والاختبارات.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": "2018-05-17",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "حياة الفهد",
+          "character": "Hessa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qnmhZP2VI6pIARsdnZHYBt4zQgM.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T12:00:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/klDXdD7G25wEqeQx3bKKrzrObRM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4O3ypjkMqHBy9aUVf4204Mw5a70.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/klDXdD7G25wEqeQx3bKKrzrObRM.jpg",
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج ذاكرة الاعلام",
+      "clean_title": "ذاكرة الاعلام",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج مساء دبي",
+      "clean_title": "مساء دبي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T19:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وديمة وحليمة ج5",
+      "clean_title": "وديمة وحليمة ج5",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في الموسم الخامس، تستمر المشاحنات الكوميدية بين الجارتين ديمة وحليمة، بينما يسعى الجيران وأفراد العائلة لحل النزاعات، وسط العديد من المواقف الطريفة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T15:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T20:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج مراري 2026",
+      "clean_title": "مراري 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:30:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T11:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 222814,
+      "title": "طوق الحرير",
+      "clean_title": "طوق الحرير",
+      "original_title": "طوق الحرير",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "تسعى سيدة الأعمال خولة للسيطرة على أولادها، وتتحكم في حياتهم الشخصية، وتحاول تقرير مصائرهم، ولكنها تقع في شر أعمالها عندما تنكشف مخططتها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-22",
+      "status": "Ended",
+      "country": "الإمارات",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "أحمد الجسمي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/esPdMnDd0tibWcIJjo4LNs3FuQy.jpg"
+        },
+        {
+          "name": "سميرة أحمد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3z3o84b4Z2HOtKlxtzRneWsHJhH.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/oXQPgBU12vap4reiqEJ5ZE4baXa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qQboxlofuPFm3i6KdlOhY9ACGRA.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/oXQPgBU12vap4reiqEJ5ZE4baXa.jpg",
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T23:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج ذخر 2026",
+      "clean_title": "ذخر 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "الاخبار المحلية",
+      "clean_title": "الاخبار المحلية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مجموعة شاملة لأحدث وأهم الأخبار.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:00:00+00:00",
+      "stop": "2026-11-16T18:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314081,
+      "title": "بنات عبدالغني",
+      "clean_title": "بنات عبدالغني",
+      "original_title": "بنات عبدالغني",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "كوميديا خليجية ساخرة تدور حول ثلاث شقيقات يخططن لإفشال زواج أختهن الكبرى عبر سلسلة من المؤامرات الفاشلة. وسط أجواء من التنافس العائلي والمواقف الطريفة، يسلط العمل الضوء على الضغوط الاجتماعية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 6,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "هنادي الكندري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/bi0imWqn0m16RTEjPu8D436Ujf2.jpg"
+        },
+        {
+          "name": "عبدالله التركماني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hQXXR94A5etiq3dAVqbvZ3mKNkO.jpg"
+        },
+        {
+          "name": "مرام البلوشي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3bZZjWhyLHx9b5OmYj2JLj3mVKV.jpg"
+        },
+        {
+          "name": "إيمان الحسيني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/zXOChMEu1UBkFEfOB9mV2iuD0hX.jpg"
+        },
+        {
+          "name": "ليالي دهراب",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dcoxUk5epoWhQlPUbVrqHJLh68U.jpg"
+        },
+        {
+          "name": "Yasmeen Alenezi",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T18:30:00+00:00",
+      "stop": "2026-11-16T19:15:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/43GqtCoF4ljQU7YycmzcDLzExYA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1SBDv0uhCnYyDdWpRJ0p0kpe0pg.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/43GqtCoF4ljQU7YycmzcDLzExYA.jpg",
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج شو السالفة",
+      "clean_title": "شو السالفة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:15:00+00:00",
+      "stop": "2026-11-16T19:30:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T08:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج مساء دبي",
+      "clean_title": "مساء دبي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:30:00+00:00",
+      "stop": "2026-11-16T20:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 413835,
+      "title": "برنامج خارج النص",
+      "clean_title": "خارج النص",
+      "original_title": "خارج الإطار أو ثورة حتى النصر",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General",
+        "وثائقي"
+      ],
+      "rating": 6.3,
+      "vote_count": 6,
+      "age_rating": null,
+      "year": "2016",
+      "release_date": "2016-09-10",
+      "status": "Released",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": "Mohanad Yaqubi",
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:00:00+00:00",
+      "stop": "2026-11-16T20:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/VRVEFfUmgZALJg5Pe2gNmrgQmW.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/VRVEFfUmgZALJg5Pe2gNmrgQmW.jpg",
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "وديمة وحليمة ج5",
+      "clean_title": "وديمة وحليمة ج5",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في الموسم الخامس، تستمر المشاحنات الكوميدية بين الجارتين ديمة وحليمة، بينما يسعى الجيران وأفراد العائلة لحل النزاعات، وسط العديد من المواقف الطريفة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:30:00+00:00",
+      "stop": "2026-11-16T21:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج ابن بيتك",
+      "clean_title": "ابن بيتك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T21:00:00+00:00",
+      "stop": "2026-11-16T21:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 86087,
+      "title": "مع حصة قلم",
+      "clean_title": "مع حصة قلم",
+      "original_title": "مع حصة قلم",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في إطار درامي اجتماعي تدور أحداث المسلسل حول امرأة تنسى ما يدور حولها طول الوقت، مما يضطرها إلى أن تحتفظ بورقة وقلم لتدوين أبرز الأمور، وتفرق الأيام بينها وبين أولادها مما يضعها في أقسى الظروف والاختبارات.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": "2018-05-17",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "حياة الفهد",
+          "character": "Hessa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qnmhZP2VI6pIARsdnZHYBt4zQgM.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T21:30:00+00:00",
+      "stop": "2026-11-16T22:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/klDXdD7G25wEqeQx3bKKrzrObRM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4O3ypjkMqHBy9aUVf4204Mw5a70.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/klDXdD7G25wEqeQx3bKKrzrObRM.jpg",
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 222814,
+      "title": "طوق الحرير",
+      "clean_title": "طوق الحرير",
+      "original_title": "طوق الحرير",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "تسعى سيدة الأعمال خولة للسيطرة على أولادها، وتتحكم في حياتهم الشخصية، وتحاول تقرير مصائرهم، ولكنها تقع في شر أعمالها عندما تنكشف مخططتها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-22",
+      "status": "Ended",
+      "country": "الإمارات",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "أحمد الجسمي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/esPdMnDd0tibWcIJjo4LNs3FuQy.jpg"
+        },
+        {
+          "name": "سميرة أحمد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3z3o84b4Z2HOtKlxtzRneWsHJhH.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T23:30:00+00:00",
+      "stop": "2026-11-17T00:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/oXQPgBU12vap4reiqEJ5ZE4baXa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qQboxlofuPFm3i6KdlOhY9ACGRA.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/oXQPgBU12vap4reiqEJ5ZE4baXa.jpg",
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "الفقرة الدينية",
+      "clean_title": "الفقرة الدينية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:00:00+00:00",
+      "stop": "2026-11-17T00:20:00+00:00",
+      "duration_minutes": 20,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 1816265,
+      "title": "برنامج الراوي",
+      "clean_title": "الراوي",
+      "original_title": "الراوي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسلط المذيع الضوء على نبذة عن بعض أهم الشخصيات التي ساهمت في تاريخ وثقافة الإمارات.",
+      "category": "General",
+      "genres": [
+        "General",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-09-25",
+      "status": "Released",
+      "country": "الإمارات",
+      "language": "العربية",
+      "director": "Youssef Akef",
+      "cast": [
+        {
+          "name": "Saleh Ahmed",
+          "character": "Grandfather",
+          "profile_image": null
+        },
+        {
+          "name": "Noora Mohammed Saif Ali Saif Almansoori",
+          "character": "Granddaughter (age 10)",
+          "profile_image": null
+        },
+        {
+          "name": "Meera Almidfa",
+          "character": "Granddaughter (age 20)",
+          "profile_image": null
+        },
+        {
+          "name": "Salama S. Almazrouei",
+          "character": "Granddaughter (age 50)",
+          "profile_image": null
+        },
+        {
+          "name": "Masoud Saif Muftah Al Manei",
+          "character": "Majlis Owner",
+          "profile_image": null
+        },
+        {
+          "name": "Hamad Ali Alseiari",
+          "character": "Diver",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T00:20:00+00:00",
+      "stop": "2026-11-17T01:30:00+00:00",
+      "duration_minutes": 70,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/KK5ATfr2q2HKLir42dwII3N9Gx.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/KK5ATfr2q2HKLir42dwII3N9Gx.jpg",
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T02:50:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T02:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T10:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وديمة وحليمة ج5",
+      "clean_title": "وديمة وحليمة ج5",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في الموسم الخامس، تستمر المشاحنات الكوميدية بين الجارتين ديمة وحليمة، بينما يسعى الجيران وأفراد العائلة لحل النزاعات، وسط العديد من المواقف الطريفة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:30:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T20:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314081,
+      "title": "بنات عبدالغني",
+      "clean_title": "بنات عبدالغني",
+      "original_title": "بنات عبدالغني",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "كوميديا خليجية ساخرة تدور حول ثلاث شقيقات يخططن لإفشال زواج أختهن الكبرى عبر سلسلة من المؤامرات الفاشلة. وسط أجواء من التنافس العائلي والمواقف الطريفة، يسلط العمل الضوء على الضغوط الاجتماعية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 6,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "هنادي الكندري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/bi0imWqn0m16RTEjPu8D436Ujf2.jpg"
+        },
+        {
+          "name": "عبدالله التركماني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hQXXR94A5etiq3dAVqbvZ3mKNkO.jpg"
+        },
+        {
+          "name": "مرام البلوشي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3bZZjWhyLHx9b5OmYj2JLj3mVKV.jpg"
+        },
+        {
+          "name": "إيمان الحسيني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/zXOChMEu1UBkFEfOB9mV2iuD0hX.jpg"
+        },
+        {
+          "name": "ليالي دهراب",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dcoxUk5epoWhQlPUbVrqHJLh68U.jpg"
+        },
+        {
+          "name": "Yasmeen Alenezi",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/43GqtCoF4ljQU7YycmzcDLzExYA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1SBDv0uhCnYyDdWpRJ0p0kpe0pg.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/43GqtCoF4ljQU7YycmzcDLzExYA.jpg",
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 222814,
+      "title": "طوق الحرير",
+      "clean_title": "طوق الحرير",
+      "original_title": "طوق الحرير",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "تسعى سيدة الأعمال خولة للسيطرة على أولادها، وتتحكم في حياتهم الشخصية، وتحاول تقرير مصائرهم، ولكنها تقع في شر أعمالها عندما تنكشف مخططتها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-22",
+      "status": "Ended",
+      "country": "الإمارات",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "أحمد الجسمي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/esPdMnDd0tibWcIJjo4LNs3FuQy.jpg"
+        },
+        {
+          "name": "سميرة أحمد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3z3o84b4Z2HOtKlxtzRneWsHJhH.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/oXQPgBU12vap4reiqEJ5ZE4baXa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qQboxlofuPFm3i6KdlOhY9ACGRA.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/oXQPgBU12vap4reiqEJ5ZE4baXa.jpg",
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T23:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج مساء دبي",
+      "clean_title": "مساء دبي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T05:00:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T19:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج مراري 2026",
+      "clean_title": "مراري 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:00:00+00:00",
+      "stop": "2026-11-17T06:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T11:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وديمة وحليمة ج5",
+      "clean_title": "وديمة وحليمة ج5",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في الموسم الخامس، تستمر المشاحنات الكوميدية بين الجارتين ديمة وحليمة، بينما يسعى الجيران وأفراد العائلة لحل النزاعات، وسط العديد من المواقف الطريفة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:30:00+00:00",
+      "stop": "2026-11-17T07:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T20:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 86087,
+      "title": "مع حصة قلم",
+      "clean_title": "مع حصة قلم",
+      "original_title": "مع حصة قلم",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في إطار درامي اجتماعي تدور أحداث المسلسل حول امرأة تنسى ما يدور حولها طول الوقت، مما يضطرها إلى أن تحتفظ بورقة وقلم لتدوين أبرز الأمور، وتفرق الأيام بينها وبين أولادها مما يضعها في أقسى الظروف والاختبارات.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": "2018-05-17",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "حياة الفهد",
+          "character": "Hessa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qnmhZP2VI6pIARsdnZHYBt4zQgM.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T08:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/klDXdD7G25wEqeQx3bKKrzrObRM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4O3ypjkMqHBy9aUVf4204Mw5a70.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/klDXdD7G25wEqeQx3bKKrzrObRM.jpg",
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314081,
+      "title": "بنات عبدالغني",
+      "clean_title": "بنات عبدالغني",
+      "original_title": "بنات عبدالغني",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "كوميديا خليجية ساخرة تدور حول ثلاث شقيقات يخططن لإفشال زواج أختهن الكبرى عبر سلسلة من المؤامرات الفاشلة. وسط أجواء من التنافس العائلي والمواقف الطريفة، يسلط العمل الضوء على الضغوط الاجتماعية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 6,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "هنادي الكندري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/bi0imWqn0m16RTEjPu8D436Ujf2.jpg"
+        },
+        {
+          "name": "عبدالله التركماني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hQXXR94A5etiq3dAVqbvZ3mKNkO.jpg"
+        },
+        {
+          "name": "مرام البلوشي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3bZZjWhyLHx9b5OmYj2JLj3mVKV.jpg"
+        },
+        {
+          "name": "إيمان الحسيني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/zXOChMEu1UBkFEfOB9mV2iuD0hX.jpg"
+        },
+        {
+          "name": "ليالي دهراب",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dcoxUk5epoWhQlPUbVrqHJLh68U.jpg"
+        },
+        {
+          "name": "Yasmeen Alenezi",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T08:00:00+00:00",
+      "stop": "2026-11-17T08:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/43GqtCoF4ljQU7YycmzcDLzExYA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1SBDv0uhCnYyDdWpRJ0p0kpe0pg.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/43GqtCoF4ljQU7YycmzcDLzExYA.jpg",
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج شو السالفة",
+      "clean_title": "شو السالفة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:45:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T19:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج ذخر 2026",
+      "clean_title": "ذخر 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "الطماعون",
+      "clean_title": "الطماعون",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يموت والد سلمان التاجر المعروف عنه عمل الخير، ويحزن عليه أهل القرية، بينما يحاول أخيه طعمار وقائد الشرطة طباق والتاجر ترياق اﻻستيلاء على أمواله، فيساعدون ناجي بتزوير أختام أبو سلمان وتزوير أوراق تنقل جميع أملاكه إليهم، وعند رفض سلمان لهذا يبدرون له مكيدة كي يتخلصوا منه.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T10:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 1816265,
+      "title": "برنامج الراوي",
+      "clean_title": "الراوي",
+      "original_title": "الراوي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسلط المذيع الضوء على نبذة عن بعض أهم الشخصيات التي ساهمت في تاريخ وثقافة الإمارات.",
+      "category": "General",
+      "genres": [
+        "General",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-09-25",
+      "status": "Released",
+      "country": "الإمارات",
+      "language": "العربية",
+      "director": "Youssef Akef",
+      "cast": [
+        {
+          "name": "Saleh Ahmed",
+          "character": "Grandfather",
+          "profile_image": null
+        },
+        {
+          "name": "Noora Mohammed Saif Ali Saif Almansoori",
+          "character": "Granddaughter (age 10)",
+          "profile_image": null
+        },
+        {
+          "name": "Meera Almidfa",
+          "character": "Granddaughter (age 20)",
+          "profile_image": null
+        },
+        {
+          "name": "Salama S. Almazrouei",
+          "character": "Granddaughter (age 50)",
+          "profile_image": null
+        },
+        {
+          "name": "Masoud Saif Muftah Al Manei",
+          "character": "Majlis Owner",
+          "profile_image": null
+        },
+        {
+          "name": "Hamad Ali Alseiari",
+          "character": "Diver",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T10:30:00+00:00",
+      "stop": "2026-11-17T11:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/KK5ATfr2q2HKLir42dwII3N9Gx.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/KK5ATfr2q2HKLir42dwII3N9Gx.jpg",
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T02:50:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T00:20:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T02:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "منتصف النهار",
+      "clean_title": "منتصف النهار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسلط الصحافيون الضوء على آخر المستجدات والأخبار السياسية والاقتصادية والاجتماعية في المنطقة العربية والعالم.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:00:00+00:00",
+      "stop": "2026-11-17T11:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج مراري 2026",
+      "clean_title": "مراري 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:30:00+00:00",
+      "stop": "2026-11-17T12:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 86087,
+      "title": "مع حصة قلم",
+      "clean_title": "مع حصة قلم",
+      "original_title": "مع حصة قلم",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في إطار درامي اجتماعي تدور أحداث المسلسل حول امرأة تنسى ما يدور حولها طول الوقت، مما يضطرها إلى أن تحتفظ بورقة وقلم لتدوين أبرز الأمور، وتفرق الأيام بينها وبين أولادها مما يضعها في أقسى الظروف والاختبارات.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": "2018-05-17",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "حياة الفهد",
+          "character": "Hessa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qnmhZP2VI6pIARsdnZHYBt4zQgM.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T12:00:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/klDXdD7G25wEqeQx3bKKrzrObRM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4O3ypjkMqHBy9aUVf4204Mw5a70.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/klDXdD7G25wEqeQx3bKKrzrObRM.jpg",
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج ذخر 2026",
+      "clean_title": "ذخر 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج مساء دبي",
+      "clean_title": "مساء دبي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T19:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وديمة وحليمة ج5",
+      "clean_title": "وديمة وحليمة ج5",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في الموسم الخامس، تستمر المشاحنات الكوميدية بين الجارتين ديمة وحليمة، بينما يسعى الجيران وأفراد العائلة لحل النزاعات، وسط العديد من المواقف الطريفة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T15:00:00+00:00",
+      "stop": "2026-11-17T15:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T20:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج الحي الثقافي",
+      "clean_title": "الحي الثقافي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T15:30:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 222814,
+      "title": "طوق الحرير",
+      "clean_title": "طوق الحرير",
+      "original_title": "طوق الحرير",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "تسعى سيدة الأعمال خولة للسيطرة على أولادها، وتتحكم في حياتهم الشخصية، وتحاول تقرير مصائرهم، ولكنها تقع في شر أعمالها عندما تنكشف مخططتها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-22",
+      "status": "Ended",
+      "country": "الإمارات",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "أحمد الجسمي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/esPdMnDd0tibWcIJjo4LNs3FuQy.jpg"
+        },
+        {
+          "name": "سميرة أحمد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3z3o84b4Z2HOtKlxtzRneWsHJhH.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/oXQPgBU12vap4reiqEJ5ZE4baXa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qQboxlofuPFm3i6KdlOhY9ACGRA.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/oXQPgBU12vap4reiqEJ5ZE4baXa.jpg",
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T23:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج مع الاسرة",
+      "clean_title": "مع الاسرة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "الاخبار المحلية",
+      "clean_title": "الاخبار المحلية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مجموعة شاملة لأحدث وأهم الأخبار.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T18:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314081,
+      "title": "بنات عبدالغني",
+      "clean_title": "بنات عبدالغني",
+      "original_title": "بنات عبدالغني",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "كوميديا خليجية ساخرة تدور حول ثلاث شقيقات يخططن لإفشال زواج أختهن الكبرى عبر سلسلة من المؤامرات الفاشلة. وسط أجواء من التنافس العائلي والمواقف الطريفة، يسلط العمل الضوء على الضغوط الاجتماعية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "rating": 6,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "هنادي الكندري",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/bi0imWqn0m16RTEjPu8D436Ujf2.jpg"
+        },
+        {
+          "name": "عبدالله التركماني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hQXXR94A5etiq3dAVqbvZ3mKNkO.jpg"
+        },
+        {
+          "name": "مرام البلوشي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3bZZjWhyLHx9b5OmYj2JLj3mVKV.jpg"
+        },
+        {
+          "name": "إيمان الحسيني",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/zXOChMEu1UBkFEfOB9mV2iuD0hX.jpg"
+        },
+        {
+          "name": "ليالي دهراب",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/dcoxUk5epoWhQlPUbVrqHJLh68U.jpg"
+        },
+        {
+          "name": "Yasmeen Alenezi",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T18:30:00+00:00",
+      "stop": "2026-11-17T19:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/43GqtCoF4ljQU7YycmzcDLzExYA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1SBDv0uhCnYyDdWpRJ0p0kpe0pg.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/43GqtCoF4ljQU7YycmzcDLzExYA.jpg",
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T18:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج مساء دبي",
+      "clean_title": "مساء دبي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:30:00+00:00",
+      "stop": "2026-11-17T20:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T19:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وديمة وحليمة ج5",
+      "clean_title": "وديمة وحليمة ج5",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في الموسم الخامس، تستمر المشاحنات الكوميدية بين الجارتين ديمة وحليمة، بينما يسعى الجيران وأفراد العائلة لحل النزاعات، وسط العديد من المواقف الطريفة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:30:00+00:00",
+      "stop": "2026-11-17T21:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T20:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج مراري 2026",
+      "clean_title": "مراري 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:00:00+00:00",
+      "stop": "2026-11-17T21:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T11:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 86087,
+      "title": "مع حصة قلم",
+      "clean_title": "مع حصة قلم",
+      "original_title": "مع حصة قلم",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في إطار درامي اجتماعي تدور أحداث المسلسل حول امرأة تنسى ما يدور حولها طول الوقت، مما يضطرها إلى أن تحتفظ بورقة وقلم لتدوين أبرز الأمور، وتفرق الأيام بينها وبين أولادها مما يضعها في أقسى الظروف والاختبارات.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": "2018-05-17",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "حياة الفهد",
+          "character": "Hessa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qnmhZP2VI6pIARsdnZHYBt4zQgM.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T21:30:00+00:00",
+      "stop": "2026-11-17T22:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/klDXdD7G25wEqeQx3bKKrzrObRM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4O3ypjkMqHBy9aUVf4204Mw5a70.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/klDXdD7G25wEqeQx3bKKrzrObRM.jpg",
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج ذاكرة الاعلام",
+      "clean_title": "ذاكرة الاعلام",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:30:00+00:00",
+      "stop": "2026-11-17T23:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/F5g3ymW.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "سما دبي",
+          "start": "2026-11-16T13:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+name: Update 7-Day Arabic TV Guide
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Runs automatically every day at 03:00 UTC
+  push:
+    branches:
+      - main
+  workflow_dispatch: # Allows manual runs from the GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Filter MENA channels
+        run: node filter_top_channels.js
+
+      - name: Grab 7-day fast channels
+        run: npm run grab --- --channels=fast_channels.xml --days=7 --maxConnections=2 --delay=500 --output=guides/fast.xml
+
+      - name: Grab 7-day slow channels
+        run: npm run grab --- --channels=slow_channels.xml --days=7 --maxConnections=1 --delay=1500 --output=guides/slow.xml
+
+      - name: Convert to JSON & enrich with TMDB
+        run: node convert.js
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+
+      - name: Commit and push updated API files
+        run: |
+          git config --global user.name "EPG Bot"
+          git config --global user.email "bot@users.noreply.github.com"
+          git add api/ metadata_cache.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update 7-day EPG & TMDB metadata [skip ci]"
+            git push
+          else
+            echo "No schedule changes to commit."
+          fi

@@ -1,0 +1,3339 @@
+{
+  "channel_id": "CNNInternational.us@MENA",
+  "channel_name": "CNN HD",
+  "channel_icon": "https://i.imgur.com/dfxefQw.png",
+  "programs": [
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان نيوز روم صنداي",
+      "clean_title": "سي ان ان نيوز روم صنداي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تقديم تغطية متعمقة لأهم القصص الأسبوعية من جميع أنحاء العالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T23:00:00+00:00",
+      "stop": "2026-11-16T00:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان نيوز روم صنداي",
+      "clean_title": "سي ان ان نيوز روم صنداي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تقديم تغطية متعمقة لأهم القصص الأسبوعية من جميع أنحاء العالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T00:00:00+00:00",
+      "stop": "2026-11-16T01:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-15T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أ فريد زكريا سبيشيل",
+      "clean_title": "أ فريد زكريا سبيشيل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستعرض المذيع فريد زكريا مختلف القضايا الملحة التي تثير القلق ويحللها",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:00:00+00:00",
+      "stop": "2026-11-16T02:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "فريد زكريا جي بي اس",
+      "clean_title": "فريد زكريا جي بي اس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المذيع فريد زكريا تحليلا للقضايا الدولية والشؤون الخارجية.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T02:00:00+00:00",
+      "stop": "2026-11-16T03:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أفريكان فويسز بلايمايكرز",
+      "clean_title": "أفريكان فويسز بلايمايكرز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم بعض أشهر صانعي الموضة في أفريقيا نصائح ويتحدثون عن حياتهم الشخصية.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T03:00:00+00:00",
+      "stop": "2026-11-16T03:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T17:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T17:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ماركتبلايس اتسيا",
+      "clean_title": "ماركتبلايس اتسيا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يشارك المضيف أحدث القصص المتعلقة بالمشاريع وأسواق الأسهم في جميع أنحاء آسيا.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T03:30:00+00:00",
+      "stop": "2026-11-16T03:45:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ماركتبلايس ميدل ايست",
+      "clean_title": "ماركتبلايس ميدل ايست",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ماركتبلايس ميدل ايست",
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المضيف ملخصًا لأحدث التطورات في عالم التمويل.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T03:45:00+00:00",
+      "stop": "2026-11-16T04:00:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "كوناكتنغ افريكا",
+      "clean_title": "كوناكتنغ افريكا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسلط المضيف الضوء على المبادرات الثورية التي تساهم في تنمية أفريقيا.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T04:00:00+00:00",
+      "stop": "2026-11-16T04:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "انسياد افريكا",
+      "clean_title": "انسياد افريكا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المضيف قصصًا متنوعة وجذابة من وسائل مختلفة من أفريقيا.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T04:30:00+00:00",
+      "stop": "2026-11-16T05:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان نيوزروم",
+      "clean_title": "سي ان ان نيوزروم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم المضيف بمشاركة أحدث الأخبار حول القضايا الرئيسية في الولايات المتحدة والعالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T05:00:00+00:00",
+      "stop": "2026-11-16T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T07:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان نيوزروم",
+      "clean_title": "سي ان ان نيوزروم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم المضيف بمشاركة أحدث الأخبار حول القضايا الرئيسية في الولايات المتحدة والعالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T06:00:00+00:00",
+      "stop": "2026-11-16T06:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T07:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ورلد سبورت",
+      "clean_title": "ورلد سبورت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نظرة على الإنجازات الرياضية العالمية والتحديثات واللحظات البارزة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T06:45:00+00:00",
+      "stop": "2026-11-16T07:00:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T08:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T13:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T06:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T08:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T14:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان نيوزروم",
+      "clean_title": "سي ان ان نيوزروم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم المضيف بمشاركة أحدث الأخبار حول القضايا الرئيسية في الولايات المتحدة والعالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T07:00:00+00:00",
+      "stop": "2026-11-16T08:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان نيوزروم",
+      "clean_title": "سي ان ان نيوزروم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم المضيف بمشاركة أحدث الأخبار حول القضايا الرئيسية في الولايات المتحدة والعالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:00:00+00:00",
+      "stop": "2026-11-16T08:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T07:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ورلد سبورت",
+      "clean_title": "ورلد سبورت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نظرة على الإنجازات الرياضية العالمية والتحديثات واللحظات البارزة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:45:00+00:00",
+      "stop": "2026-11-16T09:00:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T06:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T13:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T06:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T08:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T14:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان نيوزروم",
+      "clean_title": "سي ان ان نيوزروم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم المضيف بمشاركة أحدث الأخبار حول القضايا الرئيسية في الولايات المتحدة والعالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T09:00:00+00:00",
+      "stop": "2026-11-16T10:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T07:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان هدلاين إكسبرس",
+      "clean_title": "سي ان ان هدلاين إكسبرس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "أهم العناوين وأحدث القصص التي يتحدث عنها الجميع مع تحديثات مباشرة طوال اليوم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T10:00:00+00:00",
+      "stop": "2026-11-16T11:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان ذيس مورنينغ",
+      "clean_title": "سي ان ان ذيس مورنينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتشارك المضيفون في تقديم القصص الإخبارية الرئيسية والتقارير والأحداث ذات الأهمية الوطنية والعالمية.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T11:00:00+00:00",
+      "stop": "2026-11-16T12:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان نيوز سنترال",
+      "clean_title": "سي ان ان نيوز سنترال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المذيع آخر الأخبار وأحدث المعلومات حول بعض القصص الرائجة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:00:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان نيوز سنترال",
+      "clean_title": "سي ان ان نيوز سنترال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المذيع آخر الأخبار وأحدث المعلومات حول بعض القصص الرائجة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T13:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ورلد سبورت",
+      "clean_title": "ورلد سبورت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نظرة على الإنجازات الرياضية العالمية والتحديثات واللحظات البارزة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:30:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T06:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T08:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T06:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T08:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T14:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كونيكت ذا ورلد",
+      "clean_title": "كونيكت ذا ورلد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسلط المضيف الضوء على أهم الأخبار والأحداث العالمية التي تؤثر على العالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T14:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ورلد سبورت",
+      "clean_title": "ورلد سبورت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نظرة على الإنجازات الرياضية العالمية والتحديثات واللحظات البارزة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T14:45:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T06:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T08:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T13:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T06:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T08:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T14:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كونيكت ذا ورلد",
+      "clean_title": "كونيكت ذا ورلد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسلط المضيف الضوء على أهم الأخبار والأحداث العالمية التي تؤثر على العالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وان ورلد",
+      "clean_title": "وان ورلد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المضيف آخر التحديثات الإخبارية من جميع أنحاء العالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وان ورلد",
+      "clean_title": "وان ورلد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المضيف آخر التحديثات الإخبارية من جميع أنحاء العالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T17:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أفريكان فويسز بلايمايكرز",
+      "clean_title": "أفريكان فويسز بلايمايكرز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم بعض أشهر صانعي الموضة في أفريقيا نصائح ويتحدثون عن حياتهم الشخصية.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T17:45:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T03:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T17:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أمانبور",
+      "clean_title": "أمانبور",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتحدث كريستيان أمانبور مع شخصيات بارزة حول قضايا مهمة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:00:00+00:00",
+      "stop": "2026-11-16T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ايسا سوريس تونايت",
+      "clean_title": "ايسا سوريس تونايت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تقدم المذيعة ايسى سواريس ملخصًا وتحليلاتها المتعمقة لأهم الأحداث الجديرة بالنشر التي تجري في جميع أنحاء العالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:00:00+00:00",
+      "stop": "2026-11-16T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وات وي نو ويذ ماكس فوستر",
+      "clean_title": "وات وي نو ويذ ماكس فوستر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم ماكس فوستر نظرة عامة موجزة وشاملة لأهم أخبار اليوم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:00:00+00:00",
+      "stop": "2026-11-16T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كويست مينز بيزنيس",
+      "clean_title": "كويست مينز بيزنيس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المضيف ريتشارد كويست تحليله لبعض أكبر القصص الإخبارية في عالم الأعمال.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T21:00:00+00:00",
+      "stop": "2026-11-16T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا لييد ويذ جايك تابر",
+      "clean_title": "ذا لييد ويذ جايك تابر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المضيف جيك تابر تحديثًا حول الشؤون الجارية من جميع أنحاء العالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:00:00+00:00",
+      "stop": "2026-11-16T22:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ورلد سبورت",
+      "clean_title": "ورلد سبورت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نظرة على الإنجازات الرياضية العالمية والتحديثات واللحظات البارزة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:30:00+00:00",
+      "stop": "2026-11-16T23:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T06:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T08:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T13:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T06:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T08:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T14:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا بريف ويذ جيم سويتو",
+      "clean_title": "ذا بريف ويذ جيم سويتو",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم المذيع بإجراء مقابلات مع المشاهير لمناقشة القضايا الاجتماعية والاقتصادية والسياسية.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T23:00:00+00:00",
+      "stop": "2026-11-17T00:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ايرن برنيت اوتفرونت",
+      "clean_title": "ايرن برنيت اوتفرونت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تقدم المذيعة إيرين بورنيت تحليلاتها لأهم الأخبار الرائجة من مختلف أنحاء العالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:00:00+00:00",
+      "stop": "2026-11-17T01:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أندرسون كوبر 360",
+      "clean_title": "أندرسون كوبر 360",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يدعو المذيع أندرسون كوبر الخبراء لمناقشة أهم الأخبار من جميع أنحاء العالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:00:00+00:00",
+      "stop": "2026-11-17T02:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا سورس ويذ كايتلن كولينز",
+      "clean_title": "ذا سورس ويذ كايتلن كولينز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتحدث المذيعة كايتلان كولينز مع الخبراء حول أحدث الأخبار السياسية في الولايات المتحدة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T02:00:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان نيوز نايت",
+      "clean_title": "سي ان ان نيوز نايت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تقدم آبي فيليب نهجًا ذكيًا وحادًا لأهم القصص اليومية.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "لورا كواتيس لايف",
+      "clean_title": "لورا كواتيس لايف",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تناقش لورا كوتس التقاطعات اليومية بين السياسة والثقافة الشعبية والقانون.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا ستوري از ويذ اليكس مايكلسون",
+      "clean_title": "ذا ستوري از ويذ اليكس مايكلسون",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المذيع، إيلكس مايكلسون، آخر الأخبار والتحديثات المتعلقة بالسياسة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T05:00:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا ستوري از ويذ اليكس مايكلسون",
+      "clean_title": "ذا ستوري از ويذ اليكس مايكلسون",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المذيع، إيلكس مايكلسون، آخر الأخبار والتحديثات المتعلقة بالسياسة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:00:00+00:00",
+      "stop": "2026-11-17T06:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T05:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ورلد سبورت",
+      "clean_title": "ورلد سبورت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نظرة على الإنجازات الرياضية العالمية والتحديثات واللحظات البارزة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:45:00+00:00",
+      "stop": "2026-11-17T07:00:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T06:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T08:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T13:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T08:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T14:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان نيوزروم",
+      "clean_title": "سي ان ان نيوزروم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم المضيف بمشاركة أحدث الأخبار حول القضايا الرئيسية في الولايات المتحدة والعالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T08:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T07:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان نيوزروم",
+      "clean_title": "سي ان ان نيوزروم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم المضيف بمشاركة أحدث الأخبار حول القضايا الرئيسية في الولايات المتحدة والعالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:00:00+00:00",
+      "stop": "2026-11-17T08:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T07:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ورلد سبورت",
+      "clean_title": "ورلد سبورت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نظرة على الإنجازات الرياضية العالمية والتحديثات واللحظات البارزة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:45:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T06:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T08:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T13:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T06:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T14:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان نيوزروم",
+      "clean_title": "سي ان ان نيوزروم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم المضيف بمشاركة أحدث الأخبار حول القضايا الرئيسية في الولايات المتحدة والعالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T07:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان هدلاين إكسبرس",
+      "clean_title": "سي ان ان هدلاين إكسبرس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "أهم العناوين وأحدث القصص التي يتحدث عنها الجميع مع تحديثات مباشرة طوال اليوم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T11:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان ذيس مورنينغ",
+      "clean_title": "سي ان ان ذيس مورنينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتشارك المضيفون في تقديم القصص الإخبارية الرئيسية والتقارير والأحداث ذات الأهمية الوطنية والعالمية.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:00:00+00:00",
+      "stop": "2026-11-17T12:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان نيوز سنترال",
+      "clean_title": "سي ان ان نيوز سنترال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المذيع آخر الأخبار وأحدث المعلومات حول بعض القصص الرائجة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:00:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سي ان ان نيوز سنترال",
+      "clean_title": "سي ان ان نيوز سنترال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المذيع آخر الأخبار وأحدث المعلومات حول بعض القصص الرائجة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T13:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ورلد سبورت",
+      "clean_title": "ورلد سبورت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نظرة على الإنجازات الرياضية العالمية والتحديثات واللحظات البارزة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:30:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T06:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T08:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T13:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T06:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T08:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T14:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كونيكت ذا ورلد",
+      "clean_title": "كونيكت ذا ورلد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسلط المضيف الضوء على أهم الأخبار والأحداث العالمية التي تؤثر على العالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T14:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ورلد سبورت",
+      "clean_title": "ورلد سبورت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نظرة على الإنجازات الرياضية العالمية والتحديثات واللحظات البارزة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T14:45:00+00:00",
+      "stop": "2026-11-17T15:00:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T06:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T08:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T13:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T06:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T08:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كونيكت ذا ورلد",
+      "clean_title": "كونيكت ذا ورلد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسلط المضيف الضوء على أهم الأخبار والأحداث العالمية التي تؤثر على العالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T15:00:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وان ورلد",
+      "clean_title": "وان ورلد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المضيف آخر التحديثات الإخبارية من جميع أنحاء العالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وان ورلد",
+      "clean_title": "وان ورلد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المضيف آخر التحديثات الإخبارية من جميع أنحاء العالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T17:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أفريكان فويسز بلايمايكرز",
+      "clean_title": "أفريكان فويسز بلايمايكرز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم بعض أشهر صانعي الموضة في أفريقيا نصائح ويتحدثون عن حياتهم الشخصية.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T17:45:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T03:00:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T17:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أمانبور",
+      "clean_title": "أمانبور",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتحدث كريستيان أمانبور مع شخصيات بارزة حول قضايا مهمة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ايسا سوريس تونايت",
+      "clean_title": "ايسا سوريس تونايت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تقدم المذيعة ايسى سواريس ملخصًا وتحليلاتها المتعمقة لأهم الأحداث الجديرة بالنشر التي تجري في جميع أنحاء العالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وات وي نو ويذ ماكس فوستر",
+      "clean_title": "وات وي نو ويذ ماكس فوستر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم ماكس فوستر نظرة عامة موجزة وشاملة لأهم أخبار اليوم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:00:00+00:00",
+      "stop": "2026-11-17T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كويست مينز بيزنيس",
+      "clean_title": "كويست مينز بيزنيس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المضيف ريتشارد كويست تحليله لبعض أكبر القصص الإخبارية في عالم الأعمال.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:00:00+00:00",
+      "stop": "2026-11-17T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا لييد ويذ جايك تابر",
+      "clean_title": "ذا لييد ويذ جايك تابر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم المضيف جيك تابر تحديثًا حول الشؤون الجارية من جميع أنحاء العالم.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:00:00+00:00",
+      "stop": "2026-11-17T22:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ورلد سبورت",
+      "clean_title": "ورلد سبورت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "news",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نظرة على الإنجازات الرياضية العالمية والتحديثات واللحظات البارزة.",
+      "category": "أخبار",
+      "genres": [
+        "أخبار"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:30:00+00:00",
+      "stop": "2026-11-17T23:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/dfxefQw.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T06:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T08:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T13:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T06:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T08:45:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "CNN HD",
+          "start": "2026-11-17T14:45:00+00:00"
+        }
+      ]
+    }
+  ]
+}

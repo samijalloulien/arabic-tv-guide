@@ -1,0 +1,2953 @@
+{
+  "channel_id": "DMC.eg@SD",
+  "channel_name": "DMC HD",
+  "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+  "programs": [
+    {
+      "tmdb_id": 218324,
+      "title": "كامل العدد",
+      "clean_title": "كامل العدد",
+      "original_title": "كامل العدد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 45,
+      "description": "تنقلب حياة عائلة أحمد وليلى رأسًا على عقب عند حدوث ما كان غير متوقع",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "كوميديا",
+        "عائلي",
+        "دراما"
+      ],
+      "rating": 8.3,
+      "vote_count": 6,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-23",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "رنا أبو الريش",
+      "cast": [
+        {
+          "name": "دينا الشربيني",
+          "character": "ليلى تيمور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yKIdQwGzMtYN7j75gSQOYQOwVXz.jpg"
+        },
+        {
+          "name": "شريف سلامة",
+          "character": "احمد مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1KK2HlLD8m7B0qhOb7OJmvUzGCl.jpg"
+        },
+        {
+          "name": "إسعاد يونس",
+          "character": "حياة عبدالجواد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jP7Sc5tSneEBTmni0npq87obq1g.jpg"
+        },
+        {
+          "name": "أحمد كمال",
+          "character": "تيمور ابو العز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jbcXAcGeSNCGwZ4xwoUf2d0Lp1X.jpg"
+        },
+        {
+          "name": "تميم عبده",
+          "character": "مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5DZb0kZFjuXuCMG5CEWj39hZelz.jpg"
+        },
+        {
+          "name": "أحمد جمال سعيد",
+          "character": "طارق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ozlmPOkClZI1F2PdbPbCdViPD5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-15T22:30:00+00:00",
+      "stop": "2026-11-15T23:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uPhBxT1LoX7VQkdQbvWXCDJsX66.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T07:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T07:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "DMC HD",
+      "clean_title": "DMC HD",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "..",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T23:30:00+00:00",
+      "stop": "2026-11-16T01:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T23:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 231934,
+      "title": "فيلم عربي",
+      "clean_title": "عربي",
+      "original_title": "فزلكة عربية 3",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "سلسلة ويب رائدة يتناول فيها صناع الأفلام من العالم العربي عملية صناعة الأفلام.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "عبير شمس الدين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/fU1vow2Wu332cK95o97hTscfpTA.jpg"
+        },
+        {
+          "name": "محمد خير الجراح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3OzfCRoKDWiK2DX8CnEcQ1UnA2g.jpg"
+        },
+        {
+          "name": "سوسن ميخائيل",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/uOj5qTmUn4FBhZS2fSMJIx9F1c0.jpg"
+        },
+        {
+          "name": "عاصم حواط",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/qpQPDH9sIIVeXo1ItlN7aiMkBaf.jpg"
+        },
+        {
+          "name": "إنجي شرف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xC05hdOdxyp4pSpQZmRRwJVLdpI.jpg"
+        },
+        {
+          "name": "يزن السيد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/mZ3WZrFEpxLQIWvPZXSrRjodBX1.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T01:30:00+00:00",
+      "stop": "2026-11-16T04:00:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/aZobPp2pdKQTVxpxG3Iq0etvLph.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/aZobPp2pdKQTVxpxG3Iq0etvLph.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 318130,
+      "title": "السفارة",
+      "clean_title": "السفارة",
+      "original_title": "السفارة ٨٧",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "description": "برنامج كوميدي",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما"
+      ],
+      "rating": 8,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "محسن منصور",
+          "character": "خالد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pEXEkbGPoYH6wYGEPbQjfBHJtDN.jpg"
+        },
+        {
+          "name": "عزيز غرباوي",
+          "character": "فواز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sTopka8fR2KSV2pz8X37vsKN0fb.jpg"
+        },
+        {
+          "name": "محمد القس",
+          "character": "عبدالله",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nQiTDW4RULTWWRM9HqlnF7uEswi.jpg"
+        },
+        {
+          "name": "ريم الحبيب",
+          "character": "عائشة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hKeO1GP9vOsdkW6UlfovpFons1Q.jpg"
+        },
+        {
+          "name": "سارة طيبة",
+          "character": "منيرة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yEMKpGnw1Awtv6vbpyxFnIpaoev.jpg"
+        },
+        {
+          "name": "حسام الحارثي",
+          "character": "متعب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hLA1YW8jotg9rZ4WIp3a3yKxPIH.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T04:00:00+00:00",
+      "stop": "2026-11-16T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/5MP0AspDpVQidR4RHpoX8AsLdLp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hR6A98L5uHAiwgFZ8HqgaAQhQUz.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/5MP0AspDpVQidR4RHpoX8AsLdLp.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مصر تستطيع",
+      "clean_title": "مصر تستطيع",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ويتحدث المذيع مع شخصيات مصرية ناجحة استقرت في الخارج.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T05:00:00+00:00",
+      "stop": "2026-11-16T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "DMC HD",
+      "clean_title": "DMC HD",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "..",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T06:00:00+00:00",
+      "stop": "2026-11-16T07:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T23:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 218324,
+      "title": "كامل العدد",
+      "clean_title": "كامل العدد",
+      "original_title": "كامل العدد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 45,
+      "description": "تنقلب حياة عائلة أحمد وليلى رأسًا على عقب عند حدوث ما كان غير متوقع",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "كوميديا",
+        "عائلي",
+        "دراما"
+      ],
+      "rating": 8.3,
+      "vote_count": 6,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-23",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "رنا أبو الريش",
+      "cast": [
+        {
+          "name": "دينا الشربيني",
+          "character": "ليلى تيمور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yKIdQwGzMtYN7j75gSQOYQOwVXz.jpg"
+        },
+        {
+          "name": "شريف سلامة",
+          "character": "احمد مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1KK2HlLD8m7B0qhOb7OJmvUzGCl.jpg"
+        },
+        {
+          "name": "إسعاد يونس",
+          "character": "حياة عبدالجواد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jP7Sc5tSneEBTmni0npq87obq1g.jpg"
+        },
+        {
+          "name": "أحمد كمال",
+          "character": "تيمور ابو العز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jbcXAcGeSNCGwZ4xwoUf2d0Lp1X.jpg"
+        },
+        {
+          "name": "تميم عبده",
+          "character": "مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5DZb0kZFjuXuCMG5CEWj39hZelz.jpg"
+        },
+        {
+          "name": "أحمد جمال سعيد",
+          "character": "طارق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ozlmPOkClZI1F2PdbPbCdViPD5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T07:30:00+00:00",
+      "stop": "2026-11-16T09:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uPhBxT1LoX7VQkdQbvWXCDJsX66.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-15T22:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T07:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 84774,
+      "title": "6 ستات",
+      "clean_title": "6 ستات",
+      "original_title": "راجل و ٦ ستات",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 10,
+      "episodes_count": 334,
+      "description": "يناقش مقدم البرنامج مواضيع اجتماعية متنوعة تتعلق بالمرأة، ويقدم نصائح للحفاظ على علاقات أسرية صحية، كما يستضيف خبراء للحديث عن الصحة والجمال.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "عائلي",
+        "كوميديا"
+      ],
+      "rating": 7.5,
+      "vote_count": 4,
+      "age_rating": "TV-PG",
+      "year": "2006",
+      "release_date": "2006-09-24",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "أسد فولادكار",
+      "cast": [
+        {
+          "name": "أشرف عبدالباقي",
+          "character": "Adel/Rawwash",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5Kazsywa6e7bftoQcJEGXCLJHRZ.jpg"
+        },
+        {
+          "name": "لقاء الخميسي",
+          "character": "Rania",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tLtGPJHNnAvoFAaqOz4Q0Cf6CRy.jpg"
+        },
+        {
+          "name": "نيفين محمد",
+          "character": "Naglaa",
+          "profile_image": null
+        },
+        {
+          "name": "منة عرفة",
+          "character": "Yasmin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hgPm7TthqrOE2PkwlWvZ8g93nUT.jpg"
+        },
+        {
+          "name": "نهى لطفي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/cg5nY3Z9yRrIU5dYpPLEvOSraCq.jpg"
+        },
+        {
+          "name": "مها أبو عوف",
+          "character": "Mageeda",
+          "profile_image": "https://image.tmdb.org/t/p/w185/y5BBlncr05G621ftcHnfbLse6l1.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T09:00:00+00:00",
+      "stop": "2026-11-16T10:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kp2DiPrglWFpqb4LqtEZIETuWcM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5KjR4YYrtyumNRrs4vRThuMwkdk.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kp2DiPrglWFpqb4LqtEZIETuWcM.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 231934,
+      "title": "فيلم عربي",
+      "clean_title": "عربي",
+      "original_title": "فزلكة عربية 3",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "سلسلة ويب رائدة يتناول فيها صناع الأفلام من العالم العربي عملية صناعة الأفلام.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "عبير شمس الدين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/fU1vow2Wu332cK95o97hTscfpTA.jpg"
+        },
+        {
+          "name": "محمد خير الجراح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3OzfCRoKDWiK2DX8CnEcQ1UnA2g.jpg"
+        },
+        {
+          "name": "سوسن ميخائيل",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/uOj5qTmUn4FBhZS2fSMJIx9F1c0.jpg"
+        },
+        {
+          "name": "عاصم حواط",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/qpQPDH9sIIVeXo1ItlN7aiMkBaf.jpg"
+        },
+        {
+          "name": "إنجي شرف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xC05hdOdxyp4pSpQZmRRwJVLdpI.jpg"
+        },
+        {
+          "name": "يزن السيد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/mZ3WZrFEpxLQIWvPZXSrRjodBX1.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T10:00:00+00:00",
+      "stop": "2026-11-16T12:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/aZobPp2pdKQTVxpxG3Iq0etvLph.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/aZobPp2pdKQTVxpxG3Iq0etvLph.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T01:30:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مصر تستطيع",
+      "clean_title": "مصر تستطيع",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ويتحدث المذيع مع شخصيات مصرية ناجحة استقرت في الخارج.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:00:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T05:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 123407,
+      "title": "لعلهم يفقهون",
+      "clean_title": "لعلهم يفقهون",
+      "original_title": "لعلهم يفقهون",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "يناقش علماء الإسلام مواضيع دينية مختلفة تهم المسلمين من خلال تسليط الضوء على سيرة النبي محمد (ص) وآيات من القرآن الكريم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-04-13",
+      "status": "Returning Series",
+      "country": null,
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T13:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 762441,
+      "title": "اليوم",
+      "clean_title": "اليوم",
+      "original_title": "A Quiet Place: Day One",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تقدم صحيفة اليوم أخبارًا مباشرة في بيئة مريحة وجذابة. يتضمن البرنامج أيضًا مقابلات مع الجميع من السياسيين إلى الرياضيين ؛ قادة في الأعمال والفنون.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "رعب",
+        "خيال علمي",
+        "إثارة"
+      ],
+      "rating": 6.6,
+      "vote_count": 3685,
+      "age_rating": "PG-13",
+      "year": "2024",
+      "release_date": "2024-06-26",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Michael Sarnoski",
+      "cast": [
+        {
+          "name": "لوبيتا نيونقو",
+          "character": "Samira",
+          "profile_image": "https://image.tmdb.org/t/p/w185/y40Wu1T742kynOqtwXASc5Qgm49.jpg"
+        },
+        {
+          "name": "Joseph Quinn",
+          "character": "Eric",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zshhuioZaH8S5ZKdMcojzWi1ntl.jpg"
+        },
+        {
+          "name": "ألكس وولف",
+          "character": "Reuben",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7PMu5zFOEH7PqFDzrKThgKD4Ndf.jpg"
+        },
+        {
+          "name": "دجيمون هونسو",
+          "character": "Henri",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg"
+        },
+        {
+          "name": "Eliane Umuhire",
+          "character": "Zena",
+          "profile_image": "https://image.tmdb.org/t/p/w185/u2q6nQtLsKGyTnWHtmKGyeYAyXq.jpg"
+        },
+        {
+          "name": "Takunda Khumalo",
+          "character": "Osahar",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8vX06iIWUxv7XZ59P0alJl63DF9.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T13:30:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/179t66Owa5nxcB5nxBbV8PUSOri.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6XjMwQTvnICBz6TguiDKkDVHvgS.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/179t66Owa5nxcB5nxBbV8PUSOri.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T13:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 318130,
+      "title": "السفارة",
+      "clean_title": "السفارة",
+      "original_title": "السفارة ٨٧",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "description": "برنامج كوميدي",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما"
+      ],
+      "rating": 8,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "محسن منصور",
+          "character": "خالد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pEXEkbGPoYH6wYGEPbQjfBHJtDN.jpg"
+        },
+        {
+          "name": "عزيز غرباوي",
+          "character": "فواز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sTopka8fR2KSV2pz8X37vsKN0fb.jpg"
+        },
+        {
+          "name": "محمد القس",
+          "character": "عبدالله",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nQiTDW4RULTWWRM9HqlnF7uEswi.jpg"
+        },
+        {
+          "name": "ريم الحبيب",
+          "character": "عائشة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hKeO1GP9vOsdkW6UlfovpFons1Q.jpg"
+        },
+        {
+          "name": "سارة طيبة",
+          "character": "منيرة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yEMKpGnw1Awtv6vbpyxFnIpaoev.jpg"
+        },
+        {
+          "name": "حسام الحارثي",
+          "character": "متعب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hLA1YW8jotg9rZ4WIp3a3yKxPIH.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/5MP0AspDpVQidR4RHpoX8AsLdLp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hR6A98L5uHAiwgFZ8HqgaAQhQUz.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/5MP0AspDpVQidR4RHpoX8AsLdLp.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T04:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 218324,
+      "title": "كامل العدد",
+      "clean_title": "كامل العدد",
+      "original_title": "كامل العدد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 45,
+      "description": "تنقلب حياة عائلة أحمد وليلى رأسًا على عقب عند حدوث ما كان غير متوقع",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "كوميديا",
+        "عائلي",
+        "دراما"
+      ],
+      "rating": 8.3,
+      "vote_count": 6,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-23",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "رنا أبو الريش",
+      "cast": [
+        {
+          "name": "دينا الشربيني",
+          "character": "ليلى تيمور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yKIdQwGzMtYN7j75gSQOYQOwVXz.jpg"
+        },
+        {
+          "name": "شريف سلامة",
+          "character": "احمد مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1KK2HlLD8m7B0qhOb7OJmvUzGCl.jpg"
+        },
+        {
+          "name": "إسعاد يونس",
+          "character": "حياة عبدالجواد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jP7Sc5tSneEBTmni0npq87obq1g.jpg"
+        },
+        {
+          "name": "أحمد كمال",
+          "character": "تيمور ابو العز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jbcXAcGeSNCGwZ4xwoUf2d0Lp1X.jpg"
+        },
+        {
+          "name": "تميم عبده",
+          "character": "مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5DZb0kZFjuXuCMG5CEWj39hZelz.jpg"
+        },
+        {
+          "name": "أحمد جمال سعيد",
+          "character": "طارق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ozlmPOkClZI1F2PdbPbCdViPD5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uPhBxT1LoX7VQkdQbvWXCDJsX66.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-15T22:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T07:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T07:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 84774,
+      "title": "6 ستات",
+      "clean_title": "6 ستات",
+      "original_title": "راجل و ٦ ستات",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 10,
+      "episodes_count": 334,
+      "description": "يناقش مقدم البرنامج مواضيع اجتماعية متنوعة تتعلق بالمرأة، ويقدم نصائح للحفاظ على علاقات أسرية صحية، كما يستضيف خبراء للحديث عن الصحة والجمال.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "عائلي",
+        "كوميديا"
+      ],
+      "rating": 7.5,
+      "vote_count": 4,
+      "age_rating": "TV-PG",
+      "year": "2006",
+      "release_date": "2006-09-24",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "أسد فولادكار",
+      "cast": [
+        {
+          "name": "أشرف عبدالباقي",
+          "character": "Adel/Rawwash",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5Kazsywa6e7bftoQcJEGXCLJHRZ.jpg"
+        },
+        {
+          "name": "لقاء الخميسي",
+          "character": "Rania",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tLtGPJHNnAvoFAaqOz4Q0Cf6CRy.jpg"
+        },
+        {
+          "name": "نيفين محمد",
+          "character": "Naglaa",
+          "profile_image": null
+        },
+        {
+          "name": "منة عرفة",
+          "character": "Yasmin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hgPm7TthqrOE2PkwlWvZ8g93nUT.jpg"
+        },
+        {
+          "name": "نهى لطفي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/cg5nY3Z9yRrIU5dYpPLEvOSraCq.jpg"
+        },
+        {
+          "name": "مها أبو عوف",
+          "character": "Mageeda",
+          "profile_image": "https://image.tmdb.org/t/p/w185/y5BBlncr05G621ftcHnfbLse6l1.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kp2DiPrglWFpqb4LqtEZIETuWcM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5KjR4YYrtyumNRrs4vRThuMwkdk.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kp2DiPrglWFpqb4LqtEZIETuWcM.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "DMC HD",
+      "clean_title": "DMC HD",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "..",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T19:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T23:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مسا دي ام سي",
+      "clean_title": "مسا دي ام سي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يدعو المذيع شخصيات مصرية بارزة للحديث عن مجموعة من المواضيع والقضايا المثيرة للاهتمام وكشف قضايا الفساد التي تهم الجمهور.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:00:00+00:00",
+      "stop": "2026-11-16T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 120521,
+      "title": "صاحبة السعادة",
+      "clean_title": "صاحبة السعادة",
+      "original_title": "صاحبة السعادة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 67,
+      "description": "يناقش البرنامج أبرز التطورات التي تشهدها مصر ويجري مقابلات مع شخصيات عامة مختلفة ويدعو شخصيات لتقديم مجموعة من العروض الترفيهية.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": 7.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-09-22",
+      "status": "Returning Series",
+      "country": null,
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "إسعاد يونس",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/jP7Sc5tSneEBTmni0npq87obq1g.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T20:00:00+00:00",
+      "stop": "2026-11-16T22:30:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/dV0hTcw33K1IIKZaPNTa5cmBVXD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/13Mu205g0dIKycfNCX7X4V3mFI3.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/dV0hTcw33K1IIKZaPNTa5cmBVXD.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 218324,
+      "title": "كامل العدد",
+      "clean_title": "كامل العدد",
+      "original_title": "كامل العدد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 45,
+      "description": "تنقلب حياة عائلة أحمد وليلى رأسًا على عقب عند حدوث ما كان غير متوقع",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "كوميديا",
+        "عائلي",
+        "دراما"
+      ],
+      "rating": 8.3,
+      "vote_count": 6,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-23",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "رنا أبو الريش",
+      "cast": [
+        {
+          "name": "دينا الشربيني",
+          "character": "ليلى تيمور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yKIdQwGzMtYN7j75gSQOYQOwVXz.jpg"
+        },
+        {
+          "name": "شريف سلامة",
+          "character": "احمد مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1KK2HlLD8m7B0qhOb7OJmvUzGCl.jpg"
+        },
+        {
+          "name": "إسعاد يونس",
+          "character": "حياة عبدالجواد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jP7Sc5tSneEBTmni0npq87obq1g.jpg"
+        },
+        {
+          "name": "أحمد كمال",
+          "character": "تيمور ابو العز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jbcXAcGeSNCGwZ4xwoUf2d0Lp1X.jpg"
+        },
+        {
+          "name": "تميم عبده",
+          "character": "مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5DZb0kZFjuXuCMG5CEWj39hZelz.jpg"
+        },
+        {
+          "name": "أحمد جمال سعيد",
+          "character": "طارق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ozlmPOkClZI1F2PdbPbCdViPD5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T22:30:00+00:00",
+      "stop": "2026-11-16T23:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uPhBxT1LoX7VQkdQbvWXCDJsX66.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-15T22:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T07:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T07:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "DMC HD",
+      "clean_title": "DMC HD",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "..",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T23:30:00+00:00",
+      "stop": "2026-11-17T01:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 231934,
+      "title": "فيلم عربي",
+      "clean_title": "عربي",
+      "original_title": "فزلكة عربية 3",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "سلسلة ويب رائدة يتناول فيها صناع الأفلام من العالم العربي عملية صناعة الأفلام.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "عبير شمس الدين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/fU1vow2Wu332cK95o97hTscfpTA.jpg"
+        },
+        {
+          "name": "محمد خير الجراح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3OzfCRoKDWiK2DX8CnEcQ1UnA2g.jpg"
+        },
+        {
+          "name": "سوسن ميخائيل",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/uOj5qTmUn4FBhZS2fSMJIx9F1c0.jpg"
+        },
+        {
+          "name": "عاصم حواط",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/qpQPDH9sIIVeXo1ItlN7aiMkBaf.jpg"
+        },
+        {
+          "name": "إنجي شرف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xC05hdOdxyp4pSpQZmRRwJVLdpI.jpg"
+        },
+        {
+          "name": "يزن السيد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/mZ3WZrFEpxLQIWvPZXSrRjodBX1.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T01:30:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/aZobPp2pdKQTVxpxG3Iq0etvLph.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/aZobPp2pdKQTVxpxG3Iq0etvLph.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T01:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 318130,
+      "title": "السفارة",
+      "clean_title": "السفارة",
+      "original_title": "السفارة ٨٧",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "description": "برنامج كوميدي",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما"
+      ],
+      "rating": 8,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "محسن منصور",
+          "character": "خالد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pEXEkbGPoYH6wYGEPbQjfBHJtDN.jpg"
+        },
+        {
+          "name": "عزيز غرباوي",
+          "character": "فواز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sTopka8fR2KSV2pz8X37vsKN0fb.jpg"
+        },
+        {
+          "name": "محمد القس",
+          "character": "عبدالله",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nQiTDW4RULTWWRM9HqlnF7uEswi.jpg"
+        },
+        {
+          "name": "ريم الحبيب",
+          "character": "عائشة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hKeO1GP9vOsdkW6UlfovpFons1Q.jpg"
+        },
+        {
+          "name": "سارة طيبة",
+          "character": "منيرة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yEMKpGnw1Awtv6vbpyxFnIpaoev.jpg"
+        },
+        {
+          "name": "حسام الحارثي",
+          "character": "متعب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hLA1YW8jotg9rZ4WIp3a3yKxPIH.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/5MP0AspDpVQidR4RHpoX8AsLdLp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hR6A98L5uHAiwgFZ8HqgaAQhQUz.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/5MP0AspDpVQidR4RHpoX8AsLdLp.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T04:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "DMC HD",
+      "clean_title": "DMC HD",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "..",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T05:00:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T23:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "DMC HD",
+      "clean_title": "DMC HD",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "..",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:00:00+00:00",
+      "stop": "2026-11-17T07:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T23:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 218324,
+      "title": "كامل العدد",
+      "clean_title": "كامل العدد",
+      "original_title": "كامل العدد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 45,
+      "description": "تنقلب حياة عائلة أحمد وليلى رأسًا على عقب عند حدوث ما كان غير متوقع",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "كوميديا",
+        "عائلي",
+        "دراما"
+      ],
+      "rating": 8.3,
+      "vote_count": 6,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-23",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "رنا أبو الريش",
+      "cast": [
+        {
+          "name": "دينا الشربيني",
+          "character": "ليلى تيمور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yKIdQwGzMtYN7j75gSQOYQOwVXz.jpg"
+        },
+        {
+          "name": "شريف سلامة",
+          "character": "احمد مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1KK2HlLD8m7B0qhOb7OJmvUzGCl.jpg"
+        },
+        {
+          "name": "إسعاد يونس",
+          "character": "حياة عبدالجواد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jP7Sc5tSneEBTmni0npq87obq1g.jpg"
+        },
+        {
+          "name": "أحمد كمال",
+          "character": "تيمور ابو العز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jbcXAcGeSNCGwZ4xwoUf2d0Lp1X.jpg"
+        },
+        {
+          "name": "تميم عبده",
+          "character": "مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5DZb0kZFjuXuCMG5CEWj39hZelz.jpg"
+        },
+        {
+          "name": "أحمد جمال سعيد",
+          "character": "طارق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ozlmPOkClZI1F2PdbPbCdViPD5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T07:30:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uPhBxT1LoX7VQkdQbvWXCDJsX66.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-15T22:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T07:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 84774,
+      "title": "6 ستات",
+      "clean_title": "6 ستات",
+      "original_title": "راجل و ٦ ستات",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 10,
+      "episodes_count": 334,
+      "description": "يناقش مقدم البرنامج مواضيع اجتماعية متنوعة تتعلق بالمرأة، ويقدم نصائح للحفاظ على علاقات أسرية صحية، كما يستضيف خبراء للحديث عن الصحة والجمال.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "عائلي",
+        "كوميديا"
+      ],
+      "rating": 7.5,
+      "vote_count": 4,
+      "age_rating": "TV-PG",
+      "year": "2006",
+      "release_date": "2006-09-24",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "أسد فولادكار",
+      "cast": [
+        {
+          "name": "أشرف عبدالباقي",
+          "character": "Adel/Rawwash",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5Kazsywa6e7bftoQcJEGXCLJHRZ.jpg"
+        },
+        {
+          "name": "لقاء الخميسي",
+          "character": "Rania",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tLtGPJHNnAvoFAaqOz4Q0Cf6CRy.jpg"
+        },
+        {
+          "name": "نيفين محمد",
+          "character": "Naglaa",
+          "profile_image": null
+        },
+        {
+          "name": "منة عرفة",
+          "character": "Yasmin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hgPm7TthqrOE2PkwlWvZ8g93nUT.jpg"
+        },
+        {
+          "name": "نهى لطفي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/cg5nY3Z9yRrIU5dYpPLEvOSraCq.jpg"
+        },
+        {
+          "name": "مها أبو عوف",
+          "character": "Mageeda",
+          "profile_image": "https://image.tmdb.org/t/p/w185/y5BBlncr05G621ftcHnfbLse6l1.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kp2DiPrglWFpqb4LqtEZIETuWcM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5KjR4YYrtyumNRrs4vRThuMwkdk.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kp2DiPrglWFpqb4LqtEZIETuWcM.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 231934,
+      "title": "فيلم عربي",
+      "clean_title": "عربي",
+      "original_title": "فزلكة عربية 3",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "سلسلة ويب رائدة يتناول فيها صناع الأفلام من العالم العربي عملية صناعة الأفلام.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "عبير شمس الدين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/fU1vow2Wu332cK95o97hTscfpTA.jpg"
+        },
+        {
+          "name": "محمد خير الجراح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3OzfCRoKDWiK2DX8CnEcQ1UnA2g.jpg"
+        },
+        {
+          "name": "سوسن ميخائيل",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/uOj5qTmUn4FBhZS2fSMJIx9F1c0.jpg"
+        },
+        {
+          "name": "عاصم حواط",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/qpQPDH9sIIVeXo1ItlN7aiMkBaf.jpg"
+        },
+        {
+          "name": "إنجي شرف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xC05hdOdxyp4pSpQZmRRwJVLdpI.jpg"
+        },
+        {
+          "name": "يزن السيد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/mZ3WZrFEpxLQIWvPZXSrRjodBX1.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T12:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/aZobPp2pdKQTVxpxG3Iq0etvLph.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/aZobPp2pdKQTVxpxG3Iq0etvLph.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T01:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "DMC HD",
+      "clean_title": "DMC HD",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "..",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:00:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T23:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 123407,
+      "title": "لعلهم يفقهون",
+      "clean_title": "لعلهم يفقهون",
+      "original_title": "لعلهم يفقهون",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "يناقش علماء الإسلام مواضيع دينية مختلفة تهم المسلمين من خلال تسليط الضوء على سيرة النبي محمد (ص) وآيات من القرآن الكريم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-04-13",
+      "status": "Returning Series",
+      "country": null,
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T13:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 762441,
+      "title": "اليوم",
+      "clean_title": "اليوم",
+      "original_title": "A Quiet Place: Day One",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تقدم صحيفة اليوم أخبارًا مباشرة في بيئة مريحة وجذابة. يتضمن البرنامج أيضًا مقابلات مع الجميع من السياسيين إلى الرياضيين ؛ قادة في الأعمال والفنون.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "رعب",
+        "خيال علمي",
+        "إثارة"
+      ],
+      "rating": 6.6,
+      "vote_count": 3685,
+      "age_rating": "PG-13",
+      "year": "2024",
+      "release_date": "2024-06-26",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Michael Sarnoski",
+      "cast": [
+        {
+          "name": "لوبيتا نيونقو",
+          "character": "Samira",
+          "profile_image": "https://image.tmdb.org/t/p/w185/y40Wu1T742kynOqtwXASc5Qgm49.jpg"
+        },
+        {
+          "name": "Joseph Quinn",
+          "character": "Eric",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zshhuioZaH8S5ZKdMcojzWi1ntl.jpg"
+        },
+        {
+          "name": "ألكس وولف",
+          "character": "Reuben",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7PMu5zFOEH7PqFDzrKThgKD4Ndf.jpg"
+        },
+        {
+          "name": "دجيمون هونسو",
+          "character": "Henri",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg"
+        },
+        {
+          "name": "Eliane Umuhire",
+          "character": "Zena",
+          "profile_image": "https://image.tmdb.org/t/p/w185/u2q6nQtLsKGyTnWHtmKGyeYAyXq.jpg"
+        },
+        {
+          "name": "Takunda Khumalo",
+          "character": "Osahar",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8vX06iIWUxv7XZ59P0alJl63DF9.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T13:30:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/179t66Owa5nxcB5nxBbV8PUSOri.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6XjMwQTvnICBz6TguiDKkDVHvgS.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/179t66Owa5nxcB5nxBbV8PUSOri.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T13:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 318130,
+      "title": "السفارة",
+      "clean_title": "السفارة",
+      "original_title": "السفارة ٨٧",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "description": "برنامج كوميدي",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما"
+      ],
+      "rating": 8,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "محسن منصور",
+          "character": "خالد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pEXEkbGPoYH6wYGEPbQjfBHJtDN.jpg"
+        },
+        {
+          "name": "عزيز غرباوي",
+          "character": "فواز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sTopka8fR2KSV2pz8X37vsKN0fb.jpg"
+        },
+        {
+          "name": "محمد القس",
+          "character": "عبدالله",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nQiTDW4RULTWWRM9HqlnF7uEswi.jpg"
+        },
+        {
+          "name": "ريم الحبيب",
+          "character": "عائشة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hKeO1GP9vOsdkW6UlfovpFons1Q.jpg"
+        },
+        {
+          "name": "سارة طيبة",
+          "character": "منيرة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yEMKpGnw1Awtv6vbpyxFnIpaoev.jpg"
+        },
+        {
+          "name": "حسام الحارثي",
+          "character": "متعب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hLA1YW8jotg9rZ4WIp3a3yKxPIH.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/5MP0AspDpVQidR4RHpoX8AsLdLp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hR6A98L5uHAiwgFZ8HqgaAQhQUz.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/5MP0AspDpVQidR4RHpoX8AsLdLp.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T04:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 218324,
+      "title": "كامل العدد",
+      "clean_title": "كامل العدد",
+      "original_title": "كامل العدد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 45,
+      "description": "تنقلب حياة عائلة أحمد وليلى رأسًا على عقب عند حدوث ما كان غير متوقع",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "كوميديا",
+        "عائلي",
+        "دراما"
+      ],
+      "rating": 8.3,
+      "vote_count": 6,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-23",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "رنا أبو الريش",
+      "cast": [
+        {
+          "name": "دينا الشربيني",
+          "character": "ليلى تيمور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yKIdQwGzMtYN7j75gSQOYQOwVXz.jpg"
+        },
+        {
+          "name": "شريف سلامة",
+          "character": "احمد مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1KK2HlLD8m7B0qhOb7OJmvUzGCl.jpg"
+        },
+        {
+          "name": "إسعاد يونس",
+          "character": "حياة عبدالجواد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jP7Sc5tSneEBTmni0npq87obq1g.jpg"
+        },
+        {
+          "name": "أحمد كمال",
+          "character": "تيمور ابو العز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jbcXAcGeSNCGwZ4xwoUf2d0Lp1X.jpg"
+        },
+        {
+          "name": "تميم عبده",
+          "character": "مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5DZb0kZFjuXuCMG5CEWj39hZelz.jpg"
+        },
+        {
+          "name": "أحمد جمال سعيد",
+          "character": "طارق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ozlmPOkClZI1F2PdbPbCdViPD5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T15:00:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uPhBxT1LoX7VQkdQbvWXCDJsX66.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-15T22:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T07:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T07:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 84774,
+      "title": "6 ستات",
+      "clean_title": "6 ستات",
+      "original_title": "راجل و ٦ ستات",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 10,
+      "episodes_count": 334,
+      "description": "يناقش مقدم البرنامج مواضيع اجتماعية متنوعة تتعلق بالمرأة، ويقدم نصائح للحفاظ على علاقات أسرية صحية، كما يستضيف خبراء للحديث عن الصحة والجمال.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "عائلي",
+        "كوميديا"
+      ],
+      "rating": 7.5,
+      "vote_count": 4,
+      "age_rating": "TV-PG",
+      "year": "2006",
+      "release_date": "2006-09-24",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "أسد فولادكار",
+      "cast": [
+        {
+          "name": "أشرف عبدالباقي",
+          "character": "Adel/Rawwash",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5Kazsywa6e7bftoQcJEGXCLJHRZ.jpg"
+        },
+        {
+          "name": "لقاء الخميسي",
+          "character": "Rania",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tLtGPJHNnAvoFAaqOz4Q0Cf6CRy.jpg"
+        },
+        {
+          "name": "نيفين محمد",
+          "character": "Naglaa",
+          "profile_image": null
+        },
+        {
+          "name": "منة عرفة",
+          "character": "Yasmin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hgPm7TthqrOE2PkwlWvZ8g93nUT.jpg"
+        },
+        {
+          "name": "نهى لطفي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/cg5nY3Z9yRrIU5dYpPLEvOSraCq.jpg"
+        },
+        {
+          "name": "مها أبو عوف",
+          "character": "Mageeda",
+          "profile_image": "https://image.tmdb.org/t/p/w185/y5BBlncr05G621ftcHnfbLse6l1.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kp2DiPrglWFpqb4LqtEZIETuWcM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5KjR4YYrtyumNRrs4vRThuMwkdk.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kp2DiPrglWFpqb4LqtEZIETuWcM.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "DMC HD",
+      "clean_title": "DMC HD",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "..",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T23:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مسا دي ام سي",
+      "clean_title": "مسا دي ام سي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يدعو المذيع شخصيات مصرية بارزة للحديث عن مجموعة من المواضيع والقضايا المثيرة للاهتمام وكشف قضايا الفساد التي تهم الجمهور.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T20:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "DMC HD",
+      "clean_title": "DMC HD",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نقدم لكم أفضل ما في عالم التلفزيون",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:30:00+00:00",
+      "stop": "2026-11-17T21:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-15T23:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T23:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "هيا وبس",
+      "clean_title": "هيا وبس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تسلط المضيفة الضوء على مختلف القضايا التي تواجه المرأة المصرية.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:00:00+00:00",
+      "stop": "2026-11-17T22:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 218324,
+      "title": "كامل العدد",
+      "clean_title": "كامل العدد",
+      "original_title": "كامل العدد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 45,
+      "description": "تنقلب حياة عائلة أحمد وليلى رأسًا على عقب عند حدوث ما كان غير متوقع",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "كوميديا",
+        "عائلي",
+        "دراما"
+      ],
+      "rating": 8.3,
+      "vote_count": 6,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-23",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "رنا أبو الريش",
+      "cast": [
+        {
+          "name": "دينا الشربيني",
+          "character": "ليلى تيمور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yKIdQwGzMtYN7j75gSQOYQOwVXz.jpg"
+        },
+        {
+          "name": "شريف سلامة",
+          "character": "احمد مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1KK2HlLD8m7B0qhOb7OJmvUzGCl.jpg"
+        },
+        {
+          "name": "إسعاد يونس",
+          "character": "حياة عبدالجواد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jP7Sc5tSneEBTmni0npq87obq1g.jpg"
+        },
+        {
+          "name": "أحمد كمال",
+          "character": "تيمور ابو العز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jbcXAcGeSNCGwZ4xwoUf2d0Lp1X.jpg"
+        },
+        {
+          "name": "تميم عبده",
+          "character": "مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5DZb0kZFjuXuCMG5CEWj39hZelz.jpg"
+        },
+        {
+          "name": "أحمد جمال سعيد",
+          "character": "طارق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ozlmPOkClZI1F2PdbPbCdViPD5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T22:30:00+00:00",
+      "stop": "2026-11-17T23:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uPhBxT1LoX7VQkdQbvWXCDJsX66.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "channel_icon": "https://i.imgur.com/iy70Xxr.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-15T22:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T07:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T07:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

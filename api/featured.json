@@ -1,0 +1,592 @@
+{
+  "updated_at": "2026-11-16T17:33:59.751Z",
+  "count": 30,
+  "featured": [
+    {
+      "tmdb_id": 623250,
+      "title": "The Football Review",
+      "original_title": "Chelsea FC - Season Review 2006/07",
+      "content_type": "movie",
+      "rating": 10,
+      "year": "2007",
+      "genres": [
+        "ترفيه",
+        "وثائقي"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/l9H59K7MptattvgpiYqb6tjiIDz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zphng2Iybl7vE3YZeUhTwdsSQin.jpg",
+      "description": "يبقيك هذا البرنامج على اطلاع دائم على أهم النتائج والتطورات في جميع البطولات الأوروبية والدولية لكرة القدم.",
+      "channel_id": "MBCAction.ae@SD",
+      "channel_name": "MBC Action",
+      "channel_icon": "https://i.imgur.com/OWZAghw.png",
+      "next_airing": "2026-11-16T13:30:00+00:00"
+    },
+    {
+      "tmdb_id": 99945,
+      "title": "مولانا",
+      "original_title": "مولانا العاشق",
+      "content_type": "series",
+      "rating": 10,
+      "year": "2015",
+      "genres": [
+        "متعدد اللهجات",
+        "دراما",
+        "كوميديا"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/doV13gwAVYh4wJiar0Xofjlnxyn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9c3Xn41Wl8rAOJc3yUYnWJjavjg.jpg",
+      "description": "البرزخ",
+      "channel_id": "MBCIraq.iq@SD",
+      "channel_name": "MBC Iraq",
+      "channel_icon": "https://i.imgur.com/D0LxiPE.png",
+      "next_airing": "2026-11-16T02:05:00+00:00"
+    },
+    {
+      "tmdb_id": 99698,
+      "title": "أمر إخلاء",
+      "original_title": "أمر إخلاء",
+      "content_type": "series",
+      "rating": 10,
+      "year": "2020",
+      "genres": [
+        "اجتماعي"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5yuPy0ghJGR7p1IiEy3z8fswgQO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3GTRA7OuthVYKYyWqpFFV5wJZUN.jpg",
+      "description": "تبدأ عمشة يومها الأول في العمل. تنطلق حياة دلال وعامر الزوجية ببداية صعبة. تتصالح جوري مع أحمد.",
+      "channel_id": "MBCPlusDrama.sa@SD",
+      "channel_name": "MBC Plus Drama",
+      "channel_icon": "https://i.imgur.com/lxWdjXG.png",
+      "next_airing": "2026-11-16T01:28:00+00:00"
+    },
+    {
+      "tmdb_id": 117672,
+      "title": "Hadeth Aleb",
+      "original_title": "حادث قلب",
+      "content_type": "series",
+      "rating": 10,
+      "year": "2021",
+      "genres": [
+        "General"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/3bU2PNd4f1OoiHBuiH20qrov0Pf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oAd8IMTkb2sNgJshv45J6lM1NQM.jpg",
+      "description": "عندما يحصل فادي على وظيفة سائق خاص لدى سمر الثرية والجميلة، تكون تلك بداية قصة حب رومانسية. لكن الماضي يعود ليطارد الثنائي، إذ إن حادثاً مروّعاً كان قد ربط بين الحبيبين قبل سنوات.",
+      "channel_id": "MTV.lb@SD",
+      "channel_name": "MTV Lebanon",
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png",
+      "next_airing": "2026-11-16T15:45:00+00:00"
+    },
+    {
+      "tmdb_id": 86095,
+      "title": "المصيدة",
+      "original_title": "Caduta Libera",
+      "content_type": "series",
+      "rating": 10,
+      "year": "2015",
+      "genres": [
+        "ترفيه",
+        "حوار"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vMx8zPt8bKIVr6WjJC16ryydQvN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3pmCLrqkLnt5Vdc7JAZlBQdaBSB.jpg",
+      "description": "تصبح عملية الاحتيال الناجحة التي قامت بها خبيرة إلكترونية موهوبة مع أصدقاؤها خطيرة، مما يؤدي إلى مطاردات لا هوادة فيها ويكشف أسرارًا مدفونة منذ زمن طويل تجبرهم على الدخول في سلسلة من المواجهات الشديدة.",
+      "channel_id": "AbuDhabiTV.ae@SD",
+      "channel_name": "Abu Dhabi TV HD",
+      "channel_icon": "https://i.imgur.com/8DAriPs.png",
+      "next_airing": "2026-11-15T23:30:00+00:00"
+    },
+    {
+      "tmdb_id": 265212,
+      "title": "ديبو",
+      "original_title": "ديبو",
+      "content_type": "series",
+      "rating": 10,
+      "year": "2024",
+      "genres": [
+        "ترفيه",
+        "كوميديا"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/p1aGFQdgi11yWnrRTGjAJ48TYgT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2dyM24nTy3zEHnyGsQHwLiQcsc7.jpg",
+      "description": "في عالم مليء بالمفاجآت، يفقد ديبو فجأة عمله وماله. وفي محاولة يائسة لسداد ديونه، يقوده القدر إلى وظيفة غريبة في فندق لا يستقبل سوى الحيوانات فقط.",
+      "channel_id": "DubaiTV.ae@SD",
+      "channel_name": "Dubai TV HD",
+      "channel_icon": "https://i.imgur.com/UMmbyHv.png",
+      "next_airing": "2026-11-15T22:30:00+00:00"
+    },
+    {
+      "tmdb_id": 136487,
+      "title": "أحلى ما طاش",
+      "original_title": "أحلى ما طاش",
+      "content_type": "series",
+      "rating": 10,
+      "year": "2020",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/yT2NKjQpCVbbUBMvATC6jmoVeXD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hMzXChDOMxmrTDKzyyHJSGe2jkO.jpg",
+      "description": "يعيد برنامج (أحلى ما طاش) عرضا لمجموعة من أفضل الحلقات التي تم تقديمها من خلال المسلسل الكوميدي السعودي (طاش ما طاش)، والذي استمر عرضه على التليفزيون السعودي لمدة 18 موسمًا متواصلًا، والتي ناقش من خلالها (ناصر القصبي) و(عبدالله السدحان) مجموعة من القضايا الاجتماعية التي تشغل بال المجتمع السعودي بطريقة ساخرة.",
+      "channel_id": "MBC1.ae@SD",
+      "channel_name": "إم بي سي",
+      "channel_icon": "https://i.imgur.com/CiA3plN.png",
+      "next_airing": "2026-11-16T18:30:00+00:00"
+    },
+    {
+      "tmdb_id": 53299,
+      "title": "خطوط حمراء",
+      "original_title": "خطوط حمراء",
+      "content_type": "series",
+      "rating": 10,
+      "year": "2012",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/nYFHlq9gPpIufbK9UhnH9paxsv5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/h5fPXyaFjW9VwLW0B0CVj4QYv0E.jpg",
+      "description": "تدور أحداث المسلسل حول ضابط الشرطة حسام، ينتقم منه أحد أعدائه، وهو دياب تاجر السلاح بالانتقام بذبح زوجته وتلفيق قضية رشوة حتى يسجن ظلمًا 3 سنوات ويخرج من السجن ويتحول أسلوب حياته ويعمل مع أعدائه مقررًا الانتقام من أجل زوجته.",
+      "channel_id": "NileDrama.eg@SD",
+      "channel_name": "نايل دراما",
+      "channel_icon": "https://i.imgur.com/FasJFMM.png",
+      "next_airing": "2026-11-16T12:00:00+00:00"
+    },
+    {
+      "tmdb_id": 82416,
+      "title": "وجوه",
+      "original_title": "Kuch Rang Pyaar Ke Aise Bhi",
+      "content_type": "series",
+      "rating": 10,
+      "year": "2016",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "أوبرا صابونية",
+        "عائلي"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/sxodZZAx218LY7XmGVTiZ1lYs40.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nVL0iAHlJNQaXSeubgj9SSfw7uk.jpg",
+      "description": "ينقسم مسلسل وجوه إلى قصتين: وش تالت، وميتافرس. تقدم وش تالت قصة طبيبة تخرج من السجن لتبدأ رحلة بحث عن ابنتها ورحلة مواجهة مرض الذهان. أما في ميتافرس، ترفض البطلة الحياة في الواقع وتقتحم العالم الافتراضي لتنتقم لنفسها من أعدائها.",
+      "channel_id": "AlKaheraWalNas.eg@SD",
+      "channel_name": "القاهرة والناس",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "next_airing": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "tmdb_id": 314193,
+      "title": "الكاميرا الخفية",
+      "original_title": "الكاميرا الخفية",
+      "content_type": "series",
+      "rating": 10,
+      "year": "2026",
+      "genres": [
+        "برنامج",
+        "كوميديا"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aYuO6qxYCLdOLM3YUmL4yWc1zuD.jpg",
+      "description": "مجموعة من المقالب التي يقع فيها الضيوف، ويقدمها الفنان (إبراهيم نصر)، ومن أبرز الشخصيات التي جسدها شخصية سيدة اسمها (زكية زكريا).",
+      "channel_id": "AlKaheraWalNas.eg@SD",
+      "channel_name": "القاهرة والناس",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "next_airing": "2026-11-16T23:48:00+00:00"
+    },
+    {
+      "tmdb_id": 759643,
+      "title": "أدهم الشرقاوي",
+      "original_title": "أدهم الشرقاوي",
+      "content_type": "movie",
+      "rating": 10,
+      "year": "1964",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "تاريخ"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/wZhYML9YeIDmmWW5xtkIW7KgeLO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/g3GyF8C4FJXw3fTIBQy4pHPPJp3.jpg",
+      "description": "تدور أحداث المسلسل عم سيرة حياة البطل الشعبي أدهم الشرقاوي، شاب صغير السن يقرر أن يرفع الظلم عن أهل قريته إيتاي البارود ويقع فى حب بنت ريفية بسيطة من قريته.",
+      "channel_id": "AlNaharDrama.eg@SD",
+      "channel_name": "النهار دراما",
+      "channel_icon": "https://i.ibb.co/ksnNhr5w/Al-Nahar-Drama.png",
+      "next_airing": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "tmdb_id": 764300,
+      "title": "اليد في اليد",
+      "original_title": "Les Arts de l'Islam au Louvre - La Main Tendue",
+      "content_type": "movie",
+      "rating": 10,
+      "year": "2012",
+      "genres": [
+        "General",
+        "وثائقي",
+        "تاريخ"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/wy730j5BHcO4ixyFTHq2xi3RsQU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/beeRGbXEFpMNVMAU73TVCF2otGc.jpg",
+      "description": "جولة حصرية في قسم الفن الإسلامي الجديد بمتحف اللوفر. رحلة آسرة إلى قلب حضارة تجاوزت حدودها باستمرار. نحو 18 ألف قطعة، تروي أكثر من ألف عام من التاريخ الممتد من إسبانيا إلى الهند: خرز، بلاط خزفي، عناصر معمارية، سجاد، أثاث، وشرفة مملوكية. كيف يُمكن تقديم هذه المجموعة الاستثنائية، الشاهدة على حضارة ثرية ومعقدة لم تتحدث العربية فحسب، بل التركية والفارسية والهندية أيضاً؟ قبل أشهر قليلة من افتتاحه للجمهور في 22 سبتمبر 2012، تابع ريتشارد كوبانز إنشاء القسم الثامن الجديد في متحف اللوفر المخصص للفن الإسلامي.",
+      "channel_id": "NessmaElJadida.tn@SD",
+      "channel_name": "نسمة",
+      "channel_icon": "https://i.imgur.com/66CJtdz.png",
+      "next_airing": "2026-11-16T19:00:00+00:00"
+    },
+    {
+      "tmdb_id": 305049,
+      "title": "صحاب الأرض",
+      "original_title": "صحاب الأرض",
+      "content_type": "series",
+      "rating": 9.7,
+      "year": "2026",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/lRu8YUUoak6CQSRbOA7fKXPniBf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iUl3gVrEf5UWsD4dy5MhiwDaJL3.jpg",
+      "description": "على وقع حرب غزة، تتقاطع حياة طبيبة مصرية مع رجل فلسطيني، لتبدأ رحلة قاسية من الصمود والبقاء، تتجلى فيها معاني الأمل والإنسانية وسط الدمار والموت.",
+      "channel_id": "Althania.sy@SD",
+      "channel_name": "الثانية",
+      "channel_icon": "https://www.althania.tv/themes/custom/althania/assets/images/stv-logo.svg",
+      "next_airing": "2026-11-16T20:00:00+00:00"
+    },
+    {
+      "tmdb_id": 1418396,
+      "title": "Lawless Love",
+      "original_title": "鬼平犯科帳 本所・桜屋敷",
+      "content_type": "movie",
+      "rating": 9.3,
+      "year": "2024",
+      "genres": [
+        "مسلسل",
+        "فيلم تلفازي",
+        "دراما",
+        "حركة"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5x59B0kj30WdjCSiFTUx8Zhm2NC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hrRwdcZlv2vkCor2Y7AmBITKJxj.jpg",
+      "description": "تدور أحداث المسلسل في عام 1939 عند وقوع كارثة في منجم في إحدى مدن الفحم بسبب إهمال من رئيس العمل في المنجم، ويقاتل العاملون من أجل الإطاحة بالرئيس، إلا أن (ديفيد) يقع في حب ابنة الرئيس المهمل أثناء البحث عن حل للقضية.",
+      "channel_id": "ZeeAlwan.ae@SD",
+      "channel_name": "زي ألوان",
+      "channel_icon": "https://i.imgur.com/OLuCox7.png",
+      "next_airing": "2026-11-16T15:00:00+00:00"
+    },
+    {
+      "tmdb_id": 302162,
+      "title": "Youthful Days",
+      "original_title": "ちるらん 新撰組鎮魂歌 江戸青春篇",
+      "content_type": "series",
+      "rating": 9.2,
+      "year": "2026",
+      "genres": [
+        "مسلسل",
+        "حركة ومغامرة"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/nggt2VQ3QXegDdKJZReSs3Dgcl8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pdenjEfBr6m3mlbWofJS0pAEQkf.jpg",
+      "description": "تنشأ صداقة بين أربعة شباب فقراء من مناطق مختلفة في إيران خلال تأديتهم الخدمة العسكرية، حيث يجدون أنفسهم بعد ذلك في الجامعة ذاتها بالعاصمة بعد ذلك بالصدفة وينضم إليهم شاب من عائلة ثرية.",
+      "channel_id": "iFilmArabic.ir@SD",
+      "channel_name": "آي فيلم",
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "next_airing": "2026-11-16T16:00:00+00:00"
+    },
+    {
+      "tmdb_id": 260658,
+      "title": "لام شمسية",
+      "original_title": "لام شمسية",
+      "content_type": "series",
+      "rating": 9.1,
+      "year": "2025",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/z1XUfhL0s1zcXLSvqmJwZuMx47Y.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/c0DKrHZXGSQn8ntAC5GVhQSAjuM.jpg",
+      "description": "تكتشف مُعلمة أن عددًا من الأطفال يتعرضون للتحرش والتنمر في المدرسة، وتحاول بذل قصارى جهدها لمساندتهم ودعمهم وإيجاد حلول للدفاع عنهم، بينما تظهر العديد من المشكلات التي تهدد استقرار عائلتها، وتبعث التوتر والقلق في حياتها.",
+      "channel_id": "OnDrama.eg@SD",
+      "channel_name": "أون دراما",
+      "channel_icon": "https://i.imgur.com/qpaKDtL.png",
+      "next_airing": "2026-11-16T14:00:00+00:00"
+    },
+    {
+      "tmdb_id": 750347,
+      "title": "على كيفك",
+      "original_title": "على كيفك",
+      "content_type": "movie",
+      "rating": 9,
+      "year": "1952",
+      "genres": [
+        "General"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/Av0SlCgrNM61meoelqcnnim4iDD.jpg",
+      "backdrop": null,
+      "description": "",
+      "channel_id": "RabehSaqer.sa@HD",
+      "channel_name": "رابح صقر",
+      "channel_icon": "https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png",
+      "next_airing": "2026-11-16T06:00:21+00:00"
+    },
+    {
+      "tmdb_id": 626694,
+      "title": "نهارك سعيد",
+      "original_title": "نهارك سعيد",
+      "content_type": "movie",
+      "rating": 9,
+      "year": "1955",
+      "genres": [
+        "برنامج",
+        "كوميديا",
+        "دراما",
+        "موسيقى"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/khNAxMYAOgzdeAuJ9xJ0vYobNyp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8HgOLXSZPyBod5EG0LSvQe05UOJ.jpg",
+      "description": "برنامج صباحي يُعرض على شاشة قناة (نايل لايف)، يقوم بالمتابعة اليومية لما يهم الجمهور، ويلقي الضوء على ظواهر اجتماعية ومجتمعية مختلفة، مع استضافة أرباب التخصصات التي يتحدث بصددها لنقل الرأي الخبير، كما يحاول أن يشمل جميع أفراد الأسرة فيما يرتبط بها من أخبار وقضايا.",
+      "channel_id": "NileLife.eg@SD",
+      "channel_name": "نايل لايف",
+      "channel_icon": "https://i.imgur.com/ou42bUh.png",
+      "next_airing": "2026-11-17T00:00:00+00:00"
+    },
+    {
+      "tmdb_id": 304606,
+      "title": "خطوات صغيرة",
+      "original_title": "خطوات صغيرة",
+      "content_type": "series",
+      "rating": 9,
+      "year": "2026",
+      "genres": [
+        "مسلسل"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/xBzmjWAjIGhoH5VVYljlhBLCHFK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jBS96XLInQOrW0WtPVEppK8cLe6.jpg",
+      "description": "في عالم تتشابك فيه المصالح مع المشاعر، تنفجر صراعات مكتومة داخل حيوات مجموعة من النساء. تبدأ القصة بقرار فرح المصيري حين تحمل حقيبتها وتغادر منزل زوجها، معلنةً نهاية الصمت وبداية الحرب من أجل الكرامة. وعلى الجانب الآخر، تعيش حصة نشوة نجاح زائف قبل أن يصدمها سقوط الأقنعة لتكشف عن خيانة غادرة من أقرب الناس إليها. بين طموحات محطمة وصراعات عائلية مريرة، تخوض كل شخصية معركتها الخاصة للبقاء.",
+      "channel_id": "AlDafrahTV.ae@SD",
+      "channel_name": "الظفرة",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "next_airing": "2026-11-16T19:00:00+00:00"
+    },
+    {
+      "tmdb_id": 94133,
+      "title": "صح صح",
+      "original_title": "صح النوم",
+      "content_type": "series",
+      "rating": 9,
+      "year": "1972",
+      "genres": [
+        "General",
+        "كوميديا"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/sEOGdq3Oo90SnkYvMRbtkm7eaZV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ljXH2gt3b7DFzTYyNVqmyYASK7X.jpg",
+      "description": "",
+      "channel_id": "AmmanTV.jo@SD",
+      "channel_name": "عَمان",
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "next_airing": "2026-11-16T21:00:00+00:00"
+    },
+    {
+      "tmdb_id": 106179,
+      "title": "ألف ليلة وليلة: وردشان وماندو",
+      "original_title": "ألف ليلة وليلة: وردشان وماندو",
+      "content_type": "series",
+      "rating": 9,
+      "year": "1986",
+      "genres": [
+        "مسلسل",
+        "حركة ومغامرة",
+        "خيال علمي وفانتازيا"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/nxMCoFQD3sbU6Iw5snOtmuenr6W.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/wE6hfb2zXTbckWGG3odERRBEaL9.jpg",
+      "description": "تدور القصة في إطار خيالي، حول السلطان كهلان والذي حُرم من اﻹنجاب هو وزوجته قمر الزمان، فيسعى الوزير شعلان ﻹقناع السلطان بالزواج من ابنته حتى تنجب له ولي العهد، حتى يقابل الملك الساحرة العجوز والتي تعطيه هو وزوجته تفاحة ليأكلاها ويرزقا بولي العهد، وتتوالى الأحداث.",
+      "channel_id": "MasperoZaman.eg@SD",
+      "channel_name": "ماسبيرو زمان",
+      "channel_icon": "https://i.ibb.co/Tqr4q5wd/Maspero.png",
+      "next_airing": "2026-11-16T14:30:00+00:00"
+    },
+    {
+      "tmdb_id": 301947,
+      "title": "مدن وحضارات",
+      "original_title": "مدن وحضارات",
+      "content_type": "series",
+      "rating": 9,
+      "year": "2024",
+      "genres": [
+        "General",
+        "وثائقي"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/jQGbiRpDdayuIinea3BWrmWC7iE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/bz3pUh5XRzDZbbUzuYnLAjqLAoL.jpg",
+      "description": "",
+      "channel_id": "Althania.sy@SD",
+      "channel_name": "الثانية",
+      "channel_icon": "https://www.althania.tv/themes/custom/althania/assets/images/stv-logo.svg",
+      "next_airing": "2026-11-17T02:00:00+00:00"
+    },
+    {
+      "tmdb_id": 127588,
+      "title": "Love, Reason, Get Even",
+      "original_title": "Aşk Mantık İntikam",
+      "content_type": "series",
+      "rating": 8.8,
+      "year": "2021",
+      "genres": [
+        "مسلسل",
+        "كوميديا"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/c2grdommBcs6a0SsSYqMBY0q5p2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kWLUwqkkq3nrmNSBZqdmylZl731.jpg",
+      "description": "تدور الأحداث في إطار رومانسي كوميدي، حيث ينفصل زوجان بعد عدة سنوات من الزواج، ثم يصبح الرجل ثريًا فجأة، وتتغير حياته مرة أخرى عندما تبدأ زوجته السابقة العمل معه.",
+      "channel_id": "MixBelAraby.eg@SD",
+      "channel_name": "ميكس بالعربي",
+      "channel_icon": "https://i.imgur.com/KucgM9c.png",
+      "next_airing": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "tmdb_id": 209419,
+      "title": "Mastooran",
+      "original_title": "مستوران",
+      "content_type": "series",
+      "rating": 8.7,
+      "year": "2022",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "غموض",
+        "خيال علمي وفانتازيا"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/2ptjL8EwIEjbVbDEW8iDHSj04Lw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/dgvAEWoFnbaFF5FFNF0jmGHErW1.jpg",
+      "description": "في إطار من الدراما والخيال، يروي المسلسل أحداثاً مستوحاة من الحكايات التراثية الفارسية القديمة، والتي تدور في مدينة خيالية تسمى (مستوران)، قبل 500 عام في إيران.",
+      "channel_id": "iFilmArabic.ir@SD",
+      "channel_name": "آي فيلم",
+      "channel_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+      "next_airing": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "tmdb_id": 207484,
+      "title": "Outlander: Blood of My Blood",
+      "original_title": "Outlander: Blood of My Blood",
+      "content_type": "series",
+      "rating": 8.7,
+      "year": "2025",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
+      "description": "تدور الأحداث بعد مباشرة من نهاية الموسم الأول، حيث تستكمل القصة ما حدث من صدمات ومنعطفات مفاجئة، فتتابع حكاية زوجين في عالمين مختلفين، تفرّق بينهما الحرب والزمن.",
+      "channel_id": "beINSeries1.qa@SD",
+      "channel_name": "بي إن سيريس",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "next_airing": "2026-11-17T18:00:00+00:00"
+    },
+    {
+      "tmdb_id": 311842,
+      "title": "تداول",
+      "original_title": "FX戦士くるみちゃん",
+      "content_type": "animation",
+      "rating": 8.6,
+      "year": "2026",
+      "genres": [
+        "ترفيه",
+        "رسوم متحركة",
+        "كوميديا"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/6Tf1ETXseEoNAMyofy3aRoJtqaR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qFELvRyy0C0vxYcKBQEX7BDe4vO.jpg",
+      "description": "يقدم المذيع تحليلاً مفصلاً لأداء الأسواق الإماراتية.",
+      "channel_id": "DubaiTV.ae@SD",
+      "channel_name": "Dubai TV HD",
+      "channel_icon": "https://i.imgur.com/UMmbyHv.png",
+      "next_airing": "2026-11-16T11:30:00+00:00"
+    },
+    {
+      "tmdb_id": 35790,
+      "title": "آسر",
+      "original_title": "カードキャプターさくら",
+      "content_type": "animation",
+      "rating": 8.6,
+      "year": "1998",
+      "genres": [
+        "مسلسل",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا",
+        "حركة ومغامرة"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/uYauKEioj5v3riLOBEZsxccBsC6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/w6a3S1E5p3UfFcP3jkieXlAY5mz.jpg",
+      "description": "بعد خيانة أصدقائه والمرأة التي أحبها، يجد (مجد) نفسه خلف القضبان. لكنه لا ينهزم بملامح جديدة وهوية مختلفة، يعود (آسر) لهدف واحد: الانتقام، وذلك في إطار من الدراما والتشويق.",
+      "channel_id": "LBCInternational.lb@SD",
+      "channel_name": "إل بي سي آي",
+      "channel_icon": "https://i.imgur.com/h26xtUv.png",
+      "next_airing": "2026-11-17T18:30:00+00:00"
+    },
+    {
+      "tmdb_id": 293610,
+      "title": "الدكتور",
+      "original_title": "닥터X: 하얀 마피아의 시대",
+      "content_type": "series",
+      "rating": 8.6,
+      "year": "2026",
+      "genres": [
+        "General",
+        "غموض",
+        "دراما",
+        "جريمة"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "description": "في مستشفى يسيطر عليه الغرور والفساد، تصل جراحة غامضة وعبقرية لتتصدّى لحالات تبدو مستحيلة رغم معارضة شرسة.",
+      "channel_id": "AlKaheraWalNas.eg@SD",
+      "channel_name": "القاهرة والناس",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "next_airing": "2026-11-16T12:00:00+00:00"
+    },
+    {
+      "tmdb_id": 84334,
+      "title": "نيللي وشريهان",
+      "original_title": "نيللي وشريهان",
+      "content_type": "series",
+      "rating": 8.6,
+      "year": "2016",
+      "genres": [
+        "مسلسل",
+        "كوميديا",
+        "دراما"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/mrG6HYWdRSlJAkcRWZeuwLG6lHf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/b9vFwm1ZDpDBruLQAyVKNJlDJYy.jpg",
+      "description": "تدور أحداث المسلسل في إطار كوميدي اجتماعي، حيث تُجسّد (دنيا) دور فتاة ثرية تُدعى نيللي، وتجسد (إيمي) شخصية فتاة فقيرة تُدعى شريهان، إلى جانب كونهما ابنتا عم، فهما شخصيتان متنافرتان تمامًا، لكنهما تضطران لتنحية الخلافات جنبًا، لحل لغز ميكي، الذي يوصلهم إلى ميراث جدهما مكاوي أبو الخير.",
+      "channel_id": "TeN.eg@SD",
+      "channel_name": "تن",
+      "channel_icon": "https://i.ibb.co/zWQjVq6s/ten-tv.png",
+      "next_airing": "2026-11-16T13:00:00+00:00"
+    },
+    {
+      "tmdb_id": 65930,
+      "title": "My Hero Academia",
+      "original_title": "僕のヒーローアカデミア",
+      "content_type": "animation",
+      "rating": 8.6,
+      "year": "2016",
+      "genres": [
+        "مسلسل - رسوم متحركة",
+        "حركة ومغامرة",
+        "رسوم متحركة",
+        "خيال علمي وفانتازيا"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+      "description": "في عالم يسكنه البشر الخارقون، أصبح إيزوكو ميدوريا محب الأبطال الخارقين بلا قوة. وبمجرد التحاقه بالمدرسة الثانوية للأبطال، سرعان ما يكتشف إيزوكو أن كونه بطلاً هو أمر أكثر تعقيدًا مما يبدو.",
+      "channel_id": "beINSeries1.qa@SD",
+      "channel_name": "بي إن سيريس",
+      "channel_icon": "https://i.imgur.com/nCkbPOD.png",
+      "next_airing": "2026-11-16T15:00:00+00:00"
+    }
+  ]
+}

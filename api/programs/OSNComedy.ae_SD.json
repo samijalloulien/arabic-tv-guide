@@ -1,0 +1,2681 @@
+{
+  "channel_id": "OSNComedy.ae@SD",
+  "channel_name": "OSNtv Comedy",
+  "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+  "programs": [
+    {
+      "tmdb_id": null,
+      "title": "ذا رايتوس جيمستونز",
+      "clean_title": "ذا رايتوس جيمستونز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أند يت وان اوف يو إز ايه دافيل",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم \"إيلي\" بإبلاغ جيسي وكلفن وجودي بأنهم سيحتاجون إلى أن يكونوا في المقدمة وفي خدمة قداس عيد الفصح ، وهو أكبر وأهم حدث بالنسبة لهم على مدار العام. تهديد جودي لـ بيبي بيلي يهدد علاقتها مع بي جاي ومع عائلتها.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T22:45:00+00:00",
+      "stop": "2026-11-15T23:25:00+00:00",
+      "duration_minutes": 40,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-15T23:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا رايتوس جيمستونز",
+      "clean_title": "ذا رايتوس جيمستونز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بات ذا رايتشس ويل سي ذير فول",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتعامل جيسي مع تداعيات الأحداث المثيرة لعيد الفصح. تحاول جودي استعادة بي جايه بعد سماعها بعض الكلمات القاسية من بيبي بيلي. كلفن لديه أزمة إيمان.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T23:25:00+00:00",
+      "stop": "2026-11-16T00:00:00+00:00",
+      "duration_minutes": 35,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-15T22:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إكسبكدايشن أنون",
+      "clean_title": "إكسبكدايشن أنون",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بحيرة الذهب الملعونة في أفريقيا",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسافر جوش غيتس إلى براري ناميبيا ليخوض عملية غوص محفوفة بالمخاطر في بحيرة أوتجيكوتو، بحثاً عن كنز مفقود منذ زمن الحرب العالمية الأولى.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T00:00:00+00:00",
+      "stop": "2026-11-16T01:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T03:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا إكسوريزم أوف رولاند دو",
+      "clean_title": "ذا إكسوريزم أوف رولاند دو",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ذا إكسوريزم أوف رولاند دو",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في عام 1949، أصيب كهنة بالرعب من صبي ادعى بأنه مستحوذ من قبل الشيطان. يشارك المحققون أسرار صادمة حول هذه القضية المرعبة.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:00:00+00:00",
+      "stop": "2026-11-16T03:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "إكسبكدايشن أنون",
+      "clean_title": "إكسبكدايشن أنون",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "تشيسينغ ذا سنيك كينغز",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد إنجاز جديد محتمل، يعود \"جوش\" إلى \"غواتيمالا\" بحثًا عن قبر ملك الثعابين. باستخدام التكنولوجيا الجديدة، يأمل في العثور على موقع القبر.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T03:00:00+00:00",
+      "stop": "2026-11-16T04:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فايندينغ بيغفوت",
+      "clean_title": "فايندينغ بيغفوت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "لونستار سكواتش",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتوجه الفريق إلى شرق تكساس للتحقيق في لقطات حرارية والتي قد تُظهر كائن بيغفوت وهو يراقب أحد مواقع التخييم. ولكن، هل يمكن أن يكون الأمر مجرد خطأ في تحديد الهوية؟",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T04:00:00+00:00",
+      "stop": "2026-11-16T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بلدينغ أوف ذا غريد: ماونتن مان كيف",
+      "clean_title": "بلدينغ أوف ذا غريد: ماونتن مان كيف",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يجد جو دونوفان، المتزلج والمغامر الشغوف، الموقع المثالي ليكون بمثابة معسكره الدائم على سلسلة جبلية نائية في جنوب غرب ولاية مونتانا.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T05:00:00+00:00",
+      "stop": "2026-11-16T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا الاسكا نراينغل",
+      "clean_title": "ذا الاسكا نراينغل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أسرار جبل هايز",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يحقق الخبراء في تقارير عن وجود قاعدة غريبة سرية في أعماق أعلى جبل في ألاسكا. تشير أدلة الفيديو إلى نشاط خارج كوكب الأرض في فيربانكس.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T06:00:00+00:00",
+      "stop": "2026-11-16T07:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا الاسكا نراينغل",
+      "clean_title": "ذا الاسكا نراينغل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "دوغلاس المفقود",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يدرس الخبراء ما إذا كانت بوابة متعددة الأبعاد في مثلث ألاسكا قد أدت إلى اختفاء طائرة تحمل 44 من الأفراد العسكريين في عام 1950.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T07:00:00+00:00",
+      "stop": "2026-11-16T08:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا الاسكا نراينغل",
+      "clean_title": "ذا الاسكا نراينغل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "وحش بحيرة لوخ نيس في ألاسكا",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "باحث في علم الحيوانات المشفرة يحقق في تقارير عن وحش بحري في ألاسكا. يراجع روايات شهود العيان ويفحص أدلة الفيديو التي لم يسبق رؤيتها من قبل.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:00:00+00:00",
+      "stop": "2026-11-16T09:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مستيريز أوف ذا ميسينغ",
+      "clean_title": "مستيريز أوف ذا ميسينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "هانت فور فلايت إم إيتش370",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في عام 2014، اختفت رحلة الخطوط الجوية الماليزيةم-هـ370 دون أن ترك أثرا. هل تحطمت وإذا كان الأمر كذلك، فلماذا لا يمكن العثور على الحطام ؟",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T09:00:00+00:00",
+      "stop": "2026-11-16T10:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مستيريز أوف ذا ميسينغ",
+      "clean_title": "مستيريز أوف ذا ميسينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أتلانتس: الأدلة المفقودة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تُعد أتلانتس واحدة من أشهر حالات الاختفاء. فهل ستتمكن أحدث التقنيات، بعد آلاف السنين، من كشف هذا اللغز القديم أخيرًا؟",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T10:00:00+00:00",
+      "stop": "2026-11-16T11:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مستيريز أوف ذا ميسينغ",
+      "clean_title": "مستيريز أوف ذا ميسينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "سفينة الصحراء الشبح",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد اختفاء سفينة شحن ضخمة فجأة وعلى متنها 27 فرداً من طاقمها، تشير أدلة جديدة إلى أن السبب قد يكون موجة عاتية كبيرة.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T11:00:00+00:00",
+      "stop": "2026-11-16T12:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا الاسكا نراينغل",
+      "clean_title": "ذا الاسكا نراينغل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أسرار جبل هايز",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يحقق الخبراء في تقارير عن وجود قاعدة غريبة سرية في أعماق أعلى جبل في ألاسكا. تشير أدلة الفيديو إلى نشاط خارج كوكب الأرض في فيربانكس.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:00:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ميستيريس ات ذا ميزيم",
+      "clean_title": "ميستيريس ات ذا ميزيم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كليفر هانس والمزيد",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتقصى دون وايلدمان حكاية حصان يتمتع بموهبة رياضية، ويفحص واحدة من أوائل السيارات، ويكشف أسرار هيكل لولبي غامض يقع تحت الأرض.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ميستيريس ات ذا ميزيم",
+      "clean_title": "ميستيريس ات ذا ميزيم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "محاربو التيراكوتا والمزيد",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتقصى دون أصول جيش التيراكوتا في الصين، ويبحث فيما يمكن لأم محبة أن تفعله، ويكشف قصة دب كان جندياً بولندياً.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "تريجر كويست: سنيك أيلاند",
+      "clean_title": "تريجر كويست: سنيك أيلاند",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كنز الثالوث",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يبحث صائدو كنوز عن أدلة تقودهم إلى ثروة طائلة يعتقدون أنها مخبأة في \"جزيرة الثعابين\" بالبرازيل، لكن التوترات داخل الفريق قد تؤدي إلى فشل المهمة.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "تريجر كويست: سنيك أيلاند",
+      "clean_title": "تريجر كويست: سنيك أيلاند",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ذا أوبزيت أوف باراديس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستعد الفريق لخوض مغامرته الأولى على \"جزيرة الثعابين\"، حيث سيتعرضون لدرجات حرارة تتجاوز المئة درجة فهرنهايت، إلى جانب واحد من أكثر أنواع الأفاعي فتكاً في العالم.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كودس أند كنسبيريسيز",
+      "clean_title": "كودس أند كنسبيريسيز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "لاس فيغاس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "لماذا كانت لاس فيغاس هدفاً للنازيين من أجل التخريب في زمن الحرب، وموقعاً لاختبار القنابل الذرية، ومكاناً لاجتماع الإرهابيين من أحداث 11 سبتمبر؟",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كودس أند كنسبيريسيز",
+      "clean_title": "كودس أند كنسبيريسيز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "النازيون الأمريكيون",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بدءاً من التجمعات التي أقيمت في ماديسون سكوير غاردن، ووصولاً إلى المؤامرات الرامية لسرقة أسرار الأسلحة الحربية للبلاد، نشر النازيون الأمريكيون الرعب في الولايات المتحدة خلال ثلاثينيات القرن العشرين.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:00:00+00:00",
+      "stop": "2026-11-16T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ماونتن مونسترز",
+      "clean_title": "ماونتن مونسترز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "قط الموت في مقاطعة شيروكي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسافر الفريق إلى ولاية كارولاينا الشمالية للتحقيق بشأن حيوان سنوري شرس، ويحاولون الإيقاع به داخل فخ خشبي معقد.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:00:00+00:00",
+      "stop": "2026-11-16T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T22:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا أوزبرنز ونت تو بيليف",
+      "clean_title": "ذا أوزبرنز ونت تو بيليف",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ذكريات، وحوريات بحر، والمزيد",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تغوص عائلة أوزبورن في أعماق عالم الظواهر الخارقة بحثاً عن دليل على وجود حوريات البحر. وإلى جانب ذلك، هل وقع كل من أوزي وشارون ضحيتان لتأثير مانديلا\"؟",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:00:00+00:00",
+      "stop": "2026-11-16T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "غوست نيشن",
+      "clean_title": "غوست نيشن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أفترلايف سينتينس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينضم أربعة أعضاء جدد إلى الفريق مع جيسون وستيف وديف وشاري في تحقيقاتهم حول منشأة ميد أورانج الإصلاحية في وارويك، نيويورك.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T21:00:00+00:00",
+      "stop": "2026-11-16T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ماونتن مونسترز",
+      "clean_title": "ماونتن مونسترز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "سناليغاستر مقاطعة بريستون",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتوجه الفريق إلى مقاطعة بريستون للتحقيق بشأن كائن طائر مفترس، ويواجهون خطراً كبيراً عند دخولهم إلى منطقة هذا الكائن.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:00:00+00:00",
+      "stop": "2026-11-16T23:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا الاسكا نراينغل",
+      "clean_title": "ذا الاسكا نراينغل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أسرار جبل هايز",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يحقق الخبراء في تقارير عن وجود قاعدة غريبة سرية في أعماق أعلى جبل في ألاسكا. تشير أدلة الفيديو إلى نشاط خارج كوكب الأرض في فيربانكس.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T23:00:00+00:00",
+      "stop": "2026-11-17T00:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا الاسكا نراينغل",
+      "clean_title": "ذا الاسكا نراينغل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "دوغلاس المفقود",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يدرس الخبراء ما إذا كانت بوابة متعددة الأبعاد في مثلث ألاسكا قد أدت إلى اختفاء طائرة تحمل 44 من الأفراد العسكريين في عام 1950.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:00:00+00:00",
+      "stop": "2026-11-17T01:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا الاسكا نراينغل",
+      "clean_title": "ذا الاسكا نراينغل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "وحش بحيرة لوخ نيس في ألاسكا",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "باحث في علم الحيوانات المشفرة يحقق في تقارير عن وحش بحري في ألاسكا. يراجع روايات شهود العيان ويفحص أدلة الفيديو التي لم يسبق رؤيتها من قبل.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:00:00+00:00",
+      "stop": "2026-11-17T02:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T23:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مستيريز أوف ذا ميسينغ",
+      "clean_title": "مستيريز أوف ذا ميسينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "هانت فور فلايت إم إيتش370",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في عام 2014، اختفت رحلة الخطوط الجوية الماليزيةم-هـ370 دون أن ترك أثرا. هل تحطمت وإذا كان الأمر كذلك، فلماذا لا يمكن العثور على الحطام ؟",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T02:00:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مستيريز أوف ذا ميسينغ",
+      "clean_title": "مستيريز أوف ذا ميسينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أتلانتس: الأدلة المفقودة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تُعد أتلانتس واحدة من أشهر حالات الاختفاء. فهل ستتمكن أحدث التقنيات، بعد آلاف السنين، من كشف هذا اللغز القديم أخيرًا؟",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مستيريز أوف ذا ميسينغ",
+      "clean_title": "مستيريز أوف ذا ميسينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "سفينة الصحراء الشبح",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد اختفاء سفينة شحن ضخمة فجأة وعلى متنها 27 فرداً من طاقمها، تشير أدلة جديدة إلى أن السبب قد يكون موجة عاتية كبيرة.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مستيريز أوف ذا ميسينغ",
+      "clean_title": "مستيريز أوف ذا ميسينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "هانت فور فلايت إم إيتش370",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في عام 2014، اختفت رحلة الخطوط الجوية الماليزيةم-هـ370 دون أن ترك أثرا. هل تحطمت وإذا كان الأمر كذلك، فلماذا لا يمكن العثور على الحطام ؟",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T05:00:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مستيريز أوف ذا ميسينغ",
+      "clean_title": "مستيريز أوف ذا ميسينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "فوربيدن سيتي أوف غولد",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تكشف التكنولوجيا الجديدة عن المدن المفقودة في الغابة المعادية - هل يمكن أن يؤدي ذلك إلى اكتشاف إلدورادو الأسطوري ؟ ووتم العثور على بلورة من حطام سفينة",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:00:00+00:00",
+      "stop": "2026-11-17T07:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مستيريز أوف ذا ميسينغ",
+      "clean_title": "مستيريز أوف ذا ميسينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كيرس أوف ذا بيرمودا تراينغل",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد اختفاء خمس طائرات في مثلث برمودا، يشير العلم إلى وجود قوة جيولوجية غامضة. ومن ناحية أخرى، تكشف الأقمار الصناعية عن قبائل مفقودة في منطقة الأمازون.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T08:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مستيريز أوف ذا ميسينغ",
+      "clean_title": "مستيريز أوف ذا ميسينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "لوست كولوني أوف روانوكي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "اختفت مستعمرة رونوك دون أن تترك أثراً ، وبعد قرون ، لا تزال واحدة من أعظم الألغاز التي لم تُحل في التاريخ. هل يمكن لأدلة جديدة أن تكشف مصيرها؟",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:00:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نازاس أنإكسبلايند فايلز",
+      "clean_title": "نازاس أنإكسبلايند فايلز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بلاك نايت رايزس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يرصد تلسكوب هابل آلاف الأجسام المجهولة التي تسافر أسرع من الضوء. هل نحن مراقبون؟ أم يمكن أن نكون كائنات فضائية من عالم آخر؟",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نازاس أنإكسبلايند فايلز",
+      "clean_title": "نازاس أنإكسبلايند فايلز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إنتيرستيلر غولد راش",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يُظهر كوكب ما دليلاً على وجود غلاف جوي شبيه بالأرض، بينما يشير الضوء المتوهج الغامض إلى المستحيل: وجود غلاف جوي على القمر.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T11:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نازاس أنإكسبلايند فايلز",
+      "clean_title": "نازاس أنإكسبلايند فايلز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أشباح على القمر",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "هل يمكن حقاً تزويد المركبات الفضائية بالطاقة عبر القنابل الذرية؟ ولماذا قُطع البث عن نيل أرمسترونغ حين تم لمح أضواء غريبة على سطح القمر؟",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:00:00+00:00",
+      "stop": "2026-11-17T12:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مستيريز أوف ذا ميسينغ",
+      "clean_title": "مستيريز أوف ذا ميسينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "فوربيدن سيتي أوف غولد",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تكشف التكنولوجيا الجديدة عن المدن المفقودة في الغابة المعادية - هل يمكن أن يؤدي ذلك إلى اكتشاف إلدورادو الأسطوري ؟ ووتم العثور على بلورة من حطام سفينة",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:00:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إليانز إن ألاسكا",
+      "clean_title": "إليانز إن ألاسكا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إليان فلايت بلان",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يشهد طيار يعمل في المناطق النائية نشاطاً مقلقاً لأجسام طائرة مجهولة، بينما يكشف عميل حكومي سابق عن إحداثيات سرية للغاية لموقع يزعم بأنه قاعدة لكائنات فضائية.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إليانز إن ألاسكا",
+      "clean_title": "إليانز إن ألاسكا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "متربص الليل",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يثير كائن غريب من خارج كوكب الأرض الرعب الشدشد لدى عائلة تقيم خارج مدينة جونو في ألاسكا. وفي الوقت ذاته، كاد وحش بحري أن يقلب طائرة فوق بحيرة إليامنا الشهيرة في ألاسكا.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فايندينغ بيغفوت",
+      "clean_title": "فايندينغ بيغفوت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بيغفوت صغير في أندونيسيا",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتوجه الفريق إلى سومطرة بحثاً عن الكائن المراوغ أورانغ بنديك. وهم يتوغلون في الأدغال على أمل إثبات أن هذا المخلوق الأسطوري حقيقي في الحقيقة.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T15:00:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T04:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فايندينغ بيغفوت",
+      "clean_title": "فايندينغ بيغفوت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مراقبو السكواتش",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتوجه الفريق إلى منطقة تشتهر بكونها بؤرة لكائن ساسكواتش. وبمساعدة معدات متطورة، يأمل أعضاء الفريق في جمع المزيد من المعلومات حول هذا المخلوق الغامض.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T04:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بيزار فودس ويذ أندرو زيمرن",
+      "clean_title": "بيزار فودس ويذ أندرو زيمرن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ساحل دالماسيا في كرواتيا",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتوجه أندرو إلى كرواتيا بحثاً عن أطعمة البلاد غير المألوفة والغريبة؛ فيتناول حيوانات الزغبة المشوية، وأسياخاً ضخمة من أحشاء الحيوانات، والضفادع المشوية.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بيزار فودس ويذ أندرو زيمرن",
+      "clean_title": "بيزار فودس ويذ أندرو زيمرن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "فيلادلفيا",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في فيلادلفيا، يتناول أندرو مجموعة متنوعة من الأطباق غير المألوفة والتقليدية؛ حيث يجرّب شطيرة تشيز ستيك، وفطائر سمك الشاد، وأعناق الديك الرومي، وكبد الخنزير، وغيرها الكثير!",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ماونتن مونسترز",
+      "clean_title": "ماونتن مونسترز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "وحش مقاطعة رالي الشبيه بالدب",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتقصّى الفريق أثر كائن هجين قاتل يجمع بين صفات الدب والكلب. ويتتبعون هذا المخلوق عبر تضاريس وعرة، محاولين الإيقاع به داخل فخ على شكل مرجل ضخم.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T22:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بيوند ذا أنون",
+      "clean_title": "بيوند ذا أنون",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ألكاتراز والتوأمان الملتصقان",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يكشف دون وايلدمان عن رؤوس دمية ساعدت سجناء على الهروب من سجن ألكتراز، كما يبحث في لغز طبي يتعلق بتوأمين ملتصقين.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:00:00+00:00",
+      "stop": "2026-11-17T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "غوست أسايلم",
+      "clean_title": "غوست أسايلم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "كاستيلو دي سان ماركوس",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتواجد فريق تي ​​دبليو سي في ولاية فلوريدا، داخل واحدة من أكثر القلاع التي يُقال إنها مسكونة في الولايات المتحدة، حيث يحاولون التواصل مع رأس بلا جسد يعود لزعيم من قبيلة سيمينول الهندية.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:00:00+00:00",
+      "stop": "2026-11-17T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ماونتن مونسترز",
+      "clean_title": "ماونتن مونسترز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "مخلوق الكهف في مقاطعة غرينبراير",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يُجري الفريق تحقيقاً حول كائن شبيه بالبشر يسير على قدمين. ويتتبعون هذا المخلوق المراوغ عبر شبكة كهوف تمتد لعشرين ميلاً، وصولاً إلى سلسلة من الفخاخ المنصوبة.",
+      "category": "حقائق",
+      "genres": [
+        "حقائق"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:00:00+00:00",
+      "stop": "2026-11-17T23:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SM2E9Jl.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-16T22:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Comedy",
+          "start": "2026-11-17T19:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

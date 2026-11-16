@@ -1,0 +1,372 @@
+{
+  "channel_id": "FoxActionMoviesMENA.hk@SD",
+  "channel_name": "ستار أكشن",
+  "channel_icon": "https://i.imgur.com/UkNkpCe.png",
+  "programs": [
+    {
+      "tmdb_id": 6038,
+      "title": "Shanghai Knights",
+      "clean_title": "Shanghai Knights",
+      "original_title": "Shanghai Knights",
+      "tagline": "ركلة ملكية في المؤخرة",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد عدة سنوات بينما كان تشون وانج يعمل عمدة لمدينة كارسون في نيفادا، ووالده كان المحافظ على الخاتم الإمبراطوري في المدينة المحرمة. يقوم اللورد نيلسون بالهجوم على المدينة مع مجموعة من الخارجين على القانون ويقتل والد تشون ويسرق الخاتم. يصل إلى وانج خبر مقتل والده مع علبة ألغاز ليقرر الانتقام ، يسافر إلي نيويورك لصديقه القديم روي أبانون ليطلب منه مساعدته والسفر معه إلى انجلترا للانتقام لوالده.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "مغامرة",
+        "كوميديا",
+        "غربي"
+      ],
+      "rating": 6.1,
+      "vote_count": 2539,
+      "age_rating": "PG-13",
+      "year": "2003",
+      "release_date": "2003-02-06",
+      "status": "Released",
+      "country": "المملكة المتحدة",
+      "language": "الإنجليزية",
+      "director": "David Dobkin",
+      "cast": [
+        {
+          "name": "جاكي شان",
+          "character": "Chon Wang",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+        },
+        {
+          "name": "Owen Wilson",
+          "character": "Roy O'Bannon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
+        },
+        {
+          "name": "Fann Wong",
+          "character": "Chon Lin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sqTtc4M6yhw5sNmZZX6xqhqAJMX.jpg"
+        },
+        {
+          "name": "آيدن جيلن",
+          "character": "Lord Nelson Rathbone",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fWWRgyJEGjOPcx43CaFiUCWMBLo.jpg"
+        },
+        {
+          "name": "دوني ين",
+          "character": "Wu Chow",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg"
+        },
+        {
+          "name": "Tom Fisher",
+          "character": "Arthur 'Artie' Doyle",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oVKIxTE5zNg5KlFg2AEZ0vYs2sy.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T12:30:00+00:00",
+      "stop": "2026-11-16T14:20:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/vVNQStMlZS9mn2AKBEpadRunHgt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/AoXqOWzD0HGZttYi0wHMvvGJZhZ.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/vVNQStMlZS9mn2AKBEpadRunHgt.jpg",
+      "channel_icon": "https://i.imgur.com/UkNkpCe.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 1024546,
+      "title": "Detective Knight: Rogue",
+      "clean_title": "Detective Knight: Rogue",
+      "original_title": "Detective Knight: Rogue",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتوغل المحقق جيمس نايت داخل شوارع لوس أنجلوس خلال الهالوين، حيث يسعى لتعقب مجموعة من اللصوص الذين تسببوا في إصابة زميله خلال مداهمة اللصوص في عملية سرقة.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "حركة",
+        "جريمة",
+        "إثارة"
+      ],
+      "rating": 6,
+      "vote_count": 202,
+      "age_rating": "R",
+      "year": "2022",
+      "release_date": "2022-10-21",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Edward Drake",
+      "cast": [
+        {
+          "name": "Bruce Willis",
+          "character": "Det. James Knight",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+        },
+        {
+          "name": "Lochlyn Munro",
+          "character": "Fitzgerald",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bOJ03k0oe2R6snRgzV8M4Qtoo4O.jpg"
+        },
+        {
+          "name": "Jimmy Jean-Louis",
+          "character": "Det.Godwin Sango",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cWfLE9CHVQPn65gkdiQ4We33VAy.jpg"
+        },
+        {
+          "name": "Beau Mirchoff",
+          "character": "Casey Rhodes",
+          "profile_image": "https://image.tmdb.org/t/p/w185/AeKZwf9BC9G5GsgotTWvlfk4Hon.jpg"
+        },
+        {
+          "name": "Corey Large",
+          "character": "Mercer",
+          "profile_image": "https://image.tmdb.org/t/p/w185/a5fUescZlSJ8xbMdSk2BQ7a1onU.jpg"
+        },
+        {
+          "name": "Michael Eklund",
+          "character": "Winna",
+          "profile_image": "https://image.tmdb.org/t/p/w185/la3J6E12pbZHe0sE73EipKkzQOp.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T14:20:00+00:00",
+      "stop": "2026-11-16T16:05:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6YRQ8l93ZEs6x4rZojWoHIWdguK.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg",
+      "channel_icon": "https://i.imgur.com/UkNkpCe.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 3132,
+      "title": "Bad Company",
+      "clean_title": "Bad Company",
+      "original_title": "Bad Company",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقتل عميل في المخابرات الأمريكية أثناء شراء أسلحة نووية، وشريكه أوكس يجند أخيه التوأم ويدعى جاك هايز، كما أن جاك لا يعلم شيئًا عن مقتل أخيه وتعملاته ليس سوى أنه يعلم لحساب وكالة الاستخبارات المركزية، تبدأ المخابرات الأمريكية تدريب جاك لملء مكان أخيه.",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "حركة",
+        "مغامرة",
+        "كوميديا",
+        "إثارة"
+      ],
+      "rating": 5.5,
+      "vote_count": 904,
+      "age_rating": "PG-13",
+      "year": "2002",
+      "release_date": "2002-06-07",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "جويل شوماخر",
+      "cast": [
+        {
+          "name": "أنتوني هوبكنز",
+          "character": "Oakes",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg"
+        },
+        {
+          "name": "كريس روك",
+          "character": "Jake Hayes / Kevin Pope",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5lILFeBvX3sC0EfbHhrvMEc7bPD.jpg"
+        },
+        {
+          "name": "Gabriel Macht",
+          "character": "Seale",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lacMH4Ju1x9AsKXm7mDkklSsPyV.jpg"
+        },
+        {
+          "name": "بيتر ستورمار",
+          "character": "Adrik Vas",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1rtpuUqBV29jDc1huUhtjGDbEwn.jpg"
+        },
+        {
+          "name": "جون سلاتري",
+          "character": "Roland Yates",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tm7g84OWD5gQRoyfG4hduBphP1j.jpg"
+        },
+        {
+          "name": "كيري واشنطن",
+          "character": "Julie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zgyjYlxmHG6Ntbg16JcTp8Vu8M3.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T16:05:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/umu141mcfIEhRLgyQp7TWlGJFW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9oLrsekWm3sfEGw5HOav6roW1h7.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/umu141mcfIEhRLgyQp7TWlGJFW.jpg",
+      "channel_icon": "https://i.imgur.com/UkNkpCe.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 8681,
+      "title": "Taken",
+      "clean_title": "Taken",
+      "original_title": "Taken",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يدور الفيلم حول بريان ميلز (ليام نيسون) عميل سابق للاستخبارات الأمريكية ، مطلق ولديه ابنة (كيم) علاقته بها مضطربة، تعيش مع أمها وزوجها ، تذهب (كيم) مع صديقتها إلى (باريس) لقضاء رحلة فيتم خطفها ، يعرف (بريان) أن أمامه 96 ساعة فيقرر أن يسافر إلى (باريس) بنفسه لإنقاذ ابنته .",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "حركة",
+        "إثارة"
+      ],
+      "rating": 7.4,
+      "vote_count": 12591,
+      "age_rating": "PG-13",
+      "year": "2008",
+      "release_date": "2008-02-18",
+      "status": "Released",
+      "country": "فرنسا",
+      "language": "الإنجليزية",
+      "director": "بيير موريل",
+      "cast": [
+        {
+          "name": "ليام نيسون",
+          "character": "Bryan Mills",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+        },
+        {
+          "name": "ماجي غرايس",
+          "character": "Kim Mills",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fEZSGno4ooPgFjuGzE7ogsWEHsh.jpg"
+        },
+        {
+          "name": "فامك جانسن",
+          "character": "Lenore St. John",
+          "profile_image": "https://image.tmdb.org/t/p/w185/uvZGwNsLqe9NyA57Qlt46IkO8Bd.jpg"
+        },
+        {
+          "name": "Olivier Rabourdin",
+          "character": "Jean-Claude Pitrel",
+          "profile_image": "https://image.tmdb.org/t/p/w185/r15C7VnXnyMJk8JyNQOJGaauiKA.jpg"
+        },
+        {
+          "name": "Katie Cassidy",
+          "character": "Amanda",
+          "profile_image": "https://image.tmdb.org/t/p/w185/v7cs7RFcfoiL8W1YRkZK5lBc57H.jpg"
+        },
+        {
+          "name": "Nicolas Giraud",
+          "character": "Peter",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ow7oY9iTl4aJNWO6R72a1xW3IkX.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T18:00:00+00:00",
+      "stop": "2026-11-16T19:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ognkaUSNgJe1a2pjB4UNdzEo5jT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ysCmtf9Y9fLDChZ88PXId5RbLP1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ognkaUSNgJe1a2pjB4UNdzEo5jT.jpg",
+      "channel_icon": "https://i.imgur.com/UkNkpCe.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 82675,
+      "title": "Taken 2",
+      "clean_title": "Taken 2",
+      "original_title": "Taken 2",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد أن نجح برايان (ليام نيسون) في قتل مختطف ابنته في الجزء الأول من فيلم taken ، يقرر السفر إلى (إسطنبول) لقضاء إجازته برفقة زوجته وابنته ، وهناك يفاجأ بوالد القتيل يخطفه هو وزوجته انتقاما وثأرا لابنه ، وهو ما يدعو (برايان) للاستعانة بابنته من أجل مساعدته على الهرب وقتل الخاطف .",
+      "category": "فيلم",
+      "genres": [
+        "فيلم",
+        "حركة",
+        "جريمة",
+        "إثارة"
+      ],
+      "rating": 6.4,
+      "vote_count": 7364,
+      "age_rating": "PG-13",
+      "year": "2012",
+      "release_date": "2012-09-27",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Olivier Megaton",
+      "cast": [
+        {
+          "name": "ليام نيسون",
+          "character": "Bryan Mills",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+        },
+        {
+          "name": "ماجي غرايس",
+          "character": "Kim Mills",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fEZSGno4ooPgFjuGzE7ogsWEHsh.jpg"
+        },
+        {
+          "name": "فامك جانسن",
+          "character": "Lenore St. John",
+          "profile_image": "https://image.tmdb.org/t/p/w185/uvZGwNsLqe9NyA57Qlt46IkO8Bd.jpg"
+        },
+        {
+          "name": "Leland Orser",
+          "character": "Sam Gilroy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vvVcWhActW8k2gQz95UatVP4Duf.jpg"
+        },
+        {
+          "name": "D. B. Sweeney",
+          "character": "Bernie Harris",
+          "profile_image": "https://image.tmdb.org/t/p/w185/enY28APVRWfyHjGAkh6VCkYCWOA.jpg"
+        },
+        {
+          "name": "Jon Gries",
+          "character": "Mark Casey",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nX69eyOvpmJ0YEpm2Qz2ZISngqw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T19:30:00+00:00",
+      "stop": "2026-11-16T21:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5M92Rtz6r01HLrN0TMrU8jCbyVm.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg",
+      "channel_icon": "https://i.imgur.com/UkNkpCe.png",
+      "is_rerun": false,
+      "reruns": []
+    }
+  ]
+}

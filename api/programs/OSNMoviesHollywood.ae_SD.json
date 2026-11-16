@@ -1,0 +1,3521 @@
+{
+  "channel_id": "OSNMoviesHollywood.ae@SD",
+  "channel_name": "OSNtv Movies Hollywood",
+  "channel_icon": "https://i.imgur.com/ygywH3O.png",
+  "programs": [
+    {
+      "tmdb_id": null,
+      "title": "وورلدز غريتست داد",
+      "clean_title": "وورلدز غريتست داد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يُطارد لانس حلم الكتابة والشهرة، ولكن الخيبات المتكررة تدفعه لتعليم الشعر في مدرسة ثانوية، إلى أن تقلب مأساة شخصية موازين حياته وتمنحه الفرصة التي طالما انتظرها.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2009",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T22:15:00+00:00",
+      "stop": "2026-11-16T00:00:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ماتش مي أبرود",
+      "clean_title": "ماتش مي أبرود",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "تصفح كتابك",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تحدث تشاد عن الكثير في موعده الأول في كولومبيا. بالإضافة إلى ذلك، فإن هارولد مستعد للقاء فيتات جديدة ولمظاهر جديدة، وتبحث ستانيكا في مشاكل موعدها.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T00:15:00+00:00",
+      "stop": "2026-11-16T01:00:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "نيبرهوود وتش",
+      "clean_title": "نيبرهوود وتش",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إخفاقات وكوارث ومواقف محرجة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عادةً ما تسوء الأمور التي يمكن أن تسوء، والآن -مع وجود الكاميرات في كل مكان- أصبحت الإخفاقات والكوارث ومواقف الإحراج المضحكة تُسجَّل ليراها الجميع.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:00:00+00:00",
+      "stop": "2026-11-16T01:22:00+00:00",
+      "duration_minutes": 22,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T01:22:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T04:32:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T04:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نيبرهوود وتش",
+      "clean_title": "نيبرهوود وتش",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "عندما تسير الخطط على نحو خاطئ",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مهما بلغ مستوى استعداد الناس، لا تسير الأمور دائمًا كما هو متوقع؛ إذ يمكن لأكثر الخطط إحكاماً أن تنقلب رأساً على عقب وتتحول إلى مواقف مضحكة للغاية حين تكون الأنظار مسلطة عليهم.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:22:00+00:00",
+      "stop": "2026-11-16T01:45:00+00:00",
+      "duration_minutes": 23,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T01:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T04:32:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T04:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "لوف أوف ذا غريد",
+      "clean_title": "لوف أوف ذا غريد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "شود آي ستاي أور شود آي غو؟",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتخذ جين قراراً نهائياً بشأن العيش بشكل منعزل مع تشارلي. وبعد نزاع كبير، يتناقشا جوش وأنجيلا حول مستقبل علاقتهما.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:45:00+00:00",
+      "stop": "2026-11-16T02:30:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "كيتشن بوس",
+      "clean_title": "كيتشن بوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ماكسيكان فييستا",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتجه بادي وزوجته وأخته إلى الجنوب. يشمل هذا العيد المكسيكي الفاهيتا مع صلصة الطماطم والكاساديا والتشوروز مع صلصة الشوكولاتة الحارة.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T02:30:00+00:00",
+      "stop": "2026-11-16T03:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T06:06:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T16:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T02:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T06:06:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T16:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "90 داي فيانسيه",
+      "clean_title": "90 داي فيانسيه",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "في مرحلة زواجي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تشعر ماريسا بالقلق حيال كيفية تأقلم خطيبها، وهو موظف في المنتجع، مع الحياة في أمريكا. ويتلقى آشيا وماكسويل قرارًا صادمًا بشأن تأشيرته.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T03:00:00+00:00",
+      "stop": "2026-11-16T04:32:00+00:00",
+      "duration_minutes": 92,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T08:03:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T14:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T08:03:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T14:19:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نيبرهوود وتش",
+      "clean_title": "نيبرهوود وتش",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إخفاقات وكوارث ومواقف محرجة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عادةً ما تسوء الأمور التي يمكن أن تسوء، والآن -مع وجود الكاميرات في كل مكان- أصبحت الإخفاقات والكوارث ومواقف الإحراج المضحكة تُسجَّل ليراها الجميع.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T04:32:00+00:00",
+      "stop": "2026-11-16T04:55:00+00:00",
+      "duration_minutes": 23,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T01:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T01:22:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T04:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نيبرهوود وتش",
+      "clean_title": "نيبرهوود وتش",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "عندما تسير الخطط على نحو خاطئ",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مهما بلغ مستوى استعداد الناس، لا تسير الأمور دائمًا كما هو متوقع؛ إذ يمكن لأكثر الخطط إحكاماً أن تنقلب رأساً على عقب وتتحول إلى مواقف مضحكة للغاية حين تكون الأنظار مسلطة عليهم.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T04:55:00+00:00",
+      "stop": "2026-11-16T05:19:00+00:00",
+      "duration_minutes": 24,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T01:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T01:22:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T04:32:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كيك بوس",
+      "clean_title": "كيك بوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "شيبس، سةنوغرامز آند سيستر دراما",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يخطط بادي لكعكة ضخمة لمهرجان كولومبوس السنوي في مدينة نيويورك، لكن الكعكة كبيرة جداً وتحتاج لرافعة لنقلها.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T05:19:00+00:00",
+      "stop": "2026-11-16T05:42:00+00:00",
+      "duration_minutes": 23,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T05:42:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T17:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T17:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T05:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T05:42:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T17:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T17:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كيك بوس",
+      "clean_title": "كيك بوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "باكس آند بيستريز",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواجه بادي تحدياً جديداً في الخبز، إذ يتلقى طلباً من ولدين يعشقان الهوكي، ويريدان كعكة على شكل طاولة هوكي على طراز صالات الألعاب، مع شخصيات متحركة.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T05:42:00+00:00",
+      "stop": "2026-11-16T06:06:00+00:00",
+      "duration_minutes": 24,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T05:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T17:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T17:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T05:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T05:42:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T17:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T17:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كيتشن بوس",
+      "clean_title": "كيتشن بوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بريكفاست أوف تشامب",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم بادي بطهي وليمة إفطار من عصيدة من دقيق الذرة الفلورنسية مع البيض المسلوق وطبقات النقانق الكلاسيكية. بالإضافة إلى ذلك، ما هو سر الكابتشينو المثالي؟",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T06:06:00+00:00",
+      "stop": "2026-11-16T06:29:00+00:00",
+      "duration_minutes": 23,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T02:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T16:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T02:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T06:06:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T16:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ولكم تو بلاثفيل",
+      "clean_title": "ولكم تو بلاثفيل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الخطبة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتجمع عائلة بلاث لتشهد مفاجأة زاك وهو يطلب يد ليديا، لكن سرعان ما تتحول اللحظة إلى توتر حين تتصاعد مطالبه وتتخطى حدود إيثان وميكا.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T06:29:00+00:00",
+      "stop": "2026-11-16T07:16:00+00:00",
+      "duration_minutes": 47,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T12:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T00:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T06:29:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T12:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دابيلينغ داون ويذ ذا ديريكوز",
+      "clean_title": "دابيلينغ داون ويذ ذا ديريكوز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "من أجل حب داوسن",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يشعر ديون بالقلق عند تفكيره بأنه سيحضر عملية دووسين الجراحية.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T07:16:00+00:00",
+      "stop": "2026-11-16T08:03:00+00:00",
+      "duration_minutes": 47,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T13:32:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T07:16:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T13:32:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "90 داي فيانسيه",
+      "clean_title": "90 داي فيانسيه",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "في مرحلة زواجي",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تشعر ماريسا بالقلق حيال كيفية تأقلم خطيبها، وهو موظف في المنتجع، مع الحياة في أمريكا. ويتلقى آشيا وماكسويل قرارًا صادمًا بشأن تأشيرته.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:03:00+00:00",
+      "stop": "2026-11-16T09:37:00+00:00",
+      "duration_minutes": 94,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T14:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T08:03:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T14:19:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دارسي وستيسي",
+      "clean_title": "دارسي وستيسي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 1",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تخوض التوأمتان المتماثلتان الأسطوريتان دارسي وستايسي سيلفا فصلًا جديدًا معًا. توسع الأختان عملهما، وتتباعان شغفهما، وتستعيدان الروابط مع العائلة.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T09:37:00+00:00",
+      "stop": "2026-11-16T10:24:00+00:00",
+      "duration_minutes": 47,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T15:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T01:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T09:37:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T15:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "آي لوف أيه ماماز بوي",
+      "clean_title": "آي لوف أيه ماماز بوي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ليس لك مكان هنا",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يريد مات أن يقضي يوم الفلانتاين مع والدته، وفي تلك الأثناء يلغي شكيب دعوته لأمه لمرافقته إلى موعده، تشعر جوستينا بالإحباط أثناء التخطيط لحفل الزفاف.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T10:24:00+00:00",
+      "stop": "2026-11-16T11:11:00+00:00",
+      "duration_minutes": 47,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا سباوز هاوس",
+      "clean_title": "ذا سباوز هاوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "آيم غوينغ تو غيت ماريد هير!",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما ينتقل 12 عازباً إلى المنزل. تُبنى روابط جديدة وتشتعل تلك القديمة من جديد. إذ تحت إشراف خبراء العلاقات، من الذي سيخطب أولاً؟",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T11:11:00+00:00",
+      "stop": "2026-11-16T11:58:00+00:00",
+      "duration_minutes": 47,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T11:11:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ليتل بيبول، بيغ وورلد",
+      "clean_title": "ليتل بيبول، بيغ وورلد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ليتل بيبول، بيغ وورلد",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تشارك عائلة رولوف حياتها وهي تواجه تحديات لكونها قصيرة القامة في عالم متوسط الحجم. ولكنها مصممة على النجاح في عالم لا يقبل الاختلافات دائماً.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T11:58:00+00:00",
+      "stop": "2026-11-16T12:45:00+00:00",
+      "duration_minutes": 47,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T11:58:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ولكم تو بلاثفيل",
+      "clean_title": "ولكم تو بلاثفيل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "القبلة الأولى",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتبادلان زاك وليديا عهود الزواج أخيرًا ويعيشان لحظة قبلة أولى ساحرة، لكن مواجهة غير متوقعة تزرع الخلاف بينهما وبين إيثان وآيزك.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:45:00+00:00",
+      "stop": "2026-11-16T13:32:00+00:00",
+      "duration_minutes": 47,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T06:29:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T00:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T06:29:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T12:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دابيلينغ داون ويذ ذا ديريكوز",
+      "clean_title": "دابيلينغ داون ويذ ذا ديريكوز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الاتجاه إلى كاليفورنيا",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كارين تستعد بقلق لموعد دييز مع الأخصائيين في لوس أنجلوس.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:32:00+00:00",
+      "stop": "2026-11-16T14:19:00+00:00",
+      "duration_minutes": 47,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T07:16:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T07:16:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T13:32:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "90 داي فيانسيه",
+      "clean_title": "90 داي فيانسيه",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "عندما يتصادم عالمان",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تنشأ خلافات مالية بين كاتي وجوش، وتتسبب كارثة في احتفال الهالوين في توتر العلاقة بين ديبي وميدو، بينما يحاول إدوارد توطيد علاقته بأطفال ماريسا.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T14:19:00+00:00",
+      "stop": "2026-11-16T15:55:00+00:00",
+      "duration_minutes": 96,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T08:03:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T08:03:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T14:19:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دارسي وستيسي",
+      "clean_title": "دارسي وستيسي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 6",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تابعوا الشقيقتين التوأم دارسي وستيسي سيلفا وهما تبدآن في رحلة جديدة معاً، حيث توسعان أعمالهما وتتبعن قلوبهن كما تعيدن التواصل مع العائلة.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:55:00+00:00",
+      "stop": "2026-11-16T16:45:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T09:37:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T01:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T09:37:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T15:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كيتشن بوس",
+      "clean_title": "كيتشن بوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "سانداي سابر",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم بادي لحم البقر المشوي الخاص بوالدته مع مرق البصل، وغراتان البطاطس والكراث، ومعكرونة ماري والقرنبيط. وتنضم الأخت ماري وصهره جو إلى العيد.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:45:00+00:00",
+      "stop": "2026-11-16T17:10:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T02:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T06:06:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T02:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T06:06:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T16:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كيك بوس",
+      "clean_title": "كيك بوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "برايز كاو، بوب تارتس آند أيه بريديكامنت",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم بادي وفريقه بصنع نسخة مطابقة من كعكة على شكل بقرة الحليب الفائزة لأحد العملاء، والمثير للدهشة أنها تُدر الحليب بالفعل. في الوقت نفسه، يتناقشان جوي وغرايس حول قرار مصيري.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T17:10:00+00:00",
+      "stop": "2026-11-16T17:35:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T05:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T05:42:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T17:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T05:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T05:42:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T17:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T17:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كيك بوس",
+      "clean_title": "كيك بوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "شانديلير كيك آند أيه كريسينينغ",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم بادي بإبتكار كعكة ثريا صالحة للأكل يجب أن تُعلق رأساً على عقب! وفي الوقت نفسه، يبذل قصارى جهده لجعل عمادة الطفل كارلو حدثاً مميزاً.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T17:35:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T05:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T05:42:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T17:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T05:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T05:42:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T17:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T17:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نيبرهود واتش",
+      "clean_title": "نيبرهود واتش",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الضحك على الأحبة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "إذا لم تتمكن من الضحك على من تحب، فعلى من ستضحك؟",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:00:00+00:00",
+      "stop": "2026-11-16T18:25:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T18:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T22:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T22:22:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نيبرهود واتش",
+      "clean_title": "نيبرهود واتش",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إخفاقات العائلة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "إن العائلة التي تعاني الفشل معاً، تضحك معاً.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:25:00+00:00",
+      "stop": "2026-11-16T18:50:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T22:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T22:22:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سيستر وايفز",
+      "clean_title": "سيستر وايفز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "لقاء فردي: الجزء 4",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتحدث كل من ميري وكودي عن الأوقات العصيبة التي عاشاها في لاس فيغاس. ويتهم كودي الزوجات الأخريات باتخاذ روبين ككبش فداء، كما تُسأل ميري عن الرجل الجديد في حياتها.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:50:00+00:00",
+      "stop": "2026-11-16T19:40:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T22:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T10:24:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "7 ليتل جونستونز",
+      "clean_title": "7 ليتل جونستونز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "حفل زفاف 10 من 10",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "لقد حان يوم زفاف ليز وبريس أخيرًا! لكن مكان إقامة الحفل عبارة عن فوضى موحلة، وتكشف ليز عن شيء يصدم جميع وصيفاتها.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:40:00+00:00",
+      "stop": "2026-11-16T20:30:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T23:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "د. بيمبل بوبر",
+      "clean_title": "د. بيمبل بوبر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "هارد نوت لايف",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "فقد جيسون ثقته بنفسه وطموحه عندما نما ورم على عنقه. تعاني شاونيل من نتوئات غامضة في رأسها والتي دمرت حياتها.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T20:30:00+00:00",
+      "stop": "2026-11-16T21:15:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "د. ميرسي",
+      "clean_title": "د. ميرسي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بوس، سويت أند تيرز",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تعاني تيفاني من حالة تسمى التهاب الغدد العرقية القيحي، والتي تسبب دمامل مؤلمة في الأرداف. بالإضافة إلى ذلك، تتأثر حياة ليديا بتعرقها الزائد.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T21:15:00+00:00",
+      "stop": "2026-11-16T22:00:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T21:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نيبرهود واتش",
+      "clean_title": "نيبرهود واتش",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الضحك على الأحبة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "إذا لم تتمكن من الضحك على من تحب، فعلى من ستضحك؟",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:00:00+00:00",
+      "stop": "2026-11-16T22:22:00+00:00",
+      "duration_minutes": 22,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T18:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T22:22:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نيبرهود واتش",
+      "clean_title": "نيبرهود واتش",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إخفاقات العائلة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "إن العائلة التي تعاني الفشل معاً، تضحك معاً.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:22:00+00:00",
+      "stop": "2026-11-16T22:45:00+00:00",
+      "duration_minutes": 23,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T18:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سيستر وايفز",
+      "clean_title": "سيستر وايفز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "لقاء فردي: الجزء 4",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتحدث كل من ميري وكودي عن الأوقات العصيبة التي عاشاها في لاس فيغاس. ويتهم كودي الزوجات الأخريات باتخاذ روبين ككبش فداء، كما تُسأل ميري عن الرجل الجديد في حياتها.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:45:00+00:00",
+      "stop": "2026-11-16T23:30:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T18:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T10:24:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "7 ليتل جونستونز",
+      "clean_title": "7 ليتل جونستونز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "حفل زفاف 10 من 10",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "لقد حان يوم زفاف ليز وبريس أخيرًا! لكن مكان إقامة الحفل عبارة عن فوضى موحلة، وتكشف ليز عن شيء يصدم جميع وصيفاتها.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T23:30:00+00:00",
+      "stop": "2026-11-17T00:15:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T19:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ولكم تو بلاثفيل",
+      "clean_title": "ولكم تو بلاثفيل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "القبلة الأولى",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتبادلان زاك وليديا عهود الزواج أخيرًا ويعيشان لحظة قبلة أولى ساحرة، لكن مواجهة غير متوقعة تزرع الخلاف بينهما وبين إيثان وآيزك.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:15:00+00:00",
+      "stop": "2026-11-17T01:00:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T06:29:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T12:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T06:29:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T12:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دابيلينغ داون ويذ ذا ديريكوز",
+      "clean_title": "دابيلينغ داون ويذ ذا ديريكوز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الاتجاه إلى كاليفورنيا",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كارين تستعد بقلق لموعد دييز مع الأخصائيين في لوس أنجلوس.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:00:00+00:00",
+      "stop": "2026-11-17T01:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T07:16:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T13:32:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T07:16:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T13:32:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دارسي وستيسي",
+      "clean_title": "دارسي وستيسي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 6",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تابعوا الشقيقتين التوأم دارسي وستيسي سيلفا وهما تبدآن في رحلة جديدة معاً، حيث توسعان أعمالهما وتتبعن قلوبهن كما تعيدن التواصل مع العائلة.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:45:00+00:00",
+      "stop": "2026-11-17T02:30:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T09:37:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T15:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T09:37:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T15:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كيتشن بوس",
+      "clean_title": "كيتشن بوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "سانداي سابر",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقدم بادي لحم البقر المشوي الخاص بوالدته مع مرق البصل، وغراتان البطاطس والكراث، ومعكرونة ماري والقرنبيط. وتنضم الأخت ماري وصهره جو إلى العيد.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T02:30:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T02:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T06:06:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T16:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T06:06:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T16:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "90 داي فيانسيه",
+      "clean_title": "90 داي فيانسيه",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الثقة في العملية",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدعو كاتي علاقاتها العاطفية السابقة إلى حفل استقبال جوش. محامي آشيا لديه أخبار سيئة بشأن تأشيرة ماكسويل. أبناء ماريسا قلقون بشأن انتقال إدوارد للعيش معهم.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T04:32:00+00:00",
+      "duration_minutes": 92,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T08:03:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T14:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T08:03:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T14:19:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا فاميلي شانتال",
+      "clean_title": "ذا فاميلي شانتال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الأخت مثل أخيها",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "إن زواج شقيقها السريع من عروس أجنبية يثير شكوك شانتيل.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:32:00+00:00",
+      "stop": "2026-11-17T05:19:00+00:00",
+      "duration_minutes": 47,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "كيك بوس",
+      "clean_title": "كيك بوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ستاتن آيلاند تشاك",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يصنع الفريق كعكة ضخمة احتفالاً بيوم الجرذ الأرضي لـ\"ستاتن آيلاند تشاك\". كما يتلقون طلباً غير معتاد لحفلة عيد ميلاد فتاة.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T05:19:00+00:00",
+      "stop": "2026-11-17T05:42:00+00:00",
+      "duration_minutes": 23,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T05:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T05:42:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T17:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T17:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T05:42:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T17:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T17:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كيك بوس",
+      "clean_title": "كيك بوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بنشز آند بايستريز",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتلقى المخبز زيارة مفاجئة من المصارع سانتينو ماريلا حيث يستعرض بعض حركاته الشهيرة ويطلب كعكة ضخمة بعنوان \"الطريق إلى ريسلمانيا\".",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T05:42:00+00:00",
+      "stop": "2026-11-17T06:06:00+00:00",
+      "duration_minutes": 24,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T05:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T05:42:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T17:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T17:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T05:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T17:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T17:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كيتشن بوس",
+      "clean_title": "كيتشن بوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أنيفيرساري دينار",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "إنها الذكرى السنوية لبادي ويحتفل بها من خلال طهي وجبة خاصة لزوجته ليزا، مكونة من ريزوتو الزعفران ولحم العجل الكلاسيكي أوسو بوكو وكعكة الكمأة بالشوكولاتة.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:06:00+00:00",
+      "stop": "2026-11-17T06:29:00+00:00",
+      "duration_minutes": 23,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T02:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T06:06:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T16:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T02:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T16:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ولكم تو بلاثفيل",
+      "clean_title": "ولكم تو بلاثفيل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "السر",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواصلان ميكا وإيثان استجواب زاك بلا هوادة، بينما تواجه فيرونيكا آمبر وإيثان وتطالب بتفسير لطريقة تعامل العائلة معها.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:29:00+00:00",
+      "stop": "2026-11-17T07:16:00+00:00",
+      "duration_minutes": 47,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T06:29:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T12:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T00:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T12:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دابيلينغ داون ويذ ذا ديريكوز",
+      "clean_title": "دابيلينغ داون ويذ ذا ديريكوز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحجر الصحي مع ثمانية عشر",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مع أربعة مجموعات من التوائم المتعددة، عائلة ديريكوس ليست عائلة عادية!",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T07:16:00+00:00",
+      "stop": "2026-11-17T08:03:00+00:00",
+      "duration_minutes": 47,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T07:16:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T13:32:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T13:32:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "90 داي فيانسيه",
+      "clean_title": "90 داي فيانسيه",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الثقة في العملية",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدعو كاتي علاقاتها العاطفية السابقة إلى حفل استقبال جوش. محامي آشيا لديه أخبار سيئة بشأن تأشيرة ماكسويل. أبناء ماريسا قلقون بشأن انتقال إدوارد للعيش معهم.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:03:00+00:00",
+      "stop": "2026-11-17T09:37:00+00:00",
+      "duration_minutes": 94,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T08:03:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T14:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T14:19:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دارسي وستيسي",
+      "clean_title": "دارسي وستيسي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 2",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تبدأ التوأمتان الأسطوريتان دارسي وستيشي سيلفا فصلًا جديدًا معًا. توسع الشقيقتان عملهما، تتبعان قلوبهما، ويعيدان الاتصال بالعائلة.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T09:37:00+00:00",
+      "stop": "2026-11-17T10:24:00+00:00",
+      "duration_minutes": 47,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T09:37:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T15:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T01:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T15:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سيستر وايفز",
+      "clean_title": "سيستر وايفز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "لقاء فردي: الجزء 4",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتحدث كل من ميري وكودي عن الأوقات العصيبة التي عاشاها في لاس فيغاس. ويتهم كودي الزوجات الأخريات باتخاذ روبين ككبش فداء، كما تُسأل ميري عن الرجل الجديد في حياتها.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:24:00+00:00",
+      "stop": "2026-11-17T11:11:00+00:00",
+      "duration_minutes": 47,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T18:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T22:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا سباوز هاوس",
+      "clean_title": "ذا سباوز هاوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ذا غراس إز أولويز غرينر",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "هل غيرت مقاطعة ميسي الجريئة خلال حفل الخطوبة الأمور أم أن وقتها في المنزل انتهى؟ واثنان من المثلثات العاطفية في ذروتهما.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:11:00+00:00",
+      "stop": "2026-11-17T11:58:00+00:00",
+      "duration_minutes": 47,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T11:11:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ليتل بيبول، بيغ وورلد",
+      "clean_title": "ليتل بيبول، بيغ وورلد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ليتل بيبول، بيغ وورلد",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تشارك عائلة رولوف حياتها وهي تواجه تحديات لكونها قصيرة القامة في عالم متوسط الحجم. ولكنها مصممة على النجاح في عالم لا يقبل الاختلافات دائماً.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:58:00+00:00",
+      "stop": "2026-11-17T12:45:00+00:00",
+      "duration_minutes": 47,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T11:58:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ولكم تو بلاثفيل",
+      "clean_title": "ولكم تو بلاثفيل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحادثة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يحتفلان ليديا وزاك بزفافهما بينما تزرع اتهامات فيرونيكا الشقاق بين إخوة بلاث، فيتحول اجتماع العائلة إلى لحظة مواجهة واعترافات مؤلمة.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:45:00+00:00",
+      "stop": "2026-11-17T13:32:00+00:00",
+      "duration_minutes": 47,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T06:29:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T12:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T00:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T06:29:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دابيلينغ داون ويذ ذا ديريكوز",
+      "clean_title": "دابيلينغ داون ويذ ذا ديريكوز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إنذار غير متوقع",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "رفض كارين بتوظيف مربية مما يثير إحباط ديون وجي جي على حد سواء.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:32:00+00:00",
+      "stop": "2026-11-17T14:19:00+00:00",
+      "duration_minutes": 47,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T07:16:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T13:32:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T07:16:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "90 داي فيانسيه",
+      "clean_title": "90 داي فيانسيه",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ذا بول أند ذا تشين",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواجه جوش حبيب كاتي السابق في حفل عيد ميلادها، ويتم إخضاع والدة ماريسا إدوارد لاستجواب دقيق، بينما تعاني ديبي في ظل تفكير ميدو في العودة إلى مصر.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T14:19:00+00:00",
+      "stop": "2026-11-17T15:55:00+00:00",
+      "duration_minutes": 96,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T08:03:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T14:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T08:03:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دارسي وستيسي",
+      "clean_title": "دارسي وستيسي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 7",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تابعوا الشقيقتين التوأم دارسي وستيسي سيلفا وهما تبدآن في رحلة جديدة معاً، حيث توسعان أعمالهما وتتبعن قلوبهن كما تعيدن التواصل مع العائلة.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T15:55:00+00:00",
+      "stop": "2026-11-17T16:45:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T09:37:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T15:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T01:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T09:37:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كيتشن بوس",
+      "clean_title": "كيتشن بوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "فيست أوف ذا 7 فيشيز",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تساعد العمة نينا بادي في تحضير الأطباق الإيطالية البحرية الأصيلة والمفضلة لديه، كشوربة سمك القد المملح وسلطة بحرية والسمك المقلي المقرمش.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T16:45:00+00:00",
+      "stop": "2026-11-17T17:10:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T02:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T06:06:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T16:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T02:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T06:06:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كيك بوس",
+      "clean_title": "كيك بوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "بيليانتولوجي آند بوبينغ ذا كويستشن",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يطلب زوجان يحتفلان بزفافهما في متحف كعكة زفاف ضخمة على شكل ديناصور، ويحتفل بادي بالذكرى العاشرة لزواجه بالتقدّم لليزا من جديد.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T17:10:00+00:00",
+      "stop": "2026-11-17T17:35:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T05:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T05:42:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T17:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T17:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T05:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T05:42:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T17:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كيك بوس",
+      "clean_title": "كيك بوس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "ستايت فير، سيراكوز بوند آند سبيشال أنيفيرساري",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يُعِد بادي كعكة بمناسبة الذكرى الخامسة والعشرين لمعرض الولاية في ميدولاندز، بينما يحتفلان جوي وغرايس بنجاح ابنهما.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T17:35:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T05:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T05:42:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T17:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T17:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T05:19:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T05:42:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T17:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ديزاين داون أندر",
+      "clean_title": "ديزاين داون أندر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "تجديد شقة الجدة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستعين زوجان بجورجيا وريتشي لتحويل مساحة مهملة إلى شقة صغيرة ديناميكية لوالديهما المسنين.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T18:50:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "لوف ذا غريد",
+      "clean_title": "لوف ذا غريد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "عقب ذلك",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "اذهب إلى ما وراء الكواليس مع الأزواج وهم يكشفون عن لحظات مفاجئة.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:50:00+00:00",
+      "stop": "2026-11-17T19:40:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T22:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وايل يو وير أوت",
+      "clean_title": "وايل يو وير أوت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "الحلقة 3",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يرسل اثنان من أصحاب المنازل أزواجهم بعيداً في رحلة مدتها ثلاثة أيام، بينما تشهد إحدى غرف منزلهم تجديداً مفاجئاً، تحت إشراف أحد كبار المصممين.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:40:00+00:00",
+      "stop": "2026-11-17T20:30:00+00:00",
+      "duration_minutes": 50,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "د. بيمبل بوبر",
+      "clean_title": "د. بيمبل بوبر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "إيرز إن ترابل!",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعاني روجر من نتوء في كتفه والتي يسميه الرأس الثاني. جيني هي مراهقة مليئة بالفقاعات كما تعاني من نتوء ضخم خلف أذنها.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:30:00+00:00",
+      "stop": "2026-11-17T21:15:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "د. ميرسي",
+      "clean_title": "د. ميرسي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "أندر لاك آند كيلويد",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "الجدرة التي يعاني منها رامون في الجزء الخلفي من رأسه كبيرة جداً لدرجة أنه قد يحتاج إلى ترقيع الجلد في حالة إزالتها. ولدى تيانا نموان غامضان تحت كل من إبطيها.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:15:00+00:00",
+      "stop": "2026-11-17T22:00:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-16T21:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ديزاين داون أندر",
+      "clean_title": "ديزاين داون أندر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "تجديد شقة الجدة",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستعين زوجان بجورجيا وريتشي لتحويل مساحة مهملة إلى شقة صغيرة ديناميكية لوالديهما المسنين.",
+      "category": "أسلوب حياة",
+      "genres": [
+        "أسلوب حياة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:00:00+00:00",
+      "stop": "2026-11-17T22:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "لوف ذا غريد",
+      "clean_title": "لوف ذا غريد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": "عقب ذلك",
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "اذهب إلى ما وراء الكواليس مع الأزواج وهم يكشفون عن لحظات مفاجئة.",
+      "category": "واقعي",
+      "genres": [
+        "واقعي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2022",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:45:00+00:00",
+      "stop": "2026-11-17T23:30:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/ygywH3O.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Hollywood",
+          "start": "2026-11-17T18:50:00+00:00"
+        }
+      ]
+    }
+  ]
+}
