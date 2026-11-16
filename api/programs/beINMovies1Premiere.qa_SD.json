@@ -1,246 +1,555 @@
 {
   "channel_id": "beINMovies1Premiere.qa@SD",
-  "channel_name": "بي إن موفيز بريمير",
+  "channel_name": "beINMOVIES1",
   "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+  "days_count": 7,
   "programs": [
     {
-      "tmdb_id": 1126166,
-      "title": "Flight Risk",
-      "clean_title": "Flight Risk",
-      "original_title": "Flight Risk",
+      "tmdb_id": null,
+      "title": "فلايت ريسك",
+      "clean_title": "فلايت ريسك",
+      "original_title": null,
       "tagline": null,
       "episode_title": null,
-      "content_type": "movie",
+      "content_type": "program",
       "season": null,
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "ينطلق طيار في رحلة جوية لنقل مشير جوي وهارب من العدالة، وخلال عبورهم للمناطق البرية بألاسكا تتصاعد الأمور والتوترات، وتنكشف الحقائق على متن الطائرة.",
-      "category": "فيلم",
+      "description": "",
+      "category": "أفلام",
       "genres": [
-        "فيلم",
-        "حركة",
-        "إثارة"
+        "أفلام"
       ],
-      "rating": 5.9,
-      "vote_count": 1274,
-      "age_rating": "R",
-      "year": "2025",
-      "release_date": "2025-01-22",
-      "status": "Released",
-      "country": "الولايات المتحدة",
-      "language": "الإنجليزية",
-      "director": "Mel Gibson",
-      "cast": [
-        {
-          "name": "مارك والبيرغ",
-          "character": "Daryl Booth",
-          "profile_image": "https://image.tmdb.org/t/p/w185/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg"
-        },
-        {
-          "name": "ميشيل دوكري",
-          "character": "Madolyn Harris",
-          "profile_image": "https://image.tmdb.org/t/p/w185/pgPJGf2wAPgoC6Bp5PBJYQV7IVt.jpg"
-        },
-        {
-          "name": "توفر غريس",
-          "character": "Winston",
-          "profile_image": "https://image.tmdb.org/t/p/w185/89sF57Br5lq8nrepS7HLzJ41QD1.jpg"
-        },
-        {
-          "name": "Leah Remini",
-          "character": "Van Sant (voice)",
-          "profile_image": "https://image.tmdb.org/t/p/w185/5tiOfc5IGgzXodMD475aY85ZdSf.jpg"
-        },
-        {
-          "name": "Maaz Ali",
-          "character": "Hassan (voice)",
-          "profile_image": "https://image.tmdb.org/t/p/w185/udDn3LgeZRaL1V518UL7n3ULhgF.jpg"
-        },
-        {
-          "name": "Paul Ben-Victor",
-          "character": "Coleridge (voice)",
-          "profile_image": "https://image.tmdb.org/t/p/w185/l7aHF2lKW6VLLFOvMIsVfkCDl1z.jpg"
-        }
-      ],
-      "trailer_url": "https://www.youtube.com/watch?v=QSTrn6LmNT4",
-      "start": "2026-11-16T12:30:00+00:00",
-      "stop": "2026-11-16T14:15:00+00:00",
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T19:45:00+00:00",
+      "stop": "2026-11-15T21:30:00+00:00",
       "duration_minutes": 105,
       "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/srmH9BNiZp43NMhWCZy2ZARfxpC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/hwlyY7LJdEFbCPaGNXiskKKmJ5X.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/srmH9BNiZp43NMhWCZy2ZARfxpC.jpg",
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-16T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "رحيل نوكس",
+      "clean_title": "رحيل نوكس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T21:30:00+00:00",
+      "stop": "2026-11-15T23:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
       "channel_icon": "https://i.imgur.com/SmAq8yM.png",
       "is_rerun": false,
       "reruns": []
     },
     {
-      "tmdb_id": 696393,
-      "title": "Cold Storage",
-      "clean_title": "Cold Storage",
-      "original_title": "Cold Storage",
+      "tmdb_id": null,
+      "title": "الماضي الأسود",
+      "clean_title": "الماضي الأسود",
+      "original_title": null,
       "tagline": null,
       "episode_title": null,
-      "content_type": "movie",
+      "content_type": "program",
       "season": null,
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "تدور الأحداث في إطار من التشويق والإثارة، حول فطر مُخزن في إحدى المنشآت الحكومية، حيث يُفرج عنه، لكنه يتسبب في إحداث دمار يمتد تأثيره إلى العالم أجمع.",
-      "category": "فيلم",
+      "description": "",
+      "category": "أفلام",
       "genres": [
-        "فيلم",
-        "رعب",
-        "خيال علمي",
-        "كوميديا"
+        "أفلام"
       ],
-      "rating": 6.7,
-      "vote_count": 879,
-      "age_rating": "R",
-      "year": "2026",
-      "release_date": "2026-01-22",
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T23:30:00+00:00",
+      "stop": "2026-11-16T01:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أساطير أبطال كوندور: الشجعان",
+      "clean_title": "أساطير أبطال كوندور: الشجعان",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:00:00+00:00",
+      "stop": "2026-11-16T03:30:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 739080,
+      "title": "أصدقاء للأبد",
+      "clean_title": "أصدقاء للأبد",
+      "original_title": "أصدقاء للأبد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام",
+        "رسوم متحركة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-09-02",
       "status": "Released",
-      "country": "الولايات المتحدة",
-      "language": "الإنجليزية",
-      "director": "Jonny Campbell",
+      "country": "السعودية",
+      "language": "xx",
+      "director": "Mariam Khayat",
       "cast": [
         {
-          "name": "جورجينا كامبل",
-          "character": "Naomi",
-          "profile_image": "https://image.tmdb.org/t/p/w185/kgXHKjI728Nv7FLVf38S9QzHU2n.jpg"
+          "name": "David Amberg",
+          "character": "Anxiety (Voice)",
+          "profile_image": null
         },
         {
-          "name": "جو كيري",
-          "character": "Teacake",
-          "profile_image": "https://image.tmdb.org/t/p/w185/ayIAVLMfZGEGIFwAo3pPnY7p59.jpg"
+          "name": "Empress Christian",
+          "character": "Person (Voice)",
+          "profile_image": null
         },
         {
-          "name": "ليام نيسون",
-          "character": "Robert Quinn",
-          "profile_image": "https://image.tmdb.org/t/p/w185/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+          "name": "Jenna Clear",
+          "character": "Anxiety (Voice)",
+          "profile_image": null
         },
         {
-          "name": "Ellora Torchia",
-          "character": "Abigail",
-          "profile_image": "https://image.tmdb.org/t/p/w185/xGeOoLNne2U3rViaL8adlT7Hhpl.jpg"
+          "name": "Zilai Feng",
+          "character": "Anxiety (Voice)",
+          "profile_image": null
         },
         {
-          "name": "Vanessa Redgrave",
-          "character": "Mary Rooney",
-          "profile_image": "https://image.tmdb.org/t/p/w185/hBsjc7cW1DA0V6APwe3A7ESH3Lv.jpg"
-        },
-        {
-          "name": "سوزي باكون",
-          "character": "Dr. Hero Martins",
-          "profile_image": "https://image.tmdb.org/t/p/w185/pDvjTHGv8NhBkbIcBJFGt9zDw8.jpg"
+          "name": "Mariam Khayat",
+          "character": "Anxiety (Voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bVfAO7fMFdVufsyStjZhPqhaRIK.jpg"
         }
       ],
+      "trailer_url": null,
+      "start": "2026-11-16T03:30:00+00:00",
+      "stop": "2026-11-16T04:45:00+00:00",
+      "duration_minutes": 75,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/gc5wAjmFFyEoGql1nD19r2FeSnC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/lJhYIoShtjRtbcA1hs9t8wdsDSM.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/gc5wAjmFFyEoGql1nD19r2FeSnC.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-18T03:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "صوت الأمل: قصة بوسوم تروت",
+      "clean_title": "صوت الأمل: قصة بوسوم تروت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T04:45:00+00:00",
+      "stop": "2026-11-16T07:00:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ربما في ديسمبر",
+      "clean_title": "ربما في ديسمبر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T07:00:00+00:00",
+      "stop": "2026-11-16T09:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-17T00:59:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "التخزين المبرد",
+      "clean_title": "التخزين المبرد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T09:00:00+00:00",
+      "stop": "2026-11-16T10:45:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-16T14:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أسف عليك",
+      "clean_title": "أسف عليك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T10:45:00+00:00",
+      "stop": "2026-11-16T12:30:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "فلايت ريسك",
+      "clean_title": "فلايت ريسك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:30:00+00:00",
+      "stop": "2026-11-16T14:15:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-15T19:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "التخزين المبرد",
+      "clean_title": "التخزين المبرد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
       "trailer_url": null,
       "start": "2026-11-16T14:15:00+00:00",
       "stop": "2026-11-16T16:00:00+00:00",
       "duration_minutes": 105,
       "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/bjGw3ytNvJt566pHLxrholzAh5t.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/bjGw3ytNvJt566pHLxrholzAh5t.jpg",
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
       "channel_icon": "https://i.imgur.com/SmAq8yM.png",
-      "is_rerun": false,
-      "reruns": []
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-16T09:00:00+00:00"
+        }
+      ]
     },
     {
-      "tmdb_id": 10533,
-      "title": "Scarlet",
-      "clean_title": "Scarlet",
-      "original_title": "The Scarlet Letter",
+      "tmdb_id": null,
+      "title": "قرمزي",
+      "clean_title": "قرمزي",
+      "original_title": null,
       "tagline": null,
       "episode_title": null,
-      "content_type": "movie",
+      "content_type": "program",
       "season": null,
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "بعد فشلها في الانتقام لمقتل والدها، تستيقظ الأميرة (سكارليت) في أرض الموتى وعالمها المليء بالجنون، وتتسلل عبر الزمان والمكان في رحلة السعي للحصول على فرصة انتقامية أخيرة.",
-      "category": "فيلم - رسوم متحركة",
+      "description": "",
+      "category": "أفلام",
       "genres": [
-        "فيلم - رسوم متحركة",
-        "دراما",
-        "رومنسية"
+        "أفلام"
       ],
-      "rating": 6.1,
-      "vote_count": 544,
-      "age_rating": "R",
-      "year": "1995",
-      "release_date": "1995-10-13",
-      "status": "Released",
-      "country": "الولايات المتحدة",
-      "language": "الإنجليزية",
-      "director": "Roland Joffé",
-      "cast": [
-        {
-          "name": "ديمي مور",
-          "character": "Hester Prynne",
-          "profile_image": "https://image.tmdb.org/t/p/w185/wApParZYBDi4yxekjfxjKEifJYh.jpg"
-        },
-        {
-          "name": "غاري أولدمان",
-          "character": "Rev. Arthur Dimmesdale",
-          "profile_image": "https://image.tmdb.org/t/p/w185/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
-        },
-        {
-          "name": "روبرت دوفال",
-          "character": "Roger Chillingworth",
-          "profile_image": "https://image.tmdb.org/t/p/w185/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
-        },
-        {
-          "name": "Lisa Andoh",
-          "character": "Mituba",
-          "profile_image": "https://image.tmdb.org/t/p/w185/9Ho0JzMpftGyxOJiLfkFkYL2zpp.jpg"
-        },
-        {
-          "name": "إدوارد هاردويك",
-          "character": "Gov. John Bellingham",
-          "profile_image": "https://image.tmdb.org/t/p/w185/gFWwj89HLAIehkWvNXw52m11FdS.jpg"
-        },
-        {
-          "name": "Robert Prosky",
-          "character": "Horace Stonehall",
-          "profile_image": "https://image.tmdb.org/t/p/w185/yV95RE8UGyN8rZYF9W4fOGaAV6U.jpg"
-        }
-      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
       "trailer_url": null,
       "start": "2026-11-16T16:00:00+00:00",
       "stop": "2026-11-16T18:00:00+00:00",
       "duration_minutes": 120,
       "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/8gIU7O3oV6NyWUjlL6ppbpnIZLW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/tZJIL1n3eGZd3mZyto3Ux2xNEBW.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/8gIU7O3oV6NyWUjlL6ppbpnIZLW.jpg",
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
       "channel_icon": "https://i.imgur.com/SmAq8yM.png",
       "is_rerun": false,
       "reruns": [
         {
-          "channel": "بي إن موفيز بريمير",
+          "channel": "beINMOVIES1",
           "start": "2026-11-17T10:44:00+00:00"
         }
       ]
     },
     {
       "tmdb_id": 1175942,
-      "title": "The Bad Guys 2",
-      "clean_title": "The Bad Guy",
+      "title": "الأشرار 2",
+      "clean_title": "الأشرار 2",
       "original_title": "The Bad Guys 2",
       "tagline": null,
       "episode_title": null,
       "content_type": "animation",
-      "season": 2,
+      "season": null,
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "بينما يمضي الأشرار قدمًا بحثًا عن القبول والمحبة في حياتهم الجديدة كأشخاص طيبين، تظهر ظروف جديدة تجبرهم على القيام بمهمة أخيرة في عالم الجريمة.",
-      "category": "فيلم - رسوم متحركة",
+      "description": "يحاول الأشرار السابقون الذين أصبحوا صالحين الآن (بجهدٍ بالغ، بالغٍ جدًا) أن يكونوا طيبين، لكنهم يجدون أنفسهم فجأة متورطين في عملية سرقة عالمية محفوفة بالمخاطر، خططت لها ببراعة عصابة جديدة من المجرمات لم يتوقعوا ظهورها قط: الفتيات الشريرات.",
+      "category": "أفلام",
       "genres": [
-        "فيلم - رسوم متحركة",
+        "أفلام",
         "عائلي",
         "كوميديا",
         "جريمة",
@@ -301,97 +610,63 @@
       "is_rerun": false,
       "reruns": [
         {
-          "channel": "بي إن موفيز بريمير",
+          "channel": "beINMOVIES1",
           "start": "2026-11-17T08:59:00+00:00"
         },
         {
-          "channel": "بي إن موفيز بريمير",
+          "channel": "beINMOVIES1",
           "start": "2026-11-17T14:15:00+00:00"
         }
       ]
     },
     {
-      "tmdb_id": 1223601,
-      "title": "Sisu: Road to Revenge",
-      "clean_title": "Sisu: Road to Revenge",
-      "original_title": "Sisu 2",
+      "tmdb_id": null,
+      "title": "Sisu: الطريق إلى الانتقام",
+      "clean_title": "Sisu: الطريق إلى الانتقام",
+      "original_title": null,
       "tagline": null,
       "episode_title": null,
-      "content_type": "movie",
+      "content_type": "program",
       "season": null,
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "تدور أحداث الفيلم حول جندي سابق يعثر على ذهب في براري لابلاند، لكنه يواجه ضابطًا قاسيًا من قوات الأمن الخاصة وجنودًا ألمانًا خلال محاولته نقل الكنز إلى المدينة.",
-      "category": "فيلم",
+      "description": "",
+      "category": "أفلام",
       "genres": [
-        "فيلم",
-        "حركة",
-        "حرب",
-        "إثارة"
+        "أفلام"
       ],
-      "rating": 7.3,
-      "vote_count": 965,
-      "age_rating": "R",
-      "year": "2025",
-      "release_date": "2025-10-21",
-      "status": "Released",
-      "country": "FI",
-      "language": "fi",
-      "director": "جالماري هيلاندير",
-      "cast": [
-        {
-          "name": "Jorma Tommila",
-          "character": "Aatami Korpi",
-          "profile_image": "https://image.tmdb.org/t/p/w185/ll9ZZR4kMnHS8FU2yHx76bnm0P.jpg"
-        },
-        {
-          "name": "Stephen Lang",
-          "character": "Yeagor Dragunov",
-          "profile_image": "https://image.tmdb.org/t/p/w185/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
-        },
-        {
-          "name": "ريتشارد بريك",
-          "character": "KGB Officer",
-          "profile_image": "https://image.tmdb.org/t/p/w185/JwsiErANShzPSdYsNoiNYdrSg1.jpg"
-        },
-        {
-          "name": "Tommi Korpela",
-          "character": "Finnish Man",
-          "profile_image": "https://image.tmdb.org/t/p/w185/8RdCWktYZl0xF7SLZdRUKAoV7Ta.jpg"
-        },
-        {
-          "name": "Kaspar Velberg",
-          "character": "Pilot",
-          "profile_image": "https://image.tmdb.org/t/p/w185/mYlQdQWoNdk7QdrqNqATNA7ZOWH.jpg"
-        },
-        {
-          "name": "Pääru Oja",
-          "character": "Militsioner",
-          "profile_image": "https://image.tmdb.org/t/p/w185/yKNm7jeaOSCGqv5Dc5lnrtzSrAC.jpg"
-        }
-      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
       "trailer_url": null,
       "start": "2026-11-16T19:45:00+00:00",
       "stop": "2026-11-16T21:15:00+00:00",
       "duration_minutes": 90,
       "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/qAekCwa6dktUq5wIvwxjt3Q4AGd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/dblYnDLvHAjTcjpYgWUEZyNYbqP.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/qAekCwa6dktUq5wIvwxjt3Q4AGd.jpg",
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
       "channel_icon": "https://i.imgur.com/SmAq8yM.png",
       "is_rerun": false,
       "reruns": [
         {
-          "channel": "بي إن موفيز بريمير",
+          "channel": "beINMOVIES1",
           "start": "2026-11-17T12:45:00+00:00"
         }
       ]
     },
     {
       "tmdb_id": 1272837,
-      "title": "28 Years Later",
-      "clean_title": "28 Years Later",
+      "title": "بعد 28 عاماً",
+      "clean_title": "بعد 28 عاماً",
       "original_title": "28 Years Later: The Bone Temple",
       "tagline": null,
       "episode_title": null,
@@ -400,10 +675,10 @@
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "تدور الأحداث بعد (28 Weeks Later) بعدة أعوام، حيث يعود المرض للظهور من جديد وتزداد الإصابات بشكل سريع، مما يدفع مجموعة من الناجيين للكفاح في سبيل النجاة ومواجهة جيش المصابين.",
-      "category": "فيلم",
+      "description": "يجد \"الدكتور كيلسون\" نفسه في علاقة جديدة وصادمة، لها عواقب قد تغيّر العالم كما يعرفونه. وفي الوقت نفسه، يتحول لقاء \"سبايك\" مع \"جيمي كريستال\" إلى كابوسٍ لا يستطيع الهروب منه.",
+      "category": "أفلام",
       "genres": [
-        "فيلم",
+        "أفلام",
         "رعب",
         "إثارة",
         "خيال علمي"
@@ -462,80 +737,92 @@
       "reruns": []
     },
     {
-      "tmdb_id": 839369,
-      "title": "May December",
-      "clean_title": "May December",
-      "original_title": "May December",
-      "tagline": "‫بعض الأدوار تحويلية.",
+      "tmdb_id": null,
+      "title": "حاكم الأشرار",
+      "clean_title": "حاكم الأشرار",
+      "original_title": null,
+      "tagline": null,
       "episode_title": null,
-      "content_type": "movie",
+      "content_type": "program",
       "season": null,
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "بعد مرور 20 عامًا على علاقتهما الرومانسية التي نالت شهرة واسعة، يصبح زوجان تحت ضغط كبير تزامنًا مع وصول ممثلة شهيرة تسعى لتقديم عمل فني عن قصتهما.",
-      "category": "فيلم",
+      "description": "",
+      "category": "أفلام",
       "genres": [
-        "فيلم",
-        "دراما"
+        "أفلام"
       ],
-      "rating": 6.6,
-      "vote_count": 1111,
-      "age_rating": "R",
-      "year": "2023",
-      "release_date": "2023-11-16",
-      "status": "Released",
-      "country": "الولايات المتحدة",
-      "language": "الإنجليزية",
-      "director": "تود هينز",
-      "cast": [
-        {
-          "name": "ناتالي بورتمان",
-          "character": "Elizabeth",
-          "profile_image": "https://image.tmdb.org/t/p/w185/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
-        },
-        {
-          "name": "جوليان مور",
-          "character": "Gracie",
-          "profile_image": "https://image.tmdb.org/t/p/w185/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
-        },
-        {
-          "name": "تشارلز ميلتون",
-          "character": "Joe Yoo",
-          "profile_image": "https://image.tmdb.org/t/p/w185/sxWslNRZdiBcPgwdVqoj7nSclr6.jpg"
-        },
-        {
-          "name": "Cory Michael Smith",
-          "character": "Georgie",
-          "profile_image": "https://image.tmdb.org/t/p/w185/g9mXErE0CiFN8TTWaTCnurpcAeS.jpg"
-        },
-        {
-          "name": "Elizabeth Yu",
-          "character": "Mary Atherton-Yoo",
-          "profile_image": "https://image.tmdb.org/t/p/w185/1oNayhi4DS9nbN9cncKpPtOZXeQ.jpg"
-        },
-        {
-          "name": "Gabriel Barbosa",
-          "character": "Charlie Atherton-Yoo",
-          "profile_image": "https://image.tmdb.org/t/p/w185/tHWVcUd8tnoSiep76nI4rsquZY5.jpg"
-        }
-      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T00:59:00+00:00",
-      "stop": "2026-11-17T02:59:00+00:00",
+      "start": "2026-11-16T22:59:00+00:00",
+      "stop": "2026-11-17T00:59:00+00:00",
       "duration_minutes": 120,
       "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/AjvC9hbyyyW4c7y0CSUiky5gapR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/97MOhHIgU6ZdLcB9DrAhx3WAqrU.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/AjvC9hbyyyW4c7y0CSUiky5gapR.jpg",
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
       "channel_icon": "https://i.imgur.com/SmAq8yM.png",
       "is_rerun": false,
       "reruns": []
     },
     {
+      "tmdb_id": null,
+      "title": "ربما في ديسمبر",
+      "clean_title": "ربما في ديسمبر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:59:00+00:00",
+      "stop": "2026-11-17T02:59:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-16T07:00:00+00:00"
+        }
+      ]
+    },
+    {
       "tmdb_id": 1263337,
-      "title": "The Beast",
-      "clean_title": "The Beast",
+      "title": "الوحش",
+      "clean_title": "الوحش",
       "original_title": "Heart of the Beast",
       "tagline": "يعتمد بقاؤهم على الرابطة التي تجمعهم.",
       "episode_title": null,
@@ -544,10 +831,10 @@
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "في المستقبل القريب، بعد أن صارت المشاعر مصدرًا للخطر، تقرر (جابرييل) أن تنقي حمضها النووي بواسطة جهاز يغمرها في حيواتها السابقة ويخلصها من أية مشاعر قوية، ثم تقابل (لوي) فتشعر بأن بينهما رابطًا قويًا كأنها تعرفه طوال عمرها، وتتوالى الأحداث.",
-      "category": "فيلم",
+      "description": "بعد حادث تحطم طائرة مروع، يجد ضابط القوات الخاصة جيمس بيلمونت وكلبه المقاتل أودين نفسيهما عالقين في عمق برية ألاسكا. ويضطران معاً إلى خوض معركة شرسة من أجل البقاء في مواجهة قسوة الطبيعة.",
+      "category": "أفلام",
       "genres": [
-        "فيلم",
+        "أفلام",
         "مغامرة",
         "إثارة"
       ],
@@ -601,8 +888,8 @@
     },
     {
       "tmdb_id": 1469354,
-      "title": "Border Hunters",
-      "clean_title": "Border Hunters",
+      "title": "صيادو الحدود",
+      "clean_title": "صيادو الحدود",
       "original_title": "Border Hunters",
       "tagline": null,
       "episode_title": null,
@@ -611,18 +898,18 @@
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "يسافر رجل أمريكي ذو خلفية في إنفاد القانون والجيش إلى جنوب البلاد سعيًا للانتقام، وذلك بعد مقتل شقيقه ضابط الشرطة على يد تاجر مخدرات هرب إلى عمه المرتبط بعصابات المخدرات في المكسيك.",
-      "category": "فيلم",
+      "description": "بعد مقتل شقيقه الشرطي على يد تاجر مخدرات فرّ إلى حماية عمّه المرتبط بعصابة في المكسيك، يتوجه رجل أمريكي ذو خلفية متنوعة في إنفاذ القانون والجيش جنوبًا عبر الحدود للانتقام.",
+      "category": "أفلام",
       "genres": [
-        "فيلم",
+        "أفلام",
         "حركة",
         "إثارة"
       ],
-      "rating": 6.2,
-      "vote_count": 63,
+      "rating": 5.8,
+      "vote_count": 52,
       "age_rating": "R",
       "year": "2025",
-      "release_date": "2025-10-20",
+      "release_date": "2025-12-23",
       "status": "Released",
       "country": "الولايات المتحدة",
       "language": "الإنجليزية",
@@ -672,94 +959,65 @@
       "reruns": []
     },
     {
-      "tmdb_id": 82379,
-      "title": "Day of the Fight",
-      "clean_title": "Day of the Fight",
-      "original_title": "Custer of the West",
+      "tmdb_id": null,
+      "title": "يوم النزال",
+      "clean_title": "يوم النزال",
+      "original_title": null,
       "tagline": null,
       "episode_title": null,
-      "content_type": "movie",
+      "content_type": "program",
       "season": null,
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "في إطار من الدراما الرياضية، يتتبع العمل قصة ملاكم مشهور خلال رحلة التحرر عبر ماضيه وحاضره، في أول يوم قتال له منذ خروجه من السجن.",
-      "category": "فيلم",
+      "description": "",
+      "category": "أفلام",
       "genres": [
-        "فيلم",
-        "تاريخ",
-        "غربي",
-        "دراما"
+        "أفلام"
       ],
-      "rating": 5.9,
-      "vote_count": 36,
-      "age_rating": "G",
-      "year": "1967",
-      "release_date": "1967-11-09",
-      "status": "Released",
-      "country": "الولايات المتحدة",
-      "language": "الإنجليزية",
-      "director": "Robert Siodmak",
-      "cast": [
-        {
-          "name": "Robert Shaw",
-          "character": "General George Armstrong Custer",
-          "profile_image": "https://image.tmdb.org/t/p/w185/c8SIbGEmGIfhD9bObSf4FELUEns.jpg"
-        },
-        {
-          "name": "Mary Ure",
-          "character": "Elizabeth Custer",
-          "profile_image": "https://image.tmdb.org/t/p/w185/3T1yZQSwLIRM0cE6vuBWHgsTvD5.jpg"
-        },
-        {
-          "name": "Ty Hardin",
-          "character": "Major Marcus Reno",
-          "profile_image": "https://image.tmdb.org/t/p/w185/yAs5uuenoUTj5szJ62MdoqxDjPS.jpg"
-        },
-        {
-          "name": "Jeffrey Hunter",
-          "character": "Captain Benteen",
-          "profile_image": "https://image.tmdb.org/t/p/w185/fWHskNEOlfgktpjhcacC2ri0RwO.jpg"
-        },
-        {
-          "name": "Lawrence Tierney",
-          "character": "General Philip Sheridan",
-          "profile_image": "https://image.tmdb.org/t/p/w185/crtpxUAnPrZFSrLjbsTUTdGn72W.jpg"
-        },
-        {
-          "name": "Marc Lawrence",
-          "character": "Gold Miner",
-          "profile_image": "https://image.tmdb.org/t/p/w185/exCnOfb7yD7VSppd32RA9K4TIWx.jpg"
-        }
-      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
       "trailer_url": null,
       "start": "2026-11-17T06:59:00+00:00",
       "stop": "2026-11-17T08:59:00+00:00",
       "duration_minutes": 120,
       "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/ha6x7zXvJrgHiaXu5bQBcDaS7QS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/ozW6egWkcplKWi00ghgKFrKjHE5.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/ha6x7zXvJrgHiaXu5bQBcDaS7QS.jpg",
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
       "channel_icon": "https://i.imgur.com/SmAq8yM.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-18T01:31:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": 1175942,
-      "title": "The Bad Guys 2",
-      "clean_title": "The Bad Guy",
+      "title": "الأشرار 2",
+      "clean_title": "الأشرار 2",
       "original_title": "The Bad Guys 2",
       "tagline": null,
       "episode_title": null,
       "content_type": "animation",
-      "season": 2,
+      "season": null,
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "بينما يمضي الأشرار قدمًا بحثًا عن القبول والمحبة في حياتهم الجديدة كأشخاص طيبين، تظهر ظروف جديدة تجبرهم على القيام بمهمة أخيرة في عالم الجريمة.",
-      "category": "فيلم - رسوم متحركة",
+      "description": "يحاول الأشرار السابقون الذين أصبحوا صالحين الآن (بجهدٍ بالغ، بالغٍ جدًا) أن يكونوا طيبين، لكنهم يجدون أنفسهم فجأة متورطين في عملية سرقة عالمية محفوفة بالمخاطر، خططت لها ببراعة عصابة جديدة من المجرمات لم يتوقعوا ظهورها قط: الفتيات الشريرات.",
+      "category": "أفلام",
       "genres": [
-        "فيلم - رسوم متحركة",
+        "أفلام",
         "عائلي",
         "كوميديا",
         "جريمة",
@@ -820,186 +1078,119 @@
       "is_rerun": true,
       "reruns": [
         {
-          "channel": "بي إن موفيز بريمير",
+          "channel": "beINMOVIES1",
           "start": "2026-11-16T18:00:00+00:00"
         },
         {
-          "channel": "بي إن موفيز بريمير",
+          "channel": "beINMOVIES1",
           "start": "2026-11-17T14:15:00+00:00"
         }
       ]
     },
     {
-      "tmdb_id": 10533,
-      "title": "Scarlet",
-      "clean_title": "Scarlet",
-      "original_title": "The Scarlet Letter",
+      "tmdb_id": null,
+      "title": "قرمزي",
+      "clean_title": "قرمزي",
+      "original_title": null,
       "tagline": null,
       "episode_title": null,
-      "content_type": "movie",
+      "content_type": "program",
       "season": null,
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "بعد فشلها في الانتقام لمقتل والدها، تستيقظ الأميرة (سكارليت) في أرض الموتى وعالمها المليء بالجنون، وتتسلل عبر الزمان والمكان في رحلة السعي للحصول على فرصة انتقامية أخيرة.",
-      "category": "فيلم - رسوم متحركة",
+      "description": "",
+      "category": "أفلام",
       "genres": [
-        "فيلم - رسوم متحركة",
-        "دراما",
-        "رومنسية"
+        "أفلام"
       ],
-      "rating": 6.1,
-      "vote_count": 544,
-      "age_rating": "R",
-      "year": "1995",
-      "release_date": "1995-10-13",
-      "status": "Released",
-      "country": "الولايات المتحدة",
-      "language": "الإنجليزية",
-      "director": "Roland Joffé",
-      "cast": [
-        {
-          "name": "ديمي مور",
-          "character": "Hester Prynne",
-          "profile_image": "https://image.tmdb.org/t/p/w185/wApParZYBDi4yxekjfxjKEifJYh.jpg"
-        },
-        {
-          "name": "غاري أولدمان",
-          "character": "Rev. Arthur Dimmesdale",
-          "profile_image": "https://image.tmdb.org/t/p/w185/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
-        },
-        {
-          "name": "روبرت دوفال",
-          "character": "Roger Chillingworth",
-          "profile_image": "https://image.tmdb.org/t/p/w185/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
-        },
-        {
-          "name": "Lisa Andoh",
-          "character": "Mituba",
-          "profile_image": "https://image.tmdb.org/t/p/w185/9Ho0JzMpftGyxOJiLfkFkYL2zpp.jpg"
-        },
-        {
-          "name": "إدوارد هاردويك",
-          "character": "Gov. John Bellingham",
-          "profile_image": "https://image.tmdb.org/t/p/w185/gFWwj89HLAIehkWvNXw52m11FdS.jpg"
-        },
-        {
-          "name": "Robert Prosky",
-          "character": "Horace Stonehall",
-          "profile_image": "https://image.tmdb.org/t/p/w185/yV95RE8UGyN8rZYF9W4fOGaAV6U.jpg"
-        }
-      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
       "trailer_url": null,
       "start": "2026-11-17T10:44:00+00:00",
       "stop": "2026-11-17T12:45:00+00:00",
       "duration_minutes": 121,
       "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/8gIU7O3oV6NyWUjlL6ppbpnIZLW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/tZJIL1n3eGZd3mZyto3Ux2xNEBW.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/8gIU7O3oV6NyWUjlL6ppbpnIZLW.jpg",
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
       "channel_icon": "https://i.imgur.com/SmAq8yM.png",
       "is_rerun": true,
       "reruns": [
         {
-          "channel": "بي إن موفيز بريمير",
+          "channel": "beINMOVIES1",
           "start": "2026-11-16T16:00:00+00:00"
         }
       ]
     },
     {
-      "tmdb_id": 1223601,
-      "title": "Sisu: Road to Revenge",
-      "clean_title": "Sisu: Road to Revenge",
-      "original_title": "Sisu 2",
+      "tmdb_id": null,
+      "title": "Sisu: الطريق إلى الانتقام",
+      "clean_title": "Sisu: الطريق إلى الانتقام",
+      "original_title": null,
       "tagline": null,
       "episode_title": null,
-      "content_type": "movie",
+      "content_type": "program",
       "season": null,
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "تدور أحداث الفيلم حول جندي سابق يعثر على ذهب في براري لابلاند، لكنه يواجه ضابطًا قاسيًا من قوات الأمن الخاصة وجنودًا ألمانًا خلال محاولته نقل الكنز إلى المدينة.",
-      "category": "فيلم",
+      "description": "",
+      "category": "أفلام",
       "genres": [
-        "فيلم",
-        "حركة",
-        "حرب",
-        "إثارة"
+        "أفلام"
       ],
-      "rating": 7.3,
-      "vote_count": 965,
-      "age_rating": "R",
-      "year": "2025",
-      "release_date": "2025-10-21",
-      "status": "Released",
-      "country": "FI",
-      "language": "fi",
-      "director": "جالماري هيلاندير",
-      "cast": [
-        {
-          "name": "Jorma Tommila",
-          "character": "Aatami Korpi",
-          "profile_image": "https://image.tmdb.org/t/p/w185/ll9ZZR4kMnHS8FU2yHx76bnm0P.jpg"
-        },
-        {
-          "name": "Stephen Lang",
-          "character": "Yeagor Dragunov",
-          "profile_image": "https://image.tmdb.org/t/p/w185/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
-        },
-        {
-          "name": "ريتشارد بريك",
-          "character": "KGB Officer",
-          "profile_image": "https://image.tmdb.org/t/p/w185/JwsiErANShzPSdYsNoiNYdrSg1.jpg"
-        },
-        {
-          "name": "Tommi Korpela",
-          "character": "Finnish Man",
-          "profile_image": "https://image.tmdb.org/t/p/w185/8RdCWktYZl0xF7SLZdRUKAoV7Ta.jpg"
-        },
-        {
-          "name": "Kaspar Velberg",
-          "character": "Pilot",
-          "profile_image": "https://image.tmdb.org/t/p/w185/mYlQdQWoNdk7QdrqNqATNA7ZOWH.jpg"
-        },
-        {
-          "name": "Pääru Oja",
-          "character": "Militsioner",
-          "profile_image": "https://image.tmdb.org/t/p/w185/yKNm7jeaOSCGqv5Dc5lnrtzSrAC.jpg"
-        }
-      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
       "trailer_url": null,
       "start": "2026-11-17T12:45:00+00:00",
       "stop": "2026-11-17T14:15:00+00:00",
       "duration_minutes": 90,
       "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/qAekCwa6dktUq5wIvwxjt3Q4AGd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/dblYnDLvHAjTcjpYgWUEZyNYbqP.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/qAekCwa6dktUq5wIvwxjt3Q4AGd.jpg",
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
       "channel_icon": "https://i.imgur.com/SmAq8yM.png",
       "is_rerun": true,
       "reruns": [
         {
-          "channel": "بي إن موفيز بريمير",
+          "channel": "beINMOVIES1",
           "start": "2026-11-16T19:45:00+00:00"
         }
       ]
     },
     {
       "tmdb_id": 1175942,
-      "title": "The Bad Guys 2",
-      "clean_title": "The Bad Guy",
+      "title": "الأشرار 2",
+      "clean_title": "الأشرار 2",
       "original_title": "The Bad Guys 2",
       "tagline": null,
       "episode_title": null,
       "content_type": "animation",
-      "season": 2,
+      "season": null,
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "بينما يمضي الأشرار قدمًا بحثًا عن القبول والمحبة في حياتهم الجديدة كأشخاص طيبين، تظهر ظروف جديدة تجبرهم على القيام بمهمة أخيرة في عالم الجريمة.",
-      "category": "فيلم - رسوم متحركة",
+      "description": "يحاول الأشرار السابقون الذين أصبحوا صالحين الآن (بجهدٍ بالغ، بالغٍ جدًا) أن يكونوا طيبين، لكنهم يجدون أنفسهم فجأة متورطين في عملية سرقة عالمية محفوفة بالمخاطر، خططت لها ببراعة عصابة جديدة من المجرمات لم يتوقعوا ظهورها قط: الفتيات الشريرات.",
+      "category": "أفلام",
       "genres": [
-        "فيلم - رسوم متحركة",
+        "أفلام",
         "عائلي",
         "كوميديا",
         "جريمة",
@@ -1060,102 +1251,75 @@
       "is_rerun": true,
       "reruns": [
         {
-          "channel": "بي إن موفيز بريمير",
+          "channel": "beINMOVIES1",
           "start": "2026-11-16T18:00:00+00:00"
         },
         {
-          "channel": "بي إن موفيز بريمير",
+          "channel": "beINMOVIES1",
           "start": "2026-11-17T08:59:00+00:00"
         }
       ]
     },
     {
-      "tmdb_id": 1086497,
-      "title": "The Penguin Lessons",
-      "clean_title": "The Penguin Lessons",
-      "original_title": "The Penguin Lessons",
+      "tmdb_id": null,
+      "title": "دروس البطريق",
+      "clean_title": "دروس البطريق",
+      "original_title": null,
       "tagline": null,
       "episode_title": null,
-      "content_type": "movie",
+      "content_type": "program",
       "season": null,
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "تتبدل حياة الرجل الإنجليزي (توم ميشيل) بعد قراره بتبني بطريق ورعايته، فيمر بالعديد من التطورات في حياته الشخصية والسياسية خلال فترة حرجة بتاريخ الأرجنتين.",
-      "category": "فيلم",
+      "description": "",
+      "category": "أفلام",
       "genres": [
-        "فيلم",
-        "دراما"
+        "أفلام"
       ],
-      "rating": 7.1,
-      "vote_count": 186,
-      "age_rating": "PG-13",
-      "year": "2025",
-      "release_date": "2025-03-27",
-      "status": "Released",
-      "country": "المملكة المتحدة",
-      "language": "الإنجليزية",
-      "director": "Peter Cattaneo",
-      "cast": [
-        {
-          "name": "ستيف كوجان",
-          "character": "Tom Michell",
-          "profile_image": "https://image.tmdb.org/t/p/w185/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg"
-        },
-        {
-          "name": "Jonathan Pryce",
-          "character": "Headmaster Buckle",
-          "profile_image": "https://image.tmdb.org/t/p/w185/3nQ01F9WPNPzzLblY7XyaihT9JT.jpg"
-        },
-        {
-          "name": "Vivian El Jaber",
-          "character": "Maria",
-          "profile_image": "https://image.tmdb.org/t/p/w185/nihBrNgC8HluV6NqRvp3ssbXytB.jpg"
-        },
-        {
-          "name": "Björn Gustafsson",
-          "character": "Tapio",
-          "profile_image": "https://image.tmdb.org/t/p/w185/70iVhIfiswXAHDqKWMhSSFAIkhH.jpg"
-        },
-        {
-          "name": "Alfonsina Carrocio",
-          "character": "Sofia",
-          "profile_image": "https://image.tmdb.org/t/p/w185/btQzRpByqEKTqjcMeqpTAHjAhxd.jpg"
-        },
-        {
-          "name": "David Herrero",
-          "character": "Diego",
-          "profile_image": "https://image.tmdb.org/t/p/w185/x9Excv1HsMBNMcyAt2UR5pRcd4b.jpg"
-        }
-      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
       "trailer_url": null,
       "start": "2026-11-17T16:00:00+00:00",
       "stop": "2026-11-17T18:00:00+00:00",
       "duration_minutes": 120,
       "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/pJUfkCcU5mCEMF8O0LKvlMnYAfD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/bNTUgxHYaDmLo1SfRtahcM16XMi.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/pJUfkCcU5mCEMF8O0LKvlMnYAfD.jpg",
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
       "channel_icon": "https://i.imgur.com/SmAq8yM.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-18T09:59:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
-      "title": "Den of Thieves 2: Pantera",
-      "clean_title": "Den of Thieve: Pantera",
+      "title": "دن أوف ثيفز: بانتيرا",
+      "clean_title": "دن أوف ثيفز: بانتيرا",
       "original_title": null,
       "tagline": null,
       "episode_title": null,
-      "content_type": "series",
-      "season": 2,
+      "content_type": "program",
+      "season": null,
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "يعود (بيك نيك) إلى العمل من جديد في أوروبا ويتقرب من (دوني) المتورط بعالم لصوص الألماس، حيث يخططان لسرقة أكبر بورصة للماس في العالم، ولكن في طريقهما يصطدمان بمافيا بانثيرا شديدة الخطورة.",
-      "category": "فيلم",
+      "description": "",
+      "category": "أفلام",
       "genres": [
-        "فيلم"
+        "أفلام"
       ],
       "rating": null,
       "vote_count": null,
@@ -1177,86 +1341,105 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/SmAq8yM.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-18T07:44:00+00:00"
+        },
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-18T13:45:00+00:00"
+        }
+      ]
     },
     {
-      "tmdb_id": 944194,
-      "title": "The Great Escaper",
-      "clean_title": "The Great Escaper",
-      "original_title": "The Great Escaper",
+      "tmdb_id": null,
+      "title": "الهارب العظيم",
+      "clean_title": "الهارب العظيم",
+      "original_title": null,
       "tagline": null,
       "episode_title": null,
-      "content_type": "movie",
+      "content_type": "program",
       "season": null,
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "في إطار من الدراما، يهرب بيرنارد جوردان من منزل لرعاية المسنين؛ في سبيل حضور احتفالات الذكرى الـ70 لغزو نورمندي في فرنسا.",
-      "category": "فيلم",
+      "description": "",
+      "category": "أفلام",
       "genres": [
-        "فيلم",
-        "تاريخ",
-        "دراما",
-        "حرب"
+        "أفلام"
       ],
-      "rating": 6.7,
-      "vote_count": 186,
-      "age_rating": "12A",
-      "year": "2023",
-      "release_date": "2023-10-06",
-      "status": "Released",
-      "country": "المملكة المتحدة",
-      "language": "الإنجليزية",
-      "director": "Oliver Parker",
-      "cast": [
-        {
-          "name": "مايكل كين",
-          "character": "Bernard Jordan",
-          "profile_image": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
-        },
-        {
-          "name": "Glenda Jackson",
-          "character": "Irene Jordan",
-          "profile_image": "https://image.tmdb.org/t/p/w185/hRkDjkUKuZEJQOkjPPNQEsxsGRi.jpg"
-        },
-        {
-          "name": "John Standing",
-          "character": "Arthur",
-          "profile_image": "https://image.tmdb.org/t/p/w185/hQpTeZDljWR2F9n1PcL7sXilwCE.jpg"
-        },
-        {
-          "name": "Will Fletcher",
-          "character": "Young Bernard",
-          "profile_image": "https://image.tmdb.org/t/p/w185/muaodyITSCIODVh3xZvTd4OFy4x.jpg"
-        },
-        {
-          "name": "Laura Marcus",
-          "character": "Young Irene",
-          "profile_image": "https://image.tmdb.org/t/p/w185/qOb3RDJCMeGVc9aVfLNgTD5RTMw.jpg"
-        },
-        {
-          "name": "Victor Oshin",
-          "character": "Scott",
-          "profile_image": "https://image.tmdb.org/t/p/w185/4qjtPdj8WKaJJS8ooG3UkKB1ClH.jpg"
-        }
-      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
       "trailer_url": null,
       "start": "2026-11-17T20:15:00+00:00",
       "stop": "2026-11-17T22:00:00+00:00",
       "duration_minutes": 105,
       "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/50rOFWgFUsCw3zfwSKXcdglh3Ji.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/dcGf6amsVeJ2oT75GhpeqavCWO8.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/50rOFWgFUsCw3zfwSKXcdglh3Ji.jpg",
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-18T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "عدالة الجدة",
+      "clean_title": "عدالة الجدة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:00:00+00:00",
+      "stop": "2026-11-17T23:44:00+00:00",
+      "duration_minutes": 104,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
       "channel_icon": "https://i.imgur.com/SmAq8yM.png",
       "is_rerun": false,
       "reruns": []
     },
     {
-      "tmdb_id": 853387,
-      "title": "Lord of Misrule",
-      "clean_title": "Lord of Misrule",
-      "original_title": "Lord of Misrule",
+      "tmdb_id": 1272837,
+      "title": "بعد 28 عامًا: معبد العظام",
+      "clean_title": "بعد 28 عامًا: معبد العظام",
+      "original_title": "28 Years Later: The Bone Temple",
       "tagline": null,
       "episode_title": null,
       "content_type": "movie",
@@ -1264,63 +1447,1215 @@
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "في إطار من الرعب، تسعى السلطات لكشف لغز اختفاء ابنة الوزير الجديد في إحدى المدن، ثم يتكشف التاريخ المظلم للمدينة وما يحمله من أسرار عدة، وتتوالى الأحداث.",
-      "category": "فيلم",
+      "description": "يجد \"الدكتور كيلسون\" نفسه في علاقة جديدة وصادمة، لها عواقب قد تغيّر العالم كما يعرفونه. وفي الوقت نفسه، يتحول لقاء \"سبايك\" مع \"جيمي كريستال\" إلى كابوسٍ لا يستطيع الهروب منه.",
+      "category": "أفلام",
       "genres": [
-        "فيلم",
+        "أفلام",
         "رعب",
-        "غموض",
-        "إثارة"
+        "إثارة",
+        "خيال علمي"
       ],
-      "rating": 5.7,
-      "vote_count": 177,
-      "age_rating": "NR",
-      "year": "2023",
-      "release_date": "2023-10-26",
+      "rating": 7.1,
+      "vote_count": 1947,
+      "age_rating": "R",
+      "year": "2026",
+      "release_date": "2026-01-14",
       "status": "Released",
       "country": "المملكة المتحدة",
       "language": "الإنجليزية",
-      "director": "William Brent Bell",
+      "director": "نيا داكوستا",
       "cast": [
         {
-          "name": "توبنس ميدلتون",
-          "character": "Rebecca Holland",
-          "profile_image": "https://image.tmdb.org/t/p/w185/rYmvH8IqHU1JzGw2FeggoY6QJdI.jpg"
+          "name": "رالف فاينس",
+          "character": "Dr. Kelson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
         },
         {
-          "name": "Jane Wood",
-          "character": "Ida Tremlow",
+          "name": "Alfie Williams",
+          "character": "Spike",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3F46vn64Ya20rwtvTFVnqAK2LuI.jpg"
+        },
+        {
+          "name": "جاك أوكونيل",
+          "character": "Sir Jimmy Crystal",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tCzR4clrIkbkijuJBYsNoEuwRDa.jpg"
+        },
+        {
+          "name": "Erin Kellyman",
+          "character": "Jimmy Ink",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ngTdJIcwZ9YsyvXIR5PUzv9plwV.jpg"
+        },
+        {
+          "name": "Chi Lewis-Parry",
+          "character": "Samson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jAMu6BW9lDBVkawwB7VIi8CLai5.jpg"
+        },
+        {
+          "name": "Connor Newall",
+          "character": "Jimmy Shite",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tH5BfF7KwpfME997B0pZ57Bfi6h.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=nJTR10c0u0s",
+      "start": "2026-11-17T23:44:00+00:00",
+      "stop": "2026-11-18T01:31:00+00:00",
+      "duration_minutes": 107,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "يوم النزال",
+      "clean_title": "يوم النزال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T01:31:00+00:00",
+      "stop": "2026-11-18T03:15:00+00:00",
+      "duration_minutes": 104,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-17T06:59:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 739080,
+      "title": "أصدقاء للأبد",
+      "clean_title": "أصدقاء للأبد",
+      "original_title": "أصدقاء للأبد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام",
+        "رسوم متحركة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": "2020-09-02",
+      "status": "Released",
+      "country": "السعودية",
+      "language": "xx",
+      "director": "Mariam Khayat",
+      "cast": [
+        {
+          "name": "David Amberg",
+          "character": "Anxiety (Voice)",
           "profile_image": null
         },
         {
-          "name": "Evie Templeton",
-          "character": "Grace Holland",
-          "profile_image": "https://image.tmdb.org/t/p/w185/1JV3FEULVnROl4APfkUprqTrFF6.jpg"
+          "name": "Empress Christian",
+          "character": "Person (Voice)",
+          "profile_image": null
         },
         {
-          "name": "Matt Stokoe",
-          "character": "Henry Holland",
-          "profile_image": "https://image.tmdb.org/t/p/w185/3DduVhDjIZIgLx9E9VwICeFmHNh.jpg"
+          "name": "Jenna Clear",
+          "character": "Anxiety (Voice)",
+          "profile_image": null
         },
         {
-          "name": "George Keeler",
-          "character": "Dave Garfoot",
-          "profile_image": "https://image.tmdb.org/t/p/w185/vx3WtslktYjjLXMzLD8qdwU8vFw.jpg"
+          "name": "Zilai Feng",
+          "character": "Anxiety (Voice)",
+          "profile_image": null
         },
         {
-          "name": "Sally Plumb",
-          "character": "Marjorie Garfoot",
-          "profile_image": "https://image.tmdb.org/t/p/w185/fpQpBmN187RBnDq9I45BeX9WN81.jpg"
+          "name": "Mariam Khayat",
+          "character": "Anxiety (Voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bVfAO7fMFdVufsyStjZhPqhaRIK.jpg"
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T22:59:00+00:00",
-      "stop": "2026-11-18T00:59:00+00:00",
+      "start": "2026-11-18T03:15:00+00:00",
+      "stop": "2026-11-18T04:29:00+00:00",
+      "duration_minutes": 74,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/gc5wAjmFFyEoGql1nD19r2FeSnC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/lJhYIoShtjRtbcA1hs9t8wdsDSM.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/gc5wAjmFFyEoGql1nD19r2FeSnC.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-16T03:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "المنزل آمن!",
+      "clean_title": "المنزل آمن!",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T04:29:00+00:00",
+      "stop": "2026-11-18T05:59:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أولاد ناس",
+      "clean_title": "أولاد ناس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T05:59:00+00:00",
+      "stop": "2026-11-18T07:44:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-19T01:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دن أوف ثيفز: بانتيرا",
+      "clean_title": "دن أوف ثيفز: بانتيرا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T07:44:00+00:00",
+      "stop": "2026-11-18T09:59:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-18T13:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دروس البطريق",
+      "clean_title": "دروس البطريق",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T09:59:00+00:00",
+      "stop": "2026-11-18T12:00:00+00:00",
+      "duration_minutes": 121,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "الهارب العظيم",
+      "clean_title": "الهارب العظيم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T12:00:00+00:00",
+      "stop": "2026-11-18T13:45:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-17T20:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دن أوف ثيفز: بانتيرا",
+      "clean_title": "دن أوف ثيفز: بانتيرا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T13:45:00+00:00",
+      "stop": "2026-11-18T16:00:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-18T07:44:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أستطيع فقط أن أتخيل 2",
+      "clean_title": "أستطيع فقط أن أتخيل 2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T16:00:00+00:00",
+      "stop": "2026-11-18T17:59:00+00:00",
+      "duration_minutes": 119,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-19T09:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مهمة مستحيلة – الحساب النهائي",
+      "clean_title": "مهمة مستحيلة – الحساب النهائي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T17:59:00+00:00",
+      "stop": "2026-11-18T20:44:00+00:00",
+      "duration_minutes": 165,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-19T07:00:00+00:00"
+        },
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-19T13:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 34891,
+      "title": "الأحلام",
+      "clean_title": "الأحلام",
+      "original_title": "Jake and the Never Land Pirates",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 4,
+      "episodes_count": 214,
+      "description": "يخوض جايك وصديقاه إيزي وكابي مغامرات في أرض الأحلام، ويتعاونون للتغلب على حيل الكابتن هوك ومساعده سمي.",
+      "category": "أفلام",
+      "genres": [
+        "أفلام",
+        "رسوم متحركة",
+        "حركة ومغامرة",
+        "أطفال"
+      ],
+      "rating": 6.2,
+      "vote_count": 68,
+      "age_rating": "TV-Y",
+      "year": "2011",
+      "release_date": "2011-02-14",
+      "status": "Canceled",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "David Arquette",
+          "character": "Skully (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/74wJjoywG7zCrNMWbRxwoyOj7Ub.jpg"
+        },
+        {
+          "name": "جيف بينيت",
+          "character": "Mr. Smee (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+        },
+        {
+          "name": "Corey Burton",
+          "character": "Captain Hook (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg"
+        },
+        {
+          "name": "Gabe Eggerling",
+          "character": "Captain Jake (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tPJj93cW9Wp9axYNoNz7yGzZjM9.jpg"
+        },
+        {
+          "name": "Megan Richie",
+          "character": "Izzy (voice)",
+          "profile_image": null
+        },
+        {
+          "name": "Jadon Sand",
+          "character": "Cubby (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4qS3TmuPBuzuEVKtgFCFxW9c1u4.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T20:44:00+00:00",
+      "stop": "2026-11-18T22:30:00+00:00",
+      "duration_minutes": 106,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/uet64gptwR7iDGc0laIRmYNtNH0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vV1EQ1zLuZ5yPL7LaBqPayVsggC.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/uet64gptwR7iDGc0laIRmYNtNH0.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-19T11:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1480387,
+      "title": "نبرة خفية",
+      "clean_title": "نبرة خفية",
+      "original_title": "undertone",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تبدأ مقدمة بودكاست شهير عن الظواهر الخارقة في تلقي تسجيلات صوتية غامضة مرعبة، لتجد نفسها مطاردة بما تحمله هذه التسجيلات.",
+      "category": "أفلام",
+      "genres": [
+        "أفلام",
+        "رعب",
+        "غموض"
+      ],
+      "rating": 6,
+      "vote_count": 755,
+      "age_rating": "R",
+      "year": "2026",
+      "release_date": "2026-03-12",
+      "status": "Released",
+      "country": "كندا",
+      "language": "الإنجليزية",
+      "director": "Ian Tuason",
+      "cast": [
+        {
+          "name": "نينا كيري",
+          "character": "Evy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hCELEsasRGhIsS7oRfdhfK3d1Jc.jpg"
+        },
+        {
+          "name": "Adam DiMarco",
+          "character": "Justin (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg"
+        },
+        {
+          "name": "Michèle Duquet",
+          "character": "Mama",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pZh47lOJ93xGk6UqoP7ZedWhXZ5.jpg"
+        },
+        {
+          "name": "Keana Bastidas",
+          "character": "Jessa (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/AsUDRsVmH3VHBU4w9Rgm5XX7N2B.jpg"
+        },
+        {
+          "name": "Jeff Yung",
+          "character": "Mike (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9iZFECLtqhoNiXfzWYwbDz9o7Ux.jpg"
+        },
+        {
+          "name": "Ryan Turner",
+          "character": "Darren (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kKF1IrBLBeoJITA5trCWxWKZ7DV.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T22:30:00+00:00",
+      "stop": "2026-11-19T00:15:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/uN2O7iNIH06TaAt8jaOJpJ3Bzrm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4BSJVRQ3EsHMIVZSiKz1l58jDhg.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/uN2O7iNIH06TaAt8jaOJpJ3Bzrm.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "جزيرة القرش",
+      "clean_title": "جزيرة القرش",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T00:15:00+00:00",
+      "stop": "2026-11-19T01:45:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أولاد ناس",
+      "clean_title": "أولاد ناس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T01:45:00+00:00",
+      "stop": "2026-11-19T03:30:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-18T05:59:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سنة الفراغ",
+      "clean_title": "سنة الفراغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T03:30:00+00:00",
+      "stop": "2026-11-19T05:15:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "المسافرون",
+      "clean_title": "المسافرون",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T05:15:00+00:00",
+      "stop": "2026-11-19T07:00:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "مهمة مستحيلة – الحساب النهائي",
+      "clean_title": "مهمة مستحيلة – الحساب النهائي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T07:00:00+00:00",
+      "stop": "2026-11-19T09:45:00+00:00",
+      "duration_minutes": 165,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-18T17:59:00+00:00"
+        },
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-19T13:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أستطيع فقط أن أتخيل 2",
+      "clean_title": "أستطيع فقط أن أتخيل 2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T09:45:00+00:00",
+      "stop": "2026-11-19T11:45:00+00:00",
       "duration_minutes": 120,
       "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/3cxMwPuV5BroI91DZLGdio6WB34.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/8mnswbAAq9kvkUpzcbTfSrt1DpN.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/3cxMwPuV5BroI91DZLGdio6WB34.jpg",
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-18T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 34891,
+      "title": "الأحلام",
+      "clean_title": "الأحلام",
+      "original_title": "Jake and the Never Land Pirates",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 4,
+      "episodes_count": 214,
+      "description": "يخوض جايك وصديقاه إيزي وكابي مغامرات في أرض الأحلام، ويتعاونون للتغلب على حيل الكابتن هوك ومساعده سمي.",
+      "category": "أفلام",
+      "genres": [
+        "أفلام",
+        "رسوم متحركة",
+        "حركة ومغامرة",
+        "أطفال"
+      ],
+      "rating": 6.2,
+      "vote_count": 68,
+      "age_rating": "TV-Y",
+      "year": "2011",
+      "release_date": "2011-02-14",
+      "status": "Canceled",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": null,
+      "cast": [
+        {
+          "name": "David Arquette",
+          "character": "Skully (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/74wJjoywG7zCrNMWbRxwoyOj7Ub.jpg"
+        },
+        {
+          "name": "جيف بينيت",
+          "character": "Mr. Smee (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+        },
+        {
+          "name": "Corey Burton",
+          "character": "Captain Hook (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg"
+        },
+        {
+          "name": "Gabe Eggerling",
+          "character": "Captain Jake (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tPJj93cW9Wp9axYNoNz7yGzZjM9.jpg"
+        },
+        {
+          "name": "Megan Richie",
+          "character": "Izzy (voice)",
+          "profile_image": null
+        },
+        {
+          "name": "Jadon Sand",
+          "character": "Cubby (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4qS3TmuPBuzuEVKtgFCFxW9c1u4.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-19T11:45:00+00:00",
+      "stop": "2026-11-19T13:30:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/uet64gptwR7iDGc0laIRmYNtNH0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vV1EQ1zLuZ5yPL7LaBqPayVsggC.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/uet64gptwR7iDGc0laIRmYNtNH0.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-18T20:44:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مهمة مستحيلة – الحساب النهائي",
+      "clean_title": "مهمة مستحيلة – الحساب النهائي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T13:30:00+00:00",
+      "stop": "2026-11-19T16:15:00+00:00",
+      "duration_minutes": 165,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-18T17:59:00+00:00"
+        },
+        {
+          "channel": "beINMOVIES1",
+          "start": "2026-11-19T07:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1073079,
+      "title": "ماعز",
+      "clean_title": "ماعز",
+      "original_title": "Kill Her Goats",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تنال شابة بيت أحلامها هدية لتخرجها، لكنه سرعان ما يتحول إلى كابوس حين يحضر حفل افتتاحه ضيوف غير مدعوين لا يخفون رفضهم لمالكته الجديدة.",
+      "category": "أفلام",
+      "genres": [
+        "أفلام",
+        "رعب"
+      ],
+      "rating": 3.4,
+      "vote_count": 35,
+      "age_rating": "NR",
+      "year": "2023",
+      "release_date": "2023-04-28",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Steve Wolsh",
+      "cast": [
+        {
+          "name": "Arielle Raycene",
+          "character": "Audra Bucklebee",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nhCNfUJzAP74KHWc1ZCDnbks8w8.jpg"
+        },
+        {
+          "name": "Ellie Gonsalves",
+          "character": "Missy Becks",
+          "profile_image": "https://image.tmdb.org/t/p/w185/g7MFtBgdHohaZao9wpM4DNBt94o.jpg"
+        },
+        {
+          "name": "Kane Hodder",
+          "character": "Goatface",
+          "profile_image": "https://image.tmdb.org/t/p/w185/avMGd9rA2ys1pJok1EGOa46MEQX.jpg"
+        },
+        {
+          "name": "Danielle Mathers",
+          "character": "Haley Bucklebee-Saint",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xUBg2o9I2qYYXoPkmHERBkXGXVt.jpg"
+        },
+        {
+          "name": "Monica Sims",
+          "character": "Reese Knox",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1LX09bCuGVcw9JrDEPkkkLRdNiv.jpg"
+        },
+        {
+          "name": "Amberleigh West",
+          "character": "Autumn Applebaum",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rvf5z0kw8TuAWaF7UYJ27yB3Ckn.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-19T16:15:00+00:00",
+      "stop": "2026-11-19T18:00:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/oHVuaIHBX0dqqBUbvYyHgkhyCr8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xBaHa7k0cHxJTBocooyGSO8N29A.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/oHVuaIHBX0dqqBUbvYyHgkhyCr8.jpg",
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "الشريحة القاتلة",
+      "clean_title": "الشريحة القاتلة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T18:00:00+00:00",
+      "stop": "2026-11-19T20:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/SmAq8yM.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "الجشعون",
+      "clean_title": "الجشعون",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "أفلام",
+      "genres": [
+        "أفلام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T20:00:00+00:00",
+      "stop": "2026-11-19T20:00:00+00:00",
+      "duration_minutes": null,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
       "channel_icon": "https://i.imgur.com/SmAq8yM.png",
       "is_rerun": false,
       "reruns": []

@@ -2,6 +2,7 @@
   "channel_id": "Baraem.qa@SD",
   "channel_name": "BaraemTV",
   "channel_icon": "https://i.imgur.com/7woV4Cz.png",
+  "days_count": 7,
   "programs": [
     {
       "tmdb_id": 79950,

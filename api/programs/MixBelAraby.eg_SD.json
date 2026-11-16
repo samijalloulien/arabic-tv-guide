@@ -2,286 +2,8 @@
   "channel_id": "MixBelAraby.eg@SD",
   "channel_name": "ميكس بالعربي",
   "channel_icon": "https://i.imgur.com/KucgM9c.png",
+  "days_count": 7,
   "programs": [
-    {
-      "tmdb_id": 80411,
-      "title": "Erkenci Kus",
-      "clean_title": "Erkenci Kus",
-      "original_title": "Erkenci Kuş",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 51,
-      "description": "سينام شابة طموحة ونشيطة، عندما سمعت من أختها أن الجريدة التي تعمل فيها أختها بحاجة إلى موظفين جدد، فتدخل سينام الشركة وتعمل فيها، وتبدأ العديد من الأحداث في الوقوع.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل",
-        "دراما",
-        "كوميديا",
-        "أوبرا صابونية"
-      ],
-      "rating": 8.2,
-      "vote_count": 119,
-      "age_rating": null,
-      "year": "2018",
-      "release_date": "2018-06-26",
-      "status": "Ended",
-      "country": "تركيا",
-      "language": "التركية",
-      "director": null,
-      "cast": [
-        {
-          "name": "Demet Özdemir",
-          "character": "Sanem Aydın",
-          "profile_image": "https://image.tmdb.org/t/p/w185/2nOPPPxPjz11N1RcpDXiTiyDYv2.jpg"
-        },
-        {
-          "name": "Can Yaman",
-          "character": "Can Divit",
-          "profile_image": "https://image.tmdb.org/t/p/w185/qjDCqpngema0dqF1DDEbOKrXC1Z.jpg"
-        },
-        {
-          "name": "Birand Tunca",
-          "character": "Emre Divit",
-          "profile_image": "https://image.tmdb.org/t/p/w185/uRTNsnpW54W3VggQp6BJw0Ub4aF.jpg"
-        },
-        {
-          "name": "Öznur Serçeler",
-          "character": "Leyla Aydın",
-          "profile_image": "https://image.tmdb.org/t/p/w185/cW7R6D12Gltl07YdQT8gg5SjRaS.jpg"
-        },
-        {
-          "name": "Ceren Taşçı",
-          "character": "Ayhan Işık",
-          "profile_image": "https://image.tmdb.org/t/p/w185/osj8CastVcLR4F1NLX62HctzIUQ.jpg"
-        },
-        {
-          "name": "Sevcan Yaşar",
-          "character": "Aylin Yüksel",
-          "profile_image": "https://image.tmdb.org/t/p/w185/z2lFS5bf3bEi9Ur6TwAyhhhOx2y.jpg"
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-16T13:00:00+00:00",
-      "stop": "2026-11-16T14:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/63jwFUMWkHeFOldEVfSp3VE0GNn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/uJ3HalVLkaOeH1lvDdrEmeqFxds.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/63jwFUMWkHeFOldEVfSp3VE0GNn.jpg",
-      "channel_icon": "https://i.imgur.com/KucgM9c.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "ميكس بالعربي",
-          "start": "2026-11-16T20:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": null,
-      "title": "الأوراق المتساقطة 3",
-      "clean_title": "الأوراق المتساقطة 3",
-      "original_title": null,
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "تواجه عائلة (تيكين) مشاكل في سداد ديونها، ويتزوج (جيم) و(نكلا) بعد طلاقها. ويعمل (أوغوز) وكيلا عقاريا ويعيش مع (جيدة) وابنها ثم يتزوجها فيما بعد. بينما تضطر عائلة (تيكين) لبيع القصر فيتدخل (أوغوز) في الأمر بدون علمهم وتتوالى الأحداث.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-16T14:00:00+00:00",
-      "stop": "2026-11-16T15:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.imgur.com/KucgM9c.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "ميكس بالعربي",
-          "start": "2026-11-16T21:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 196642,
-      "title": "انحراف",
-      "clean_title": "انحراف",
-      "original_title": "انحراف",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 30,
-      "description": "المسلسل مأخوذ عن أحداث حقيقية، تدور فى دراما تشويقية مليئة بالغموض، حول انحراف عدد من الشخصيات عن الطبيعة البشرية؛ يصطدمون بطبيبة نفسية وتقرر تعديل المسار بطريقتها الخاصة.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل",
-        "دراما"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": "2022",
-      "release_date": "2022-04-01",
-      "status": "Returning Series",
-      "country": "مصر",
-      "language": "العربية",
-      "director": null,
-      "cast": [
-        {
-          "name": "رانيا محمود ياسين",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/rBGpHezpA9VhD9zQeJNyIybE3oc.jpg"
-        },
-        {
-          "name": "روجينا",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/jx9SoUGkMlDwLtTkYQGkZuv6jTF.jpg"
-        },
-        {
-          "name": "محمد كيلاني",
-          "character": null,
-          "profile_image": null
-        },
-        {
-          "name": "سميحة أيوب",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/v9UWzWFkewvX4ZRnYI7bXy0kII3.jpg"
-        },
-        {
-          "name": "لوسي",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/4gZYaAgpboBClhx76zz9q1UcED4.jpg"
-        },
-        {
-          "name": "أحمد فؤاد سليم",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/q1NbI2PzKHoF1AxCHgMju9we4qP.jpg"
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-16T15:00:00+00:00",
-      "stop": "2026-11-16T16:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/gVIVNKzbzX7tNHptBmdvZk1EV7F.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/li15r5AfBabYWjlMCknQSG5QsXG.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/gVIVNKzbzX7tNHptBmdvZk1EV7F.jpg",
-      "channel_icon": "https://i.imgur.com/KucgM9c.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "صدى البلد دراما",
-          "start": "2026-11-16T12:00:00+00:00"
-        },
-        {
-          "channel": "صدى البلد دراما",
-          "start": "2026-11-16T19:00:00+00:00"
-        },
-        {
-          "channel": "دجلة",
-          "start": "2026-11-17T02:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 52645,
-      "title": "Forbidden Apple S6",
-      "clean_title": "Forbidden Apple",
-      "original_title": "Yasak Elma",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": 6,
-      "episode": null,
-      "seasons_count": 6,
-      "episodes_count": 177,
-      "description": "في الموسم السادس، تُهدد وعود (دوغان) بالانتقام استقرار حياة (يلدز) الهادئة، ثم يبدأ (دوغان) التخطيط من أجل استعادة حضانة ابنته، لكن يُصبح الوضع أكثر تعقيدًا عندما تحدث وفاة غير متوقعة لأحدهم.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل",
-        "عائلي",
-        "دراما",
-        "كوميديا"
-      ],
-      "rating": 6.9,
-      "vote_count": 23,
-      "age_rating": null,
-      "year": "2018",
-      "release_date": "2018-03-19",
-      "status": "Ended",
-      "country": "تركيا",
-      "language": "التركية",
-      "director": "Melis Civelek",
-      "cast": [
-        {
-          "name": "Şevval Sam",
-          "character": "Ender Çelebi",
-          "profile_image": "https://image.tmdb.org/t/p/w185/vIvqB62VSsDCOKEPcWX1tPdQzrE.jpg"
-        },
-        {
-          "name": "Eda Ece",
-          "character": "Yıldız Yılmaz",
-          "profile_image": "https://image.tmdb.org/t/p/w185/14W0FDshCBbZc8Yem9kzC0CRw6k.jpg"
-        },
-        {
-          "name": "Sevda Erginci",
-          "character": "Zeynep Yılmaz",
-          "profile_image": "https://image.tmdb.org/t/p/w185/3oqgQaImYXKJJkUJeHi97Ug9IKR.jpg"
-        },
-        {
-          "name": "Barış Aytaç",
-          "character": "Caner Çelebi",
-          "profile_image": "https://image.tmdb.org/t/p/w185/7WarTzIyl4o6gDMPNi27Un9gs5e.jpg"
-        },
-        {
-          "name": "Vildan Vatansever",
-          "character": "Aysel Rüstem",
-          "profile_image": "https://image.tmdb.org/t/p/w185/6ftUiSIezQz0Kq62GFoYllHco2Z.jpg"
-        },
-        {
-          "name": "Bekir Aksoy",
-          "character": "Engin Kılıç",
-          "profile_image": "https://image.tmdb.org/t/p/w185/lWoaukXUv6kbEngUFDThmG9EwZb.jpg"
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-16T16:00:00+00:00",
-      "stop": "2026-11-16T17:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/aloYtdx49FeeF2YTbGwo2J3OUr9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5i6HPy9lzfVnqQYNNz9LyqyaID1.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/aloYtdx49FeeF2YTbGwo2J3OUr9.jpg",
-      "channel_icon": "https://i.imgur.com/KucgM9c.png",
-      "is_rerun": false,
-      "reruns": []
-    },
     {
       "tmdb_id": 127588,
       "title": "Love, Reason, Get Even",
@@ -342,8 +64,8 @@
         }
       ],
       "trailer_url": "https://www.youtube.com/watch?v=W7gwtJhyygw",
-      "start": "2026-11-16T17:00:00+00:00",
-      "stop": "2026-11-16T18:00:00+00:00",
+      "start": "2026-11-16T12:00:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/c2grdommBcs6a0SsSYqMBY0q5p2.jpg",
@@ -413,8 +135,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-16T18:00:00+00:00",
-      "stop": "2026-11-16T19:00:00+00:00",
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/vjI4WdHda9ckCo5YIYVhc8rl6SR.jpg",
@@ -463,8 +185,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-16T19:00:00+00:00",
-      "stop": "2026-11-16T20:00:00+00:00",
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/cgZgekLxzLimqku1y1DMD2ygsoC.jpg",
@@ -536,21 +258,16 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-16T20:00:00+00:00",
-      "stop": "2026-11-16T21:00:00+00:00",
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/63jwFUMWkHeFOldEVfSp3VE0GNn.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w780/uJ3HalVLkaOeH1lvDdrEmeqFxds.jpg",
       "icon": "https://image.tmdb.org/t/p/w500/63jwFUMWkHeFOldEVfSp3VE0GNn.jpg",
       "channel_icon": "https://i.imgur.com/KucgM9c.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "ميكس بالعربي",
-          "start": "2026-11-16T13:00:00+00:00"
-        }
-      ]
+      "is_rerun": false,
+      "reruns": []
     },
     {
       "tmdb_id": null,
@@ -580,21 +297,16 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-16T21:00:00+00:00",
-      "stop": "2026-11-16T22:00:00+00:00",
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
       "backdrop": null,
       "icon": null,
       "channel_icon": "https://i.imgur.com/KucgM9c.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "ميكس بالعربي",
-          "start": "2026-11-16T14:00:00+00:00"
-        }
-      ]
+      "is_rerun": false,
+      "reruns": []
     }
   ]
 }

@@ -1,0 +1,2787 @@
+{
+  "channel_id": "beINSportsMax6.qa@MENA",
+  "channel_name": "beINSPORTSMAX6",
+  "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+  "days_count": 7,
+  "programs": [
+    {
+      "tmdb_id": 1653987,
+      "title": "تواصل",
+      "clean_title": "تواصل",
+      "original_title": "Kontakt",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "رسوم متحركة",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-05-05",
+      "status": "Released",
+      "country": "CZ",
+      "language": "الإنجليزية",
+      "director": "Anna Belova",
+      "cast": [
+        {
+          "name": "Justine Castillo",
+          "character": "Grandmother (voice)",
+          "profile_image": null
+        },
+        {
+          "name": "Evdokia Adonina",
+          "character": "Little girl (voice)",
+          "profile_image": null
+        },
+        {
+          "name": "Mariale Carranza",
+          "character": "Adult girl (voice)",
+          "profile_image": null
+        },
+        {
+          "name": "Pedro Gramegna Ardiles",
+          "character": "Father (voice)",
+          "profile_image": null
+        },
+        {
+          "name": "Ludmila Krasnikova",
+          "character": "Person in the thermopassage",
+          "profile_image": null
+        },
+        {
+          "name": "Anastasiia Trokhymenko",
+          "character": "Person in the thermopassage",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-15T20:30:00+00:00",
+      "stop": "2026-11-16T01:30:00+00:00",
+      "duration_minutes": 300,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ld8uykRezpmVST6tqTqEfTblCz1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vgGFlr0gAEK7ZnOul8rIIxRzNQw.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ld8uykRezpmVST6tqTqEfTblCz1.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T20:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا فوتبول ريفيو",
+      "clean_title": "ذا فوتبول ريفيو",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يبقيك هذا البرنامج على اطلاع دائم على أهم النتائج والتطورات في جميع البطولات الأوروبية والدولية لكرة القدم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T01:30:00+00:00",
+      "stop": "2026-11-16T02:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-18T15:30:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-19T19:30:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-19T22:30:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-20T05:30:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-20T16:00:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-21T09:30:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-21T15:30:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-21T21:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سبورت كونفدينشيال",
+      "clean_title": "سبورت كونفدينشيال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T02:00:00+00:00",
+      "stop": "2026-11-16T02:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T02:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فيبا وورلد باسكت بول",
+      "clean_title": "فيبا وورلد باسكت بول",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T02:30:00+00:00",
+      "stop": "2026-11-16T03:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T02:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 581032,
+      "title": "أخبار",
+      "clean_title": "أخبار",
+      "original_title": "News of the World",
+      "tagline": "ابحث عن المكان الذي تنتمي إليه.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "رجل من تكساس يجوب الغرب المتوحش ليقرأ أخبار العالم على سكان البلدات، يوافق على المساعدة في إنقاذ فتاة صغيرة اختُطفت.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما",
+        "غربي"
+      ],
+      "rating": 6.9,
+      "vote_count": 2028,
+      "age_rating": "PG-13",
+      "year": "2020",
+      "release_date": "2020-12-25",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "بول غرينغراس",
+      "cast": [
+        {
+          "name": "توم هانكس",
+          "character": "Captain Jefferson Kyle Kidd",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        },
+        {
+          "name": "هيلينا زينجل",
+          "character": "Johanna Leonberger",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6ousX9QcimaM2tuaeBcqYEfBjKG.jpg"
+        },
+        {
+          "name": "Michael Angelo Covino",
+          "character": "Almay",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ec4mvQq61xky55vzGgvEiwUXMpF.jpg"
+        },
+        {
+          "name": "Ray McKinnon",
+          "character": "Simon Boudlin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nZSmJVTSq2eEcE4FeEoKVNYUGM9.jpg"
+        },
+        {
+          "name": "ماري ويننغهام",
+          "character": "Doris Boudlin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pl4Cq1uCs8ajVxZkJ7Qd4XjD2P2.jpg"
+        },
+        {
+          "name": "إليزابيث مارفيل",
+          "character": "Mrs. Gannett",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zJaDO2YI0XHeUDB5onVSgAVrvg2.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T03:00:00+00:00",
+      "stop": "2026-11-16T03:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oyBZyY5GdzZdofVVsDda49QmvFP.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "بطولة قطر المحلية لجمال الخيل العربية الأصيلة",
+      "clean_title": "بطولة قطر المحلية لجمال الخيل العربية الأصيلة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T03:30:00+00:00",
+      "stop": "2026-11-16T06:15:00+00:00",
+      "duration_minutes": 165,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T03:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سباق الخيل",
+      "clean_title": "سباق الخيل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتنافس الفرسان في سباق خيول مخصص للخيول العربية الأصيلة.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T06:15:00+00:00",
+      "stop": "2026-11-16T08:30:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "Bahrain TV",
+          "start": "2026-11-20T12:30:00+00:00"
+        },
+        {
+          "channel": "Bahrain TV",
+          "start": "2026-11-20T15:09:00+00:00"
+        },
+        {
+          "channel": "Bahrain TV",
+          "start": "2026-11-20T16:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مارين ماجازين",
+      "clean_title": "مارين ماجازين",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T08:30:00+00:00",
+      "stop": "2026-11-16T09:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 581032,
+      "title": "أخبار",
+      "clean_title": "أخبار",
+      "original_title": "News of the World",
+      "tagline": "ابحث عن المكان الذي تنتمي إليه.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "رجل من تكساس يجوب الغرب المتوحش ليقرأ أخبار العالم على سكان البلدات، يوافق على المساعدة في إنقاذ فتاة صغيرة اختُطفت.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما",
+        "غربي"
+      ],
+      "rating": 6.9,
+      "vote_count": 2028,
+      "age_rating": "PG-13",
+      "year": "2020",
+      "release_date": "2020-12-25",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "بول غرينغراس",
+      "cast": [
+        {
+          "name": "توم هانكس",
+          "character": "Captain Jefferson Kyle Kidd",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        },
+        {
+          "name": "هيلينا زينجل",
+          "character": "Johanna Leonberger",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6ousX9QcimaM2tuaeBcqYEfBjKG.jpg"
+        },
+        {
+          "name": "Michael Angelo Covino",
+          "character": "Almay",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ec4mvQq61xky55vzGgvEiwUXMpF.jpg"
+        },
+        {
+          "name": "Ray McKinnon",
+          "character": "Simon Boudlin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nZSmJVTSq2eEcE4FeEoKVNYUGM9.jpg"
+        },
+        {
+          "name": "ماري ويننغهام",
+          "character": "Doris Boudlin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pl4Cq1uCs8ajVxZkJ7Qd4XjD2P2.jpg"
+        },
+        {
+          "name": "إليزابيث مارفيل",
+          "character": "Mrs. Gannett",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zJaDO2YI0XHeUDB5onVSgAVrvg2.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T09:00:00+00:00",
+      "stop": "2026-11-16T09:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oyBZyY5GdzZdofVVsDda49QmvFP.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 714356,
+      "title": "جرايد",
+      "clean_title": "جرايد",
+      "original_title": "كلام جرايد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدور الأحداث حول المشاكل التي تنتج من الشائعات التي تطلقها الصحف حول الشخصيات الشهيرة ، وما تتسبب فيه من مشاكل للشخصيات والعائلات المتعلق بهم الشائعة ، وذلك من خلال مذيعة تليفزيونية تقدم برنامجا شهيرا بعنوان (كلام جرايد) ، يتسبب لها في العديد من المشاكل بسبب الأخبار التي تذيعها",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2014",
+      "release_date": "2014-01-01",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمد سعيد",
+      "cast": [
+        {
+          "name": "علا غانم",
+          "character": "ملك",
+          "profile_image": "https://image.tmdb.org/t/p/w185/u5crUAuOlylo0yFq0dCzZyZv9Om.jpg"
+        },
+        {
+          "name": "فتحي عبدالوهاب",
+          "character": "سيف",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kYIlzvwURNRxrQED5OtkqYCUN8Z.jpg"
+        },
+        {
+          "name": "لطفي لبيب",
+          "character": "شرشوبي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/guGZ0Xv4csBj10ipPlQAgf0yq6o.jpg"
+        },
+        {
+          "name": "رجاء الجداوي",
+          "character": "والدة سيف",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mgZFyKbzxEbT0PZbDSZ2Ue0rAXo.jpg"
+        },
+        {
+          "name": "ياسمين رئيس",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/h7XIybglVEp3K88DAXS0CWw1eVQ.jpg"
+        },
+        {
+          "name": "ميرنا المهندس",
+          "character": "ياسمين",
+          "profile_image": "https://image.tmdb.org/t/p/w185/a8SnzofedugyQW0QjnuNVkQbEX2.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T09:30:00+00:00",
+      "stop": "2026-11-16T10:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/1CMMleedWh0YVbIKIiRdw2D06nb.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/1CMMleedWh0YVbIKIiRdw2D06nb.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T09:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1653987,
+      "title": "تواصل",
+      "clean_title": "تواصل",
+      "original_title": "Kontakt",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "رسوم متحركة",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-05-05",
+      "status": "Released",
+      "country": "CZ",
+      "language": "الإنجليزية",
+      "director": "Anna Belova",
+      "cast": [
+        {
+          "name": "Justine Castillo",
+          "character": "Grandmother (voice)",
+          "profile_image": null
+        },
+        {
+          "name": "Evdokia Adonina",
+          "character": "Little girl (voice)",
+          "profile_image": null
+        },
+        {
+          "name": "Mariale Carranza",
+          "character": "Adult girl (voice)",
+          "profile_image": null
+        },
+        {
+          "name": "Pedro Gramegna Ardiles",
+          "character": "Father (voice)",
+          "profile_image": null
+        },
+        {
+          "name": "Ludmila Krasnikova",
+          "character": "Person in the thermopassage",
+          "profile_image": null
+        },
+        {
+          "name": "Anastasiia Trokhymenko",
+          "character": "Person in the thermopassage",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T10:00:00+00:00",
+      "stop": "2026-11-16T10:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ld8uykRezpmVST6tqTqEfTblCz1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vgGFlr0gAEK7ZnOul8rIIxRzNQw.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ld8uykRezpmVST6tqTqEfTblCz1.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-15T20:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T20:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1412113,
+      "title": "كواليس",
+      "clean_title": "كواليس",
+      "original_title": "오징어 게임: 시즌2 제작 이야기",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "من تصميم مواقع التصوير إلى تطوير الشخصيات، استمتع بمشاهدة مقابلات حصرية مع الممثلين والمُخرجين حول تصوير الموسم الثاني من المسلسل الأكثر مشاهدة على مستوى العالم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "وثائقي"
+      ],
+      "rating": 8.3,
+      "vote_count": 462,
+      "age_rating": "R",
+      "year": "2025",
+      "release_date": "2025-01-02",
+      "status": "Released",
+      "country": "كوريا الجنوبية",
+      "language": "الكورية",
+      "director": null,
+      "cast": [
+        {
+          "name": "هوانغ دونغ هيوك",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xyr3b04ayyJtA5ZN3L0Af10WKIR.jpg"
+        },
+        {
+          "name": "이정재",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lx8oiTXL9lIx78KOXlrlvNfoz43.jpg"
+        },
+        {
+          "name": "لي بيونغ هون",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5p5LDbZtnKhXDZL5227ExukbnRo.jpg"
+        },
+        {
+          "name": "Chae Kyoung-sun",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/liRRaTF7vE1PVgWPR7n4o60Zzpk.jpg"
+        },
+        {
+          "name": "김지용",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4lWw0gtgUE5D2Kzx94Sj7VgStt9.jpg"
+        },
+        {
+          "name": "غونغ يو",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ocGoFb6TrK3uWGXt4WnuibUG1vD.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T10:30:00+00:00",
+      "stop": "2026-11-16T11:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zecxlBpLx0aLIjNjX1IOZuaSgo0.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T10:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سبيتار",
+      "clean_title": "سبيتار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T11:00:00+00:00",
+      "stop": "2026-11-16T11:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ثنتين ونص",
+      "clean_title": "ثنتين ونص",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T11:30:00+00:00",
+      "stop": "2026-11-16T12:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T11:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مارين ماجازين",
+      "clean_title": "مارين ماجازين",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T12:30:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T08:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 581032,
+      "title": "أخبار",
+      "clean_title": "أخبار",
+      "original_title": "News of the World",
+      "tagline": "ابحث عن المكان الذي تنتمي إليه.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "رجل من تكساس يجوب الغرب المتوحش ليقرأ أخبار العالم على سكان البلدات، يوافق على المساعدة في إنقاذ فتاة صغيرة اختُطفت.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما",
+        "غربي"
+      ],
+      "rating": 6.9,
+      "vote_count": 2028,
+      "age_rating": "PG-13",
+      "year": "2020",
+      "release_date": "2020-12-25",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "بول غرينغراس",
+      "cast": [
+        {
+          "name": "توم هانكس",
+          "character": "Captain Jefferson Kyle Kidd",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        },
+        {
+          "name": "هيلينا زينجل",
+          "character": "Johanna Leonberger",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6ousX9QcimaM2tuaeBcqYEfBjKG.jpg"
+        },
+        {
+          "name": "Michael Angelo Covino",
+          "character": "Almay",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ec4mvQq61xky55vzGgvEiwUXMpF.jpg"
+        },
+        {
+          "name": "Ray McKinnon",
+          "character": "Simon Boudlin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nZSmJVTSq2eEcE4FeEoKVNYUGM9.jpg"
+        },
+        {
+          "name": "ماري ويننغهام",
+          "character": "Doris Boudlin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pl4Cq1uCs8ajVxZkJ7Qd4XjD2P2.jpg"
+        },
+        {
+          "name": "إليزابيث مارفيل",
+          "character": "Mrs. Gannett",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zJaDO2YI0XHeUDB5onVSgAVrvg2.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T13:15:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oyBZyY5GdzZdofVVsDda49QmvFP.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "دوري نجوم قطر",
+      "clean_title": "دوري نجوم قطر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:15:00+00:00",
+      "stop": "2026-11-16T15:30:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T13:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "جولمانيا",
+      "clean_title": "جولمانيا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:30:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 308362,
+      "title": "الحصاد",
+      "clean_title": "الحصاد",
+      "original_title": "Kafeel",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 34,
+      "description": "تدور الاحداث عن فتاة، تتغير حياتها بعد اكتشافها أن الرجل الذي وثقت به قد لا يكون هو الرجل الحقيقي. ومع تزايد تقلبات سلوك، وضغوط العائلة، والتباعد العاطفي، يتعين عليها مواجهة مشاكل زواجها قبل أن تسيطر على حياتها.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما",
+        "عائلي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-12-15",
+      "status": "Ended",
+      "country": "PK",
+      "language": "ur",
+      "director": null,
+      "cast": [
+        {
+          "name": "Sanam Saeed",
+          "character": "Zeba",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7yrUDGFbvKBDz5lYlfnqXnwLIXS.jpg"
+        },
+        {
+          "name": "Emmad Irfani",
+          "character": "Jamshed (Jami)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/440NzjzLo2CGwK8CBExDq5rGIxL.jpg"
+        },
+        {
+          "name": "Javed Rizvi",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/Al1Z1LrUDYG753Og2DV6WoEfZAX.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/wjWCbAUpBCOr7hAEljPoZv8c7YW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/gm4qxmeIcbqkKVHxLZ3OP6d5fbL.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/wjWCbAUpBCOr7hAEljPoZv8c7YW.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1412113,
+      "title": "كواليس",
+      "clean_title": "كواليس",
+      "original_title": "오징어 게임: 시즌2 제작 이야기",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "من تصميم مواقع التصوير إلى تطوير الشخصيات، استمتع بمشاهدة مقابلات حصرية مع الممثلين والمُخرجين حول تصوير الموسم الثاني من المسلسل الأكثر مشاهدة على مستوى العالم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "وثائقي"
+      ],
+      "rating": 8.3,
+      "vote_count": 462,
+      "age_rating": "R",
+      "year": "2025",
+      "release_date": "2025-01-02",
+      "status": "Released",
+      "country": "كوريا الجنوبية",
+      "language": "الكورية",
+      "director": null,
+      "cast": [
+        {
+          "name": "هوانغ دونغ هيوك",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xyr3b04ayyJtA5ZN3L0Af10WKIR.jpg"
+        },
+        {
+          "name": "이정재",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lx8oiTXL9lIx78KOXlrlvNfoz43.jpg"
+        },
+        {
+          "name": "لي بيونغ هون",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5p5LDbZtnKhXDZL5227ExukbnRo.jpg"
+        },
+        {
+          "name": "Chae Kyoung-sun",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/liRRaTF7vE1PVgWPR7n4o60Zzpk.jpg"
+        },
+        {
+          "name": "김지용",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4lWw0gtgUE5D2Kzx94Sj7VgStt9.jpg"
+        },
+        {
+          "name": "غونغ يو",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ocGoFb6TrK3uWGXt4WnuibUG1vD.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zecxlBpLx0aLIjNjX1IOZuaSgo0.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T10:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T10:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 581032,
+      "title": "أخبار",
+      "clean_title": "أخبار",
+      "original_title": "News of the World",
+      "tagline": "ابحث عن المكان الذي تنتمي إليه.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "رجل من تكساس يجوب الغرب المتوحش ليقرأ أخبار العالم على سكان البلدات، يوافق على المساعدة في إنقاذ فتاة صغيرة اختُطفت.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما",
+        "غربي"
+      ],
+      "rating": 6.9,
+      "vote_count": 2028,
+      "age_rating": "PG-13",
+      "year": "2020",
+      "release_date": "2020-12-25",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "بول غرينغراس",
+      "cast": [
+        {
+          "name": "توم هانكس",
+          "character": "Captain Jefferson Kyle Kidd",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        },
+        {
+          "name": "هيلينا زينجل",
+          "character": "Johanna Leonberger",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6ousX9QcimaM2tuaeBcqYEfBjKG.jpg"
+        },
+        {
+          "name": "Michael Angelo Covino",
+          "character": "Almay",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ec4mvQq61xky55vzGgvEiwUXMpF.jpg"
+        },
+        {
+          "name": "Ray McKinnon",
+          "character": "Simon Boudlin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nZSmJVTSq2eEcE4FeEoKVNYUGM9.jpg"
+        },
+        {
+          "name": "ماري ويننغهام",
+          "character": "Doris Boudlin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pl4Cq1uCs8ajVxZkJ7Qd4XjD2P2.jpg"
+        },
+        {
+          "name": "إليزابيث مارفيل",
+          "character": "Mrs. Gannett",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zJaDO2YI0XHeUDB5onVSgAVrvg2.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T18:00:00+00:00",
+      "stop": "2026-11-16T18:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oyBZyY5GdzZdofVVsDda49QmvFP.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "كاتر 25",
+      "clean_title": "كاتر 25",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T18:30:00+00:00",
+      "stop": "2026-11-16T19:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سبورت كونفدينشيال",
+      "clean_title": "سبورت كونفدينشيال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:00:00+00:00",
+      "stop": "2026-11-16T19:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T02:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T02:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "قبل الحدث",
+      "clean_title": "قبل الحدث",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:30:00+00:00",
+      "stop": "2026-11-16T20:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1653987,
+      "title": "تواصل",
+      "clean_title": "تواصل",
+      "original_title": "Kontakt",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "رسوم متحركة",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-05-05",
+      "status": "Released",
+      "country": "CZ",
+      "language": "الإنجليزية",
+      "director": "Anna Belova",
+      "cast": [
+        {
+          "name": "Justine Castillo",
+          "character": "Grandmother (voice)",
+          "profile_image": null
+        },
+        {
+          "name": "Evdokia Adonina",
+          "character": "Little girl (voice)",
+          "profile_image": null
+        },
+        {
+          "name": "Mariale Carranza",
+          "character": "Adult girl (voice)",
+          "profile_image": null
+        },
+        {
+          "name": "Pedro Gramegna Ardiles",
+          "character": "Father (voice)",
+          "profile_image": null
+        },
+        {
+          "name": "Ludmila Krasnikova",
+          "character": "Person in the thermopassage",
+          "profile_image": null
+        },
+        {
+          "name": "Anastasiia Trokhymenko",
+          "character": "Person in the thermopassage",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-16T20:30:00+00:00",
+      "stop": "2026-11-17T01:30:00+00:00",
+      "duration_minutes": 300,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ld8uykRezpmVST6tqTqEfTblCz1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vgGFlr0gAEK7ZnOul8rIIxRzNQw.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ld8uykRezpmVST6tqTqEfTblCz1.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-15T20:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا فوتبول ريفيو",
+      "clean_title": "ذا فوتبول ريفيو",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يبقيك هذا البرنامج على اطلاع دائم على أهم النتائج والتطورات في جميع البطولات الأوروبية والدولية لكرة القدم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:30:00+00:00",
+      "stop": "2026-11-17T02:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T01:30:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-17T08:30:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-18T15:30:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-19T19:30:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-19T22:30:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-20T05:30:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-20T16:00:00+00:00"
+        },
+        {
+          "channel": "MBC Action",
+          "start": "2026-11-21T09:30:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-21T15:30:00+00:00"
+        },
+        {
+          "channel": "MBC Persia",
+          "start": "2026-11-21T21:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سبورت كونفدينشيال",
+      "clean_title": "سبورت كونفدينشيال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T02:00:00+00:00",
+      "stop": "2026-11-17T02:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T02:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فيبا وورلد باسكت بول",
+      "clean_title": "فيبا وورلد باسكت بول",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T02:30:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T02:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 581032,
+      "title": "أخبار",
+      "clean_title": "أخبار",
+      "original_title": "News of the World",
+      "tagline": "ابحث عن المكان الذي تنتمي إليه.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "رجل من تكساس يجوب الغرب المتوحش ليقرأ أخبار العالم على سكان البلدات، يوافق على المساعدة في إنقاذ فتاة صغيرة اختُطفت.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما",
+        "غربي"
+      ],
+      "rating": 6.9,
+      "vote_count": 2028,
+      "age_rating": "PG-13",
+      "year": "2020",
+      "release_date": "2020-12-25",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "بول غرينغراس",
+      "cast": [
+        {
+          "name": "توم هانكس",
+          "character": "Captain Jefferson Kyle Kidd",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        },
+        {
+          "name": "هيلينا زينجل",
+          "character": "Johanna Leonberger",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6ousX9QcimaM2tuaeBcqYEfBjKG.jpg"
+        },
+        {
+          "name": "Michael Angelo Covino",
+          "character": "Almay",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ec4mvQq61xky55vzGgvEiwUXMpF.jpg"
+        },
+        {
+          "name": "Ray McKinnon",
+          "character": "Simon Boudlin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nZSmJVTSq2eEcE4FeEoKVNYUGM9.jpg"
+        },
+        {
+          "name": "ماري ويننغهام",
+          "character": "Doris Boudlin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pl4Cq1uCs8ajVxZkJ7Qd4XjD2P2.jpg"
+        },
+        {
+          "name": "إليزابيث مارفيل",
+          "character": "Mrs. Gannett",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zJaDO2YI0XHeUDB5onVSgAVrvg2.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T03:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oyBZyY5GdzZdofVVsDda49QmvFP.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "بطولة قطر المحلية لجمال الخيل العربية الأصيلة",
+      "clean_title": "بطولة قطر المحلية لجمال الخيل العربية الأصيلة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:30:00+00:00",
+      "stop": "2026-11-17T07:00:00+00:00",
+      "duration_minutes": 210,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T03:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "الحصيلة",
+      "clean_title": "الحصيلة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 581032,
+      "title": "أخبار",
+      "clean_title": "أخبار",
+      "original_title": "News of the World",
+      "tagline": "ابحث عن المكان الذي تنتمي إليه.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "رجل من تكساس يجوب الغرب المتوحش ليقرأ أخبار العالم على سكان البلدات، يوافق على المساعدة في إنقاذ فتاة صغيرة اختُطفت.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما",
+        "غربي"
+      ],
+      "rating": 6.9,
+      "vote_count": 2028,
+      "age_rating": "PG-13",
+      "year": "2020",
+      "release_date": "2020-12-25",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "بول غرينغراس",
+      "cast": [
+        {
+          "name": "توم هانكس",
+          "character": "Captain Jefferson Kyle Kidd",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        },
+        {
+          "name": "هيلينا زينجل",
+          "character": "Johanna Leonberger",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6ousX9QcimaM2tuaeBcqYEfBjKG.jpg"
+        },
+        {
+          "name": "Michael Angelo Covino",
+          "character": "Almay",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ec4mvQq61xky55vzGgvEiwUXMpF.jpg"
+        },
+        {
+          "name": "Ray McKinnon",
+          "character": "Simon Boudlin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nZSmJVTSq2eEcE4FeEoKVNYUGM9.jpg"
+        },
+        {
+          "name": "ماري ويننغهام",
+          "character": "Doris Boudlin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pl4Cq1uCs8ajVxZkJ7Qd4XjD2P2.jpg"
+        },
+        {
+          "name": "إليزابيث مارفيل",
+          "character": "Mrs. Gannett",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zJaDO2YI0XHeUDB5onVSgAVrvg2.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T09:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oyBZyY5GdzZdofVVsDda49QmvFP.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 714356,
+      "title": "جرايد",
+      "clean_title": "جرايد",
+      "original_title": "كلام جرايد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدور الأحداث حول المشاكل التي تنتج من الشائعات التي تطلقها الصحف حول الشخصيات الشهيرة ، وما تتسبب فيه من مشاكل للشخصيات والعائلات المتعلق بهم الشائعة ، وذلك من خلال مذيعة تليفزيونية تقدم برنامجا شهيرا بعنوان (كلام جرايد) ، يتسبب لها في العديد من المشاكل بسبب الأخبار التي تذيعها",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2014",
+      "release_date": "2014-01-01",
+      "status": "Released",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمد سعيد",
+      "cast": [
+        {
+          "name": "علا غانم",
+          "character": "ملك",
+          "profile_image": "https://image.tmdb.org/t/p/w185/u5crUAuOlylo0yFq0dCzZyZv9Om.jpg"
+        },
+        {
+          "name": "فتحي عبدالوهاب",
+          "character": "سيف",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kYIlzvwURNRxrQED5OtkqYCUN8Z.jpg"
+        },
+        {
+          "name": "لطفي لبيب",
+          "character": "شرشوبي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/guGZ0Xv4csBj10ipPlQAgf0yq6o.jpg"
+        },
+        {
+          "name": "رجاء الجداوي",
+          "character": "والدة سيف",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mgZFyKbzxEbT0PZbDSZ2Ue0rAXo.jpg"
+        },
+        {
+          "name": "ياسمين رئيس",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/h7XIybglVEp3K88DAXS0CWw1eVQ.jpg"
+        },
+        {
+          "name": "ميرنا المهندس",
+          "character": "ياسمين",
+          "profile_image": "https://image.tmdb.org/t/p/w185/a8SnzofedugyQW0QjnuNVkQbEX2.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T09:30:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/1CMMleedWh0YVbIKIiRdw2D06nb.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/1CMMleedWh0YVbIKIiRdw2D06nb.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T09:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1653987,
+      "title": "تواصل",
+      "clean_title": "تواصل",
+      "original_title": "Kontakt",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "رسوم متحركة",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-05-05",
+      "status": "Released",
+      "country": "CZ",
+      "language": "الإنجليزية",
+      "director": "Anna Belova",
+      "cast": [
+        {
+          "name": "Justine Castillo",
+          "character": "Grandmother (voice)",
+          "profile_image": null
+        },
+        {
+          "name": "Evdokia Adonina",
+          "character": "Little girl (voice)",
+          "profile_image": null
+        },
+        {
+          "name": "Mariale Carranza",
+          "character": "Adult girl (voice)",
+          "profile_image": null
+        },
+        {
+          "name": "Pedro Gramegna Ardiles",
+          "character": "Father (voice)",
+          "profile_image": null
+        },
+        {
+          "name": "Ludmila Krasnikova",
+          "character": "Person in the thermopassage",
+          "profile_image": null
+        },
+        {
+          "name": "Anastasiia Trokhymenko",
+          "character": "Person in the thermopassage",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T10:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/ld8uykRezpmVST6tqTqEfTblCz1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vgGFlr0gAEK7ZnOul8rIIxRzNQw.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/ld8uykRezpmVST6tqTqEfTblCz1.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-15T20:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1412113,
+      "title": "كواليس",
+      "clean_title": "كواليس",
+      "original_title": "오징어 게임: 시즌2 제작 이야기",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "من تصميم مواقع التصوير إلى تطوير الشخصيات، استمتع بمشاهدة مقابلات حصرية مع الممثلين والمُخرجين حول تصوير الموسم الثاني من المسلسل الأكثر مشاهدة على مستوى العالم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "وثائقي"
+      ],
+      "rating": 8.3,
+      "vote_count": 462,
+      "age_rating": "R",
+      "year": "2025",
+      "release_date": "2025-01-02",
+      "status": "Released",
+      "country": "كوريا الجنوبية",
+      "language": "الكورية",
+      "director": null,
+      "cast": [
+        {
+          "name": "هوانغ دونغ هيوك",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xyr3b04ayyJtA5ZN3L0Af10WKIR.jpg"
+        },
+        {
+          "name": "이정재",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lx8oiTXL9lIx78KOXlrlvNfoz43.jpg"
+        },
+        {
+          "name": "لي بيونغ هون",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5p5LDbZtnKhXDZL5227ExukbnRo.jpg"
+        },
+        {
+          "name": "Chae Kyoung-sun",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/liRRaTF7vE1PVgWPR7n4o60Zzpk.jpg"
+        },
+        {
+          "name": "김지용",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4lWw0gtgUE5D2Kzx94Sj7VgStt9.jpg"
+        },
+        {
+          "name": "غونغ يو",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ocGoFb6TrK3uWGXt4WnuibUG1vD.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T10:30:00+00:00",
+      "stop": "2026-11-17T11:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zecxlBpLx0aLIjNjX1IOZuaSgo0.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T10:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سبيتار",
+      "clean_title": "سبيتار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:00:00+00:00",
+      "stop": "2026-11-17T11:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ثنتين ونص",
+      "clean_title": "ثنتين ونص",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T11:30:00+00:00",
+      "stop": "2026-11-17T12:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T11:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مارين ماجازين",
+      "clean_title": "مارين ماجازين",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T12:30:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T08:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 581032,
+      "title": "أخبار",
+      "clean_title": "أخبار",
+      "original_title": "News of the World",
+      "tagline": "ابحث عن المكان الذي تنتمي إليه.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "رجل من تكساس يجوب الغرب المتوحش ليقرأ أخبار العالم على سكان البلدات، يوافق على المساعدة في إنقاذ فتاة صغيرة اختُطفت.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما",
+        "غربي"
+      ],
+      "rating": 6.9,
+      "vote_count": 2028,
+      "age_rating": "PG-13",
+      "year": "2020",
+      "release_date": "2020-12-25",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "بول غرينغراس",
+      "cast": [
+        {
+          "name": "توم هانكس",
+          "character": "Captain Jefferson Kyle Kidd",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        },
+        {
+          "name": "هيلينا زينجل",
+          "character": "Johanna Leonberger",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6ousX9QcimaM2tuaeBcqYEfBjKG.jpg"
+        },
+        {
+          "name": "Michael Angelo Covino",
+          "character": "Almay",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ec4mvQq61xky55vzGgvEiwUXMpF.jpg"
+        },
+        {
+          "name": "Ray McKinnon",
+          "character": "Simon Boudlin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nZSmJVTSq2eEcE4FeEoKVNYUGM9.jpg"
+        },
+        {
+          "name": "ماري ويننغهام",
+          "character": "Doris Boudlin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pl4Cq1uCs8ajVxZkJ7Qd4XjD2P2.jpg"
+        },
+        {
+          "name": "إليزابيث مارفيل",
+          "character": "Mrs. Gannett",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zJaDO2YI0XHeUDB5onVSgAVrvg2.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T13:15:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oyBZyY5GdzZdofVVsDda49QmvFP.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "دوري نجوم قطر",
+      "clean_title": "دوري نجوم قطر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:15:00+00:00",
+      "stop": "2026-11-17T15:30:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T13:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "جولمانيا",
+      "clean_title": "جولمانيا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T15:30:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 308362,
+      "title": "الحصاد",
+      "clean_title": "الحصاد",
+      "original_title": "Kafeel",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 34,
+      "description": "تدور الاحداث عن فتاة، تتغير حياتها بعد اكتشافها أن الرجل الذي وثقت به قد لا يكون هو الرجل الحقيقي. ومع تزايد تقلبات سلوك، وضغوط العائلة، والتباعد العاطفي، يتعين عليها مواجهة مشاكل زواجها قبل أن تسيطر على حياتها.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما",
+        "عائلي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-12-15",
+      "status": "Ended",
+      "country": "PK",
+      "language": "ur",
+      "director": null,
+      "cast": [
+        {
+          "name": "Sanam Saeed",
+          "character": "Zeba",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7yrUDGFbvKBDz5lYlfnqXnwLIXS.jpg"
+        },
+        {
+          "name": "Emmad Irfani",
+          "character": "Jamshed (Jami)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/440NzjzLo2CGwK8CBExDq5rGIxL.jpg"
+        },
+        {
+          "name": "Javed Rizvi",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/Al1Z1LrUDYG753Og2DV6WoEfZAX.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/wjWCbAUpBCOr7hAEljPoZv8c7YW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/gm4qxmeIcbqkKVHxLZ3OP6d5fbL.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/wjWCbAUpBCOr7hAEljPoZv8c7YW.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1412113,
+      "title": "كواليس",
+      "clean_title": "كواليس",
+      "original_title": "오징어 게임: 시즌2 제작 이야기",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "من تصميم مواقع التصوير إلى تطوير الشخصيات، استمتع بمشاهدة مقابلات حصرية مع الممثلين والمُخرجين حول تصوير الموسم الثاني من المسلسل الأكثر مشاهدة على مستوى العالم.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "وثائقي"
+      ],
+      "rating": 8.3,
+      "vote_count": 462,
+      "age_rating": "R",
+      "year": "2025",
+      "release_date": "2025-01-02",
+      "status": "Released",
+      "country": "كوريا الجنوبية",
+      "language": "الكورية",
+      "director": null,
+      "cast": [
+        {
+          "name": "هوانغ دونغ هيوك",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xyr3b04ayyJtA5ZN3L0Af10WKIR.jpg"
+        },
+        {
+          "name": "이정재",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lx8oiTXL9lIx78KOXlrlvNfoz43.jpg"
+        },
+        {
+          "name": "لي بيونغ هون",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5p5LDbZtnKhXDZL5227ExukbnRo.jpg"
+        },
+        {
+          "name": "Chae Kyoung-sun",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/liRRaTF7vE1PVgWPR7n4o60Zzpk.jpg"
+        },
+        {
+          "name": "김지용",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4lWw0gtgUE5D2Kzx94Sj7VgStt9.jpg"
+        },
+        {
+          "name": "غونغ يو",
+          "character": "Self",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ocGoFb6TrK3uWGXt4WnuibUG1vD.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zecxlBpLx0aLIjNjX1IOZuaSgo0.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T10:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-17T10:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 581032,
+      "title": "أخبار",
+      "clean_title": "أخبار",
+      "original_title": "News of the World",
+      "tagline": "ابحث عن المكان الذي تنتمي إليه.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "رجل من تكساس يجوب الغرب المتوحش ليقرأ أخبار العالم على سكان البلدات، يوافق على المساعدة في إنقاذ فتاة صغيرة اختُطفت.",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه",
+        "دراما",
+        "غربي"
+      ],
+      "rating": 6.9,
+      "vote_count": 2028,
+      "age_rating": "PG-13",
+      "year": "2020",
+      "release_date": "2020-12-25",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "بول غرينغراس",
+      "cast": [
+        {
+          "name": "توم هانكس",
+          "character": "Captain Jefferson Kyle Kidd",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        },
+        {
+          "name": "هيلينا زينجل",
+          "character": "Johanna Leonberger",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6ousX9QcimaM2tuaeBcqYEfBjKG.jpg"
+        },
+        {
+          "name": "Michael Angelo Covino",
+          "character": "Almay",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ec4mvQq61xky55vzGgvEiwUXMpF.jpg"
+        },
+        {
+          "name": "Ray McKinnon",
+          "character": "Simon Boudlin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nZSmJVTSq2eEcE4FeEoKVNYUGM9.jpg"
+        },
+        {
+          "name": "ماري ويننغهام",
+          "character": "Doris Boudlin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pl4Cq1uCs8ajVxZkJ7Qd4XjD2P2.jpg"
+        },
+        {
+          "name": "إليزابيث مارفيل",
+          "character": "Mrs. Gannett",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zJaDO2YI0XHeUDB5onVSgAVrvg2.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T18:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oyBZyY5GdzZdofVVsDda49QmvFP.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "كاتر 25",
+      "clean_title": "كاتر 25",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:30:00+00:00",
+      "stop": "2026-11-17T19:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "قبل الحدث",
+      "clean_title": "قبل الحدث",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "ترفيه",
+      "genres": [
+        "ترفيه"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:30:00+00:00",
+      "stop": "2026-11-17T19:30:00+00:00",
+      "duration_minutes": null,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/GHZHRPF.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTSMAX6",
+          "start": "2026-11-16T19:30:00+00:00"
+        }
+      ]
+    }
+  ]
+}

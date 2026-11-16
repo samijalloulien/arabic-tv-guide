@@ -2,23 +2,24 @@
   "channel_id": "AlSharqiyaMinKabla.ae@SD",
   "channel_name": "الشرقية",
   "channel_icon": "https://i.imgur.com/m4qheI4.png",
+  "days_count": 7,
   "programs": [
     {
       "tmdb_id": null,
-      "title": "برنامج ستوديو لاليغا",
-      "clean_title": "ستوديو لاليغا",
+      "title": "أرض جو",
+      "clean_title": "أرض جو",
       "original_title": null,
       "tagline": null,
       "episode_title": null,
-      "content_type": "program",
+      "content_type": "series",
       "season": null,
       "episode": null,
       "seasons_count": null,
       "episodes_count": null,
-      "description": "",
-      "category": "General",
+      "description": "تدور احداث المسلسل حول مضيفة طيران تقع لها مشكلة، فتقرر الانتقام، إلا أنها تتهم في جريمة اختطاف طائرة، فهل قامت باختطافها كنوع من الانتقام، أم أنها مكيدة مدبرة؟.",
+      "category": "مسلسل",
       "genres": [
-        "General"
+        "مسلسل"
       ],
       "rating": null,
       "vote_count": null,
@@ -31,246 +32,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-16T12:15:00+00:00",
+      "start": "2026-11-16T12:00:00+00:00",
       "stop": "2026-11-16T13:00:00+00:00",
-      "duration_minutes": 45,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.imgur.com/m4qheI4.png",
-      "is_rerun": false,
-      "reruns": []
-    },
-    {
-      "tmdb_id": null,
-      "title": "نشرة الاخبار",
-      "clean_title": "نشرة الاخبار",
-      "original_title": "news broadcasting",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "نشرة الأخبار",
-      "category": "General",
-      "genres": [
-        "General"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-16T13:00:00+00:00",
-      "stop": "2026-11-16T13:15:00+00:00",
-      "duration_minutes": 15,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.imgur.com/m4qheI4.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "Abu Dhabi TV HD",
-          "start": "2026-11-16T11:00:00+00:00"
-        },
-        {
-          "channel": "Abu Dhabi TV HD",
-          "start": "2026-11-16T14:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-16T15:00:00+00:00"
-        },
-        {
-          "channel": "الشرقية",
-          "start": "2026-11-16T16:00:00+00:00"
-        },
-        {
-          "channel": "الشرقية",
-          "start": "2026-11-16T19:00:00+00:00"
-        },
-        {
-          "channel": "Abu Dhabi TV HD",
-          "start": "2026-11-17T11:00:00+00:00"
-        },
-        {
-          "channel": "Abu Dhabi TV HD",
-          "start": "2026-11-17T14:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-17T15:00:00+00:00"
-        },
-        {
-          "channel": "الأردن",
-          "start": "2026-11-17T15:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 132200,
-      "title": "كمامات وطن",
-      "clean_title": "كمامات وطن",
-      "original_title": "كمامات وطن",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 4,
-      "episodes_count": 65,
-      "description": "دراما اجتماعية تناقش في كل حلقة قضية ومشكلة من مشكلات المجتمع منها طبيب ينصح الناس من خطورة وباء الكورونا ومنها متظاهر يساعد الشباب.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل",
-        "دراما"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": "2020",
-      "release_date": "2020-04-24",
-      "status": "In Production",
-      "country": "العراق",
-      "language": "العربية",
-      "director": "Samer Hikmat, Muhammad Qamar",
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-16T13:15:00+00:00",
-      "stop": "2026-11-16T13:45:00+00:00",
-      "duration_minutes": 30,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/vxxS3eg20MJ0uxL9bYQku2PvVXD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/sb06sm1HA2JFCYqowJt5abr56EG.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/vxxS3eg20MJ0uxL9bYQku2PvVXD.jpg",
-      "channel_icon": "https://i.imgur.com/m4qheI4.png",
-      "is_rerun": false,
-      "reruns": []
-    },
-    {
-      "tmdb_id": null,
-      "title": "فقرة منوعات",
-      "clean_title": "فقرة منوعات",
-      "original_title": null,
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "program",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "",
-      "category": "General",
-      "genres": [
-        "General"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-16T13:45:00+00:00",
-      "stop": "2026-11-16T14:00:00+00:00",
-      "duration_minutes": 15,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.imgur.com/m4qheI4.png",
-      "is_rerun": false,
-      "reruns": []
-    },
-    {
-      "tmdb_id": null,
-      "title": "أرض جو",
-      "clean_title": "أرض جو",
-      "original_title": null,
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "تدور احداث المسلسل حول مضيفة طيران تقع لها مشكلة، فتقرر الانتقام، إلا أنها تتهم في جريمة اختطاف طائرة، فهل قامت باختطافها كنوع من الانتقام، أم أنها مكيدة مدبرة؟.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-16T14:00:00+00:00",
-      "stop": "2026-11-16T15:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.imgur.com/m4qheI4.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "الشرقية",
-          "start": "2026-11-16T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": null,
-      "title": "برنامج يومي يومك",
-      "clean_title": "يومي يومك",
-      "original_title": null,
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "program",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "",
-      "category": "General",
-      "genres": [
-        "General"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-16T15:00:00+00:00",
-      "stop": "2026-11-16T16:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
@@ -279,165 +42,6 @@
       "channel_icon": "https://i.imgur.com/m4qheI4.png",
       "is_rerun": false,
       "reruns": []
-    },
-    {
-      "tmdb_id": null,
-      "title": "نشرة الاخبار",
-      "clean_title": "نشرة الاخبار",
-      "original_title": "news broadcasting",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "نشرة الأخبار",
-      "category": "General",
-      "genres": [
-        "General"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-16T16:00:00+00:00",
-      "stop": "2026-11-16T16:15:00+00:00",
-      "duration_minutes": 15,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.imgur.com/m4qheI4.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "Abu Dhabi TV HD",
-          "start": "2026-11-16T11:00:00+00:00"
-        },
-        {
-          "channel": "الشرقية",
-          "start": "2026-11-16T13:00:00+00:00"
-        },
-        {
-          "channel": "Abu Dhabi TV HD",
-          "start": "2026-11-16T14:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-16T15:00:00+00:00"
-        },
-        {
-          "channel": "الشرقية",
-          "start": "2026-11-16T19:00:00+00:00"
-        },
-        {
-          "channel": "Abu Dhabi TV HD",
-          "start": "2026-11-17T11:00:00+00:00"
-        },
-        {
-          "channel": "Abu Dhabi TV HD",
-          "start": "2026-11-17T14:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-17T15:00:00+00:00"
-        },
-        {
-          "channel": "الأردن",
-          "start": "2026-11-17T15:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": null,
-      "title": "ولاية بطيخ 9",
-      "clean_title": "ولاية بطيخ 9",
-      "original_title": null,
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "program",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "في الموسم التاسع، يستمر البرنامج في إطار كوميدي هزلي في تناول القضايا والشؤون السياسية والاقتصادية والاجتماعية في المجتمع العراقي، من خلال عدة عروض مختلفة خلال الحلقات.",
-      "category": "برنامج",
-      "genres": [
-        "برنامج"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-16T16:15:00+00:00",
-      "stop": "2026-11-16T17:00:00+00:00",
-      "duration_minutes": 45,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.imgur.com/m4qheI4.png",
-      "is_rerun": false,
-      "reruns": []
-    },
-    {
-      "tmdb_id": null,
-      "title": "أرض جو",
-      "clean_title": "أرض جو",
-      "original_title": null,
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "تدور احداث المسلسل حول مضيفة طيران تقع لها مشكلة، فتقرر الانتقام، إلا أنها تتهم في جريمة اختطاف طائرة، فهل قامت باختطافها كنوع من الانتقام، أم أنها مكيدة مدبرة؟.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-16T17:00:00+00:00",
-      "stop": "2026-11-16T18:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.imgur.com/m4qheI4.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "الشرقية",
-          "start": "2026-11-16T14:00:00+00:00"
-        }
-      ]
     },
     {
       "tmdb_id": null,
@@ -467,8 +71,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-16T18:00:00+00:00",
-      "stop": "2026-11-16T19:00:00+00:00",
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
@@ -506,8 +110,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-16T19:00:00+00:00",
-      "stop": "2026-11-16T20:00:00+00:00",
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
@@ -521,20 +125,12 @@
           "start": "2026-11-16T11:00:00+00:00"
         },
         {
-          "channel": "الشرقية",
-          "start": "2026-11-16T13:00:00+00:00"
-        },
-        {
-          "channel": "Abu Dhabi TV HD",
-          "start": "2026-11-16T14:00:00+00:00"
-        },
-        {
           "channel": "الرشيد",
-          "start": "2026-11-16T15:00:00+00:00"
+          "start": "2026-11-17T10:00:00+00:00"
         },
         {
-          "channel": "الشرقية",
-          "start": "2026-11-16T16:00:00+00:00"
+          "channel": "الأردن",
+          "start": "2026-11-17T10:00:00+00:00"
         },
         {
           "channel": "Abu Dhabi TV HD",
@@ -546,11 +142,39 @@
         },
         {
           "channel": "الرشيد",
-          "start": "2026-11-17T15:00:00+00:00"
+          "start": "2026-11-18T10:00:00+00:00"
         },
         {
-          "channel": "الأردن",
-          "start": "2026-11-17T15:00:00+00:00"
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-19T11:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-19T14:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-20T11:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-20T14:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-21T11:00:00+00:00"
+        },
+        {
+          "channel": "Abu Dhabi TV HD",
+          "start": "2026-11-21T14:00:00+00:00"
         }
       ]
     },
@@ -616,8 +240,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-16T20:00:00+00:00",
-      "stop": "2026-11-16T21:00:00+00:00",
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/PZzdFPrXZg3xTD4VIiLgiB0Kqj.jpg",
@@ -627,455 +251,183 @@
       "is_rerun": true,
       "reruns": [
         {
-          "channel": "الحياة",
+          "channel": "يو تي في",
           "start": "2026-11-16T12:00:00+00:00"
         },
         {
           "channel": "تلفزيون حضرموت",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
           "start": "2026-11-16T14:00:00+00:00"
         },
         {
-          "channel": "الجديد",
-          "start": "2026-11-16T15:00:00+00:00"
-        },
-        {
-          "channel": "تلفزيون حضرموت",
-          "start": "2026-11-16T15:00:00+00:00"
-        },
-        {
-          "channel": "الشارقة",
-          "start": "2026-11-16T15:15:00+00:00"
-        },
-        {
-          "channel": "الجديد",
-          "start": "2026-11-16T15:40:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-16T16:00:00+00:00"
-        },
-        {
-          "channel": "تلفزيون حضرموت",
-          "start": "2026-11-16T16:00:00+00:00"
-        },
-        {
-          "channel": "الثانية",
-          "start": "2026-11-16T16:00:00+00:00"
-        },
-        {
-          "channel": "نسمة",
-          "start": "2026-11-16T17:00:00+00:00"
-        },
-        {
-          "channel": "يو تي في",
-          "start": "2026-11-16T17:00:00+00:00"
-        },
-        {
-          "channel": "تلفزيون حضرموت",
-          "start": "2026-11-16T17:00:00+00:00"
-        },
-        {
-          "channel": "أون إي",
-          "start": "2026-11-16T19:00:00+00:00"
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-16T14:00:00+00:00"
         },
         {
           "channel": "الفجيرة",
-          "start": "2026-11-16T19:00:00+00:00"
+          "start": "2026-11-16T14:00:00+00:00"
         },
         {
           "channel": "دجلة",
-          "start": "2026-11-16T19:00:00+00:00"
+          "start": "2026-11-16T14:00:00+00:00"
         },
         {
           "channel": "الشارقة",
-          "start": "2026-11-16T19:35:00+00:00"
+          "start": "2026-11-16T14:35:00+00:00"
         },
         {
           "channel": "الرشيد",
-          "start": "2026-11-16T21:00:00+00:00"
+          "start": "2026-11-16T16:00:00+00:00"
         },
         {
           "channel": "السعيدة",
-          "start": "2026-11-16T21:00:00+00:00"
+          "start": "2026-11-16T16:00:00+00:00"
         },
         {
           "channel": "تلفزيون حضرموت",
-          "start": "2026-11-16T21:00:00+00:00"
+          "start": "2026-11-16T16:00:00+00:00"
         },
         {
           "channel": "نسمة",
-          "start": "2026-11-16T21:30:00+00:00"
+          "start": "2026-11-16T16:30:00+00:00"
         },
         {
           "channel": "الشروق الجزائرية",
-          "start": "2026-11-16T21:30:00+00:00"
-        },
-        {
-          "channel": "قناة مصر الأولى",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "المصرية",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "إل بي سي آي",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "أون إي",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "السعيدة",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "العراقية",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "يو تي في",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "تلفزيون حضرموت",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "دجلة",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "إل بي سي آي",
-          "start": "2026-11-16T23:30:00+00:00"
-        },
-        {
-          "channel": "الجديد",
-          "start": "2026-11-16T23:30:00+00:00"
-        },
-        {
-          "channel": "الشروق الجزائرية",
-          "start": "2026-11-16T23:30:00+00:00"
-        },
-        {
-          "channel": "قناة مصر الأولى",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "المصرية",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "الحياة",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "أون إي",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "صدى البلد",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "الشروق الجزائرية",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "السعيدة",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "العراقية",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "يو تي في",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "تلفزيون حضرموت",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "دجلة",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "إل بي سي آي",
-          "start": "2026-11-17T00:30:00+00:00"
-        },
-        {
-          "channel": "الجديد",
-          "start": "2026-11-17T00:30:00+00:00"
-        },
-        {
-          "channel": "قناة مصر الأولى",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "المصرية",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "سي بي سي",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "أون إي",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "صدى البلد",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "الشروق الجزائرية",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "السعيدة",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "الثانية",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "نسمة",
-          "start": "2026-11-17T01:45:00+00:00"
-        },
-        {
-          "channel": "قناة مصر الأولى",
-          "start": "2026-11-17T02:00:00+00:00"
-        },
-        {
-          "channel": "المصرية",
-          "start": "2026-11-17T02:00:00+00:00"
+          "start": "2026-11-16T16:30:00+00:00"
         },
         {
           "channel": "النهار",
-          "start": "2026-11-17T02:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
         },
         {
-          "channel": "سي بي سي",
-          "start": "2026-11-17T02:00:00+00:00"
+          "channel": "أون إي",
+          "start": "2026-11-17T00:00:00+00:00"
         },
         {
           "channel": "صدى البلد",
-          "start": "2026-11-17T02:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
         },
         {
-          "channel": "الفجيرة",
-          "start": "2026-11-17T02:00:00+00:00"
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T00:00:00+00:00"
         },
         {
           "channel": "الرشيد",
-          "start": "2026-11-17T02:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
         },
         {
           "channel": "الشروق الجزائرية",
-          "start": "2026-11-17T02:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
         },
         {
           "channel": "السعيدة",
-          "start": "2026-11-17T02:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "تن",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T01:00:00+00:00"
         },
         {
           "channel": "ماسة",
           "start": "2026-11-17T02:00:00+00:00"
         },
         {
-          "channel": "قناة مصر الأولى",
+          "channel": "الفجيرة",
+          "start": "2026-11-17T02:30:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
           "start": "2026-11-17T03:00:00+00:00"
         },
         {
-          "channel": "المصرية",
+          "channel": "ماسة",
           "start": "2026-11-17T03:00:00+00:00"
         },
         {
           "channel": "نايل لايف",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "النهار",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "الجديد",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "صدى البلد",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "نسمة",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "الشروق الجزائرية",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "السعيدة",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "ماسة",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "تن",
-          "start": "2026-11-17T03:30:00+00:00"
-        },
-        {
-          "channel": "الفجيرة",
-          "start": "2026-11-17T03:30:00+00:00"
-        },
-        {
-          "channel": "نسمة",
-          "start": "2026-11-17T03:45:00+00:00"
-        },
-        {
-          "channel": "قناة مصر الأولى",
-          "start": "2026-11-17T04:00:00+00:00"
-        },
-        {
-          "channel": "المصرية",
-          "start": "2026-11-17T04:00:00+00:00"
-        },
-        {
-          "channel": "الجديد",
-          "start": "2026-11-17T04:00:00+00:00"
-        },
-        {
-          "channel": "صدى البلد",
-          "start": "2026-11-17T04:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-17T04:00:00+00:00"
-        },
-        {
-          "channel": "الشروق الجزائرية",
-          "start": "2026-11-17T04:00:00+00:00"
-        },
-        {
-          "channel": "السعيدة",
           "start": "2026-11-17T04:00:00+00:00"
         },
         {
           "channel": "ماسة",
-          "start": "2026-11-17T04:00:00+00:00"
-        },
-        {
-          "channel": "النهار",
-          "start": "2026-11-17T04:30:00+00:00"
-        },
-        {
-          "channel": "نسمة",
-          "start": "2026-11-17T04:30:00+00:00"
-        },
-        {
-          "channel": "النهار",
-          "start": "2026-11-17T05:00:00+00:00"
-        },
-        {
-          "channel": "أون إي",
-          "start": "2026-11-17T05:00:00+00:00"
-        },
-        {
-          "channel": "صدى البلد",
-          "start": "2026-11-17T05:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-17T05:00:00+00:00"
-        },
-        {
-          "channel": "الشروق الجزائرية",
-          "start": "2026-11-17T05:00:00+00:00"
-        },
-        {
-          "channel": "السعيدة",
-          "start": "2026-11-17T05:00:00+00:00"
+          "start": "2026-11-17T04:10:00+00:00"
         },
         {
           "channel": "ماسة",
           "start": "2026-11-17T05:00:00+00:00"
-        },
-        {
-          "channel": "يو تي في",
-          "start": "2026-11-17T05:30:00+00:00"
-        },
-        {
-          "channel": "تن",
-          "start": "2026-11-17T06:00:00+00:00"
-        },
-        {
-          "channel": "الشروق الجزائرية",
-          "start": "2026-11-17T06:00:00+00:00"
-        },
-        {
-          "channel": "السعيدة",
-          "start": "2026-11-17T06:00:00+00:00"
         },
         {
           "channel": "ماسة",
           "start": "2026-11-17T06:00:00+00:00"
         },
         {
-          "channel": "ماسة",
+          "channel": "الحياة",
           "start": "2026-11-17T07:00:00+00:00"
         },
         {
-          "channel": "الفجيرة",
-          "start": "2026-11-17T07:30:00+00:00"
+          "channel": "يو تي في",
+          "start": "2026-11-17T07:00:00+00:00"
         },
         {
           "channel": "تلفزيون حضرموت",
-          "start": "2026-11-17T08:00:00+00:00"
+          "start": "2026-11-17T07:30:00+00:00"
         },
         {
           "channel": "ماسة",
-          "start": "2026-11-17T08:00:00+00:00"
+          "start": "2026-11-17T07:40:00+00:00"
         },
         {
-          "channel": "نايل لايف",
+          "channel": "تلفزيون حضرموت",
           "start": "2026-11-17T09:00:00+00:00"
         },
         {
-          "channel": "ماسة",
-          "start": "2026-11-17T09:10:00+00:00"
-        },
-        {
-          "channel": "ماسة",
+          "channel": "تلفزيون حضرموت",
           "start": "2026-11-17T10:00:00+00:00"
         },
         {
-          "channel": "ماسة",
+          "channel": "الرشيد",
           "start": "2026-11-17T11:00:00+00:00"
         },
         {
-          "channel": "الحياة",
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "الثانية",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "نسمة",
           "start": "2026-11-17T12:00:00+00:00"
         },
         {
@@ -1084,15 +436,43 @@
         },
         {
           "channel": "تلفزيون حضرموت",
-          "start": "2026-11-17T12:30:00+00:00"
+          "start": "2026-11-17T12:00:00+00:00"
         },
         {
-          "channel": "ماسة",
-          "start": "2026-11-17T12:40:00+00:00"
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T13:00:00+00:00"
         },
         {
-          "channel": "تلفزيون حضرموت",
+          "channel": "أون إي",
           "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "نايل لايف",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T15:00:00+00:00"
         },
         {
           "channel": "تلفزيون حضرموت",
@@ -1107,31 +487,159 @@
           "start": "2026-11-17T16:00:00+00:00"
         },
         {
-          "channel": "الثانية",
-          "start": "2026-11-17T16:00:00+00:00"
+          "channel": "نسمة",
+          "start": "2026-11-17T16:30:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T16:30:00+00:00"
+        },
+        {
+          "channel": "الحياة",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "إل بي سي آي",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T17:30:00+00:00"
         },
         {
           "channel": "نسمة",
-          "start": "2026-11-17T17:00:00+00:00"
+          "start": "2026-11-17T17:45:00+00:00"
+        },
+        {
+          "channel": "قناة مصر الأولى",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "المصرية",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "إل بي سي آي",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-17T18:00:00+00:00"
         },
         {
           "channel": "يو تي في",
-          "start": "2026-11-17T17:00:00+00:00"
+          "start": "2026-11-17T18:00:00+00:00"
         },
         {
           "channel": "تلفزيون حضرموت",
-          "start": "2026-11-17T17:00:00+00:00"
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "Egyptian TV",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "إل بي سي آي",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "قناة مصر الأولى",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "المصرية",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الحياة",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-17T19:00:00+00:00"
         },
         {
           "channel": "أون إي",
           "start": "2026-11-17T19:00:00+00:00"
         },
         {
-          "channel": "عَمان",
+          "channel": "صدى البلد",
           "start": "2026-11-17T19:00:00+00:00"
         },
         {
-          "channel": "الفجيرة",
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الوطنية 2",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
           "start": "2026-11-17T19:00:00+00:00"
         },
         {
@@ -1139,43 +647,151 @@
           "start": "2026-11-17T19:00:00+00:00"
         },
         {
-          "channel": "نايل لايف",
-          "start": "2026-11-17T20:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-17T20:00:00+00:00"
-        },
-        {
-          "channel": "تلفزيون حضرموت",
-          "start": "2026-11-17T20:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-17T21:00:00+00:00"
-        },
-        {
-          "channel": "تلفزيون حضرموت",
-          "start": "2026-11-17T21:00:00+00:00"
-        },
-        {
-          "channel": "نسمة",
-          "start": "2026-11-17T21:30:00+00:00"
-        },
-        {
-          "channel": "الشروق الجزائرية",
-          "start": "2026-11-17T21:30:00+00:00"
-        },
-        {
-          "channel": "الحياة",
-          "start": "2026-11-17T22:00:00+00:00"
+          "channel": "Egyptian TV",
+          "start": "2026-11-17T19:00:00+00:00"
         },
         {
           "channel": "إل بي سي آي",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "قناة مصر الأولى",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "المصرية",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "الثانية",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "Egyptian TV",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "نسمة",
+          "start": "2026-11-17T20:45:00+00:00"
+        },
+        {
+          "channel": "قناة مصر الأولى",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "المصرية",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "الوطنية 2",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "Egyptian TV",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "قناة مصر الأولى",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "المصرية",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "نايل لايف",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
           "start": "2026-11-17T22:00:00+00:00"
         },
         {
           "channel": "صدى البلد",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "نسمة",
           "start": "2026-11-17T22:00:00+00:00"
         },
         {
@@ -1191,12 +807,544 @@
           "start": "2026-11-17T22:00:00+00:00"
         },
         {
-          "channel": "الجديد",
+          "channel": "ماسة",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "Egyptian TV",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "تن",
+          "start": "2026-11-17T22:30:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
           "start": "2026-11-17T22:30:00+00:00"
         },
         {
           "channel": "نسمة",
           "start": "2026-11-17T22:45:00+00:00"
+        },
+        {
+          "channel": "قناة مصر الأولى",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "المصرية",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "الوطنية 2",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "Egyptian TV",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-17T23:30:00+00:00"
+        },
+        {
+          "channel": "نسمة",
+          "start": "2026-11-17T23:30:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-18T00:30:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T00:30:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "تن",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T01:15:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-18T01:30:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-18T02:30:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T03:53:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T07:40:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T08:00:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T10:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "الثانية",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "الثانية",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-18T17:30:00+00:00"
+        },
+        {
+          "channel": "نسمة",
+          "start": "2026-11-18T17:45:00+00:00"
+        },
+        {
+          "channel": "الحياة",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "تن",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-18T18:30:00+00:00"
+        },
+        {
+          "channel": "الحياة",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-18T19:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T19:52:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "الثانية",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "الحياة",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-18T22:30:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-18T23:30:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-19T17:30:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-19T18:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-19T18:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-19T18:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-19T18:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-19T18:30:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-19T19:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T19:52:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-19T20:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-19T20:00:00+00:00"
+        },
+        {
+          "channel": "الثانية",
+          "start": "2026-11-19T20:00:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-19T21:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-19T21:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-19T21:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-19T21:30:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-19T22:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-19T22:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-19T22:00:00+00:00"
         }
       ]
     }

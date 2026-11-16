@@ -1,0 +1,2807 @@
+{
+  "channel_id": "beINSports7.qa@MENA",
+  "channel_name": "beINSPORTS7",
+  "channel_icon": "https://i.imgur.com/iODFwZi.png",
+  "days_count": 7,
+  "programs": [
+    {
+      "tmdb_id": null,
+      "title": "Ben Shelton (USA) vs Arthur Fils (Fra) - Nitto ATP Finals Turin 2026",
+      "clean_title": "Ben Shelton (USA) vs Arthur Fils (Fra) - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T19:30:00+00:00",
+      "stop": "2026-11-15T21:55:00+00:00",
+      "duration_minutes": 145,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T00:05:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T07:39:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Alexander Zverev (Ger) vs Rafael Jodar (Esp) - Nitto ATP Finals Turin 2026",
+      "clean_title": "Alexander Zverev (Ger) vs Rafael Jodar (Esp) - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-15T21:55:00+00:00",
+      "stop": "2026-11-16T00:05:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T05:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Ben Shelton (USA) vs Arthur Fils (Fra) - Nitto ATP Finals Turin 2026",
+      "clean_title": "Ben Shelton (USA) vs Arthur Fils (Fra) - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T00:05:00+00:00",
+      "stop": "2026-11-16T02:35:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-15T19:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T07:39:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Taylor Fritz (USA) vs Thiago Agustin Tirante (ARG) - Final - ATP 250 Bybit Stockholm Open 2026",
+      "clean_title": "Taylor Fritz (USA) vs Thiago Agustin Tirante (ARG) - Final - ATP 250 Bybit Stockholm Open 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس - فئة 250",
+      "genres": [
+        "تنس - فئة 250"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T02:35:00+00:00",
+      "stop": "2026-11-16T05:30:00+00:00",
+      "duration_minutes": 175,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Alexander Zverev (Ger) vs Rafael Jodar (Esp) - Nitto ATP Finals Turin 2026",
+      "clean_title": "Alexander Zverev (Ger) vs Rafael Jodar (Esp) - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T05:30:00+00:00",
+      "stop": "2026-11-16T07:39:00+00:00",
+      "duration_minutes": 129,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-15T21:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Ben Shelton (USA) vs Arthur Fils (Fra) - Nitto ATP Finals Turin 2026",
+      "clean_title": "Ben Shelton (USA) vs Arthur Fils (Fra) - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T07:39:00+00:00",
+      "stop": "2026-11-16T10:00:00+00:00",
+      "duration_minutes": 141,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-15T19:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T00:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Taylor Fritz (USA) vs Thiago Agustin Tirante (ARG) - Final - ATP 250 Bybit Stockholm Open 2026",
+      "clean_title": "Taylor Fritz (USA) vs Thiago Agustin Tirante (ARG) - Final - ATP 250 Bybit Stockholm Open 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس - فئة 250",
+      "genres": [
+        "تنس - فئة 250"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T10:00:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T02:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Carlos Alcaraz (ESP) vs Frances Tiafoe (USA) - Nitto ATP Finals Turin 2026",
+      "clean_title": "Carlos Alcaraz (ESP) vs Frances Tiafoe (USA) - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T21:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T08:31:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Nantes vs Saint - Raphael - Daikin StarLigue - French Handball - 2026",
+      "clean_title": "Nantes vs Saint - Raphael - Daikin StarLigue - French Handball - 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "sports",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "كرة اليد",
+      "genres": [
+        "كرة اليد"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T16:50:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T17:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Lithuania vs Liechtenstein - UEFA Nations League 2026/2027 - MD6",
+      "clean_title": "Lithuania vs Liechtenstein - UEFA Nations Leagu/2027 - MD6",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "sports",
+      "season": null,
+      "episode": 2026,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "الرياضة العام",
+      "genres": [
+        "الرياضة العام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T16:50:00+00:00",
+      "stop": "2026-11-16T19:00:00+00:00",
+      "duration_minutes": 130,
+      "is_live": true,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS2",
+          "start": "2026-11-18T09:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS2",
+          "start": "2026-11-18T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "NBA Action 2026/2027",
+      "clean_title": "NBA Action 2026/2027",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "sports",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "NBA ACTION keeps pace with the competition on the court while offering viewers an inside look at teams and players from around the League, including several popular weekly segments",
+      "category": "الرياضة العام",
+      "genres": [
+        "الرياضة العام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:00:00+00:00",
+      "stop": "2026-11-16T19:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": true,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-21T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Daniil Medvedev vs [5]flavio Cobolli - Nitto ATP Finals Turin 2026",
+      "clean_title": "Daniil Medvedev vs [5]flavio Cobolli - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:30:00+00:00",
+      "stop": "2026-11-16T21:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T23:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T10:31:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Carlos Alcaraz (ESP) vs Frances Tiafoe (USA) - Nitto ATP Finals Turin 2026",
+      "clean_title": "Carlos Alcaraz (ESP) vs Frances Tiafoe (USA) - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T21:30:00+00:00",
+      "stop": "2026-11-16T23:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T08:31:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Daniil Medvedev vs [5]flavio Cobolli - Nitto ATP Finals Turin 2026",
+      "clean_title": "Daniil Medvedev vs [5]flavio Cobolli - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T23:30:00+00:00",
+      "stop": "2026-11-17T01:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T19:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T10:31:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Lithuania vs Liechtenstein - UEFA Nations League 2026/2027 - MD6",
+      "clean_title": "Lithuania vs Liechtenstein - UEFA Nations Leagu/2027 - MD6",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "sports",
+      "season": null,
+      "episode": 2026,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "الرياضة العام",
+      "genres": [
+        "الرياضة العام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T01:30:00+00:00",
+      "stop": "2026-11-17T03:15:00+00:00",
+      "duration_minutes": 105,
+      "is_live": true,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T16:50:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS2",
+          "start": "2026-11-18T09:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS2",
+          "start": "2026-11-18T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Premier Padel - Dubai P1 2026 - Final - Claudia Fernandez Sanchez Esp Martina Calvo Santamaria Esp v",
+      "clean_title": "Premier Padel - Dubai P1 2026 - Final - Claudia Fernandez Sanchez Esp Martina Calvo Santamaria Esp v",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "باديل",
+      "genres": [
+        "باديل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:15:00+00:00",
+      "stop": "2026-11-17T05:26:00+00:00",
+      "duration_minutes": 131,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-16T04:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-19T08:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Premier Padel - Dubai P1 2026 - Final - Valentino Libaak Arg Gonzalo Alfonso Arg vs Leandro Roman A",
+      "clean_title": "Premier Padel - Dubai P1 2026 - Final - Valentino Libaak Arg Gonzalo Alfonso Arg vs Leandro Roman A",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "باديل",
+      "genres": [
+        "باديل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T05:26:00+00:00",
+      "stop": "2026-11-17T08:31:00+00:00",
+      "duration_minutes": 185,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-16T06:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T15:15:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-19T10:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Carlos Alcaraz (ESP) vs Frances Tiafoe (USA) - Nitto ATP Finals Turin 2026",
+      "clean_title": "Carlos Alcaraz (ESP) vs Frances Tiafoe (USA) - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T08:31:00+00:00",
+      "stop": "2026-11-17T10:31:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Daniil Medvedev vs [5]flavio Cobolli - Nitto ATP Finals Turin 2026",
+      "clean_title": "Daniil Medvedev vs [5]flavio Cobolli - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:31:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 149,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T19:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T23:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "M1 - Nitto ATP Finals Turin 2026",
+      "clean_title": "M1 - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T15:15:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T21:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T08:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T21:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T09:10:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Premier Padel - Dubai P1 2026 - Final - Valentino Libaak Arg Gonzalo Alfonso Arg vs Leandro Roman A",
+      "clean_title": "Premier Padel - Dubai P1 2026 - Final - Valentino Libaak Arg Gonzalo Alfonso Arg vs Leandro Roman A",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "باديل",
+      "genres": [
+        "باديل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T15:15:00+00:00",
+      "stop": "2026-11-17T18:30:00+00:00",
+      "duration_minutes": 195,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-16T06:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T05:26:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-19T10:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "NBA Action 2026/2027",
+      "clean_title": "NBA Action 2026/2027",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "sports",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "NBA ACTION keeps pace with the competition on the court while offering viewers an inside look at teams and players from around the League, including several popular weekly segments",
+      "category": "الرياضة العام",
+      "genres": [
+        "الرياضة العام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:30:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": true,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-21T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ATP Tour - Magazine 2026",
+      "clean_title": "ATP Tour - Magazin",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "sports",
+      "season": null,
+      "episode": 2026,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ATP Tour This Week It is comprised of the various feature stories created by ATP Media and ATP Tour",
+      "category": "الرياضة العام",
+      "genres": [
+        "الرياضة العام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T19:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": true,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-15T20:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-16T16:15:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-18T15:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T23:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-19T01:15:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS5",
+          "start": "2026-11-19T06:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-21T20:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-22T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "M2- Nitto ATP Finals Turin 2026",
+      "clean_title": "M2- Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:30:00+00:00",
+      "stop": "2026-11-17T21:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T23:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T10:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T19:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T02:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T11:05:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "M1 - Nitto ATP Finals Turin 2026",
+      "clean_title": "M1 - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:30:00+00:00",
+      "stop": "2026-11-17T23:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T08:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T21:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T09:10:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "M2- Nitto ATP Finals Turin 2026",
+      "clean_title": "M2- Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T23:30:00+00:00",
+      "stop": "2026-11-18T01:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T10:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T19:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T02:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T11:05:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Aix vs Paris - Daikin StarLigue - French Handball - 2026",
+      "clean_title": "Aix vs Paris - Daikin StarLigue - French Handball - 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "sports",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "features the Liqui Moly StarLigue, France’s top men’s handball division. The competition brings together leading French clubs in a regular-season campaign, with teams battling for points, European qualification and the league title. The season showcases fast-paced action, tactical play and some of the country’s leading handball talent.",
+      "category": "كرة اليد",
+      "genres": [
+        "كرة اليد"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T01:30:00+00:00",
+      "stop": "2026-11-18T03:15:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-16T19:15:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-17T17:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Argentina vs Spain - FIP World Cup Qatar 2026 - Finals 1",
+      "clean_title": "Argentina vs Spain - FIP World Cup Qatar 2026 - Final",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 1,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "باديل",
+      "genres": [
+        "باديل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T03:15:00+00:00",
+      "stop": "2026-11-18T05:35:00+00:00",
+      "duration_minutes": 140,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-16T08:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-16T11:15:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-17T14:15:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-17T16:35:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T05:35:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T06:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Argentina vs Spain - FIP World Cup Qatar 2026 - Finals 2",
+      "clean_title": "Argentina vs Spain - FIP World Cup Qatar 2026 - Final",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "باديل",
+      "genres": [
+        "باديل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T05:35:00+00:00",
+      "stop": "2026-11-18T06:45:00+00:00",
+      "duration_minutes": 70,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-16T08:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-16T11:15:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-17T14:15:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-17T16:35:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T03:15:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T06:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Argentina vs Spain - FIP World Cup Qatar 2026 - Finals 3",
+      "clean_title": "Argentina vs Spain - FIP World Cup Qatar 2026 - Final",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 3,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "باديل",
+      "genres": [
+        "باديل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T06:45:00+00:00",
+      "stop": "2026-11-18T08:45:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-16T08:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-16T11:15:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-17T14:15:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-17T16:35:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T03:15:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T05:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "M1 - Nitto ATP Finals Turin 2026",
+      "clean_title": "M1 - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T08:45:00+00:00",
+      "stop": "2026-11-18T10:45:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T21:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T21:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T09:10:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "M2- Nitto ATP Finals Turin 2026",
+      "clean_title": "M2- Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T10:45:00+00:00",
+      "stop": "2026-11-18T13:00:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T23:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T19:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T02:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T11:05:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "M1 - Nitto ATP Finals Turin 2026",
+      "clean_title": "M1 - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T13:00:00+00:00",
+      "stop": "2026-11-18T15:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T21:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T08:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T21:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T09:10:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "NBA Action 2026/2027",
+      "clean_title": "NBA Action 2026/2027",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "sports",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "NBA ACTION keeps pace with the competition on the court while offering viewers an inside look at teams and players from around the League, including several popular weekly segments",
+      "category": "الرياضة العام",
+      "genres": [
+        "الرياضة العام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T15:00:00+00:00",
+      "stop": "2026-11-18T15:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": true,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-21T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Chaumont vs Toulouse - Alterna Volstar Volleyball French league",
+      "clean_title": "Chaumont vs Toulouse - Alterna Volstar Volleyball French league",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "sports",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "الكرة الطائرة",
+      "genres": [
+        "الكرة الطائرة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T15:30:00+00:00",
+      "stop": "2026-11-18T17:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "Chambery vs Nimes - Daikin StarLigue - French Handball - 2026",
+      "clean_title": "Chambery vs Nimes - Daikin StarLigue - French Handball - 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "sports",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "features the Liqui Moly StarLigue, France’s top men’s handball division. The competition brings together leading French clubs in a regular-season campaign, with teams battling for points, European qualification and the league title. The season showcases fast-paced action, tactical play and some of the country’s leading handball talent.",
+      "category": "كرة اليد",
+      "genres": [
+        "كرة اليد"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T17:30:00+00:00",
+      "stop": "2026-11-18T19:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-16T17:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-17T07:54:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "M2 - Nitto ATP Finals Turin 2026",
+      "clean_title": "M2 - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T19:30:00+00:00",
+      "stop": "2026-11-18T21:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T23:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T10:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T02:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T11:05:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "M1 - Nitto ATP Finals Turin 2026",
+      "clean_title": "M1 - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T21:30:00+00:00",
+      "stop": "2026-11-18T23:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T21:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T08:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T09:10:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ATP Tour - Magazine 2026",
+      "clean_title": "ATP Tour - Magazin",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "sports",
+      "season": null,
+      "episode": 2026,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ATP Tour This Week It is comprised of the various feature stories created by ATP Media and ATP Tour",
+      "category": "الرياضة العام",
+      "genres": [
+        "الرياضة العام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T23:30:00+00:00",
+      "stop": "2026-11-19T00:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": true,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-15T20:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-16T16:15:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-18T15:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-19T01:15:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS5",
+          "start": "2026-11-19T06:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-21T20:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-22T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Milwaukee vs Miami - NBA Season - 2026",
+      "clean_title": "Milwaukee vs Miami - NBA Season - 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "sports",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "الدوري الأميركي لكرة السلة",
+      "genres": [
+        "الدوري الأميركي لكرة السلة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T00:00:00+00:00",
+      "stop": "2026-11-19T02:30:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "M2 - Nitto ATP Finals Turin 2026",
+      "clean_title": "M2 - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T02:30:00+00:00",
+      "stop": "2026-11-19T04:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T23:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T10:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T19:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T11:05:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Spain vs Argentina - FIP World Cup Qatar 2026 - Finals 1",
+      "clean_title": "Spain vs Argentina - FIP World Cup Qatar 2026 - Final",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 1,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "باديل",
+      "genres": [
+        "باديل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T04:30:00+00:00",
+      "stop": "2026-11-19T06:20:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-16T03:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-16T05:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-17T09:35:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-17T11:25:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T06:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Spain vs Argentina - FIP World Cup Qatar 2026 - Finals 2",
+      "clean_title": "Spain vs Argentina - FIP World Cup Qatar 2026 - Final",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 2,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "باديل",
+      "genres": [
+        "باديل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T06:20:00+00:00",
+      "stop": "2026-11-19T09:10:00+00:00",
+      "duration_minutes": 170,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-16T03:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-16T05:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-17T09:35:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS6",
+          "start": "2026-11-17T11:25:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T04:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "M1 - Nitto ATP Finals Turin 2026",
+      "clean_title": "M1 - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T09:10:00+00:00",
+      "stop": "2026-11-19T11:05:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T21:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T08:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T21:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "M2 - Nitto ATP Finals Turin 2026",
+      "clean_title": "M2 - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T11:05:00+00:00",
+      "stop": "2026-11-19T13:00:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T23:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T10:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T19:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T02:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "M1 - Nitto ATP Finals Turin 2026",
+      "clean_title": "M1 - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T13:00:00+00:00",
+      "stop": "2026-11-19T15:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T21:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T08:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T21:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T09:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Milwaukee vs Miami - NBA Season - 2026",
+      "clean_title": "Milwaukee vs Miami - NBA Season - 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "sports",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "الدوري الأميركي لكرة السلة",
+      "genres": [
+        "الدوري الأميركي لكرة السلة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T15:00:00+00:00",
+      "stop": "2026-11-19T17:30:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Nantes vs Saint - Raphael - Daikin StarLigue - French Handball - 2026",
+      "clean_title": "Nantes vs Saint - Raphael - Daikin StarLigue - French Handball - 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "sports",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "كرة اليد",
+      "genres": [
+        "كرة اليد"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T17:30:00+00:00",
+      "stop": "2026-11-19T19:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-16T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ATP Tour - Magazine 2026",
+      "clean_title": "ATP Tour - Magazin",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "sports",
+      "season": null,
+      "episode": 2026,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ATP Tour This Week It is comprised of the various feature stories created by ATP Media and ATP Tour",
+      "category": "الرياضة العام",
+      "genres": [
+        "الرياضة العام"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T19:00:00+00:00",
+      "stop": "2026-11-19T19:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": true,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-15T20:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS8",
+          "start": "2026-11-16T16:15:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-18T15:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T23:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-19T01:15:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS5",
+          "start": "2026-11-19T06:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-21T20:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS",
+          "start": "2026-11-22T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "M2 - Nitto ATP Finals Turin 2026",
+      "clean_title": "M2 - Nitto ATP Finals Turin 2026",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "تنس",
+      "genres": [
+        "تنس"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T19:30:00+00:00",
+      "stop": "2026-11-19T19:30:00+00:00",
+      "duration_minutes": null,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/iODFwZi.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-17T23:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T10:45:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-18T19:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T02:30:00+00:00"
+        },
+        {
+          "channel": "beINSPORTS7",
+          "start": "2026-11-19T11:05:00+00:00"
+        }
+      ]
+    }
+  ]
+}

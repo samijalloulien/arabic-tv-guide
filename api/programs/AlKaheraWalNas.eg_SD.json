@@ -2,249 +2,8 @@
   "channel_id": "AlKaheraWalNas.eg@SD",
   "channel_name": "القاهرة والناس",
   "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+  "days_count": 7,
   "programs": [
-    {
-      "tmdb_id": 293610,
-      "title": "برنامج الدكتور",
-      "clean_title": "الدكتور",
-      "original_title": "닥터X: 하얀 마피아의 시대",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 12,
-      "description": "في مستشفى يسيطر عليه الغرور والفساد، تصل جراحة غامضة وعبقرية لتتصدّى لحالات تبدو مستحيلة رغم معارضة شرسة.",
-      "category": "General",
-      "genres": [
-        "General",
-        "غموض",
-        "دراما",
-        "جريمة"
-      ],
-      "rating": 8.6,
-      "vote_count": 63,
-      "age_rating": "TV-MA",
-      "year": "2026",
-      "release_date": "2026-10-09",
-      "status": "Ended",
-      "country": "كوريا الجنوبية",
-      "language": "الكورية",
-      "director": "편성근",
-      "cast": [
-        {
-          "name": "كيم جي وون",
-          "character": "Gye Su-jeong",
-          "profile_image": "https://image.tmdb.org/t/p/w185/s9RWmg01tHjripYkeIicV78vo6x.jpg"
-        },
-        {
-          "name": "이정은",
-          "character": "Jeong Hee-sook",
-          "profile_image": "https://image.tmdb.org/t/p/w185/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
-        },
-        {
-          "name": "손현주",
-          "character": "Bu Seung-gwon",
-          "profile_image": "https://image.tmdb.org/t/p/w185/pOpqydpiDrXvd9ynZEt8GQl6yJD.jpg"
-        },
-        {
-          "name": "김우석",
-          "character": "Park Tae-gyeong",
-          "profile_image": "https://image.tmdb.org/t/p/w185/pjuqZJRCw5BgAZf5CtjXNAmOAmd.jpg"
-        },
-        {
-          "name": "이진희",
-          "character": "Jo Won-jin",
-          "profile_image": "https://image.tmdb.org/t/p/w185/ejdN4VmStDyyhi7sN5Nox5VVh5x.jpg"
-        },
-        {
-          "name": "Kim Young-min",
-          "character": "Do Yoon-sik",
-          "profile_image": "https://image.tmdb.org/t/p/w185/xXbY65ATWU0VGd59Ry16o3mnxps.jpg"
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-16T12:00:00+00:00",
-      "stop": "2026-11-16T14:00:00+00:00",
-      "duration_minutes": 120,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
-      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-17T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 231934,
-      "title": "فيلم عربي",
-      "clean_title": "عربي",
-      "original_title": "فزلكة عربية 3",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 1,
-      "description": "سلسلة ويب رائدة يتناول فيها صناع الأفلام من العالم العربي عملية صناعة الأفلام.",
-      "category": "General",
-      "genres": [
-        "General",
-        "كوميديا"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": "Ended",
-      "country": "سوريا",
-      "language": "العربية",
-      "director": null,
-      "cast": [
-        {
-          "name": "عبير شمس الدين",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/fU1vow2Wu332cK95o97hTscfpTA.jpg"
-        },
-        {
-          "name": "محمد خير الجراح",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/3OzfCRoKDWiK2DX8CnEcQ1UnA2g.jpg"
-        },
-        {
-          "name": "سوسن ميخائيل",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/uOj5qTmUn4FBhZS2fSMJIx9F1c0.jpg"
-        },
-        {
-          "name": "عاصم حواط",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/qpQPDH9sIIVeXo1ItlN7aiMkBaf.jpg"
-        },
-        {
-          "name": "إنجي شرف",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/xC05hdOdxyp4pSpQZmRRwJVLdpI.jpg"
-        },
-        {
-          "name": "يزن السيد",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/mZ3WZrFEpxLQIWvPZXSrRjodBX1.jpg"
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-16T14:00:00+00:00",
-      "stop": "2026-11-16T16:00:00+00:00",
-      "duration_minutes": 120,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/aZobPp2pdKQTVxpxG3Iq0etvLph.jpg",
-      "backdrop": null,
-      "icon": "https://image.tmdb.org/t/p/w500/aZobPp2pdKQTVxpxG3Iq0etvLph.jpg",
-      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "DMC HD",
-          "start": "2026-11-16T01:30:00+00:00"
-        },
-        {
-          "channel": "DMC HD",
-          "start": "2026-11-16T10:00:00+00:00"
-        },
-        {
-          "channel": "سي بي سي",
-          "start": "2026-11-16T11:00:00+00:00"
-        },
-        {
-          "channel": "أون إي",
-          "start": "2026-11-16T12:00:00+00:00"
-        },
-        {
-          "channel": "DMC HD",
-          "start": "2026-11-17T01:30:00+00:00"
-        },
-        {
-          "channel": "DMC HD",
-          "start": "2026-11-17T10:00:00+00:00"
-        },
-        {
-          "channel": "سي بي سي",
-          "start": "2026-11-17T11:00:00+00:00"
-        },
-        {
-          "channel": "أون إي",
-          "start": "2026-11-17T12:00:00+00:00"
-        },
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-17T14:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": null,
-      "title": "برنامج طبخة وقلبت بجد",
-      "clean_title": "طبخة وقلبت بجد",
-      "original_title": null,
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "program",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "",
-      "category": "General",
-      "genres": [
-        "General"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-16T16:00:00+00:00",
-      "stop": "2026-11-16T17:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-17T10:00:00+00:00"
-        },
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-17T16:00:00+00:00"
-        }
-      ]
-    },
     {
       "tmdb_id": 82416,
       "title": "وجوه",
@@ -302,8 +61,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-16T17:00:00+00:00",
-      "stop": "2026-11-16T18:00:00+00:00",
+      "start": "2026-11-16T12:00:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/sxodZZAx218LY7XmGVTiZ1lYs40.jpg",
@@ -314,23 +73,71 @@
       "reruns": [
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-16T21:48:00+00:00"
+          "start": "2026-11-16T16:48:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T05:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T04:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T11:00:00+00:00"
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T09:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T17:00:00+00:00"
+          "start": "2026-11-17T12:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T21:48:00+00:00"
+          "start": "2026-11-17T16:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T16:46:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T21:00:00+00:00"
         }
       ]
     },
@@ -395,8 +202,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-16T18:00:00+00:00",
-      "stop": "2026-11-16T19:00:00+00:00",
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/mPR2tG6pLzJGtzBxCg5VaLMwngx.jpg",
@@ -406,16 +213,64 @@
       "is_rerun": false,
       "reruns": [
         {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-17T08:00:00+00:00"
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-16T15:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T18:00:00+00:00"
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T05:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T22:53:00+00:00"
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T17:53:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T17:58:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T17:39:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T22:00:00+00:00"
         }
       ]
     },
@@ -447,8 +302,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-16T19:00:00+00:00",
-      "stop": "2026-11-16T20:30:00+00:00",
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:30:00+00:00",
       "duration_minutes": 90,
       "is_live": false,
       "poster": null,
@@ -459,11 +314,31 @@
       "reruns": [
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T06:00:00+00:00"
+          "start": "2026-11-17T01:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T19:00:00+00:00"
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T18:00:00+00:00"
         }
       ]
     },
@@ -527,8 +402,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-16T20:30:00+00:00",
-      "stop": "2026-11-16T21:48:00+00:00",
+      "start": "2026-11-16T15:30:00+00:00",
+      "stop": "2026-11-16T16:48:00+00:00",
       "duration_minutes": 78,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/t12tg4KPXhpN9pMKLEgrAugII6Z.jpg",
@@ -539,7 +414,11 @@
       "reruns": [
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T20:30:00+00:00"
+          "start": "2026-11-17T15:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T15:30:00+00:00"
         }
       ]
     },
@@ -600,8 +479,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-16T21:48:00+00:00",
-      "stop": "2026-11-16T22:53:00+00:00",
+      "start": "2026-11-16T16:48:00+00:00",
+      "stop": "2026-11-16T17:53:00+00:00",
       "duration_minutes": 65,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/sxodZZAx218LY7XmGVTiZ1lYs40.jpg",
@@ -612,376 +491,6 @@
       "reruns": [
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-16T17:00:00+00:00"
-        },
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-17T05:00:00+00:00"
-        },
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-17T11:00:00+00:00"
-        },
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-17T17:00:00+00:00"
-        },
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-17T21:48:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 314193,
-      "title": "الكاميرا الخفية",
-      "clean_title": "الكاميرا الخفية",
-      "original_title": "الكاميرا الخفية",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 31,
-      "description": "مجموعة من المقالب التي يقع فيها الضيوف، ويقدمها الفنان (إبراهيم نصر)، ومن أبرز الشخصيات التي جسدها شخصية سيدة اسمها (زكية زكريا).",
-      "category": "برنامج",
-      "genres": [
-        "برنامج",
-        "كوميديا"
-      ],
-      "rating": 10,
-      "vote_count": 1,
-      "age_rating": null,
-      "year": "2026",
-      "release_date": "2026-02-18",
-      "status": "Returning Series",
-      "country": "مصر",
-      "language": "العربية",
-      "director": null,
-      "cast": [
-        {
-          "name": "تميم يونس",
-          "character": "تميم يونس",
-          "profile_image": "https://image.tmdb.org/t/p/w185/qRQCqrOUTJxSbvuTogTMf3b9BOf.jpg"
-        },
-        {
-          "name": "Mostafa Asran",
-          "character": null,
-          "profile_image": null
-        },
-        {
-          "name": "Mahmoud Hussam",
-          "character": null,
-          "profile_image": null
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-16T23:48:00+00:00",
-      "stop": "2026-11-17T00:00:00+00:00",
-      "duration_minutes": 12,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/aYuO6qxYCLdOLM3YUmL4yWc1zuD.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
-      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-17T02:42:00+00:00"
-        },
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-17T09:41:00+00:00"
-        },
-        {
-          "channel": "أون إي",
-          "start": "2026-11-17T14:00:00+00:00"
-        },
-        {
-          "channel": "أون إي",
-          "start": "2026-11-17T22:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 293610,
-      "title": "برنامج الدكتور",
-      "clean_title": "الدكتور",
-      "original_title": "닥터X: 하얀 마피아의 시대",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 12,
-      "description": "في مستشفى يسيطر عليه الغرور والفساد، تصل جراحة غامضة وعبقرية لتتصدّى لحالات تبدو مستحيلة رغم معارضة شرسة.",
-      "category": "General",
-      "genres": [
-        "General",
-        "غموض",
-        "دراما",
-        "جريمة"
-      ],
-      "rating": 8.6,
-      "vote_count": 63,
-      "age_rating": "TV-MA",
-      "year": "2026",
-      "release_date": "2026-10-09",
-      "status": "Ended",
-      "country": "كوريا الجنوبية",
-      "language": "الكورية",
-      "director": "편성근",
-      "cast": [
-        {
-          "name": "كيم جي وون",
-          "character": "Gye Su-jeong",
-          "profile_image": "https://image.tmdb.org/t/p/w185/s9RWmg01tHjripYkeIicV78vo6x.jpg"
-        },
-        {
-          "name": "이정은",
-          "character": "Jeong Hee-sook",
-          "profile_image": "https://image.tmdb.org/t/p/w185/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
-        },
-        {
-          "name": "손현주",
-          "character": "Bu Seung-gwon",
-          "profile_image": "https://image.tmdb.org/t/p/w185/pOpqydpiDrXvd9ynZEt8GQl6yJD.jpg"
-        },
-        {
-          "name": "김우석",
-          "character": "Park Tae-gyeong",
-          "profile_image": "https://image.tmdb.org/t/p/w185/pjuqZJRCw5BgAZf5CtjXNAmOAmd.jpg"
-        },
-        {
-          "name": "이진희",
-          "character": "Jo Won-jin",
-          "profile_image": "https://image.tmdb.org/t/p/w185/ejdN4VmStDyyhi7sN5Nox5VVh5x.jpg"
-        },
-        {
-          "name": "Kim Young-min",
-          "character": "Do Yoon-sik",
-          "profile_image": "https://image.tmdb.org/t/p/w185/xXbY65ATWU0VGd59Ry16o3mnxps.jpg"
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-17T00:00:00+00:00",
-      "stop": "2026-11-17T02:13:00+00:00",
-      "duration_minutes": 133,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
-      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-16T12:00:00+00:00"
-        },
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-17T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": null,
-      "title": "حسين على الهوا",
-      "clean_title": "حسين على الهوا",
-      "original_title": null,
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "program",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "يقوم الفنان حسين الأمام بعمل مقالب على عدد كبير من النجوم والمشاهير خلال استضافتهم لهم في برنامجه التليفزيوني.",
-      "category": "برنامج",
-      "genres": [
-        "برنامج"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-17T02:13:00+00:00",
-      "stop": "2026-11-17T02:42:00+00:00",
-      "duration_minutes": 29,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-17T09:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 314193,
-      "title": "الكاميرا الخفية",
-      "clean_title": "الكاميرا الخفية",
-      "original_title": "الكاميرا الخفية",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 31,
-      "description": "مجموعة من المقالب التي يقع فيها الضيوف، ويقدمها الفنان (إبراهيم نصر)، ومن أبرز الشخصيات التي جسدها شخصية سيدة اسمها (زكية زكريا).",
-      "category": "برنامج",
-      "genres": [
-        "برنامج",
-        "كوميديا"
-      ],
-      "rating": 10,
-      "vote_count": 1,
-      "age_rating": null,
-      "year": "2026",
-      "release_date": "2026-02-18",
-      "status": "Returning Series",
-      "country": "مصر",
-      "language": "العربية",
-      "director": null,
-      "cast": [
-        {
-          "name": "تميم يونس",
-          "character": "تميم يونس",
-          "profile_image": "https://image.tmdb.org/t/p/w185/qRQCqrOUTJxSbvuTogTMf3b9BOf.jpg"
-        },
-        {
-          "name": "Mostafa Asran",
-          "character": null,
-          "profile_image": null
-        },
-        {
-          "name": "Mahmoud Hussam",
-          "character": null,
-          "profile_image": null
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-17T02:42:00+00:00",
-      "stop": "2026-11-17T03:00:00+00:00",
-      "duration_minutes": 18,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/aYuO6qxYCLdOLM3YUmL4yWc1zuD.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
-      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-16T23:48:00+00:00"
-        },
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-17T09:41:00+00:00"
-        },
-        {
-          "channel": "أون إي",
-          "start": "2026-11-17T14:00:00+00:00"
-        },
-        {
-          "channel": "أون إي",
-          "start": "2026-11-17T22:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 293610,
-      "title": "برنامج الدكتور",
-      "clean_title": "الدكتور",
-      "original_title": "닥터X: 하얀 마피아의 시대",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 12,
-      "description": "في مستشفى يسيطر عليه الغرور والفساد، تصل جراحة غامضة وعبقرية لتتصدّى لحالات تبدو مستحيلة رغم معارضة شرسة.",
-      "category": "General",
-      "genres": [
-        "General",
-        "غموض",
-        "دراما",
-        "جريمة"
-      ],
-      "rating": 8.6,
-      "vote_count": 63,
-      "age_rating": "TV-MA",
-      "year": "2026",
-      "release_date": "2026-10-09",
-      "status": "Ended",
-      "country": "كوريا الجنوبية",
-      "language": "الكورية",
-      "director": "편성근",
-      "cast": [
-        {
-          "name": "كيم جي وون",
-          "character": "Gye Su-jeong",
-          "profile_image": "https://image.tmdb.org/t/p/w185/s9RWmg01tHjripYkeIicV78vo6x.jpg"
-        },
-        {
-          "name": "이정은",
-          "character": "Jeong Hee-sook",
-          "profile_image": "https://image.tmdb.org/t/p/w185/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
-        },
-        {
-          "name": "손현주",
-          "character": "Bu Seung-gwon",
-          "profile_image": "https://image.tmdb.org/t/p/w185/pOpqydpiDrXvd9ynZEt8GQl6yJD.jpg"
-        },
-        {
-          "name": "김우석",
-          "character": "Park Tae-gyeong",
-          "profile_image": "https://image.tmdb.org/t/p/w185/pjuqZJRCw5BgAZf5CtjXNAmOAmd.jpg"
-        },
-        {
-          "name": "이진희",
-          "character": "Jo Won-jin",
-          "profile_image": "https://image.tmdb.org/t/p/w185/ejdN4VmStDyyhi7sN5Nox5VVh5x.jpg"
-        },
-        {
-          "name": "Kim Young-min",
-          "character": "Do Yoon-sik",
-          "profile_image": "https://image.tmdb.org/t/p/w185/xXbY65ATWU0VGd59Ry16o3mnxps.jpg"
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-17T03:00:00+00:00",
-      "stop": "2026-11-17T05:00:00+00:00",
-      "duration_minutes": 120,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
-      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "القاهرة والناس",
           "start": "2026-11-16T12:00:00+00:00"
         },
         {
@@ -989,8 +498,64 @@
           "start": "2026-11-17T00:00:00+00:00"
         },
         {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
           "channel": "القاهرة والناس",
           "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T16:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T16:46:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T21:00:00+00:00"
         }
       ]
     },
@@ -1051,8 +616,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T05:00:00+00:00",
-      "stop": "2026-11-17T06:00:00+00:00",
+      "start": "2026-11-17T00:00:00+00:00",
+      "stop": "2026-11-17T01:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/sxodZZAx218LY7XmGVTiZ1lYs40.jpg",
@@ -1063,23 +628,71 @@
       "reruns": [
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-16T17:00:00+00:00"
+          "start": "2026-11-16T12:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-16T21:48:00+00:00"
+          "start": "2026-11-16T16:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T04:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T11:00:00+00:00"
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T09:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T17:00:00+00:00"
+          "start": "2026-11-17T12:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T21:48:00+00:00"
+          "start": "2026-11-17T16:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T16:46:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T21:00:00+00:00"
         }
       ]
     },
@@ -1111,8 +724,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T06:00:00+00:00",
-      "stop": "2026-11-17T08:00:00+00:00",
+      "start": "2026-11-17T01:00:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
       "duration_minutes": 120,
       "is_live": false,
       "poster": null,
@@ -1123,11 +736,31 @@
       "reruns": [
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-16T19:00:00+00:00"
+          "start": "2026-11-16T14:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T19:00:00+00:00"
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T18:00:00+00:00"
         }
       ]
     },
@@ -1192,8 +825,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T08:00:00+00:00",
-      "stop": "2026-11-17T09:00:00+00:00",
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/mPR2tG6pLzJGtzBxCg5VaLMwngx.jpg",
@@ -1204,15 +837,63 @@
       "reruns": [
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-16T18:00:00+00:00"
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T05:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T18:00:00+00:00"
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T15:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T22:53:00+00:00"
+          "start": "2026-11-17T17:53:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T17:58:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T17:39:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T22:00:00+00:00"
         }
       ]
     },
@@ -1244,8 +925,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T09:00:00+00:00",
-      "stop": "2026-11-17T09:41:00+00:00",
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T04:41:00+00:00",
       "duration_minutes": 41,
       "is_live": false,
       "poster": null,
@@ -1255,8 +936,32 @@
       "is_rerun": true,
       "reruns": [
         {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-16T12:27:00+00:00"
+        },
+        {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T02:13:00+00:00"
+          "start": "2026-11-17T21:13:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T23:27:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T04:36:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T21:15:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T23:27:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T21:15:00+00:00"
         }
       ]
     },
@@ -1305,31 +1010,71 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T09:41:00+00:00",
-      "stop": "2026-11-17T10:00:00+00:00",
+      "start": "2026-11-17T04:41:00+00:00",
+      "stop": "2026-11-17T05:00:00+00:00",
       "duration_minutes": 19,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w780/aYuO6qxYCLdOLM3YUmL4yWc1zuD.jpg",
       "icon": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
       "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
-      "is_rerun": true,
+      "is_rerun": false,
       "reruns": [
         {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-16T23:48:00+00:00"
-        },
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-17T02:42:00+00:00"
+          "channel": "أون إي",
+          "start": "2026-11-17T09:00:00+00:00"
         },
         {
           "channel": "أون إي",
-          "start": "2026-11-17T14:00:00+00:00"
+          "start": "2026-11-17T17:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T18:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T21:42:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T23:00:00+00:00"
         },
         {
           "channel": "أون إي",
-          "start": "2026-11-17T22:30:00+00:00"
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T12:44:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T17:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T18:52:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T21:46:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T18:44:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T20:51:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T21:37:00+00:00"
         }
       ]
     },
@@ -1361,23 +1106,31 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T10:00:00+00:00",
-      "stop": "2026-11-17T11:00:00+00:00",
+      "start": "2026-11-17T05:00:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
       "backdrop": null,
       "icon": null,
       "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
-      "is_rerun": true,
+      "is_rerun": false,
       "reruns": [
         {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-16T16:00:00+00:00"
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T08:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T16:00:00+00:00"
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T08:00:00+00:00"
         }
       ]
     },
@@ -1438,8 +1191,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T11:00:00+00:00",
-      "stop": "2026-11-17T12:00:00+00:00",
+      "start": "2026-11-17T06:00:00+00:00",
+      "stop": "2026-11-17T07:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/sxodZZAx218LY7XmGVTiZ1lYs40.jpg",
@@ -1450,23 +1203,71 @@
       "reruns": [
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-16T17:00:00+00:00"
+          "start": "2026-11-16T12:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-16T21:48:00+00:00"
+          "start": "2026-11-16T16:48:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T05:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T09:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T17:00:00+00:00"
+          "start": "2026-11-17T12:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T21:48:00+00:00"
+          "start": "2026-11-17T16:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T16:46:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T21:00:00+00:00"
         }
       ]
     },
@@ -1532,8 +1333,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T12:00:00+00:00",
-      "stop": "2026-11-17T14:00:00+00:00",
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
       "duration_minutes": 120,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
@@ -1543,16 +1344,40 @@
       "is_rerun": true,
       "reruns": [
         {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-16T12:00:00+00:00"
-        },
-        {
-          "channel": "القاهرة والناس",
+          "channel": "القاهرة والناس 2",
           "start": "2026-11-17T00:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T03:00:00+00:00"
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T22:00:00+00:00"
         }
       ]
     },
@@ -1616,8 +1441,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T14:00:00+00:00",
-      "stop": "2026-11-17T16:00:00+00:00",
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T11:00:00+00:00",
       "duration_minutes": 120,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/aZobPp2pdKQTVxpxG3Iq0etvLph.jpg",
@@ -1635,20 +1460,20 @@
           "start": "2026-11-16T10:00:00+00:00"
         },
         {
+          "channel": "DMC HD",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
           "channel": "سي بي سي",
-          "start": "2026-11-16T11:00:00+00:00"
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T06:00:00+00:00"
         },
         {
           "channel": "أون إي",
-          "start": "2026-11-16T12:00:00+00:00"
-        },
-        {
-          "channel": "القاهرة والناس",
-          "start": "2026-11-16T14:00:00+00:00"
-        },
-        {
-          "channel": "DMC HD",
-          "start": "2026-11-17T01:30:00+00:00"
+          "start": "2026-11-17T07:00:00+00:00"
         },
         {
           "channel": "DMC HD",
@@ -1656,11 +1481,31 @@
         },
         {
           "channel": "سي بي سي",
-          "start": "2026-11-17T11:00:00+00:00"
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T06:00:00+00:00"
         },
         {
           "channel": "أون إي",
-          "start": "2026-11-17T12:00:00+00:00"
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-19T17:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-19T20:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-20T21:30:00+00:00"
         }
       ]
     },
@@ -1692,8 +1537,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T16:00:00+00:00",
-      "stop": "2026-11-17T17:00:00+00:00",
+      "start": "2026-11-17T11:00:00+00:00",
+      "stop": "2026-11-17T12:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
@@ -1704,11 +1549,19 @@
       "reruns": [
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-16T16:00:00+00:00"
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T08:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T10:00:00+00:00"
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T08:00:00+00:00"
         }
       ]
     },
@@ -1769,8 +1622,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T17:00:00+00:00",
-      "stop": "2026-11-17T18:00:00+00:00",
+      "start": "2026-11-17T12:00:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/sxodZZAx218LY7XmGVTiZ1lYs40.jpg",
@@ -1781,23 +1634,71 @@
       "reruns": [
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-16T17:00:00+00:00"
+          "start": "2026-11-16T12:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-16T21:48:00+00:00"
+          "start": "2026-11-16T16:48:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T05:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T04:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T11:00:00+00:00"
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T09:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T21:48:00+00:00"
+          "start": "2026-11-17T16:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T16:46:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T21:00:00+00:00"
         }
       ]
     },
@@ -1862,8 +1763,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T18:00:00+00:00",
-      "stop": "2026-11-17T19:00:00+00:00",
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/mPR2tG6pLzJGtzBxCg5VaLMwngx.jpg",
@@ -1874,15 +1775,63 @@
       "reruns": [
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-16T18:00:00+00:00"
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-16T15:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T08:00:00+00:00"
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T15:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T22:53:00+00:00"
+          "start": "2026-11-17T17:53:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T17:58:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T17:39:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T22:00:00+00:00"
         }
       ]
     },
@@ -1914,8 +1863,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T19:00:00+00:00",
-      "stop": "2026-11-17T20:30:00+00:00",
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T15:30:00+00:00",
       "duration_minutes": 90,
       "is_live": false,
       "poster": null,
@@ -1926,11 +1875,31 @@
       "reruns": [
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-16T19:00:00+00:00"
+          "start": "2026-11-16T14:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T06:00:00+00:00"
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T18:00:00+00:00"
         }
       ]
     },
@@ -1994,8 +1963,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T20:30:00+00:00",
-      "stop": "2026-11-17T21:48:00+00:00",
+      "start": "2026-11-17T15:30:00+00:00",
+      "stop": "2026-11-17T16:48:00+00:00",
       "duration_minutes": 78,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/t12tg4KPXhpN9pMKLEgrAugII6Z.jpg",
@@ -2006,7 +1975,11 @@
       "reruns": [
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-16T20:30:00+00:00"
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T15:30:00+00:00"
         }
       ]
     },
@@ -2067,8 +2040,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T21:48:00+00:00",
-      "stop": "2026-11-17T22:58:00+00:00",
+      "start": "2026-11-17T16:48:00+00:00",
+      "stop": "2026-11-17T17:58:00+00:00",
       "duration_minutes": 70,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/sxodZZAx218LY7XmGVTiZ1lYs40.jpg",
@@ -2079,23 +2052,71 @@
       "reruns": [
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-16T17:00:00+00:00"
+          "start": "2026-11-16T12:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-16T21:48:00+00:00"
+          "start": "2026-11-16T16:48:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T05:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T04:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T11:00:00+00:00"
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T09:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-17T17:00:00+00:00"
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T16:46:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T21:00:00+00:00"
         }
       ]
     },
@@ -2160,8 +2181,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T22:53:00+00:00",
-      "stop": "2026-11-17T23:48:00+00:00",
+      "start": "2026-11-17T17:53:00+00:00",
+      "stop": "2026-11-17T18:48:00+00:00",
       "duration_minutes": 55,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/mPR2tG6pLzJGtzBxCg5VaLMwngx.jpg",
@@ -2172,15 +2193,4530 @@
       "reruns": [
         {
           "channel": "القاهرة والناس",
-          "start": "2026-11-16T18:00:00+00:00"
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-16T15:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T17:58:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T17:39:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314193,
+      "title": "الكاميرا الخفية",
+      "clean_title": "الكاميرا الخفية",
+      "original_title": "الكاميرا الخفية",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 31,
+      "description": "مجموعة من المقالب التي يقع فيها الضيوف، ويقدمها الفنان (إبراهيم نصر)، ومن أبرز الشخصيات التي جسدها شخصية سيدة اسمها (زكية زكريا).",
+      "category": "برنامج",
+      "genres": [
+        "برنامج",
+        "كوميديا"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Returning Series",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "تميم يونس",
+          "character": "تميم يونس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qRQCqrOUTJxSbvuTogTMf3b9BOf.jpg"
+        },
+        {
+          "name": "Mostafa Asran",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Mahmoud Hussam",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T18:48:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 12,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aYuO6qxYCLdOLM3YUmL4yWc1zuD.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T04:41:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T17:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T21:42:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T12:44:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T17:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T18:52:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T21:46:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T18:44:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T20:51:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T21:37:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 293610,
+      "title": "برنامج الدكتور",
+      "clean_title": "الدكتور",
+      "original_title": "닥터X: 하얀 마피아의 시대",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "description": "في مستشفى يسيطر عليه الغرور والفساد، تصل جراحة غامضة وعبقرية لتتصدّى لحالات تبدو مستحيلة رغم معارضة شرسة.",
+      "category": "General",
+      "genres": [
+        "General",
+        "غموض",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 8.6,
+      "vote_count": 63,
+      "age_rating": "TV-MA",
+      "year": "2026",
+      "release_date": "2026-10-09",
+      "status": "Ended",
+      "country": "كوريا الجنوبية",
+      "language": "الكورية",
+      "director": "편성근",
+      "cast": [
+        {
+          "name": "كيم جي وون",
+          "character": "Gye Su-jeong",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s9RWmg01tHjripYkeIicV78vo6x.jpg"
+        },
+        {
+          "name": "이정은",
+          "character": "Jeong Hee-sook",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
+        },
+        {
+          "name": "손현주",
+          "character": "Bu Seung-gwon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pOpqydpiDrXvd9ynZEt8GQl6yJD.jpg"
+        },
+        {
+          "name": "김우석",
+          "character": "Park Tae-gyeong",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pjuqZJRCw5BgAZf5CtjXNAmOAmd.jpg"
+        },
+        {
+          "name": "이진희",
+          "character": "Jo Won-jin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ejdN4VmStDyyhi7sN5Nox5VVh5x.jpg"
+        },
+        {
+          "name": "Kim Young-min",
+          "character": "Do Yoon-sik",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xXbY65ATWU0VGd59Ry16o3mnxps.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T21:13:00+00:00",
+      "duration_minutes": 133,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "حسين على الهوا",
+      "clean_title": "حسين على الهوا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم الفنان حسين الأمام بعمل مقالب على عدد كبير من النجوم والمشاهير خلال استضافتهم لهم في برنامجه التليفزيوني.",
+      "category": "برنامج",
+      "genres": [
+        "برنامج"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:13:00+00:00",
+      "stop": "2026-11-17T21:42:00+00:00",
+      "duration_minutes": 29,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-16T12:27:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T23:27:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T04:36:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T21:15:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T23:27:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T21:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314193,
+      "title": "الكاميرا الخفية",
+      "clean_title": "الكاميرا الخفية",
+      "original_title": "الكاميرا الخفية",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 31,
+      "description": "مجموعة من المقالب التي يقع فيها الضيوف، ويقدمها الفنان (إبراهيم نصر)، ومن أبرز الشخصيات التي جسدها شخصية سيدة اسمها (زكية زكريا).",
+      "category": "برنامج",
+      "genres": [
+        "برنامج",
+        "كوميديا"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Returning Series",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "تميم يونس",
+          "character": "تميم يونس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qRQCqrOUTJxSbvuTogTMf3b9BOf.jpg"
+        },
+        {
+          "name": "Mostafa Asran",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Mahmoud Hussam",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T21:42:00+00:00",
+      "stop": "2026-11-17T22:00:00+00:00",
+      "duration_minutes": 18,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aYuO6qxYCLdOLM3YUmL4yWc1zuD.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T04:41:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T17:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T18:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T12:44:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T17:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T18:52:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T21:46:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T18:44:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T20:51:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T21:37:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 293610,
+      "title": "برنامج الدكتور",
+      "clean_title": "الدكتور",
+      "original_title": "닥터X: 하얀 마피아의 시대",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "description": "في مستشفى يسيطر عليه الغرور والفساد، تصل جراحة غامضة وعبقرية لتتصدّى لحالات تبدو مستحيلة رغم معارضة شرسة.",
+      "category": "General",
+      "genres": [
+        "General",
+        "غموض",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 8.6,
+      "vote_count": 63,
+      "age_rating": "TV-MA",
+      "year": "2026",
+      "release_date": "2026-10-09",
+      "status": "Ended",
+      "country": "كوريا الجنوبية",
+      "language": "الكورية",
+      "director": "편성근",
+      "cast": [
+        {
+          "name": "كيم جي وون",
+          "character": "Gye Su-jeong",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s9RWmg01tHjripYkeIicV78vo6x.jpg"
+        },
+        {
+          "name": "이정은",
+          "character": "Jeong Hee-sook",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
+        },
+        {
+          "name": "손현주",
+          "character": "Bu Seung-gwon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pOpqydpiDrXvd9ynZEt8GQl6yJD.jpg"
+        },
+        {
+          "name": "김우석",
+          "character": "Park Tae-gyeong",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pjuqZJRCw5BgAZf5CtjXNAmOAmd.jpg"
+        },
+        {
+          "name": "이진희",
+          "character": "Jo Won-jin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ejdN4VmStDyyhi7sN5Nox5VVh5x.jpg"
+        },
+        {
+          "name": "Kim Young-min",
+          "character": "Do Yoon-sik",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xXbY65ATWU0VGd59Ry16o3mnxps.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T22:00:00+00:00",
+      "stop": "2026-11-18T00:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 82416,
+      "title": "وجوه",
+      "clean_title": "وجوه",
+      "original_title": "Kuch Rang Pyaar Ke Aise Bhi",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 505,
+      "description": "ينقسم مسلسل وجوه إلى قصتين: وش تالت، وميتافرس. تقدم وش تالت قصة طبيبة تخرج من السجن لتبدأ رحلة بحث عن ابنتها ورحلة مواجهة مرض الذهان. أما في ميتافرس، ترفض البطلة الحياة في الواقع وتقتحم العالم الافتراضي لتنتقم لنفسها من أعدائها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "أوبرا صابونية",
+        "عائلي"
+      ],
+      "rating": 10,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2016",
+      "release_date": "2016-02-28",
+      "status": "Ended",
+      "country": "الهند",
+      "language": "الهندية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Erica Fernandes",
+          "character": "Sonakshi Bose",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xJwghASVhBBkTLXaAlSox0kjVAm.jpg"
+        },
+        {
+          "name": "Shaheer Sheikh",
+          "character": "Dev Dixit",
+          "profile_image": "https://image.tmdb.org/t/p/w185/FK2To026DBNdegv5hSRx81Vyhf.jpg"
+        },
+        {
+          "name": "Supriya Pilgaonkar",
+          "character": "Ishwari Dixit",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zCAqu5hpjvjpC9J1Y9Xs7Di0hUC.jpg"
+        },
+        {
+          "name": "Jagat Bhushan Singh",
+          "character": "Bijoy Bose",
+          "profile_image": null
+        },
+        {
+          "name": "Mushtaq Khan",
+          "character": "Baldev Tripathi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xj2fPOfGRiQCFp7V9MUAlshNGZH.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T00:00:00+00:00",
+      "stop": "2026-11-18T01:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/sxodZZAx218LY7XmGVTiZ1lYs40.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nVL0iAHlJNQaXSeubgj9SSfw7uk.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/sxodZZAx218LY7XmGVTiZ1lYs40.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T16:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T16:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T16:46:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج حديث القاهرة",
+      "clean_title": "حديث القاهرة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T01:00:00+00:00",
+      "stop": "2026-11-18T03:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 121739,
+      "title": "فارس بلا جواز",
+      "clean_title": "فارس بلا جواز",
+      "original_title": "فارس بلا جواز",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "من خلال حلقات متصلة منفصلة، تدور أحداث المسلسل عندما يتعرض فارس لبعض الظروف الخارجة عن إرداته، والتي تجبره للبحث عن عروس.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-04-13",
+      "status": "Returning Series",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "معتز حسام",
+      "cast": [
+        {
+          "name": "مصطفى قمر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/uZull5mK6khuL0cJR7S3YYayRq7.jpg"
+        },
+        {
+          "name": "طارق عبدالعزيز",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/fdLQmCR7pGxvSIsez0bxth5cnh9.jpg"
+        },
+        {
+          "name": "ندى موسى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/lYKQkpiM6XyRUJ2RhBkTxPZvWKc.jpg"
+        },
+        {
+          "name": "محمد ثروت",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3uqttDmL1KH7811E3plwINeGtUs.jpg"
+        },
+        {
+          "name": "سليمان عيد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/qz4Ok4BEYspiqoek6Jybu9dMO24.jpg"
+        },
+        {
+          "name": "بشرى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/q5tSanaqYG1ko6dR3PMWaFtN6tL.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T03:00:00+00:00",
+      "stop": "2026-11-18T03:53:00+00:00",
+      "duration_minutes": 53,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/mPR2tG6pLzJGtzBxCg5VaLMwngx.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/mPR2tG6pLzJGtzBxCg5VaLMwngx.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T17:53:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T17:58:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T17:39:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 156484,
+      "title": "برنامج",
+      "clean_title": "برنامج",
+      "original_title": "The 8 Show",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "description": "يشارك ثمانية أشخاص في برنامج يقدّم عرضًا مغريًا ومثيرًا ولكنه خطير... حيث يكسبون المزيد من المال مقابل البقاء لوقت أطول في مبنًى غامض يتألف من ثمانية طوابق.",
+      "category": "General",
+      "genres": [
+        "General",
+        "غموض",
+        "كوميديا",
+        "دراما"
+      ],
+      "rating": 7.3,
+      "vote_count": 359,
+      "age_rating": "TV-MA",
+      "year": "2024",
+      "release_date": "2024-05-17",
+      "status": "Ended",
+      "country": "كوريا الجنوبية",
+      "language": "الكورية",
+      "director": "한재림",
+      "cast": [
+        {
+          "name": "류준열",
+          "character": "Jin-soo / 3F",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ayjkSbxGkeiyE2JvbLlyNPNFxkn.jpg"
+        },
+        {
+          "name": "천우희",
+          "character": "Se-ra / 8F",
+          "profile_image": "https://image.tmdb.org/t/p/w185/y7ju1TdJWldSwqadHYSxLiyOFxW.jpg"
+        },
+        {
+          "name": "박정민",
+          "character": "Phillip / 7F",
+          "profile_image": "https://image.tmdb.org/t/p/w185/o0IKTRpUgNILXzWtskyMJM1NG4j.jpg"
+        },
+        {
+          "name": "이열음",
+          "character": "Yang / 4F",
+          "profile_image": "https://image.tmdb.org/t/p/w185/f0GTS4kgkFAE2zvvX5BzZjTgw95.jpg"
+        },
+        {
+          "name": "박해준",
+          "character": "Tae-seok / 6F",
+          "profile_image": "https://image.tmdb.org/t/p/w185/heNKjLHWCQXXfkDB1Hb2nhuhDCf.jpg"
+        },
+        {
+          "name": "이주영",
+          "character": "Chun-ja / 2F",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hDLNWV75lnH1zC8DYXnaFfIllvI.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T03:53:00+00:00",
+      "stop": "2026-11-18T04:36:00+00:00",
+      "duration_minutes": 43,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/PZzdFPrXZg3xTD4VIiLgiB0Kqj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5BvjF6KH25BKSQcNYDdzVhtnPzJ.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/PZzdFPrXZg3xTD4VIiLgiB0Kqj.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "الشارقة",
+          "start": "2026-11-16T14:35:00+00:00"
+        },
+        {
+          "channel": "الشرقية",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "نسمة",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "تن",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-17T02:30:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "نايل لايف",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T04:10:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "الحياة",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-17T07:30:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T07:40:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "الثانية",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "نسمة",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "نايل لايف",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "نسمة",
+          "start": "2026-11-17T16:30:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T16:30:00+00:00"
+        },
+        {
+          "channel": "الحياة",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "إل بي سي آي",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T17:30:00+00:00"
+        },
+        {
+          "channel": "نسمة",
+          "start": "2026-11-17T17:45:00+00:00"
+        },
+        {
+          "channel": "قناة مصر الأولى",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "المصرية",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "إل بي سي آي",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "Egyptian TV",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "إل بي سي آي",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "قناة مصر الأولى",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "المصرية",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الحياة",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الوطنية 2",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "Egyptian TV",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "إل بي سي آي",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "قناة مصر الأولى",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "المصرية",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "الثانية",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "Egyptian TV",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "نسمة",
+          "start": "2026-11-17T20:45:00+00:00"
+        },
+        {
+          "channel": "قناة مصر الأولى",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "المصرية",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "الوطنية 2",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "Egyptian TV",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "قناة مصر الأولى",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "المصرية",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "نايل لايف",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "نسمة",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "Egyptian TV",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "تن",
+          "start": "2026-11-17T22:30:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-17T22:30:00+00:00"
+        },
+        {
+          "channel": "نسمة",
+          "start": "2026-11-17T22:45:00+00:00"
+        },
+        {
+          "channel": "قناة مصر الأولى",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "المصرية",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "الوطنية 2",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "Egyptian TV",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-17T23:30:00+00:00"
+        },
+        {
+          "channel": "نسمة",
+          "start": "2026-11-17T23:30:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-18T00:30:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T00:30:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "تن",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T01:15:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-18T01:30:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-18T02:30:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T07:40:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T08:00:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T10:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "الثانية",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "الثانية",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-18T17:30:00+00:00"
+        },
+        {
+          "channel": "نسمة",
+          "start": "2026-11-18T17:45:00+00:00"
+        },
+        {
+          "channel": "الحياة",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "تن",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-18T18:30:00+00:00"
+        },
+        {
+          "channel": "الحياة",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-18T19:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T19:52:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "الثانية",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "الحياة",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-18T22:30:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-18T23:30:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-19T17:30:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-19T18:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-19T18:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-19T18:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-19T18:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-19T18:30:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-19T19:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T19:52:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-19T20:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-19T20:00:00+00:00"
+        },
+        {
+          "channel": "الثانية",
+          "start": "2026-11-19T20:00:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-19T21:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-19T21:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-19T21:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-19T21:30:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-19T22:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-19T22:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "حسين على الهوا",
+      "clean_title": "حسين على الهوا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم الفنان حسين الأمام بعمل مقالب على عدد كبير من النجوم والمشاهير خلال استضافتهم لهم في برنامجه التليفزيوني.",
+      "category": "برنامج",
+      "genres": [
+        "برنامج"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T04:36:00+00:00",
+      "stop": "2026-11-18T05:00:00+00:00",
+      "duration_minutes": 24,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-16T12:27:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T21:13:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T23:27:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T21:15:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T23:27:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T21:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج طبخة وقلبت بجد",
+      "clean_title": "طبخة وقلبت بجد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T05:00:00+00:00",
+      "stop": "2026-11-18T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
           "start": "2026-11-17T08:00:00+00:00"
         },
         {
           "channel": "القاهرة والناس",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 82416,
+      "title": "وجوه",
+      "clean_title": "وجوه",
+      "original_title": "Kuch Rang Pyaar Ke Aise Bhi",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 505,
+      "description": "ينقسم مسلسل وجوه إلى قصتين: وش تالت، وميتافرس. تقدم وش تالت قصة طبيبة تخرج من السجن لتبدأ رحلة بحث عن ابنتها ورحلة مواجهة مرض الذهان. أما في ميتافرس، ترفض البطلة الحياة في الواقع وتقتحم العالم الافتراضي لتنتقم لنفسها من أعدائها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "أوبرا صابونية",
+        "عائلي"
+      ],
+      "rating": 10,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2016",
+      "release_date": "2016-02-28",
+      "status": "Ended",
+      "country": "الهند",
+      "language": "الهندية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Erica Fernandes",
+          "character": "Sonakshi Bose",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xJwghASVhBBkTLXaAlSox0kjVAm.jpg"
+        },
+        {
+          "name": "Shaheer Sheikh",
+          "character": "Dev Dixit",
+          "profile_image": "https://image.tmdb.org/t/p/w185/FK2To026DBNdegv5hSRx81Vyhf.jpg"
+        },
+        {
+          "name": "Supriya Pilgaonkar",
+          "character": "Ishwari Dixit",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zCAqu5hpjvjpC9J1Y9Xs7Di0hUC.jpg"
+        },
+        {
+          "name": "Jagat Bhushan Singh",
+          "character": "Bijoy Bose",
+          "profile_image": null
+        },
+        {
+          "name": "Mushtaq Khan",
+          "character": "Baldev Tripathi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xj2fPOfGRiQCFp7V9MUAlshNGZH.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T06:00:00+00:00",
+      "stop": "2026-11-18T07:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/sxodZZAx218LY7XmGVTiZ1lYs40.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nVL0iAHlJNQaXSeubgj9SSfw7uk.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/sxodZZAx218LY7XmGVTiZ1lYs40.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T16:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T16:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T16:46:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 293610,
+      "title": "برنامج الدكتور",
+      "clean_title": "الدكتور",
+      "original_title": "닥터X: 하얀 마피아의 시대",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "description": "في مستشفى يسيطر عليه الغرور والفساد، تصل جراحة غامضة وعبقرية لتتصدّى لحالات تبدو مستحيلة رغم معارضة شرسة.",
+      "category": "General",
+      "genres": [
+        "General",
+        "غموض",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 8.6,
+      "vote_count": 63,
+      "age_rating": "TV-MA",
+      "year": "2026",
+      "release_date": "2026-10-09",
+      "status": "Ended",
+      "country": "كوريا الجنوبية",
+      "language": "الكورية",
+      "director": "편성근",
+      "cast": [
+        {
+          "name": "كيم جي وون",
+          "character": "Gye Su-jeong",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s9RWmg01tHjripYkeIicV78vo6x.jpg"
+        },
+        {
+          "name": "이정은",
+          "character": "Jeong Hee-sook",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
+        },
+        {
+          "name": "손현주",
+          "character": "Bu Seung-gwon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pOpqydpiDrXvd9ynZEt8GQl6yJD.jpg"
+        },
+        {
+          "name": "김우석",
+          "character": "Park Tae-gyeong",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pjuqZJRCw5BgAZf5CtjXNAmOAmd.jpg"
+        },
+        {
+          "name": "이진희",
+          "character": "Jo Won-jin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ejdN4VmStDyyhi7sN5Nox5VVh5x.jpg"
+        },
+        {
+          "name": "Kim Young-min",
+          "character": "Do Yoon-sik",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xXbY65ATWU0VGd59Ry16o3mnxps.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T07:00:00+00:00",
+      "stop": "2026-11-18T09:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 231934,
+      "title": "فيلم عربي",
+      "clean_title": "عربي",
+      "original_title": "فزلكة عربية 3",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "description": "سلسلة ويب رائدة يتناول فيها صناع الأفلام من العالم العربي عملية صناعة الأفلام.",
+      "category": "General",
+      "genres": [
+        "General",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "عبير شمس الدين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/fU1vow2Wu332cK95o97hTscfpTA.jpg"
+        },
+        {
+          "name": "محمد خير الجراح",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3OzfCRoKDWiK2DX8CnEcQ1UnA2g.jpg"
+        },
+        {
+          "name": "سوسن ميخائيل",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/uOj5qTmUn4FBhZS2fSMJIx9F1c0.jpg"
+        },
+        {
+          "name": "عاصم حواط",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/qpQPDH9sIIVeXo1ItlN7aiMkBaf.jpg"
+        },
+        {
+          "name": "إنجي شرف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/xC05hdOdxyp4pSpQZmRRwJVLdpI.jpg"
+        },
+        {
+          "name": "يزن السيد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/mZ3WZrFEpxLQIWvPZXSrRjodBX1.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T09:00:00+00:00",
+      "stop": "2026-11-18T11:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/aZobPp2pdKQTVxpxG3Iq0etvLph.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/aZobPp2pdKQTVxpxG3Iq0etvLph.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T01:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-19T17:00:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-19T20:30:00+00:00"
+        },
+        {
+          "channel": "DMC HD",
+          "start": "2026-11-20T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 19374,
+      "title": "برنامج العباقرة",
+      "clean_title": "العباقرة",
+      "original_title": "ワンダービートS",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 26,
+      "description": "يستخدم فريق طبي مركبة مصغرة للدخول إلى جسم الإنسان والتحقيق في أمراض غامضة. وخلال رحلاته داخل الأعضاء، يواجه كائنات فضائية غازية في مغامرات تجمع الخيال العلمي بالتعريف بوظائف الجسم.",
+      "category": "General",
+      "genres": [
+        "General",
+        "رسوم متحركة",
+        "حركة ومغامرة",
+        "خيال علمي وفانتازيا",
+        "دراما",
+        "عائلي",
+        "غموض"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": "TV-PG",
+      "year": "1986",
+      "release_date": "1986-01-02",
+      "status": "Ended",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "荘真由美",
+          "character": "Mayumi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5dqhj93xYSOIoIORLYCRMUxU66N.jpg"
+        },
+        {
+          "name": "塩沢兼人",
+          "character": "Zuda Shougun",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8F6MjUfPyV6WkfIBcThc8qijrhB.jpg"
+        },
+        {
+          "name": "ماساتو هيرانو",
+          "character": "Dr. Gabo",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qBH3K7HAdOJ2ggWVK0qtNnZJ1eg.jpg"
+        },
+        {
+          "name": "小山茉美",
+          "character": "Lee, May Fan",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4KjDxYsa7mMh8gbqSKCV2DixDAx.jpg"
+        },
+        {
+          "name": "鶴ひろみ",
+          "character": "Princess Vijure",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oFU9CCNLUhklLhEuLutM0FyTUbt.jpg"
+        },
+        {
+          "name": "郷里大輔",
+          "character": "Ruler of Vijure",
+          "profile_image": "https://image.tmdb.org/t/p/w185/g5OeBa8Rww8VNZiJuU7RhZxodwc.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T11:00:00+00:00",
+      "stop": "2026-11-18T12:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/sANObp3VXgxPqNtGUIS81tSUUGb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5wQVbEsjxle2MZv8I4Jo2lPIhGq.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/sANObp3VXgxPqNtGUIS81tSUUGb.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 82416,
+      "title": "وجوه",
+      "clean_title": "وجوه",
+      "original_title": "Kuch Rang Pyaar Ke Aise Bhi",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 505,
+      "description": "ينقسم مسلسل وجوه إلى قصتين: وش تالت، وميتافرس. تقدم وش تالت قصة طبيبة تخرج من السجن لتبدأ رحلة بحث عن ابنتها ورحلة مواجهة مرض الذهان. أما في ميتافرس، ترفض البطلة الحياة في الواقع وتقتحم العالم الافتراضي لتنتقم لنفسها من أعدائها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "أوبرا صابونية",
+        "عائلي"
+      ],
+      "rating": 10,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2016",
+      "release_date": "2016-02-28",
+      "status": "Ended",
+      "country": "الهند",
+      "language": "الهندية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Erica Fernandes",
+          "character": "Sonakshi Bose",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xJwghASVhBBkTLXaAlSox0kjVAm.jpg"
+        },
+        {
+          "name": "Shaheer Sheikh",
+          "character": "Dev Dixit",
+          "profile_image": "https://image.tmdb.org/t/p/w185/FK2To026DBNdegv5hSRx81Vyhf.jpg"
+        },
+        {
+          "name": "Supriya Pilgaonkar",
+          "character": "Ishwari Dixit",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zCAqu5hpjvjpC9J1Y9Xs7Di0hUC.jpg"
+        },
+        {
+          "name": "Jagat Bhushan Singh",
+          "character": "Bijoy Bose",
+          "profile_image": null
+        },
+        {
+          "name": "Mushtaq Khan",
+          "character": "Baldev Tripathi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xj2fPOfGRiQCFp7V9MUAlshNGZH.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T12:00:00+00:00",
+      "stop": "2026-11-18T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/sxodZZAx218LY7XmGVTiZ1lYs40.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nVL0iAHlJNQaXSeubgj9SSfw7uk.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/sxodZZAx218LY7XmGVTiZ1lYs40.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T16:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T16:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T16:46:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 121739,
+      "title": "فارس بلا جواز",
+      "clean_title": "فارس بلا جواز",
+      "original_title": "فارس بلا جواز",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "من خلال حلقات متصلة منفصلة، تدور أحداث المسلسل عندما يتعرض فارس لبعض الظروف الخارجة عن إرداته، والتي تجبره للبحث عن عروس.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-04-13",
+      "status": "Returning Series",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "معتز حسام",
+      "cast": [
+        {
+          "name": "مصطفى قمر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/uZull5mK6khuL0cJR7S3YYayRq7.jpg"
+        },
+        {
+          "name": "طارق عبدالعزيز",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/fdLQmCR7pGxvSIsez0bxth5cnh9.jpg"
+        },
+        {
+          "name": "ندى موسى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/lYKQkpiM6XyRUJ2RhBkTxPZvWKc.jpg"
+        },
+        {
+          "name": "محمد ثروت",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3uqttDmL1KH7811E3plwINeGtUs.jpg"
+        },
+        {
+          "name": "سليمان عيد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/qz4Ok4BEYspiqoek6Jybu9dMO24.jpg"
+        },
+        {
+          "name": "بشرى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/q5tSanaqYG1ko6dR3PMWaFtN6tL.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T13:00:00+00:00",
+      "stop": "2026-11-18T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/mPR2tG6pLzJGtzBxCg5VaLMwngx.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/mPR2tG6pLzJGtzBxCg5VaLMwngx.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T17:53:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T17:58:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T17:39:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج حديث القاهرة",
+      "clean_title": "حديث القاهرة",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T14:00:00+00:00",
+      "stop": "2026-11-18T15:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
           "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 435621,
+      "title": "برنامج Summary",
+      "clean_title": "Summary",
+      "original_title": "三度誘惑",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General",
+        "كوميديا"
+      ],
+      "rating": 3,
+      "vote_count": 6,
+      "age_rating": null,
+      "year": "1990",
+      "release_date": "1990-11-15",
+      "status": "Released",
+      "country": "HK",
+      "language": "cn",
+      "director": "何藩",
+      "cast": [
+        {
+          "name": "邱月清",
+          "character": "Margaret",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jeTePB5xYpGgBOHWDhiKe8mHD1j.jpg"
+        },
+        {
+          "name": "李中寧",
+          "character": "Man Suen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hJJm03fWitBcYbVAN8FH5FX44jf.jpg"
+        },
+        {
+          "name": "Sophia Crawford",
+          "character": "Sexy Nurse",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jiA2KVqPJVEnrrnAfeIGh4ogbMu.jpg"
+        },
+        {
+          "name": "Yau Yuk-Yue",
+          "character": "Susan Li",
+          "profile_image": null
+        },
+        {
+          "name": "陳保元",
+          "character": "Ray Suen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/h1eJXyiJPG2DAQWGhbrW2V2tHSd.jpg"
+        },
+        {
+          "name": "Chui Hei-Man",
+          "character": "Miss Cheung",
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T15:30:00+00:00",
+      "stop": "2026-11-18T16:46:00+00:00",
+      "duration_minutes": 76,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/t12tg4KPXhpN9pMKLEgrAugII6Z.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ckrL5W0oyBJyiZfMDWJeQzZ378S.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/t12tg4KPXhpN9pMKLEgrAugII6Z.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T15:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 82416,
+      "title": "وجوه",
+      "clean_title": "وجوه",
+      "original_title": "Kuch Rang Pyaar Ke Aise Bhi",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 505,
+      "description": "ينقسم مسلسل وجوه إلى قصتين: وش تالت، وميتافرس. تقدم وش تالت قصة طبيبة تخرج من السجن لتبدأ رحلة بحث عن ابنتها ورحلة مواجهة مرض الذهان. أما في ميتافرس، ترفض البطلة الحياة في الواقع وتقتحم العالم الافتراضي لتنتقم لنفسها من أعدائها.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "أوبرا صابونية",
+        "عائلي"
+      ],
+      "rating": 10,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2016",
+      "release_date": "2016-02-28",
+      "status": "Ended",
+      "country": "الهند",
+      "language": "الهندية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Erica Fernandes",
+          "character": "Sonakshi Bose",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xJwghASVhBBkTLXaAlSox0kjVAm.jpg"
+        },
+        {
+          "name": "Shaheer Sheikh",
+          "character": "Dev Dixit",
+          "profile_image": "https://image.tmdb.org/t/p/w185/FK2To026DBNdegv5hSRx81Vyhf.jpg"
+        },
+        {
+          "name": "Supriya Pilgaonkar",
+          "character": "Ishwari Dixit",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zCAqu5hpjvjpC9J1Y9Xs7Di0hUC.jpg"
+        },
+        {
+          "name": "Jagat Bhushan Singh",
+          "character": "Bijoy Bose",
+          "profile_image": null
+        },
+        {
+          "name": "Mushtaq Khan",
+          "character": "Baldev Tripathi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xj2fPOfGRiQCFp7V9MUAlshNGZH.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T16:46:00+00:00",
+      "stop": "2026-11-18T17:39:00+00:00",
+      "duration_minutes": 53,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/sxodZZAx218LY7XmGVTiZ1lYs40.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nVL0iAHlJNQaXSeubgj9SSfw7uk.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/sxodZZAx218LY7XmGVTiZ1lYs40.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T16:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T16:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 121739,
+      "title": "فارس بلا جواز",
+      "clean_title": "فارس بلا جواز",
+      "original_title": "فارس بلا جواز",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "من خلال حلقات متصلة منفصلة، تدور أحداث المسلسل عندما يتعرض فارس لبعض الظروف الخارجة عن إرداته، والتي تجبره للبحث عن عروس.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-04-13",
+      "status": "Returning Series",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "معتز حسام",
+      "cast": [
+        {
+          "name": "مصطفى قمر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/uZull5mK6khuL0cJR7S3YYayRq7.jpg"
+        },
+        {
+          "name": "طارق عبدالعزيز",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/fdLQmCR7pGxvSIsez0bxth5cnh9.jpg"
+        },
+        {
+          "name": "ندى موسى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/lYKQkpiM6XyRUJ2RhBkTxPZvWKc.jpg"
+        },
+        {
+          "name": "محمد ثروت",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3uqttDmL1KH7811E3plwINeGtUs.jpg"
+        },
+        {
+          "name": "سليمان عيد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/qz4Ok4BEYspiqoek6Jybu9dMO24.jpg"
+        },
+        {
+          "name": "بشرى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/q5tSanaqYG1ko6dR3PMWaFtN6tL.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T17:58:00+00:00",
+      "stop": "2026-11-18T18:52:00+00:00",
+      "duration_minutes": 54,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/mPR2tG6pLzJGtzBxCg5VaLMwngx.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/mPR2tG6pLzJGtzBxCg5VaLMwngx.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T17:53:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T17:39:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314193,
+      "title": "الكاميرا الخفية",
+      "clean_title": "الكاميرا الخفية",
+      "original_title": "الكاميرا الخفية",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 31,
+      "description": "مجموعة من المقالب التي يقع فيها الضيوف، ويقدمها الفنان (إبراهيم نصر)، ومن أبرز الشخصيات التي جسدها شخصية سيدة اسمها (زكية زكريا).",
+      "category": "برنامج",
+      "genres": [
+        "برنامج",
+        "كوميديا"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Returning Series",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "تميم يونس",
+          "character": "تميم يونس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qRQCqrOUTJxSbvuTogTMf3b9BOf.jpg"
+        },
+        {
+          "name": "Mostafa Asran",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Mahmoud Hussam",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T18:52:00+00:00",
+      "stop": "2026-11-18T19:00:00+00:00",
+      "duration_minutes": 8,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aYuO6qxYCLdOLM3YUmL4yWc1zuD.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T04:41:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T17:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T18:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T21:42:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T12:44:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T17:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T21:46:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T18:44:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T20:51:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T21:37:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 293610,
+      "title": "برنامج الدكتور",
+      "clean_title": "الدكتور",
+      "original_title": "닥터X: 하얀 마피아의 시대",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "description": "في مستشفى يسيطر عليه الغرور والفساد، تصل جراحة غامضة وعبقرية لتتصدّى لحالات تبدو مستحيلة رغم معارضة شرسة.",
+      "category": "General",
+      "genres": [
+        "General",
+        "غموض",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 8.6,
+      "vote_count": 63,
+      "age_rating": "TV-MA",
+      "year": "2026",
+      "release_date": "2026-10-09",
+      "status": "Ended",
+      "country": "كوريا الجنوبية",
+      "language": "الكورية",
+      "director": "편성근",
+      "cast": [
+        {
+          "name": "كيم جي وون",
+          "character": "Gye Su-jeong",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s9RWmg01tHjripYkeIicV78vo6x.jpg"
+        },
+        {
+          "name": "이정은",
+          "character": "Jeong Hee-sook",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
+        },
+        {
+          "name": "손현주",
+          "character": "Bu Seung-gwon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pOpqydpiDrXvd9ynZEt8GQl6yJD.jpg"
+        },
+        {
+          "name": "김우석",
+          "character": "Park Tae-gyeong",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pjuqZJRCw5BgAZf5CtjXNAmOAmd.jpg"
+        },
+        {
+          "name": "이진희",
+          "character": "Jo Won-jin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ejdN4VmStDyyhi7sN5Nox5VVh5x.jpg"
+        },
+        {
+          "name": "Kim Young-min",
+          "character": "Do Yoon-sik",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xXbY65ATWU0VGd59Ry16o3mnxps.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T19:00:00+00:00",
+      "stop": "2026-11-18T21:15:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "حسين على الهوا",
+      "clean_title": "حسين على الهوا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم الفنان حسين الأمام بعمل مقالب على عدد كبير من النجوم والمشاهير خلال استضافتهم لهم في برنامجه التليفزيوني.",
+      "category": "برنامج",
+      "genres": [
+        "برنامج"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T21:15:00+00:00",
+      "stop": "2026-11-18T21:46:00+00:00",
+      "duration_minutes": 31,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-16T12:27:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T21:13:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T23:27:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T04:36:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T23:27:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T21:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314193,
+      "title": "الكاميرا الخفية",
+      "clean_title": "الكاميرا الخفية",
+      "original_title": "الكاميرا الخفية",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 31,
+      "description": "مجموعة من المقالب التي يقع فيها الضيوف، ويقدمها الفنان (إبراهيم نصر)، ومن أبرز الشخصيات التي جسدها شخصية سيدة اسمها (زكية زكريا).",
+      "category": "برنامج",
+      "genres": [
+        "برنامج",
+        "كوميديا"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Returning Series",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "تميم يونس",
+          "character": "تميم يونس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qRQCqrOUTJxSbvuTogTMf3b9BOf.jpg"
+        },
+        {
+          "name": "Mostafa Asran",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Mahmoud Hussam",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T21:46:00+00:00",
+      "stop": "2026-11-18T22:00:00+00:00",
+      "duration_minutes": 14,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aYuO6qxYCLdOLM3YUmL4yWc1zuD.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T04:41:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T17:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T18:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T21:42:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T12:44:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T17:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T18:52:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T18:44:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T20:51:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T21:37:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 293610,
+      "title": "برنامج الدكتور",
+      "clean_title": "الدكتور",
+      "original_title": "닥터X: 하얀 마피아의 시대",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "description": "في مستشفى يسيطر عليه الغرور والفساد، تصل جراحة غامضة وعبقرية لتتصدّى لحالات تبدو مستحيلة رغم معارضة شرسة.",
+      "category": "General",
+      "genres": [
+        "General",
+        "غموض",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 8.6,
+      "vote_count": 63,
+      "age_rating": "TV-MA",
+      "year": "2026",
+      "release_date": "2026-10-09",
+      "status": "Ended",
+      "country": "كوريا الجنوبية",
+      "language": "الكورية",
+      "director": "편성근",
+      "cast": [
+        {
+          "name": "كيم جي وون",
+          "character": "Gye Su-jeong",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s9RWmg01tHjripYkeIicV78vo6x.jpg"
+        },
+        {
+          "name": "이정은",
+          "character": "Jeong Hee-sook",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
+        },
+        {
+          "name": "손현주",
+          "character": "Bu Seung-gwon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pOpqydpiDrXvd9ynZEt8GQl6yJD.jpg"
+        },
+        {
+          "name": "김우석",
+          "character": "Park Tae-gyeong",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pjuqZJRCw5BgAZf5CtjXNAmOAmd.jpg"
+        },
+        {
+          "name": "이진희",
+          "character": "Jo Won-jin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ejdN4VmStDyyhi7sN5Nox5VVh5x.jpg"
+        },
+        {
+          "name": "Kim Young-min",
+          "character": "Do Yoon-sik",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xXbY65ATWU0VGd59Ry16o3mnxps.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T22:00:00+00:00",
+      "stop": "2026-11-19T00:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 121739,
+      "title": "فارس بلا جواز",
+      "clean_title": "فارس بلا جواز",
+      "original_title": "فارس بلا جواز",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "من خلال حلقات متصلة منفصلة، تدور أحداث المسلسل عندما يتعرض فارس لبعض الظروف الخارجة عن إرداته، والتي تجبره للبحث عن عروس.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-04-13",
+      "status": "Returning Series",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "معتز حسام",
+      "cast": [
+        {
+          "name": "مصطفى قمر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/uZull5mK6khuL0cJR7S3YYayRq7.jpg"
+        },
+        {
+          "name": "طارق عبدالعزيز",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/fdLQmCR7pGxvSIsez0bxth5cnh9.jpg"
+        },
+        {
+          "name": "ندى موسى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/lYKQkpiM6XyRUJ2RhBkTxPZvWKc.jpg"
+        },
+        {
+          "name": "محمد ثروت",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3uqttDmL1KH7811E3plwINeGtUs.jpg"
+        },
+        {
+          "name": "سليمان عيد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/qz4Ok4BEYspiqoek6Jybu9dMO24.jpg"
+        },
+        {
+          "name": "بشرى",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/q5tSanaqYG1ko6dR3PMWaFtN6tL.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-19T17:39:00+00:00",
+      "stop": "2026-11-19T18:44:00+00:00",
+      "duration_minutes": 65,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/mPR2tG6pLzJGtzBxCg5VaLMwngx.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/mPR2tG6pLzJGtzBxCg5VaLMwngx.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T17:53:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T17:58:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314193,
+      "title": "الكاميرا الخفية",
+      "clean_title": "الكاميرا الخفية",
+      "original_title": "الكاميرا الخفية",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 31,
+      "description": "مجموعة من المقالب التي يقع فيها الضيوف، ويقدمها الفنان (إبراهيم نصر)، ومن أبرز الشخصيات التي جسدها شخصية سيدة اسمها (زكية زكريا).",
+      "category": "برنامج",
+      "genres": [
+        "برنامج",
+        "كوميديا"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Returning Series",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "تميم يونس",
+          "character": "تميم يونس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qRQCqrOUTJxSbvuTogTMf3b9BOf.jpg"
+        },
+        {
+          "name": "Mostafa Asran",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Mahmoud Hussam",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-19T18:44:00+00:00",
+      "stop": "2026-11-19T19:00:00+00:00",
+      "duration_minutes": 16,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aYuO6qxYCLdOLM3YUmL4yWc1zuD.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T04:41:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T17:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T18:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T21:42:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T12:44:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T17:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T18:52:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T21:46:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T20:51:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T21:37:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 293610,
+      "title": "برنامج الدكتور",
+      "clean_title": "الدكتور",
+      "original_title": "닥터X: 하얀 마피아의 시대",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "description": "في مستشفى يسيطر عليه الغرور والفساد، تصل جراحة غامضة وعبقرية لتتصدّى لحالات تبدو مستحيلة رغم معارضة شرسة.",
+      "category": "General",
+      "genres": [
+        "General",
+        "غموض",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 8.6,
+      "vote_count": 63,
+      "age_rating": "TV-MA",
+      "year": "2026",
+      "release_date": "2026-10-09",
+      "status": "Ended",
+      "country": "كوريا الجنوبية",
+      "language": "الكورية",
+      "director": "편성근",
+      "cast": [
+        {
+          "name": "كيم جي وون",
+          "character": "Gye Su-jeong",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s9RWmg01tHjripYkeIicV78vo6x.jpg"
+        },
+        {
+          "name": "이정은",
+          "character": "Jeong Hee-sook",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
+        },
+        {
+          "name": "손현주",
+          "character": "Bu Seung-gwon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pOpqydpiDrXvd9ynZEt8GQl6yJD.jpg"
+        },
+        {
+          "name": "김우석",
+          "character": "Park Tae-gyeong",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pjuqZJRCw5BgAZf5CtjXNAmOAmd.jpg"
+        },
+        {
+          "name": "이진희",
+          "character": "Jo Won-jin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ejdN4VmStDyyhi7sN5Nox5VVh5x.jpg"
+        },
+        {
+          "name": "Kim Young-min",
+          "character": "Do Yoon-sik",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xXbY65ATWU0VGd59Ry16o3mnxps.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-19T19:00:00+00:00",
+      "stop": "2026-11-19T21:15:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "حسين على الهوا",
+      "clean_title": "حسين على الهوا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم الفنان حسين الأمام بعمل مقالب على عدد كبير من النجوم والمشاهير خلال استضافتهم لهم في برنامجه التليفزيوني.",
+      "category": "برنامج",
+      "genres": [
+        "برنامج"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T21:15:00+00:00",
+      "stop": "2026-11-19T21:37:00+00:00",
+      "duration_minutes": 22,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-16T12:27:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T21:13:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T23:27:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T04:36:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T21:15:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T23:27:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314193,
+      "title": "الكاميرا الخفية",
+      "clean_title": "الكاميرا الخفية",
+      "original_title": "الكاميرا الخفية",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 31,
+      "description": "مجموعة من المقالب التي يقع فيها الضيوف، ويقدمها الفنان (إبراهيم نصر)، ومن أبرز الشخصيات التي جسدها شخصية سيدة اسمها (زكية زكريا).",
+      "category": "برنامج",
+      "genres": [
+        "برنامج",
+        "كوميديا"
+      ],
+      "rating": 10,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Returning Series",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "تميم يونس",
+          "character": "تميم يونس",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qRQCqrOUTJxSbvuTogTMf3b9BOf.jpg"
+        },
+        {
+          "name": "Mostafa Asran",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Mahmoud Hussam",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-19T21:37:00+00:00",
+      "stop": "2026-11-19T22:00:00+00:00",
+      "duration_minutes": 23,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aYuO6qxYCLdOLM3YUmL4yWc1zuD.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/uf5yegjQaNS7XMrgOwJ1IBEekXB.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T04:41:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T17:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T18:48:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T21:42:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T12:44:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T17:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T18:52:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T21:46:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T18:44:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T20:51:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 293610,
+      "title": "برنامج الدكتور",
+      "clean_title": "الدكتور",
+      "original_title": "닥터X: 하얀 마피아의 시대",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "description": "في مستشفى يسيطر عليه الغرور والفساد، تصل جراحة غامضة وعبقرية لتتصدّى لحالات تبدو مستحيلة رغم معارضة شرسة.",
+      "category": "General",
+      "genres": [
+        "General",
+        "غموض",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 8.6,
+      "vote_count": 63,
+      "age_rating": "TV-MA",
+      "year": "2026",
+      "release_date": "2026-10-09",
+      "status": "Ended",
+      "country": "كوريا الجنوبية",
+      "language": "الكورية",
+      "director": "편성근",
+      "cast": [
+        {
+          "name": "كيم جي وون",
+          "character": "Gye Su-jeong",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s9RWmg01tHjripYkeIicV78vo6x.jpg"
+        },
+        {
+          "name": "이정은",
+          "character": "Jeong Hee-sook",
+          "profile_image": "https://image.tmdb.org/t/p/w185/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
+        },
+        {
+          "name": "손현주",
+          "character": "Bu Seung-gwon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pOpqydpiDrXvd9ynZEt8GQl6yJD.jpg"
+        },
+        {
+          "name": "김우석",
+          "character": "Park Tae-gyeong",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pjuqZJRCw5BgAZf5CtjXNAmOAmd.jpg"
+        },
+        {
+          "name": "이진희",
+          "character": "Jo Won-jin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ejdN4VmStDyyhi7sN5Nox5VVh5x.jpg"
+        },
+        {
+          "name": "Kim Young-min",
+          "character": "Do Yoon-sik",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xXbY65ATWU0VGd59Ry16o3mnxps.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-19T22:00:00+00:00",
+      "stop": "2026-11-20T00:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/tBro7Gty0LlWdSOFYumr9PpQcq3.jpg",
+      "channel_icon": "https://i.ibb.co/SD0YYqYW/alkahera-welnas.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-19T19:00:00+00:00"
         }
       ]
     }

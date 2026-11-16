@@ -1,0 +1,4045 @@
+{
+  "channel_id": "beINSports1.qa@Australia",
+  "channel_name": "beIN SPORTS 1",
+  "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+  "days_count": 7,
+  "programs": [
+    {
+      "tmdb_id": null,
+      "title": "Evening 2 Doubles",
+      "clean_title": "Evening 2 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T17:00:00+00:00",
+      "stop": "2026-11-16T19:30:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 2 Singles",
+      "clean_title": "Evening 2 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T19:30:00+00:00",
+      "stop": "2026-11-16T22:30:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 2 Doubles",
+      "clean_title": "Day 2 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-16T22:30:00+00:00",
+      "stop": "2026-11-17T00:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T04:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 2 Doubles",
+      "clean_title": "Evening 2 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T00:00:00+00:00",
+      "stop": "2026-11-17T01:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 845113,
+      "title": "Day 2 Singles",
+      "clean_title": "Day 2 Singles",
+      "original_title": "30th Anniversary Final Project \"The Singles\" Day 1・Day 2 Live 2018 Complete Version",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General",
+        "موسيقى"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": "2019-05-22",
+      "status": "Released",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "森高千里",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/jIoqShWfrSDLI2lcqINnHOqx5ai.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T01:30:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/m08JnsMtIJVP7xFX4WyZHmcLWo0.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/m08JnsMtIJVP7xFX4WyZHmcLWo0.jpg",
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T07:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 2 Singles",
+      "clean_title": "Evening 2 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T04:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-16T19:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 2 Doubles",
+      "clean_title": "Day 2 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T04:30:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-16T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 2 Doubles",
+      "clean_title": "Evening 2 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T06:00:00+00:00",
+      "stop": "2026-11-17T07:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-16T17:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 845113,
+      "title": "Day 2 Singles",
+      "clean_title": "Day 2 Singles",
+      "original_title": "30th Anniversary Final Project \"The Singles\" Day 1・Day 2 Live 2018 Complete Version",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General",
+        "موسيقى"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": "2019-05-22",
+      "status": "Released",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "森高千里",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/jIoqShWfrSDLI2lcqINnHOqx5ai.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T07:30:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/m08JnsMtIJVP7xFX4WyZHmcLWo0.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/m08JnsMtIJVP7xFX4WyZHmcLWo0.jpg",
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T01:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 2 Singles",
+      "clean_title": "Evening 2 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T10:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-16T19:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T03:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 3 Doubles",
+      "clean_title": "Day 3 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T10:30:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T22:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T04:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 3 Singles",
+      "clean_title": "Day 3 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T01:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T07:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Nadal v Agassi 2005",
+      "clean_title": "Nadal v Agassi 2005",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "We delve into the ATP archives for another classic encounter when Rafael Nadal met Andre Agassi in the final at Montreal in 2005.Watch classic matches, moment and highlights of ATP Tour from tournaments around the world.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 3 Doubles",
+      "clean_title": "Evening 3 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T19:30:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 3 Singles",
+      "clean_title": "Evening 3 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:30:00+00:00",
+      "stop": "2026-11-17T22:30:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 3 Doubles",
+      "clean_title": "Day 3 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T22:30:00+00:00",
+      "stop": "2026-11-18T00:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T10:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T04:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 3 Doubles",
+      "clean_title": "Evening 3 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T00:00:00+00:00",
+      "stop": "2026-11-18T01:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 3 Singles",
+      "clean_title": "Day 3 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T01:30:00+00:00",
+      "stop": "2026-11-18T03:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T07:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 3 Singles",
+      "clean_title": "Evening 3 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T03:00:00+00:00",
+      "stop": "2026-11-18T04:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 3 Doubles",
+      "clean_title": "Day 3 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T04:30:00+00:00",
+      "stop": "2026-11-18T06:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T10:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 3 Doubles",
+      "clean_title": "Evening 3 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T06:00:00+00:00",
+      "stop": "2026-11-18T07:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 3 Singles",
+      "clean_title": "Day 3 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T07:30:00+00:00",
+      "stop": "2026-11-18T09:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T01:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 3 Singles",
+      "clean_title": "Evening 3 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T09:00:00+00:00",
+      "stop": "2026-11-18T10:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T03:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 4 Doubles",
+      "clean_title": "Day 4 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T10:30:00+00:00",
+      "stop": "2026-11-18T13:00:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T22:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T04:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 4 Singles",
+      "clean_title": "Day 4 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T13:00:00+00:00",
+      "stop": "2026-11-18T16:00:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T01:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T07:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Episode Number 45",
+      "clean_title": "Episode Number 45",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T16:00:00+00:00",
+      "stop": "2026-11-18T16:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T16:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T16:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T22:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T09:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Agassi v Hewitt 2004",
+      "clean_title": "Agassi v Hewitt 2004",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Watch classic matches, moment and highlights of ATP Tour from tournaments around the world.Watch classic matches, moment and highlights of ATP Tour from tournaments around the world.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T16:30:00+00:00",
+      "stop": "2026-11-18T17:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 4 Doubles",
+      "clean_title": "Evening 4 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T17:00:00+00:00",
+      "stop": "2026-11-18T19:30:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T00:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 4 Singles",
+      "clean_title": "Evening 4 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T19:30:00+00:00",
+      "stop": "2026-11-18T22:30:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T03:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 4 Doubles",
+      "clean_title": "Day 4 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T22:30:00+00:00",
+      "stop": "2026-11-19T00:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T10:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T04:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 4 Doubles",
+      "clean_title": "Evening 4 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T00:00:00+00:00",
+      "stop": "2026-11-19T01:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 4 Singles",
+      "clean_title": "Day 4 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T01:30:00+00:00",
+      "stop": "2026-11-19T03:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T07:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 4 Singles",
+      "clean_title": "Evening 4 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T03:00:00+00:00",
+      "stop": "2026-11-19T04:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T19:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 4 Doubles",
+      "clean_title": "Day 4 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T04:30:00+00:00",
+      "stop": "2026-11-19T06:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T10:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 4 Doubles",
+      "clean_title": "Evening 4 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T06:00:00+00:00",
+      "stop": "2026-11-19T07:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 4 Singles",
+      "clean_title": "Day 4 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T07:30:00+00:00",
+      "stop": "2026-11-19T09:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T01:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 4 Singles",
+      "clean_title": "Evening 4 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T09:00:00+00:00",
+      "stop": "2026-11-19T10:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T19:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T03:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 5 Doubles",
+      "clean_title": "Day 5 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T10:30:00+00:00",
+      "stop": "2026-11-19T13:00:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T22:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T04:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 5 Singles",
+      "clean_title": "Day 5 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T13:00:00+00:00",
+      "stop": "2026-11-19T16:00:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T01:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T07:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Kuerten v Rafter 2004",
+      "clean_title": "Kuerten v Rafter 2004",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Watch classic matches, moment and highlights of ATP Tour from tournaments around the world.Watch classic matches, moment and highlights of ATP Tour from tournaments around the world.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T16:00:00+00:00",
+      "stop": "2026-11-19T16:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "Episode Number 45",
+      "clean_title": "Episode Number 45",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T16:30:00+00:00",
+      "stop": "2026-11-19T17:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T16:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T16:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T22:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T09:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 5 Doubles",
+      "clean_title": "Evening 5 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T17:00:00+00:00",
+      "stop": "2026-11-19T19:30:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T00:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 5 Singles",
+      "clean_title": "Evening 5 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T19:30:00+00:00",
+      "stop": "2026-11-19T22:30:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T03:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 5 Doubles",
+      "clean_title": "Day 5 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T22:30:00+00:00",
+      "stop": "2026-11-20T00:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T10:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T04:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 5 Doubles",
+      "clean_title": "Evening 5 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T00:00:00+00:00",
+      "stop": "2026-11-20T01:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T17:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 5 Singles",
+      "clean_title": "Day 5 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T01:30:00+00:00",
+      "stop": "2026-11-20T03:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T13:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T07:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 5 Singles",
+      "clean_title": "Evening 5 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T03:00:00+00:00",
+      "stop": "2026-11-20T04:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T19:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 5 Doubles",
+      "clean_title": "Day 5 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T04:30:00+00:00",
+      "stop": "2026-11-20T06:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T10:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 5 Doubles",
+      "clean_title": "Evening 5 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T06:00:00+00:00",
+      "stop": "2026-11-20T07:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T17:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 5 Singles",
+      "clean_title": "Day 5 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T07:30:00+00:00",
+      "stop": "2026-11-20T09:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T13:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T01:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 5 Singles",
+      "clean_title": "Evening 5 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T09:00:00+00:00",
+      "stop": "2026-11-20T10:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T19:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T03:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 6 Doubles",
+      "clean_title": "Day 6 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T10:30:00+00:00",
+      "stop": "2026-11-20T13:00:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 6 Singles",
+      "clean_title": "Day 6 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T13:00:00+00:00",
+      "stop": "2026-11-20T16:00:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T00:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Djokovic v Nadal 2013",
+      "clean_title": "Djokovic v Nadal 2013",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "We delve into the ATP archives for another classic encounter when Novak Djokovic met Rafael Nadal in the final at Monte Carlo in 2013.Watch classic matches, moment and highlights of ATP Tour from tournaments around the world.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T16:00:00+00:00",
+      "stop": "2026-11-20T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 6 Doubles",
+      "clean_title": "Evening 6 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T17:00:00+00:00",
+      "stop": "2026-11-20T19:30:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 6 Singles",
+      "clean_title": "Evening 6 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T19:30:00+00:00",
+      "stop": "2026-11-20T22:30:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T01:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T09:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 6 Doubles",
+      "clean_title": "Day 6 Doubles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T22:30:00+00:00",
+      "stop": "2026-11-21T00:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T10:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 6 Singles",
+      "clean_title": "Day 6 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T00:00:00+00:00",
+      "stop": "2026-11-21T01:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T13:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 6 Singles",
+      "clean_title": "Evening 6 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T01:30:00+00:00",
+      "stop": "2026-11-21T03:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T19:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T09:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Japan vs Argentina",
+      "clean_title": "Japan vs Argentina",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "The very best women's tennis players from across the globe come together to represent their nations in the Billie Jean King Cup.The very best women's tennis players from across the globe come together to represent their nations in the Billie Jean King Cup.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T03:00:00+00:00",
+      "stop": "2026-11-21T08:00:00+00:00",
+      "duration_minutes": 300,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T02:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Day 6 Singles",
+      "clean_title": "Day 6 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T08:00:00+00:00",
+      "stop": "2026-11-21T09:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T13:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Evening 6 Singles",
+      "clean_title": "Evening 6 Singles",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T09:30:00+00:00",
+      "stop": "2026-11-21T11:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-20T19:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T01:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Doubles SF 1",
+      "clean_title": "Doubles SF 1",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T11:00:00+00:00",
+      "stop": "2026-11-21T13:30:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "Singles SF 1",
+      "clean_title": "Singles SF 1",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T13:30:00+00:00",
+      "stop": "2026-11-21T16:30:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T23:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T09:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Episode Number 45",
+      "clean_title": "Episode Number 45",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T16:30:00+00:00",
+      "stop": "2026-11-21T17:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T16:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T16:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T22:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T09:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Doubles SF 2",
+      "clean_title": "Doubles SF 2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T17:00:00+00:00",
+      "stop": "2026-11-21T19:30:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "Singles SF 2",
+      "clean_title": "Singles SF 2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T19:30:00+00:00",
+      "stop": "2026-11-21T22:30:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T00:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Episode Number 45",
+      "clean_title": "Episode Number 45",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T22:30:00+00:00",
+      "stop": "2026-11-21T23:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T16:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T16:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T16:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T09:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Singles SF 1",
+      "clean_title": "Singles SF 1",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T23:00:00+00:00",
+      "stop": "2026-11-22T00:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T13:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T09:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Singles SF 2",
+      "clean_title": "Singles SF 2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T00:30:00+00:00",
+      "stop": "2026-11-22T02:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T19:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Japan vs Argentina",
+      "clean_title": "Japan vs Argentina",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "The very best women's tennis players from across the globe come together to represent their nations in the Billie Jean King Cup.The very best women's tennis players from across the globe come together to represent their nations in the Billie Jean King Cup.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T02:00:00+00:00",
+      "stop": "2026-11-22T09:00:00+00:00",
+      "duration_minutes": 420,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T03:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Episode Number 45",
+      "clean_title": "Episode Number 45",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T09:00:00+00:00",
+      "stop": "2026-11-22T09:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T16:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T16:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T16:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T22:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Singles SF 1",
+      "clean_title": "Singles SF 1",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T09:30:00+00:00",
+      "stop": "2026-11-22T11:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T13:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Singles SF 2",
+      "clean_title": "Singles SF 2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T11:00:00+00:00",
+      "stop": "2026-11-22T12:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T19:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T00:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Nadal Number 1 Story",
+      "clean_title": "Nadal Number 1 Story",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "In this series of features, we look back at some of the most memorable moments, rivalries, achievements and special features at ATP Masters events.In this series of features, we look back at some of the most memorable moments, rivalries, achievements and special features at ATP Masters events.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T12:30:00+00:00",
+      "stop": "2026-11-22T12:55:00+00:00",
+      "duration_minutes": 25,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "Barcelona vs Villarreal",
+      "clean_title": "Barcelona vs Villarreal",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T12:55:00+00:00",
+      "stop": "2026-11-22T15:00:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 8584,
+      "title": "Shanghai",
+      "clean_title": "Shanghai",
+      "original_title": "Shanghai Noon",
+      "tagline": "الغرب القديم يلتقي بالشرق الأقصى.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "A look back at the best of the action from the tournament.A look back at the best of the action from the tournament.",
+      "category": "General",
+      "genres": [
+        "General",
+        "مغامرة",
+        "كوميديا",
+        "غربي"
+      ],
+      "rating": 6.4,
+      "vote_count": 2908,
+      "age_rating": "PG-13",
+      "year": "2000",
+      "release_date": "2000-05-26",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Tom Dey",
+      "cast": [
+        {
+          "name": "جاكي شان",
+          "character": "Chon Wang",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+        },
+        {
+          "name": "Owen Wilson",
+          "character": "Roy O'Bannon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
+        },
+        {
+          "name": "لوسي لو",
+          "character": "Princess Pei Pei",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg"
+        },
+        {
+          "name": "روجر يوان",
+          "character": "Lo Fong",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jHdxbT6n3ToYKw0DVFIUkva86SO.jpg"
+        },
+        {
+          "name": "Walton Goggins",
+          "character": "Wallace",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+        },
+        {
+          "name": "اكساندر بيركلي",
+          "character": "Nathan Van Cleef",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hl4wBCJXqpOfaoW2oaH9cCilavg.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-22T15:00:00+00:00",
+      "stop": "2026-11-22T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/b0WwWRcDiDahkah5vZ0KjB4N9ZZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xuwPmDMHslcx71T7zHc9YqF2Ny3.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/b0WwWRcDiDahkah5vZ0KjB4N9ZZ.jpg",
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 82596,
+      "title": "Paris",
+      "clean_title": "Paris",
+      "original_title": "Emily in Paris",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 6,
+      "episodes_count": 60,
+      "description": "A look back at the best of the action from the tournament.A look back at the best of the action from the tournament.",
+      "category": "General",
+      "genres": [
+        "General",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": 7.5,
+      "vote_count": 1610,
+      "age_rating": "TV-MA",
+      "year": "2020",
+      "release_date": "2020-10-02",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "دارين ستار",
+      "cast": [
+        {
+          "name": "ليلي كولينز",
+          "character": "Emily Cooper",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5bhcp0CyTdHgfW8x45ZKewDnjMc.jpg"
+        },
+        {
+          "name": "فيلبين ليروي بوليو",
+          "character": "Sylvie Grateau",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1wt9AWB8HQz23VDmcZA0tVQn0vx.jpg"
+        },
+        {
+          "name": "Ashley Park",
+          "character": "Mindy Chen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aFw4TmHuaAIpz9nCvtadtO1AYGZ.jpg"
+        },
+        {
+          "name": "Lucas Bravo",
+          "character": "Gabriel",
+          "profile_image": "https://image.tmdb.org/t/p/w185/uO6vMlJBMASyOQMisvnPehjsfJB.jpg"
+        },
+        {
+          "name": "Samuel Arnold",
+          "character": "Julien",
+          "profile_image": "https://image.tmdb.org/t/p/w185/r5cHeGdcOXHfNjeGamlJG1WQLRS.jpg"
+        },
+        {
+          "name": "Bruno Gouery",
+          "character": "Luc",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w0JGP6mtph0PAaRmXagD9PcpQ5M.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-22T16:00:00+00:00",
+      "stop": "2026-11-22T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/fNPlqaDNzP1f8URNhEwPilbglkW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jXTZaHarR9TZiMoQwiQWsGYXqnS.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/fNPlqaDNzP1f8URNhEwPilbglkW.jpg",
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T23:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 845113,
+      "title": "Singles Final",
+      "clean_title": "Singles Final",
+      "original_title": "30th Anniversary Final Project \"The Singles\" Day 1・Day 2 Live 2018 Complete Version",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General",
+        "موسيقى"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": "2019-05-22",
+      "status": "Released",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "森高千里",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/jIoqShWfrSDLI2lcqINnHOqx5ai.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-22T17:00:00+00:00",
+      "stop": "2026-11-22T20:00:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/m08JnsMtIJVP7xFX4WyZHmcLWo0.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/m08JnsMtIJVP7xFX4WyZHmcLWo0.jpg",
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Episode Number 45",
+      "clean_title": "Episode Number 45",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T20:00:00+00:00",
+      "stop": "2026-11-22T20:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-18T16:00:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-19T16:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T16:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-21T22:30:00+00:00"
+        },
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Doubles Final",
+      "clean_title": "Doubles Final",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T20:30:00+00:00",
+      "stop": "2026-11-22T22:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 845113,
+      "title": "Singles Final",
+      "clean_title": "Singles Final",
+      "original_title": "30th Anniversary Final Project \"The Singles\" Day 1・Day 2 Live 2018 Complete Version",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.Nitto ATP Finals 2026 features only the world's best eight male players and doubles teams battle it out in Turin to reach the top.",
+      "category": "General",
+      "genres": [
+        "General",
+        "موسيقى"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": "2019-05-22",
+      "status": "Released",
+      "country": "اليابان",
+      "language": "اليابانية",
+      "director": null,
+      "cast": [
+        {
+          "name": "森高千里",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/jIoqShWfrSDLI2lcqINnHOqx5ai.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-22T22:00:00+00:00",
+      "stop": "2026-11-22T23:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/m08JnsMtIJVP7xFX4WyZHmcLWo0.jpg",
+      "backdrop": null,
+      "icon": "https://image.tmdb.org/t/p/w500/m08JnsMtIJVP7xFX4WyZHmcLWo0.jpg",
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 82596,
+      "title": "Paris",
+      "clean_title": "Paris",
+      "original_title": "Emily in Paris",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 6,
+      "episodes_count": 60,
+      "description": "A look back at the best of the action from the tournament.A look back at the best of the action from the tournament.",
+      "category": "General",
+      "genres": [
+        "General",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": 7.5,
+      "vote_count": 1610,
+      "age_rating": "TV-MA",
+      "year": "2020",
+      "release_date": "2020-10-02",
+      "status": "Returning Series",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "دارين ستار",
+      "cast": [
+        {
+          "name": "ليلي كولينز",
+          "character": "Emily Cooper",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5bhcp0CyTdHgfW8x45ZKewDnjMc.jpg"
+        },
+        {
+          "name": "فيلبين ليروي بوليو",
+          "character": "Sylvie Grateau",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1wt9AWB8HQz23VDmcZA0tVQn0vx.jpg"
+        },
+        {
+          "name": "Ashley Park",
+          "character": "Mindy Chen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aFw4TmHuaAIpz9nCvtadtO1AYGZ.jpg"
+        },
+        {
+          "name": "Lucas Bravo",
+          "character": "Gabriel",
+          "profile_image": "https://image.tmdb.org/t/p/w185/uO6vMlJBMASyOQMisvnPehjsfJB.jpg"
+        },
+        {
+          "name": "Samuel Arnold",
+          "character": "Julien",
+          "profile_image": "https://image.tmdb.org/t/p/w185/r5cHeGdcOXHfNjeGamlJG1WQLRS.jpg"
+        },
+        {
+          "name": "Bruno Gouery",
+          "character": "Luc",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w0JGP6mtph0PAaRmXagD9PcpQ5M.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-22T23:30:00+00:00",
+      "stop": "2026-11-23T00:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/fNPlqaDNzP1f8URNhEwPilbglkW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jXTZaHarR9TZiMoQwiQWsGYXqnS.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/fNPlqaDNzP1f8URNhEwPilbglkW.jpg",
+      "channel_icon": "https://i.imgur.com/Vtk2cGI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-22T16:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

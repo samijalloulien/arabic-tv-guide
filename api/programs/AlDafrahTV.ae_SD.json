@@ -2,399 +2,8 @@
   "channel_id": "AlDafrahTV.ae@SD",
   "channel_name": "الظفرة",
   "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+  "days_count": 7,
   "programs": [
-    {
-      "tmdb_id": 314079,
-      "title": "درب الذهب",
-      "clean_title": "درب الذهب",
-      "original_title": "درب الذهب",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 30,
-      "description": "بعد سنوات من غدرٍ أودى بها خلف القضبان، تخرج فايزة من عتمة السجن إلى عالم الثراء، فتجد سعد الذي خانها يوماً قد شيد إمبراطوريته من حطام صفقتهما القديمة. وبينما تتصادم طموحاتهما في صفقات مشبوهة جديدة، يشتعل فتيل انتقام تتشابك فيه مصائر أبنائهما بمرارة الماضي.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل",
-        "دراما"
-      ],
-      "rating": 7,
-      "vote_count": 1,
-      "age_rating": null,
-      "year": "2026",
-      "release_date": "2026-02-18",
-      "status": "Ended",
-      "country": "الكويت",
-      "language": "العربية",
-      "director": null,
-      "cast": [
-        {
-          "name": "أحمد إيراج",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/yeVmETvIVYkmInhw8HlihLhI1o7.jpg"
-        },
-        {
-          "name": "طيف",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/8erSsR12FGMOZmUksSh0dreFMhV.jpg"
-        },
-        {
-          "name": "شهد الياسين",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/hORpa73TDacYIga8ID1Bb2L3Bfl.jpg"
-        },
-        {
-          "name": "Abdullah Abass",
-          "character": null,
-          "profile_image": null
-        },
-        {
-          "name": "Mai Abdullah",
-          "character": null,
-          "profile_image": null
-        },
-        {
-          "name": "Khaled Al Ajeerb",
-          "character": null,
-          "profile_image": null
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-16T12:00:00+00:00",
-      "stop": "2026-11-16T13:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/zxoB8iTDIg2v9bikj7NaApuXwAl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/yMnAbSZpenUzmHP8nLtaplR27Cy.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/zxoB8iTDIg2v9bikj7NaApuXwAl.jpg",
-      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T12:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 301329,
-      "title": "علي كلاي",
-      "clean_title": "علي كلاي",
-      "original_title": "علي كلاي",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 30,
-      "description": "علي، شاب نال لقب «كلاي» بين جيرانه بفضل براعته الاستثنائية في الملاكمة وقوة جأشه. بعيداً عن حلبة النزال، يعمل في تجارة قطع غيار السيارات، محاولا الموازنة بين خشونة عمله وطموحاته الرياضية. لكن أقسى مبارياته لا تكن فوق الحلبة، بل في حياته الخاصة؛ حيث يجد نفسه عالقاً في حلبة من النزاعات الأسرية المستمرة، وصراعات عاطفية مع حبيبته.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل",
-        "دراما",
-        "جريمة"
-      ],
-      "rating": 7,
-      "vote_count": 3,
-      "age_rating": null,
-      "year": "2026",
-      "release_date": "2026-02-18",
-      "status": "Ended",
-      "country": "مصر",
-      "language": "العربية",
-      "director": "محمود حمدان",
-      "cast": [
-        {
-          "name": "أحمد العوضي",
-          "character": "علي كلاي",
-          "profile_image": "https://image.tmdb.org/t/p/w185/okGwM8RGj5A88GWdNevH4LPXYc4.jpg"
-        },
-        {
-          "name": "درة",
-          "character": "ميادة",
-          "profile_image": "https://image.tmdb.org/t/p/w185/vF4NIuKm6pKe2Sdm1L8MqntbN0z.jpg"
-        },
-        {
-          "name": "عصام السقا",
-          "character": "صفوان",
-          "profile_image": "https://image.tmdb.org/t/p/w185/rd2XDEe7ti42thwL17Xrb8Fw3pp.jpg"
-        },
-        {
-          "name": "يارا السكري",
-          "character": "روح",
-          "profile_image": "https://image.tmdb.org/t/p/w185/8cBIDrsr2H4bEyZRfM4CZ3Xx5rY.jpg"
-        },
-        {
-          "name": "سينتيا خليفة",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/aLBfy6uALtLvvxWKaO9lRLrQLXn.jpg"
-        },
-        {
-          "name": "محمود البزاوي",
-          "character": "عزازي أبو الحسن",
-          "profile_image": "https://image.tmdb.org/t/p/w185/zSEhTEA07ZE4xchHU5SDwOOytmr.jpg"
-        }
-      ],
-      "trailer_url": "https://www.youtube.com/watch?v=9ldZ3Nhf2f4",
-      "start": "2026-11-16T13:00:00+00:00",
-      "stop": "2026-11-16T14:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/1rv82gNj4IisQPiaRD2a6J7Fg4t.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/pivsXHXVJFsDJeHcT99IqINDtA1.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/1rv82gNj4IisQPiaRD2a6J7Fg4t.jpg",
-      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-16T21:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T02:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T13:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T21:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 223238,
-      "title": "أكباد المهاجرة",
-      "clean_title": "أكباد المهاجرة",
-      "original_title": "أكباد المهاجرة",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 5,
-      "description": "مسلسل درامي رومانسي تشويقي، تدور أحداثها بين الفلاحين والبدو في الأردن، حيث يتمرد منصور الفارس البدوي ابن الشيخ ضافي على حكم العشيرة بسبب حبه لشمس.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": "2023",
-      "release_date": "2023-03-23",
-      "status": "Returning Series",
-      "country": "الأردن",
-      "language": "العربية",
-      "director": null,
-      "cast": [
-        {
-          "name": "صفاء سلطان",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/sYQmOGbmRNbbZwICQakjj3MHwFl.jpg"
-        },
-        {
-          "name": "Mohammad Al Majali",
-          "character": null,
-          "profile_image": null
-        },
-        {
-          "name": "Abeer Issa",
-          "character": null,
-          "profile_image": null
-        },
-        {
-          "name": "جولييت عواد",
-          "character": null,
-          "profile_image": null
-        },
-        {
-          "name": "Jameel Barahmeh",
-          "character": null,
-          "profile_image": null
-        },
-        {
-          "name": "Munia Kdaiss",
-          "character": null,
-          "profile_image": null
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-16T14:00:00+00:00",
-      "stop": "2026-11-16T15:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/1oBEoeJy5sBGciDnaGA6rYgZXeQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/kE0wLWnNLplrYEDq2LXfxUGCDrA.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/1oBEoeJy5sBGciDnaGA6rYgZXeQ.jpg",
-      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T07:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T14:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": null,
-      "title": "برنامج وفقًا للقانون",
-      "clean_title": "وفقًا للقانون",
-      "original_title": null,
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "program",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "",
-      "category": "General",
-      "genres": [
-        "General"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-16T15:00:00+00:00",
-      "stop": "2026-11-16T16:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T05:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T11:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": null,
-      "title": "برنامج حياة زايد",
-      "clean_title": "حياة زايد",
-      "original_title": null,
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "program",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "",
-      "category": "General",
-      "genres": [
-        "General"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-16T16:00:00+00:00",
-      "stop": "2026-11-16T17:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": null,
-      "title": "علوم الإمارات + كليبات وطنية",
-      "clean_title": "علوم الإمارات + كليبات وطنية",
-      "original_title": null,
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "program",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "",
-      "category": "General",
-      "genres": [
-        "General"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-16T17:00:00+00:00",
-      "stop": "2026-11-16T17:30:00+00:00",
-      "duration_minutes": 30,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T17:00:00+00:00"
-        }
-      ]
-    },
     {
       "tmdb_id": null,
       "title": "زمن البرغوت ج2",
@@ -423,8 +32,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-16T17:30:00+00:00",
-      "stop": "2026-11-16T18:30:00+00:00",
+      "start": "2026-11-16T12:30:00+00:00",
+      "stop": "2026-11-16T13:30:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
@@ -435,7 +44,11 @@
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T17:30:00+00:00"
+          "start": "2026-11-17T12:30:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T12:30:00+00:00"
         }
       ]
     },
@@ -467,8 +80,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-16T18:30:00+00:00",
-      "stop": "2026-11-16T19:00:00+00:00",
+      "start": "2026-11-16T13:30:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
       "duration_minutes": 30,
       "is_live": false,
       "poster": null,
@@ -479,7 +92,11 @@
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T18:30:00+00:00"
+          "start": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T13:30:00+00:00"
         }
       ]
     },
@@ -542,8 +159,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-16T19:00:00+00:00",
-      "stop": "2026-11-16T20:00:00+00:00",
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/xBzmjWAjIGhoH5VVYljlhBLCHFK.jpg",
@@ -554,15 +171,31 @@
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T00:00:00+00:00"
+          "start": "2026-11-17T04:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T09:00:00+00:00"
+          "start": "2026-11-17T14:00:00+00:00"
         },
         {
           "channel": "الظفرة",
           "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T19:00:00+00:00"
         }
       ]
     },
@@ -626,8 +259,8 @@
         }
       ],
       "trailer_url": "https://www.youtube.com/watch?v=P7mjnGVMwko",
-      "start": "2026-11-16T20:00:00+00:00",
-      "stop": "2026-11-16T21:00:00+00:00",
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/y2bMELQDMvsS6mG2Jiaitajj110.jpg",
@@ -638,11 +271,19 @@
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T06:00:00+00:00"
+          "start": "2026-11-17T01:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T20:00:00+00:00"
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T15:00:00+00:00"
         }
       ]
     },
@@ -707,546 +348,43 @@
         }
       ],
       "trailer_url": "https://www.youtube.com/watch?v=9ldZ3Nhf2f4",
-      "start": "2026-11-16T21:00:00+00:00",
-      "stop": "2026-11-16T22:00:00+00:00",
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T17:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/1rv82gNj4IisQPiaRD2a6J7Fg4t.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w780/pivsXHXVJFsDJeHcT99IqINDtA1.jpg",
       "icon": "https://image.tmdb.org/t/p/w500/1rv82gNj4IisQPiaRD2a6J7Fg4t.jpg",
       "channel_icon": "https://i.imgur.com/sOMOe9t.png",
-      "is_rerun": true,
+      "is_rerun": false,
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T13:00:00+00:00"
+          "start": "2026-11-17T08:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T02:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T13:00:00+00:00"
+          "start": "2026-11-17T16:00:00+00:00"
         },
         {
           "channel": "الظفرة",
           "start": "2026-11-17T21:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 314125,
-      "title": "عيلة الملك",
-      "clean_title": "عيلة الملك",
-      "original_title": "عيلة الملك",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 30,
-      "description": "في دمشق المثقلة بالتحولات عام 2024، يسقط رجل الأعمال النافذ 'جبري المالك' في قبضة نظام متهالك، ليترك خلفه إمبراطورية يتصارع عليها أقرب الناس إليه في حربٍ عائلية ضروس وقودها الجشع. وبينما يظن الجميع أن أثره قد مُحي، ينهار النظام ويخرج المالك من ظلمات المعتقل كالشبح، ليعيد ترتيب أوراقه في مشهدٍ يعج بالانتقام، وتتكشف خيانات وتحالفات دموية كانت تحاك تحت الرماد، مهددةً بحرق كل من تجرأ على وراثة العرش.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل",
-        "دراما"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": "2026",
-      "release_date": "2026-02-18",
-      "status": "Ended",
-      "country": "سوريا",
-      "language": "العربية",
-      "director": null,
-      "cast": [
-        {
-          "name": "Juan Al Kheder",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/d2MxFGzMfYx8EWiRRm0Qh6SSsjT.jpg"
-        },
-        {
-          "name": "Lojain Ismail",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/c6mhCTKxREbPQUVZ2IpXs9oG3Dr.jpg"
-        },
-        {
-          "name": "Deema Bayyaa",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/8QT143znnwKUnVGIZx92YnyGaEb.jpg"
-        },
-        {
-          "name": "Rana Risha",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/4jSKHIYflpG19lPuvnKET7WkFYm.jpg"
-        },
-        {
-          "name": "سلوم حداد",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/3RPqqMSYYUl33ChPo3TzygWY53U.jpg"
-        },
-        {
-          "name": "Fatih Salman",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/btyc56uKm6N9h66mqXvsjSZDuBp.jpg"
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-16T23:00:00+00:00",
-      "stop": "2026-11-17T00:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/4Nl6U4iartb3GvDNBQkhnE2TPYM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/jkzEnN3bDGclc26EuQEJANGSWIt.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/4Nl6U4iartb3GvDNBQkhnE2TPYM.jpg",
-      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "صدى البلد دراما",
-          "start": "2026-11-16T15:00:00+00:00"
-        },
-        {
-          "channel": "صدى البلد دراما",
-          "start": "2026-11-16T21:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T04:00:00+00:00"
+          "start": "2026-11-18T08:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T10:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 304606,
-      "title": "خطوات صغيرة",
-      "clean_title": "خطوات صغيرة",
-      "original_title": "خطوات صغيرة",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 30,
-      "description": "في عالم تتشابك فيه المصالح مع المشاعر، تنفجر صراعات مكتومة داخل حيوات مجموعة من النساء. تبدأ القصة بقرار فرح المصيري حين تحمل حقيبتها وتغادر منزل زوجها، معلنةً نهاية الصمت وبداية الحرب من أجل الكرامة. وعلى الجانب الآخر، تعيش حصة نشوة نجاح زائف قبل أن يصدمها سقوط الأقنعة لتكشف عن خيانة غادرة من أقرب الناس إليها. بين طموحات محطمة وصراعات عائلية مريرة، تخوض كل شخصية معركتها الخاصة للبقاء.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل"
-      ],
-      "rating": 9,
-      "vote_count": 1,
-      "age_rating": null,
-      "year": "2026",
-      "release_date": "2026-02-18",
-      "status": "Returning Series",
-      "country": "الكويت",
-      "language": "العربية",
-      "director": "أنفال الدويسان",
-      "cast": [
-        {
-          "name": "هبة الدري",
-          "character": "حصة",
-          "profile_image": "https://image.tmdb.org/t/p/w185/wQ9UtCHH0cyCNewEms1Fk2ahaN0.jpg"
-        },
-        {
-          "name": "حمد العماني",
-          "character": "ناصر",
-          "profile_image": "https://image.tmdb.org/t/p/w185/dxty7GdQU3BPRiRnIq4IIaFlBGB.jpg"
-        },
-        {
-          "name": "لمياء طارق",
-          "character": "فرح",
-          "profile_image": "https://image.tmdb.org/t/p/w185/ereDERZExoCwSW7JDVe8zn8Btye.jpg"
-        },
-        {
-          "name": "ريم أرحمه",
-          "character": "أنوار",
-          "profile_image": "https://image.tmdb.org/t/p/w185/cttLUm3Ptla39xRAnDgKvmuBrYA.jpg"
-        },
-        {
-          "name": "محمد الرمضان",
-          "character": "طلال",
-          "profile_image": "https://image.tmdb.org/t/p/w185/kxh1PEcIfwHI7rGqbLEAD6Fddgf.jpg"
-        },
-        {
-          "name": "زينب بهمن",
-          "character": "دلال",
-          "profile_image": "https://image.tmdb.org/t/p/w185/dlbFQ00mXYfAu4RpbAFfRsAa6IY.jpg"
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-17T00:00:00+00:00",
-      "stop": "2026-11-17T01:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/xBzmjWAjIGhoH5VVYljlhBLCHFK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/jBS96XLInQOrW0WtPVEppK8cLe6.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/xBzmjWAjIGhoH5VVYljlhBLCHFK.jpg",
-      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-16T19:00:00+00:00"
+          "start": "2026-11-18T16:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T09:00:00+00:00"
+          "start": "2026-11-18T21:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T19:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 223238,
-      "title": "أكباد المهاجرة",
-      "clean_title": "أكباد المهاجرة",
-      "original_title": "أكباد المهاجرة",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 5,
-      "description": "مسلسل درامي رومانسي تشويقي، تدور أحداثها بين الفلاحين والبدو في الأردن، حيث يتمرد منصور الفارس البدوي ابن الشيخ ضافي على حكم العشيرة بسبب حبه لشمس.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": "2023",
-      "release_date": "2023-03-23",
-      "status": "Returning Series",
-      "country": "الأردن",
-      "language": "العربية",
-      "director": null,
-      "cast": [
-        {
-          "name": "صفاء سلطان",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/sYQmOGbmRNbbZwICQakjj3MHwFl.jpg"
-        },
-        {
-          "name": "Mohammad Al Majali",
-          "character": null,
-          "profile_image": null
-        },
-        {
-          "name": "Abeer Issa",
-          "character": null,
-          "profile_image": null
-        },
-        {
-          "name": "جولييت عواد",
-          "character": null,
-          "profile_image": null
-        },
-        {
-          "name": "Jameel Barahmeh",
-          "character": null,
-          "profile_image": null
-        },
-        {
-          "name": "Munia Kdaiss",
-          "character": null,
-          "profile_image": null
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-17T01:00:00+00:00",
-      "stop": "2026-11-17T02:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/1oBEoeJy5sBGciDnaGA6rYgZXeQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/kE0wLWnNLplrYEDq2LXfxUGCDrA.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/1oBEoeJy5sBGciDnaGA6rYgZXeQ.jpg",
-      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-16T14:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T07:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T14:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 301329,
-      "title": "علي كلاي",
-      "clean_title": "علي كلاي",
-      "original_title": "علي كلاي",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 30,
-      "description": "علي، شاب نال لقب «كلاي» بين جيرانه بفضل براعته الاستثنائية في الملاكمة وقوة جأشه. بعيداً عن حلبة النزال، يعمل في تجارة قطع غيار السيارات، محاولا الموازنة بين خشونة عمله وطموحاته الرياضية. لكن أقسى مبارياته لا تكن فوق الحلبة، بل في حياته الخاصة؛ حيث يجد نفسه عالقاً في حلبة من النزاعات الأسرية المستمرة، وصراعات عاطفية مع حبيبته.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل",
-        "دراما",
-        "جريمة"
-      ],
-      "rating": 7,
-      "vote_count": 3,
-      "age_rating": null,
-      "year": "2026",
-      "release_date": "2026-02-18",
-      "status": "Ended",
-      "country": "مصر",
-      "language": "العربية",
-      "director": "محمود حمدان",
-      "cast": [
-        {
-          "name": "أحمد العوضي",
-          "character": "علي كلاي",
-          "profile_image": "https://image.tmdb.org/t/p/w185/okGwM8RGj5A88GWdNevH4LPXYc4.jpg"
-        },
-        {
-          "name": "درة",
-          "character": "ميادة",
-          "profile_image": "https://image.tmdb.org/t/p/w185/vF4NIuKm6pKe2Sdm1L8MqntbN0z.jpg"
-        },
-        {
-          "name": "عصام السقا",
-          "character": "صفوان",
-          "profile_image": "https://image.tmdb.org/t/p/w185/rd2XDEe7ti42thwL17Xrb8Fw3pp.jpg"
-        },
-        {
-          "name": "يارا السكري",
-          "character": "روح",
-          "profile_image": "https://image.tmdb.org/t/p/w185/8cBIDrsr2H4bEyZRfM4CZ3Xx5rY.jpg"
-        },
-        {
-          "name": "سينتيا خليفة",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/aLBfy6uALtLvvxWKaO9lRLrQLXn.jpg"
-        },
-        {
-          "name": "محمود البزاوي",
-          "character": "عزازي أبو الحسن",
-          "profile_image": "https://image.tmdb.org/t/p/w185/zSEhTEA07ZE4xchHU5SDwOOytmr.jpg"
-        }
-      ],
-      "trailer_url": "https://www.youtube.com/watch?v=9ldZ3Nhf2f4",
-      "start": "2026-11-17T02:00:00+00:00",
-      "stop": "2026-11-17T03:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/1rv82gNj4IisQPiaRD2a6J7Fg4t.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/pivsXHXVJFsDJeHcT99IqINDtA1.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/1rv82gNj4IisQPiaRD2a6J7Fg4t.jpg",
-      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-16T13:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-16T21:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T13:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T21:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 314079,
-      "title": "درب الذهب",
-      "clean_title": "درب الذهب",
-      "original_title": "درب الذهب",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 30,
-      "description": "بعد سنوات من غدرٍ أودى بها خلف القضبان، تخرج فايزة من عتمة السجن إلى عالم الثراء، فتجد سعد الذي خانها يوماً قد شيد إمبراطوريته من حطام صفقتهما القديمة. وبينما تتصادم طموحاتهما في صفقات مشبوهة جديدة، يشتعل فتيل انتقام تتشابك فيه مصائر أبنائهما بمرارة الماضي.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل",
-        "دراما"
-      ],
-      "rating": 7,
-      "vote_count": 1,
-      "age_rating": null,
-      "year": "2026",
-      "release_date": "2026-02-18",
-      "status": "Ended",
-      "country": "الكويت",
-      "language": "العربية",
-      "director": null,
-      "cast": [
-        {
-          "name": "أحمد إيراج",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/yeVmETvIVYkmInhw8HlihLhI1o7.jpg"
-        },
-        {
-          "name": "طيف",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/8erSsR12FGMOZmUksSh0dreFMhV.jpg"
-        },
-        {
-          "name": "شهد الياسين",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/hORpa73TDacYIga8ID1Bb2L3Bfl.jpg"
-        },
-        {
-          "name": "Abdullah Abass",
-          "character": null,
-          "profile_image": null
-        },
-        {
-          "name": "Mai Abdullah",
-          "character": null,
-          "profile_image": null
-        },
-        {
-          "name": "Khaled Al Ajeerb",
-          "character": null,
-          "profile_image": null
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-17T03:00:00+00:00",
-      "stop": "2026-11-17T04:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/zxoB8iTDIg2v9bikj7NaApuXwAl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/yMnAbSZpenUzmHP8nLtaplR27Cy.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/zxoB8iTDIg2v9bikj7NaApuXwAl.jpg",
-      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-16T12:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T12:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 314125,
-      "title": "عيلة الملك",
-      "clean_title": "عيلة الملك",
-      "original_title": "عيلة الملك",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 30,
-      "description": "في دمشق المثقلة بالتحولات عام 2024، يسقط رجل الأعمال النافذ 'جبري المالك' في قبضة نظام متهالك، ليترك خلفه إمبراطورية يتصارع عليها أقرب الناس إليه في حربٍ عائلية ضروس وقودها الجشع. وبينما يظن الجميع أن أثره قد مُحي، ينهار النظام ويخرج المالك من ظلمات المعتقل كالشبح، ليعيد ترتيب أوراقه في مشهدٍ يعج بالانتقام، وتتكشف خيانات وتحالفات دموية كانت تحاك تحت الرماد، مهددةً بحرق كل من تجرأ على وراثة العرش.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل",
-        "دراما"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": "2026",
-      "release_date": "2026-02-18",
-      "status": "Ended",
-      "country": "سوريا",
-      "language": "العربية",
-      "director": null,
-      "cast": [
-        {
-          "name": "Juan Al Kheder",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/d2MxFGzMfYx8EWiRRm0Qh6SSsjT.jpg"
-        },
-        {
-          "name": "Lojain Ismail",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/c6mhCTKxREbPQUVZ2IpXs9oG3Dr.jpg"
-        },
-        {
-          "name": "Deema Bayyaa",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/8QT143znnwKUnVGIZx92YnyGaEb.jpg"
-        },
-        {
-          "name": "Rana Risha",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/4jSKHIYflpG19lPuvnKET7WkFYm.jpg"
-        },
-        {
-          "name": "سلوم حداد",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/3RPqqMSYYUl33ChPo3TzygWY53U.jpg"
-        },
-        {
-          "name": "Fatih Salman",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/btyc56uKm6N9h66mqXvsjSZDuBp.jpg"
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-17T04:00:00+00:00",
-      "stop": "2026-11-17T05:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/4Nl6U4iartb3GvDNBQkhnE2TPYM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/jkzEnN3bDGclc26EuQEJANGSWIt.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/4Nl6U4iartb3GvDNBQkhnE2TPYM.jpg",
-      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "صدى البلد دراما",
-          "start": "2026-11-16T15:00:00+00:00"
-        },
-        {
-          "channel": "صدى البلد دراما",
-          "start": "2026-11-16T21:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T10:00:00+00:00"
+          "start": "2026-11-19T21:00:00+00:00"
         }
       ]
     },
@@ -1278,23 +416,19 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T05:00:00+00:00",
-      "stop": "2026-11-17T06:00:00+00:00",
+      "start": "2026-11-17T00:00:00+00:00",
+      "stop": "2026-11-17T01:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
       "backdrop": null,
       "icon": null,
       "channel_icon": "https://i.imgur.com/sOMOe9t.png",
-      "is_rerun": true,
+      "is_rerun": false,
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T15:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T11:00:00+00:00"
+          "start": "2026-11-17T06:00:00+00:00"
         }
       ]
     },
@@ -1358,8 +492,8 @@
         }
       ],
       "trailer_url": "https://www.youtube.com/watch?v=P7mjnGVMwko",
-      "start": "2026-11-17T06:00:00+00:00",
-      "stop": "2026-11-17T07:00:00+00:00",
+      "start": "2026-11-17T01:00:00+00:00",
+      "stop": "2026-11-17T02:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/y2bMELQDMvsS6mG2Jiaitajj110.jpg",
@@ -1370,11 +504,19 @@
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T20:00:00+00:00"
+          "start": "2026-11-16T15:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T20:00:00+00:00"
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T15:00:00+00:00"
         }
       ]
     },
@@ -1437,27 +579,39 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T07:00:00+00:00",
-      "stop": "2026-11-17T08:00:00+00:00",
+      "start": "2026-11-17T02:00:00+00:00",
+      "stop": "2026-11-17T03:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/1oBEoeJy5sBGciDnaGA6rYgZXeQ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w780/kE0wLWnNLplrYEDq2LXfxUGCDrA.jpg",
       "icon": "https://image.tmdb.org/t/p/w500/1oBEoeJy5sBGciDnaGA6rYgZXeQ.jpg",
       "channel_icon": "https://i.imgur.com/sOMOe9t.png",
-      "is_rerun": true,
+      "is_rerun": false,
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T14:00:00+00:00"
+          "start": "2026-11-17T09:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T01:00:00+00:00"
+          "start": "2026-11-17T20:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T14:00:00+00:00"
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T20:00:00+00:00"
         }
       ]
     },
@@ -1489,8 +643,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T08:00:00+00:00",
-      "stop": "2026-11-17T08:30:00+00:00",
+      "start": "2026-11-17T03:00:00+00:00",
+      "stop": "2026-11-17T03:30:00+00:00",
       "duration_minutes": 30,
       "is_live": false,
       "poster": null,
@@ -1498,7 +652,12 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/sOMOe9t.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T03:00:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -1528,8 +687,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T08:30:00+00:00",
-      "stop": "2026-11-17T09:00:00+00:00",
+      "start": "2026-11-17T03:30:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
       "duration_minutes": 30,
       "is_live": false,
       "poster": null,
@@ -1537,7 +696,12 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/sOMOe9t.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T03:30:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": 304606,
@@ -1598,8 +762,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T09:00:00+00:00",
-      "stop": "2026-11-17T10:00:00+00:00",
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T05:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/xBzmjWAjIGhoH5VVYljlhBLCHFK.jpg",
@@ -1610,15 +774,31 @@
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T19:00:00+00:00"
+          "start": "2026-11-16T14:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T00:00:00+00:00"
+          "start": "2026-11-17T14:00:00+00:00"
         },
         {
           "channel": "الظفرة",
           "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T19:00:00+00:00"
         }
       ]
     },
@@ -1682,8 +862,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T10:00:00+00:00",
-      "stop": "2026-11-17T11:00:00+00:00",
+      "start": "2026-11-17T05:00:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/4Nl6U4iartb3GvDNBQkhnE2TPYM.jpg",
@@ -1694,19 +874,31 @@
       "reruns": [
         {
           "channel": "صدى البلد دراما",
-          "start": "2026-11-16T15:00:00+00:00"
-        },
-        {
-          "channel": "صدى البلد دراما",
-          "start": "2026-11-16T21:00:00+00:00"
+          "start": "2026-11-16T16:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T23:00:00+00:00"
+          "start": "2026-11-17T18:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T04:00:00+00:00"
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T18:00:00+00:00"
         }
       ]
     },
@@ -1738,8 +930,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T11:00:00+00:00",
-      "stop": "2026-11-17T12:00:00+00:00",
+      "start": "2026-11-17T06:00:00+00:00",
+      "stop": "2026-11-17T07:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
@@ -1750,11 +942,7 @@
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T15:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T05:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
         }
       ]
     },
@@ -1818,27 +1006,43 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T12:00:00+00:00",
-      "stop": "2026-11-17T13:00:00+00:00",
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T08:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/zxoB8iTDIg2v9bikj7NaApuXwAl.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w780/yMnAbSZpenUzmHP8nLtaplR27Cy.jpg",
       "icon": "https://image.tmdb.org/t/p/w500/zxoB8iTDIg2v9bikj7NaApuXwAl.jpg",
       "channel_icon": "https://i.imgur.com/sOMOe9t.png",
-      "is_rerun": true,
+      "is_rerun": false,
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T12:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T03:00:00+00:00"
+          "start": "2026-11-17T17:00:00+00:00"
         },
         {
           "channel": "الظفرة",
           "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T22:00:00+00:00"
         }
       ]
     },
@@ -1903,8 +1107,8 @@
         }
       ],
       "trailer_url": "https://www.youtube.com/watch?v=9ldZ3Nhf2f4",
-      "start": "2026-11-17T13:00:00+00:00",
-      "stop": "2026-11-17T14:00:00+00:00",
+      "start": "2026-11-17T08:00:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/1rv82gNj4IisQPiaRD2a6J7Fg4t.jpg",
@@ -1915,19 +1119,31 @@
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T13:00:00+00:00"
+          "start": "2026-11-16T16:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T21:00:00+00:00"
-        },
-        {
-          "channel": "الظفرة",
-          "start": "2026-11-17T02:00:00+00:00"
+          "start": "2026-11-17T16:00:00+00:00"
         },
         {
           "channel": "الظفرة",
           "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T08:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T21:00:00+00:00"
         }
       ]
     },
@@ -1990,8 +1206,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T14:00:00+00:00",
-      "stop": "2026-11-17T15:00:00+00:00",
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/1oBEoeJy5sBGciDnaGA6rYgZXeQ.jpg",
@@ -2002,15 +1218,27 @@
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T14:00:00+00:00"
+          "start": "2026-11-17T02:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T01:00:00+00:00"
+          "start": "2026-11-17T20:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T07:00:00+00:00"
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T20:00:00+00:00"
         }
       ]
     },
@@ -2075,8 +1303,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T15:00:00+00:00",
-      "stop": "2026-11-17T16:00:00+00:00",
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T11:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/motQ0aXKpP3Fu2VTyirt8B7CZIl.jpg",
@@ -2084,7 +1312,16 @@
       "icon": "https://image.tmdb.org/t/p/w500/motQ0aXKpP3Fu2VTyirt8B7CZIl.jpg",
       "channel_icon": "https://i.imgur.com/sOMOe9t.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T06:00:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -2114,19 +1351,19 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T16:00:00+00:00",
-      "stop": "2026-11-17T17:00:00+00:00",
+      "start": "2026-11-17T11:00:00+00:00",
+      "stop": "2026-11-17T12:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
       "backdrop": null,
       "icon": null,
       "channel_icon": "https://i.imgur.com/sOMOe9t.png",
-      "is_rerun": true,
+      "is_rerun": false,
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T16:00:00+00:00"
+          "start": "2026-11-18T11:00:00+00:00"
         }
       ]
     },
@@ -2158,19 +1395,19 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T17:00:00+00:00",
-      "stop": "2026-11-17T17:30:00+00:00",
+      "start": "2026-11-17T12:00:00+00:00",
+      "stop": "2026-11-17T12:30:00+00:00",
       "duration_minutes": 30,
       "is_live": false,
       "poster": null,
       "backdrop": null,
       "icon": null,
       "channel_icon": "https://i.imgur.com/sOMOe9t.png",
-      "is_rerun": true,
+      "is_rerun": false,
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T17:00:00+00:00"
+          "start": "2026-11-18T12:00:00+00:00"
         }
       ]
     },
@@ -2202,8 +1439,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T17:30:00+00:00",
-      "stop": "2026-11-17T18:30:00+00:00",
+      "start": "2026-11-17T12:30:00+00:00",
+      "stop": "2026-11-17T13:30:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
@@ -2214,7 +1451,11 @@
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T17:30:00+00:00"
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T12:30:00+00:00"
         }
       ]
     },
@@ -2246,8 +1487,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T18:30:00+00:00",
-      "stop": "2026-11-17T19:00:00+00:00",
+      "start": "2026-11-17T13:30:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
       "duration_minutes": 30,
       "is_live": false,
       "poster": null,
@@ -2258,7 +1499,499 @@
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T18:30:00+00:00"
+          "start": "2026-11-16T13:30:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T13:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 304606,
+      "title": "خطوات صغيرة",
+      "clean_title": "خطوات صغيرة",
+      "original_title": "خطوات صغيرة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في عالم تتشابك فيه المصالح مع المشاعر، تنفجر صراعات مكتومة داخل حيوات مجموعة من النساء. تبدأ القصة بقرار فرح المصيري حين تحمل حقيبتها وتغادر منزل زوجها، معلنةً نهاية الصمت وبداية الحرب من أجل الكرامة. وعلى الجانب الآخر، تعيش حصة نشوة نجاح زائف قبل أن يصدمها سقوط الأقنعة لتكشف عن خيانة غادرة من أقرب الناس إليها. بين طموحات محطمة وصراعات عائلية مريرة، تخوض كل شخصية معركتها الخاصة للبقاء.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": 9,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Returning Series",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": "أنفال الدويسان",
+      "cast": [
+        {
+          "name": "هبة الدري",
+          "character": "حصة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wQ9UtCHH0cyCNewEms1Fk2ahaN0.jpg"
+        },
+        {
+          "name": "حمد العماني",
+          "character": "ناصر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dxty7GdQU3BPRiRnIq4IIaFlBGB.jpg"
+        },
+        {
+          "name": "لمياء طارق",
+          "character": "فرح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ereDERZExoCwSW7JDVe8zn8Btye.jpg"
+        },
+        {
+          "name": "ريم أرحمه",
+          "character": "أنوار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cttLUm3Ptla39xRAnDgKvmuBrYA.jpg"
+        },
+        {
+          "name": "محمد الرمضان",
+          "character": "طلال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kxh1PEcIfwHI7rGqbLEAD6Fddgf.jpg"
+        },
+        {
+          "name": "زينب بهمن",
+          "character": "دلال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dlbFQ00mXYfAu4RpbAFfRsAa6IY.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/xBzmjWAjIGhoH5VVYljlhBLCHFK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jBS96XLInQOrW0WtPVEppK8cLe6.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/xBzmjWAjIGhoH5VVYljlhBLCHFK.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 309032,
+      "title": "فن الحرب",
+      "clean_title": "فن الحرب",
+      "original_title": "فن الحرب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "يختار زياد طريق التمثيل بدلًا من الانضمام إلى أعمال والده، لكن خيانة مفاجئة تؤدي إلى انهيار إمبراطورية العائلة ودخول والده السجن. وبعد وفاة والده، يعود زياد مصممًا على استرداد الأموال المسروقة واستعادة اسم العائلة، مستعينًا بموهبته في التمثيل وحيله الذكية للانتقام ممن دمّروا حياتهم. ومع اقترابه من هدفه، يجد نفسه عالقًا في لعبة مزدوجة خطيرة، خاصة حين تقع دينا، ابنة عدوه، في حبه وتساعده سرًا.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "حركة ومغامرة"
+      ],
+      "rating": 5.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "عمرو سمير عاطف",
+      "cast": [
+        {
+          "name": "يوسف الشريف",
+          "character": "زياد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jVnXWFJzO4ISX796tUiLCb4BnRo.jpg"
+        },
+        {
+          "name": "شيري عادل",
+          "character": "مي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vGogy94OyREdTtQe6NEEETB5mMc.jpg"
+        },
+        {
+          "name": "ريم مصطفى",
+          "character": "ياسمين",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vCl2SFZ5bOCYEMI1hr9iPdRreQ0.jpg"
+        },
+        {
+          "name": "إسلام إبراهيم",
+          "character": "سيد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oAfUBoMoJ6SkuyrLQWiHkpUgwx1.jpg"
+        },
+        {
+          "name": "دنيا سامي",
+          "character": "صفية",
+          "profile_image": "https://image.tmdb.org/t/p/w185/a8ZSmhmj4W7Fld7QcMQTNu2QNDz.jpg"
+        },
+        {
+          "name": "محمد جمعة",
+          "character": "تامر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ufELukh7YOMFOjdCeqAb8kSPe9z.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=P7mjnGVMwko",
+      "start": "2026-11-17T15:00:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/y2bMELQDMvsS6mG2Jiaitajj110.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qRqK3UqixqjuPLtlY0mWFkfGy69.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/y2bMELQDMvsS6mG2Jiaitajj110.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301329,
+      "title": "علي كلاي",
+      "clean_title": "علي كلاي",
+      "original_title": "علي كلاي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "علي، شاب نال لقب «كلاي» بين جيرانه بفضل براعته الاستثنائية في الملاكمة وقوة جأشه. بعيداً عن حلبة النزال، يعمل في تجارة قطع غيار السيارات، محاولا الموازنة بين خشونة عمله وطموحاته الرياضية. لكن أقسى مبارياته لا تكن فوق الحلبة، بل في حياته الخاصة؛ حيث يجد نفسه عالقاً في حلبة من النزاعات الأسرية المستمرة، وصراعات عاطفية مع حبيبته.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 7,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمود حمدان",
+      "cast": [
+        {
+          "name": "أحمد العوضي",
+          "character": "علي كلاي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/okGwM8RGj5A88GWdNevH4LPXYc4.jpg"
+        },
+        {
+          "name": "درة",
+          "character": "ميادة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vF4NIuKm6pKe2Sdm1L8MqntbN0z.jpg"
+        },
+        {
+          "name": "عصام السقا",
+          "character": "صفوان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rd2XDEe7ti42thwL17Xrb8Fw3pp.jpg"
+        },
+        {
+          "name": "يارا السكري",
+          "character": "روح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8cBIDrsr2H4bEyZRfM4CZ3Xx5rY.jpg"
+        },
+        {
+          "name": "سينتيا خليفة",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/aLBfy6uALtLvvxWKaO9lRLrQLXn.jpg"
+        },
+        {
+          "name": "محمود البزاوي",
+          "character": "عزازي أبو الحسن",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zSEhTEA07ZE4xchHU5SDwOOytmr.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=9ldZ3Nhf2f4",
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/1rv82gNj4IisQPiaRD2a6J7Fg4t.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pivsXHXVJFsDJeHcT99IqINDtA1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/1rv82gNj4IisQPiaRD2a6J7Fg4t.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T08:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314079,
+      "title": "درب الذهب",
+      "clean_title": "درب الذهب",
+      "original_title": "درب الذهب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "بعد سنوات من غدرٍ أودى بها خلف القضبان، تخرج فايزة من عتمة السجن إلى عالم الثراء، فتجد سعد الذي خانها يوماً قد شيد إمبراطوريته من حطام صفقتهما القديمة. وبينما تتصادم طموحاتهما في صفقات مشبوهة جديدة، يشتعل فتيل انتقام تتشابك فيه مصائر أبنائهما بمرارة الماضي.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "أحمد إيراج",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/yeVmETvIVYkmInhw8HlihLhI1o7.jpg"
+        },
+        {
+          "name": "طيف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8erSsR12FGMOZmUksSh0dreFMhV.jpg"
+        },
+        {
+          "name": "شهد الياسين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hORpa73TDacYIga8ID1Bb2L3Bfl.jpg"
+        },
+        {
+          "name": "Abdullah Abass",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Mai Abdullah",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Khaled Al Ajeerb",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T17:00:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/zxoB8iTDIg2v9bikj7NaApuXwAl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yMnAbSZpenUzmHP8nLtaplR27Cy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/zxoB8iTDIg2v9bikj7NaApuXwAl.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314125,
+      "title": "عيلة الملك",
+      "clean_title": "عيلة الملك",
+      "original_title": "عيلة الملك",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في دمشق المثقلة بالتحولات عام 2024، يسقط رجل الأعمال النافذ 'جبري المالك' في قبضة نظام متهالك، ليترك خلفه إمبراطورية يتصارع عليها أقرب الناس إليه في حربٍ عائلية ضروس وقودها الجشع. وبينما يظن الجميع أن أثره قد مُحي، ينهار النظام ويخرج المالك من ظلمات المعتقل كالشبح، ليعيد ترتيب أوراقه في مشهدٍ يعج بالانتقام، وتتكشف خيانات وتحالفات دموية كانت تحاك تحت الرماد، مهددةً بحرق كل من تجرأ على وراثة العرش.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Juan Al Kheder",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/d2MxFGzMfYx8EWiRRm0Qh6SSsjT.jpg"
+        },
+        {
+          "name": "Lojain Ismail",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/c6mhCTKxREbPQUVZ2IpXs9oG3Dr.jpg"
+        },
+        {
+          "name": "Deema Bayyaa",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8QT143znnwKUnVGIZx92YnyGaEb.jpg"
+        },
+        {
+          "name": "Rana Risha",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4jSKHIYflpG19lPuvnKET7WkFYm.jpg"
+        },
+        {
+          "name": "سلوم حداد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3RPqqMSYYUl33ChPo3TzygWY53U.jpg"
+        },
+        {
+          "name": "Fatih Salman",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/btyc56uKm6N9h66mqXvsjSZDuBp.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/4Nl6U4iartb3GvDNBQkhnE2TPYM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jkzEnN3bDGclc26EuQEJANGSWIt.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/4Nl6U4iartb3GvDNBQkhnE2TPYM.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "صدى البلد دراما",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T18:00:00+00:00"
         }
       ]
     },
@@ -2333,95 +2066,126 @@
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T19:00:00+00:00"
+          "start": "2026-11-16T14:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T00:00:00+00:00"
+          "start": "2026-11-17T04:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T09:00:00+00:00"
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T19:00:00+00:00"
         }
       ]
     },
     {
-      "tmdb_id": 309032,
-      "title": "فن الحرب",
-      "clean_title": "فن الحرب",
-      "original_title": "فن الحرب",
+      "tmdb_id": 223238,
+      "title": "أكباد المهاجرة",
+      "clean_title": "أكباد المهاجرة",
+      "original_title": "أكباد المهاجرة",
       "tagline": null,
       "episode_title": null,
       "content_type": "series",
       "season": null,
       "episode": null,
       "seasons_count": 1,
-      "episodes_count": 30,
-      "description": "يختار زياد طريق التمثيل بدلًا من الانضمام إلى أعمال والده، لكن خيانة مفاجئة تؤدي إلى انهيار إمبراطورية العائلة ودخول والده السجن. وبعد وفاة والده، يعود زياد مصممًا على استرداد الأموال المسروقة واستعادة اسم العائلة، مستعينًا بموهبته في التمثيل وحيله الذكية للانتقام ممن دمّروا حياتهم. ومع اقترابه من هدفه، يجد نفسه عالقًا في لعبة مزدوجة خطيرة، خاصة حين تقع دينا، ابنة عدوه، في حبه وتساعده سرًا.",
+      "episodes_count": 5,
+      "description": "مسلسل درامي رومانسي تشويقي، تدور أحداثها بين الفلاحين والبدو في الأردن، حيث يتمرد منصور الفارس البدوي ابن الشيخ ضافي على حكم العشيرة بسبب حبه لشمس.",
       "category": "مسلسل",
       "genres": [
-        "مسلسل",
-        "حركة ومغامرة"
+        "مسلسل"
       ],
-      "rating": 5.5,
-      "vote_count": 2,
+      "rating": null,
+      "vote_count": null,
       "age_rating": null,
-      "year": "2026",
-      "release_date": "2026-02-18",
-      "status": "Ended",
-      "country": "مصر",
+      "year": "2023",
+      "release_date": "2023-03-23",
+      "status": "Returning Series",
+      "country": "الأردن",
       "language": "العربية",
-      "director": "عمرو سمير عاطف",
+      "director": null,
       "cast": [
         {
-          "name": "يوسف الشريف",
-          "character": "زياد",
-          "profile_image": "https://image.tmdb.org/t/p/w185/jVnXWFJzO4ISX796tUiLCb4BnRo.jpg"
+          "name": "صفاء سلطان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/sYQmOGbmRNbbZwICQakjj3MHwFl.jpg"
         },
         {
-          "name": "شيري عادل",
-          "character": "مي",
-          "profile_image": "https://image.tmdb.org/t/p/w185/vGogy94OyREdTtQe6NEEETB5mMc.jpg"
+          "name": "Mohammad Al Majali",
+          "character": null,
+          "profile_image": null
         },
         {
-          "name": "ريم مصطفى",
-          "character": "ياسمين",
-          "profile_image": "https://image.tmdb.org/t/p/w185/vCl2SFZ5bOCYEMI1hr9iPdRreQ0.jpg"
+          "name": "Abeer Issa",
+          "character": null,
+          "profile_image": null
         },
         {
-          "name": "إسلام إبراهيم",
-          "character": "سيد",
-          "profile_image": "https://image.tmdb.org/t/p/w185/oAfUBoMoJ6SkuyrLQWiHkpUgwx1.jpg"
+          "name": "جولييت عواد",
+          "character": null,
+          "profile_image": null
         },
         {
-          "name": "دنيا سامي",
-          "character": "صفية",
-          "profile_image": "https://image.tmdb.org/t/p/w185/a8ZSmhmj4W7Fld7QcMQTNu2QNDz.jpg"
+          "name": "Jameel Barahmeh",
+          "character": null,
+          "profile_image": null
         },
         {
-          "name": "محمد جمعة",
-          "character": "تامر",
-          "profile_image": "https://image.tmdb.org/t/p/w185/ufELukh7YOMFOjdCeqAb8kSPe9z.jpg"
+          "name": "Munia Kdaiss",
+          "character": null,
+          "profile_image": null
         }
       ],
-      "trailer_url": "https://www.youtube.com/watch?v=P7mjnGVMwko",
+      "trailer_url": null,
       "start": "2026-11-17T20:00:00+00:00",
       "stop": "2026-11-17T21:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/y2bMELQDMvsS6mG2Jiaitajj110.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/qRqK3UqixqjuPLtlY0mWFkfGy69.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/y2bMELQDMvsS6mG2Jiaitajj110.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/1oBEoeJy5sBGciDnaGA6rYgZXeQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kE0wLWnNLplrYEDq2LXfxUGCDrA.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/1oBEoeJy5sBGciDnaGA6rYgZXeQ.jpg",
       "channel_icon": "https://i.imgur.com/sOMOe9t.png",
       "is_rerun": true,
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T20:00:00+00:00"
+          "start": "2026-11-17T02:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T06:00:00+00:00"
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T20:00:00+00:00"
         }
       ]
     },
@@ -2498,19 +2262,31 @@
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T13:00:00+00:00"
+          "start": "2026-11-16T16:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T21:00:00+00:00"
+          "start": "2026-11-17T08:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T02:00:00+00:00"
+          "start": "2026-11-17T16:00:00+00:00"
         },
         {
           "channel": "الظفرة",
-          "start": "2026-11-17T13:00:00+00:00"
+          "start": "2026-11-18T08:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T21:00:00+00:00"
         }
       ]
     },
@@ -2586,15 +2362,2860 @@
       "reruns": [
         {
           "channel": "الظفرة",
-          "start": "2026-11-16T12:00:00+00:00"
+          "start": "2026-11-17T07:00:00+00:00"
         },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314125,
+      "title": "عيلة الملك",
+      "clean_title": "عيلة الملك",
+      "original_title": "عيلة الملك",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في دمشق المثقلة بالتحولات عام 2024، يسقط رجل الأعمال النافذ 'جبري المالك' في قبضة نظام متهالك، ليترك خلفه إمبراطورية يتصارع عليها أقرب الناس إليه في حربٍ عائلية ضروس وقودها الجشع. وبينما يظن الجميع أن أثره قد مُحي، ينهار النظام ويخرج المالك من ظلمات المعتقل كالشبح، ليعيد ترتيب أوراقه في مشهدٍ يعج بالانتقام، وتتكشف خيانات وتحالفات دموية كانت تحاك تحت الرماد، مهددةً بحرق كل من تجرأ على وراثة العرش.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Juan Al Kheder",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/d2MxFGzMfYx8EWiRRm0Qh6SSsjT.jpg"
+        },
+        {
+          "name": "Lojain Ismail",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/c6mhCTKxREbPQUVZ2IpXs9oG3Dr.jpg"
+        },
+        {
+          "name": "Deema Bayyaa",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8QT143znnwKUnVGIZx92YnyGaEb.jpg"
+        },
+        {
+          "name": "Rana Risha",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4jSKHIYflpG19lPuvnKET7WkFYm.jpg"
+        },
+        {
+          "name": "سلوم حداد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3RPqqMSYYUl33ChPo3TzygWY53U.jpg"
+        },
+        {
+          "name": "Fatih Salman",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/btyc56uKm6N9h66mqXvsjSZDuBp.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T23:00:00+00:00",
+      "stop": "2026-11-18T00:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/4Nl6U4iartb3GvDNBQkhnE2TPYM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jkzEnN3bDGclc26EuQEJANGSWIt.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/4Nl6U4iartb3GvDNBQkhnE2TPYM.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "صدى البلد دراما",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 133372,
+      "title": "برنامج خفايا",
+      "clean_title": "خفايا",
+      "original_title": "मीत",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 246,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General",
+        "دراما",
+        "أوبرا صابونية"
+      ],
+      "rating": 3.5,
+      "vote_count": 9,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-08-23",
+      "status": "Ended",
+      "country": "الهند",
+      "language": "الهندية",
+      "director": "Shashi Mittal",
+      "cast": [
+        {
+          "name": "Ashi Singh",
+          "character": "Meet Hooda",
+          "profile_image": "https://image.tmdb.org/t/p/w185/syal5FQaxbW5JCjeVfQ9Vmhl03W.jpg"
+        },
+        {
+          "name": "Shagun Pandey",
+          "character": "Meet Ahlawat",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6lprpMYjmuObHgEWeRD5Q9pKT4o.jpg"
+        },
+        {
+          "name": "Vaishnavi Macdonald",
+          "character": "Anubha Honda",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wQbhvh1KOwD4kFJtDkLakEVrOeD.jpg"
+        },
+        {
+          "name": "Sharain Khanduja",
+          "character": "Manushri Honda",
+          "profile_image": null
+        },
+        {
+          "name": "Pratham Kunwar",
+          "character": "Kunal",
+          "profile_image": null
+        },
+        {
+          "name": "Abha Parmar",
+          "character": "Amma",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8a2bqGLT43QSFYg7gT88E8YShcS.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T00:00:00+00:00",
+      "stop": "2026-11-18T01:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/motQ0aXKpP3Fu2VTyirt8B7CZIl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4JabtZt6aqg1wcRuiHoVMIgZDAE.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/motQ0aXKpP3Fu2VTyirt8B7CZIl.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 309032,
+      "title": "فن الحرب",
+      "clean_title": "فن الحرب",
+      "original_title": "فن الحرب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "يختار زياد طريق التمثيل بدلًا من الانضمام إلى أعمال والده، لكن خيانة مفاجئة تؤدي إلى انهيار إمبراطورية العائلة ودخول والده السجن. وبعد وفاة والده، يعود زياد مصممًا على استرداد الأموال المسروقة واستعادة اسم العائلة، مستعينًا بموهبته في التمثيل وحيله الذكية للانتقام ممن دمّروا حياتهم. ومع اقترابه من هدفه، يجد نفسه عالقًا في لعبة مزدوجة خطيرة، خاصة حين تقع دينا، ابنة عدوه، في حبه وتساعده سرًا.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "حركة ومغامرة"
+      ],
+      "rating": 5.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "عمرو سمير عاطف",
+      "cast": [
+        {
+          "name": "يوسف الشريف",
+          "character": "زياد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jVnXWFJzO4ISX796tUiLCb4BnRo.jpg"
+        },
+        {
+          "name": "شيري عادل",
+          "character": "مي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vGogy94OyREdTtQe6NEEETB5mMc.jpg"
+        },
+        {
+          "name": "ريم مصطفى",
+          "character": "ياسمين",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vCl2SFZ5bOCYEMI1hr9iPdRreQ0.jpg"
+        },
+        {
+          "name": "إسلام إبراهيم",
+          "character": "سيد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oAfUBoMoJ6SkuyrLQWiHkpUgwx1.jpg"
+        },
+        {
+          "name": "دنيا سامي",
+          "character": "صفية",
+          "profile_image": "https://image.tmdb.org/t/p/w185/a8ZSmhmj4W7Fld7QcMQTNu2QNDz.jpg"
+        },
+        {
+          "name": "محمد جمعة",
+          "character": "تامر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ufELukh7YOMFOjdCeqAb8kSPe9z.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=P7mjnGVMwko",
+      "start": "2026-11-18T01:00:00+00:00",
+      "stop": "2026-11-18T02:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/y2bMELQDMvsS6mG2Jiaitajj110.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qRqK3UqixqjuPLtlY0mWFkfGy69.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/y2bMELQDMvsS6mG2Jiaitajj110.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 223238,
+      "title": "أكباد المهاجرة",
+      "clean_title": "أكباد المهاجرة",
+      "original_title": "أكباد المهاجرة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 5,
+      "description": "مسلسل درامي رومانسي تشويقي، تدور أحداثها بين الفلاحين والبدو في الأردن، حيث يتمرد منصور الفارس البدوي ابن الشيخ ضافي على حكم العشيرة بسبب حبه لشمس.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-23",
+      "status": "Returning Series",
+      "country": "الأردن",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "صفاء سلطان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/sYQmOGbmRNbbZwICQakjj3MHwFl.jpg"
+        },
+        {
+          "name": "Mohammad Al Majali",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Abeer Issa",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "جولييت عواد",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Jameel Barahmeh",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Munia Kdaiss",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T02:00:00+00:00",
+      "stop": "2026-11-18T03:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/1oBEoeJy5sBGciDnaGA6rYgZXeQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kE0wLWnNLplrYEDq2LXfxUGCDrA.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/1oBEoeJy5sBGciDnaGA6rYgZXeQ.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج عرب فوود",
+      "clean_title": "عرب فوود",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T03:00:00+00:00",
+      "stop": "2026-11-18T03:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
         {
           "channel": "الظفرة",
           "start": "2026-11-17T03:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج كليبات وطنية",
+      "clean_title": "كليبات وطنية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T03:30:00+00:00",
+      "stop": "2026-11-18T04:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T03:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 304606,
+      "title": "خطوات صغيرة",
+      "clean_title": "خطوات صغيرة",
+      "original_title": "خطوات صغيرة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في عالم تتشابك فيه المصالح مع المشاعر، تنفجر صراعات مكتومة داخل حيوات مجموعة من النساء. تبدأ القصة بقرار فرح المصيري حين تحمل حقيبتها وتغادر منزل زوجها، معلنةً نهاية الصمت وبداية الحرب من أجل الكرامة. وعلى الجانب الآخر، تعيش حصة نشوة نجاح زائف قبل أن يصدمها سقوط الأقنعة لتكشف عن خيانة غادرة من أقرب الناس إليها. بين طموحات محطمة وصراعات عائلية مريرة، تخوض كل شخصية معركتها الخاصة للبقاء.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": 9,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Returning Series",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": "أنفال الدويسان",
+      "cast": [
+        {
+          "name": "هبة الدري",
+          "character": "حصة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wQ9UtCHH0cyCNewEms1Fk2ahaN0.jpg"
+        },
+        {
+          "name": "حمد العماني",
+          "character": "ناصر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dxty7GdQU3BPRiRnIq4IIaFlBGB.jpg"
+        },
+        {
+          "name": "لمياء طارق",
+          "character": "فرح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ereDERZExoCwSW7JDVe8zn8Btye.jpg"
+        },
+        {
+          "name": "ريم أرحمه",
+          "character": "أنوار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cttLUm3Ptla39xRAnDgKvmuBrYA.jpg"
+        },
+        {
+          "name": "محمد الرمضان",
+          "character": "طلال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kxh1PEcIfwHI7rGqbLEAD6Fddgf.jpg"
+        },
+        {
+          "name": "زينب بهمن",
+          "character": "دلال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dlbFQ00mXYfAu4RpbAFfRsAa6IY.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T04:00:00+00:00",
+      "stop": "2026-11-18T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/xBzmjWAjIGhoH5VVYljlhBLCHFK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jBS96XLInQOrW0WtPVEppK8cLe6.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/xBzmjWAjIGhoH5VVYljlhBLCHFK.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-16T14:00:00+00:00"
         },
         {
           "channel": "الظفرة",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314125,
+      "title": "عيلة الملك",
+      "clean_title": "عيلة الملك",
+      "original_title": "عيلة الملك",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في دمشق المثقلة بالتحولات عام 2024، يسقط رجل الأعمال النافذ 'جبري المالك' في قبضة نظام متهالك، ليترك خلفه إمبراطورية يتصارع عليها أقرب الناس إليه في حربٍ عائلية ضروس وقودها الجشع. وبينما يظن الجميع أن أثره قد مُحي، ينهار النظام ويخرج المالك من ظلمات المعتقل كالشبح، ليعيد ترتيب أوراقه في مشهدٍ يعج بالانتقام، وتتكشف خيانات وتحالفات دموية كانت تحاك تحت الرماد، مهددةً بحرق كل من تجرأ على وراثة العرش.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Juan Al Kheder",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/d2MxFGzMfYx8EWiRRm0Qh6SSsjT.jpg"
+        },
+        {
+          "name": "Lojain Ismail",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/c6mhCTKxREbPQUVZ2IpXs9oG3Dr.jpg"
+        },
+        {
+          "name": "Deema Bayyaa",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8QT143znnwKUnVGIZx92YnyGaEb.jpg"
+        },
+        {
+          "name": "Rana Risha",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4jSKHIYflpG19lPuvnKET7WkFYm.jpg"
+        },
+        {
+          "name": "سلوم حداد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3RPqqMSYYUl33ChPo3TzygWY53U.jpg"
+        },
+        {
+          "name": "Fatih Salman",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/btyc56uKm6N9h66mqXvsjSZDuBp.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T05:00:00+00:00",
+      "stop": "2026-11-18T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/4Nl6U4iartb3GvDNBQkhnE2TPYM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jkzEnN3bDGclc26EuQEJANGSWIt.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/4Nl6U4iartb3GvDNBQkhnE2TPYM.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "صدى البلد دراما",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 133372,
+      "title": "برنامج خفايا",
+      "clean_title": "خفايا",
+      "original_title": "मीत",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 246,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General",
+        "دراما",
+        "أوبرا صابونية"
+      ],
+      "rating": 3.5,
+      "vote_count": 9,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-08-23",
+      "status": "Ended",
+      "country": "الهند",
+      "language": "الهندية",
+      "director": "Shashi Mittal",
+      "cast": [
+        {
+          "name": "Ashi Singh",
+          "character": "Meet Hooda",
+          "profile_image": "https://image.tmdb.org/t/p/w185/syal5FQaxbW5JCjeVfQ9Vmhl03W.jpg"
+        },
+        {
+          "name": "Shagun Pandey",
+          "character": "Meet Ahlawat",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6lprpMYjmuObHgEWeRD5Q9pKT4o.jpg"
+        },
+        {
+          "name": "Vaishnavi Macdonald",
+          "character": "Anubha Honda",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wQbhvh1KOwD4kFJtDkLakEVrOeD.jpg"
+        },
+        {
+          "name": "Sharain Khanduja",
+          "character": "Manushri Honda",
+          "profile_image": null
+        },
+        {
+          "name": "Pratham Kunwar",
+          "character": "Kunal",
+          "profile_image": null
+        },
+        {
+          "name": "Abha Parmar",
+          "character": "Amma",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8a2bqGLT43QSFYg7gT88E8YShcS.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T06:00:00+00:00",
+      "stop": "2026-11-18T07:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/motQ0aXKpP3Fu2VTyirt8B7CZIl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4JabtZt6aqg1wcRuiHoVMIgZDAE.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/motQ0aXKpP3Fu2VTyirt8B7CZIl.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314079,
+      "title": "درب الذهب",
+      "clean_title": "درب الذهب",
+      "original_title": "درب الذهب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "بعد سنوات من غدرٍ أودى بها خلف القضبان، تخرج فايزة من عتمة السجن إلى عالم الثراء، فتجد سعد الذي خانها يوماً قد شيد إمبراطوريته من حطام صفقتهما القديمة. وبينما تتصادم طموحاتهما في صفقات مشبوهة جديدة، يشتعل فتيل انتقام تتشابك فيه مصائر أبنائهما بمرارة الماضي.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "أحمد إيراج",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/yeVmETvIVYkmInhw8HlihLhI1o7.jpg"
+        },
+        {
+          "name": "طيف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8erSsR12FGMOZmUksSh0dreFMhV.jpg"
+        },
+        {
+          "name": "شهد الياسين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hORpa73TDacYIga8ID1Bb2L3Bfl.jpg"
+        },
+        {
+          "name": "Abdullah Abass",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Mai Abdullah",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Khaled Al Ajeerb",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T07:00:00+00:00",
+      "stop": "2026-11-18T08:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/zxoB8iTDIg2v9bikj7NaApuXwAl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yMnAbSZpenUzmHP8nLtaplR27Cy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/zxoB8iTDIg2v9bikj7NaApuXwAl.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301329,
+      "title": "علي كلاي",
+      "clean_title": "علي كلاي",
+      "original_title": "علي كلاي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "علي، شاب نال لقب «كلاي» بين جيرانه بفضل براعته الاستثنائية في الملاكمة وقوة جأشه. بعيداً عن حلبة النزال، يعمل في تجارة قطع غيار السيارات، محاولا الموازنة بين خشونة عمله وطموحاته الرياضية. لكن أقسى مبارياته لا تكن فوق الحلبة، بل في حياته الخاصة؛ حيث يجد نفسه عالقاً في حلبة من النزاعات الأسرية المستمرة، وصراعات عاطفية مع حبيبته.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 7,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمود حمدان",
+      "cast": [
+        {
+          "name": "أحمد العوضي",
+          "character": "علي كلاي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/okGwM8RGj5A88GWdNevH4LPXYc4.jpg"
+        },
+        {
+          "name": "درة",
+          "character": "ميادة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vF4NIuKm6pKe2Sdm1L8MqntbN0z.jpg"
+        },
+        {
+          "name": "عصام السقا",
+          "character": "صفوان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rd2XDEe7ti42thwL17Xrb8Fw3pp.jpg"
+        },
+        {
+          "name": "يارا السكري",
+          "character": "روح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8cBIDrsr2H4bEyZRfM4CZ3Xx5rY.jpg"
+        },
+        {
+          "name": "سينتيا خليفة",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/aLBfy6uALtLvvxWKaO9lRLrQLXn.jpg"
+        },
+        {
+          "name": "محمود البزاوي",
+          "character": "عزازي أبو الحسن",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zSEhTEA07ZE4xchHU5SDwOOytmr.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=9ldZ3Nhf2f4",
+      "start": "2026-11-18T08:00:00+00:00",
+      "stop": "2026-11-18T09:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/1rv82gNj4IisQPiaRD2a6J7Fg4t.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pivsXHXVJFsDJeHcT99IqINDtA1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/1rv82gNj4IisQPiaRD2a6J7Fg4t.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 223238,
+      "title": "أكباد المهاجرة",
+      "clean_title": "أكباد المهاجرة",
+      "original_title": "أكباد المهاجرة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 5,
+      "description": "مسلسل درامي رومانسي تشويقي، تدور أحداثها بين الفلاحين والبدو في الأردن، حيث يتمرد منصور الفارس البدوي ابن الشيخ ضافي على حكم العشيرة بسبب حبه لشمس.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-23",
+      "status": "Returning Series",
+      "country": "الأردن",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "صفاء سلطان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/sYQmOGbmRNbbZwICQakjj3MHwFl.jpg"
+        },
+        {
+          "name": "Mohammad Al Majali",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Abeer Issa",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "جولييت عواد",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Jameel Barahmeh",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Munia Kdaiss",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T09:00:00+00:00",
+      "stop": "2026-11-18T10:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/1oBEoeJy5sBGciDnaGA6rYgZXeQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kE0wLWnNLplrYEDq2LXfxUGCDrA.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/1oBEoeJy5sBGciDnaGA6rYgZXeQ.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج بين الخطوط",
+      "clean_title": "بين الخطوط",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T10:00:00+00:00",
+      "stop": "2026-11-18T11:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج حياة زايد",
+      "clean_title": "حياة زايد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T11:00:00+00:00",
+      "stop": "2026-11-18T12:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "علوم الإمارات + كليبات وطنية",
+      "clean_title": "علوم الإمارات + كليبات وطنية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T12:00:00+00:00",
+      "stop": "2026-11-18T12:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
           "start": "2026-11-17T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "زمن البرغوت ج2",
+      "clean_title": "زمن البرغوت ج2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يرصد تفاصيل البيئة الشامية والعلاقات اﻻجتماعية والإنسانية بين عامي (1918 ـ 1925) من خلال مجموعة من الحكايات التي تحدث في حارة عياش في حي الميدان إبان خروج الاحتلال العثماني من دمشق ودخول الملك فيصل وبداية الاحتلال الفرنسي ومقاومة الشعب السوري للاحتلال الفرنسي، مرورًا بمعركة ميسلون والثورة السورية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T12:30:00+00:00",
+      "stop": "2026-11-18T13:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-16T12:30:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج داي أوت",
+      "clean_title": "داي أوت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T13:30:00+00:00",
+      "stop": "2026-11-18T14:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-16T13:30:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T13:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 304606,
+      "title": "خطوات صغيرة",
+      "clean_title": "خطوات صغيرة",
+      "original_title": "خطوات صغيرة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في عالم تتشابك فيه المصالح مع المشاعر، تنفجر صراعات مكتومة داخل حيوات مجموعة من النساء. تبدأ القصة بقرار فرح المصيري حين تحمل حقيبتها وتغادر منزل زوجها، معلنةً نهاية الصمت وبداية الحرب من أجل الكرامة. وعلى الجانب الآخر، تعيش حصة نشوة نجاح زائف قبل أن يصدمها سقوط الأقنعة لتكشف عن خيانة غادرة من أقرب الناس إليها. بين طموحات محطمة وصراعات عائلية مريرة، تخوض كل شخصية معركتها الخاصة للبقاء.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": 9,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Returning Series",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": "أنفال الدويسان",
+      "cast": [
+        {
+          "name": "هبة الدري",
+          "character": "حصة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wQ9UtCHH0cyCNewEms1Fk2ahaN0.jpg"
+        },
+        {
+          "name": "حمد العماني",
+          "character": "ناصر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dxty7GdQU3BPRiRnIq4IIaFlBGB.jpg"
+        },
+        {
+          "name": "لمياء طارق",
+          "character": "فرح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ereDERZExoCwSW7JDVe8zn8Btye.jpg"
+        },
+        {
+          "name": "ريم أرحمه",
+          "character": "أنوار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cttLUm3Ptla39xRAnDgKvmuBrYA.jpg"
+        },
+        {
+          "name": "محمد الرمضان",
+          "character": "طلال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kxh1PEcIfwHI7rGqbLEAD6Fddgf.jpg"
+        },
+        {
+          "name": "زينب بهمن",
+          "character": "دلال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dlbFQ00mXYfAu4RpbAFfRsAa6IY.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T14:00:00+00:00",
+      "stop": "2026-11-18T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/xBzmjWAjIGhoH5VVYljlhBLCHFK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jBS96XLInQOrW0WtPVEppK8cLe6.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/xBzmjWAjIGhoH5VVYljlhBLCHFK.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 309032,
+      "title": "فن الحرب",
+      "clean_title": "فن الحرب",
+      "original_title": "فن الحرب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "يختار زياد طريق التمثيل بدلًا من الانضمام إلى أعمال والده، لكن خيانة مفاجئة تؤدي إلى انهيار إمبراطورية العائلة ودخول والده السجن. وبعد وفاة والده، يعود زياد مصممًا على استرداد الأموال المسروقة واستعادة اسم العائلة، مستعينًا بموهبته في التمثيل وحيله الذكية للانتقام ممن دمّروا حياتهم. ومع اقترابه من هدفه، يجد نفسه عالقًا في لعبة مزدوجة خطيرة، خاصة حين تقع دينا، ابنة عدوه، في حبه وتساعده سرًا.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "حركة ومغامرة"
+      ],
+      "rating": 5.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "عمرو سمير عاطف",
+      "cast": [
+        {
+          "name": "يوسف الشريف",
+          "character": "زياد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jVnXWFJzO4ISX796tUiLCb4BnRo.jpg"
+        },
+        {
+          "name": "شيري عادل",
+          "character": "مي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vGogy94OyREdTtQe6NEEETB5mMc.jpg"
+        },
+        {
+          "name": "ريم مصطفى",
+          "character": "ياسمين",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vCl2SFZ5bOCYEMI1hr9iPdRreQ0.jpg"
+        },
+        {
+          "name": "إسلام إبراهيم",
+          "character": "سيد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oAfUBoMoJ6SkuyrLQWiHkpUgwx1.jpg"
+        },
+        {
+          "name": "دنيا سامي",
+          "character": "صفية",
+          "profile_image": "https://image.tmdb.org/t/p/w185/a8ZSmhmj4W7Fld7QcMQTNu2QNDz.jpg"
+        },
+        {
+          "name": "محمد جمعة",
+          "character": "تامر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ufELukh7YOMFOjdCeqAb8kSPe9z.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=P7mjnGVMwko",
+      "start": "2026-11-18T15:00:00+00:00",
+      "stop": "2026-11-18T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/y2bMELQDMvsS6mG2Jiaitajj110.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qRqK3UqixqjuPLtlY0mWFkfGy69.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/y2bMELQDMvsS6mG2Jiaitajj110.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301329,
+      "title": "علي كلاي",
+      "clean_title": "علي كلاي",
+      "original_title": "علي كلاي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "علي، شاب نال لقب «كلاي» بين جيرانه بفضل براعته الاستثنائية في الملاكمة وقوة جأشه. بعيداً عن حلبة النزال، يعمل في تجارة قطع غيار السيارات، محاولا الموازنة بين خشونة عمله وطموحاته الرياضية. لكن أقسى مبارياته لا تكن فوق الحلبة، بل في حياته الخاصة؛ حيث يجد نفسه عالقاً في حلبة من النزاعات الأسرية المستمرة، وصراعات عاطفية مع حبيبته.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 7,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمود حمدان",
+      "cast": [
+        {
+          "name": "أحمد العوضي",
+          "character": "علي كلاي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/okGwM8RGj5A88GWdNevH4LPXYc4.jpg"
+        },
+        {
+          "name": "درة",
+          "character": "ميادة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vF4NIuKm6pKe2Sdm1L8MqntbN0z.jpg"
+        },
+        {
+          "name": "عصام السقا",
+          "character": "صفوان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rd2XDEe7ti42thwL17Xrb8Fw3pp.jpg"
+        },
+        {
+          "name": "يارا السكري",
+          "character": "روح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8cBIDrsr2H4bEyZRfM4CZ3Xx5rY.jpg"
+        },
+        {
+          "name": "سينتيا خليفة",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/aLBfy6uALtLvvxWKaO9lRLrQLXn.jpg"
+        },
+        {
+          "name": "محمود البزاوي",
+          "character": "عزازي أبو الحسن",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zSEhTEA07ZE4xchHU5SDwOOytmr.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=9ldZ3Nhf2f4",
+      "start": "2026-11-18T16:00:00+00:00",
+      "stop": "2026-11-18T17:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/1rv82gNj4IisQPiaRD2a6J7Fg4t.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pivsXHXVJFsDJeHcT99IqINDtA1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/1rv82gNj4IisQPiaRD2a6J7Fg4t.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T08:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314079,
+      "title": "درب الذهب",
+      "clean_title": "درب الذهب",
+      "original_title": "درب الذهب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "بعد سنوات من غدرٍ أودى بها خلف القضبان، تخرج فايزة من عتمة السجن إلى عالم الثراء، فتجد سعد الذي خانها يوماً قد شيد إمبراطوريته من حطام صفقتهما القديمة. وبينما تتصادم طموحاتهما في صفقات مشبوهة جديدة، يشتعل فتيل انتقام تتشابك فيه مصائر أبنائهما بمرارة الماضي.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "أحمد إيراج",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/yeVmETvIVYkmInhw8HlihLhI1o7.jpg"
+        },
+        {
+          "name": "طيف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8erSsR12FGMOZmUksSh0dreFMhV.jpg"
+        },
+        {
+          "name": "شهد الياسين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hORpa73TDacYIga8ID1Bb2L3Bfl.jpg"
+        },
+        {
+          "name": "Abdullah Abass",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Mai Abdullah",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Khaled Al Ajeerb",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T17:00:00+00:00",
+      "stop": "2026-11-18T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/zxoB8iTDIg2v9bikj7NaApuXwAl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yMnAbSZpenUzmHP8nLtaplR27Cy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/zxoB8iTDIg2v9bikj7NaApuXwAl.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314125,
+      "title": "عيلة الملك",
+      "clean_title": "عيلة الملك",
+      "original_title": "عيلة الملك",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في دمشق المثقلة بالتحولات عام 2024، يسقط رجل الأعمال النافذ 'جبري المالك' في قبضة نظام متهالك، ليترك خلفه إمبراطورية يتصارع عليها أقرب الناس إليه في حربٍ عائلية ضروس وقودها الجشع. وبينما يظن الجميع أن أثره قد مُحي، ينهار النظام ويخرج المالك من ظلمات المعتقل كالشبح، ليعيد ترتيب أوراقه في مشهدٍ يعج بالانتقام، وتتكشف خيانات وتحالفات دموية كانت تحاك تحت الرماد، مهددةً بحرق كل من تجرأ على وراثة العرش.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Juan Al Kheder",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/d2MxFGzMfYx8EWiRRm0Qh6SSsjT.jpg"
+        },
+        {
+          "name": "Lojain Ismail",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/c6mhCTKxREbPQUVZ2IpXs9oG3Dr.jpg"
+        },
+        {
+          "name": "Deema Bayyaa",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8QT143znnwKUnVGIZx92YnyGaEb.jpg"
+        },
+        {
+          "name": "Rana Risha",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4jSKHIYflpG19lPuvnKET7WkFYm.jpg"
+        },
+        {
+          "name": "سلوم حداد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3RPqqMSYYUl33ChPo3TzygWY53U.jpg"
+        },
+        {
+          "name": "Fatih Salman",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/btyc56uKm6N9h66mqXvsjSZDuBp.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T18:00:00+00:00",
+      "stop": "2026-11-18T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/4Nl6U4iartb3GvDNBQkhnE2TPYM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jkzEnN3bDGclc26EuQEJANGSWIt.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/4Nl6U4iartb3GvDNBQkhnE2TPYM.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "صدى البلد دراما",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 304606,
+      "title": "خطوات صغيرة",
+      "clean_title": "خطوات صغيرة",
+      "original_title": "خطوات صغيرة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في عالم تتشابك فيه المصالح مع المشاعر، تنفجر صراعات مكتومة داخل حيوات مجموعة من النساء. تبدأ القصة بقرار فرح المصيري حين تحمل حقيبتها وتغادر منزل زوجها، معلنةً نهاية الصمت وبداية الحرب من أجل الكرامة. وعلى الجانب الآخر، تعيش حصة نشوة نجاح زائف قبل أن يصدمها سقوط الأقنعة لتكشف عن خيانة غادرة من أقرب الناس إليها. بين طموحات محطمة وصراعات عائلية مريرة، تخوض كل شخصية معركتها الخاصة للبقاء.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": 9,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Returning Series",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": "أنفال الدويسان",
+      "cast": [
+        {
+          "name": "هبة الدري",
+          "character": "حصة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wQ9UtCHH0cyCNewEms1Fk2ahaN0.jpg"
+        },
+        {
+          "name": "حمد العماني",
+          "character": "ناصر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dxty7GdQU3BPRiRnIq4IIaFlBGB.jpg"
+        },
+        {
+          "name": "لمياء طارق",
+          "character": "فرح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ereDERZExoCwSW7JDVe8zn8Btye.jpg"
+        },
+        {
+          "name": "ريم أرحمه",
+          "character": "أنوار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cttLUm3Ptla39xRAnDgKvmuBrYA.jpg"
+        },
+        {
+          "name": "محمد الرمضان",
+          "character": "طلال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kxh1PEcIfwHI7rGqbLEAD6Fddgf.jpg"
+        },
+        {
+          "name": "زينب بهمن",
+          "character": "دلال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dlbFQ00mXYfAu4RpbAFfRsAa6IY.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T19:00:00+00:00",
+      "stop": "2026-11-18T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/xBzmjWAjIGhoH5VVYljlhBLCHFK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jBS96XLInQOrW0WtPVEppK8cLe6.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/xBzmjWAjIGhoH5VVYljlhBLCHFK.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 223238,
+      "title": "أكباد المهاجرة",
+      "clean_title": "أكباد المهاجرة",
+      "original_title": "أكباد المهاجرة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 5,
+      "description": "مسلسل درامي رومانسي تشويقي، تدور أحداثها بين الفلاحين والبدو في الأردن، حيث يتمرد منصور الفارس البدوي ابن الشيخ ضافي على حكم العشيرة بسبب حبه لشمس.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-23",
+      "status": "Returning Series",
+      "country": "الأردن",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "صفاء سلطان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/sYQmOGbmRNbbZwICQakjj3MHwFl.jpg"
+        },
+        {
+          "name": "Mohammad Al Majali",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Abeer Issa",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "جولييت عواد",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Jameel Barahmeh",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Munia Kdaiss",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T20:00:00+00:00",
+      "stop": "2026-11-18T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/1oBEoeJy5sBGciDnaGA6rYgZXeQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kE0wLWnNLplrYEDq2LXfxUGCDrA.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/1oBEoeJy5sBGciDnaGA6rYgZXeQ.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301329,
+      "title": "علي كلاي",
+      "clean_title": "علي كلاي",
+      "original_title": "علي كلاي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "علي، شاب نال لقب «كلاي» بين جيرانه بفضل براعته الاستثنائية في الملاكمة وقوة جأشه. بعيداً عن حلبة النزال، يعمل في تجارة قطع غيار السيارات، محاولا الموازنة بين خشونة عمله وطموحاته الرياضية. لكن أقسى مبارياته لا تكن فوق الحلبة، بل في حياته الخاصة؛ حيث يجد نفسه عالقاً في حلبة من النزاعات الأسرية المستمرة، وصراعات عاطفية مع حبيبته.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 7,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمود حمدان",
+      "cast": [
+        {
+          "name": "أحمد العوضي",
+          "character": "علي كلاي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/okGwM8RGj5A88GWdNevH4LPXYc4.jpg"
+        },
+        {
+          "name": "درة",
+          "character": "ميادة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vF4NIuKm6pKe2Sdm1L8MqntbN0z.jpg"
+        },
+        {
+          "name": "عصام السقا",
+          "character": "صفوان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rd2XDEe7ti42thwL17Xrb8Fw3pp.jpg"
+        },
+        {
+          "name": "يارا السكري",
+          "character": "روح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8cBIDrsr2H4bEyZRfM4CZ3Xx5rY.jpg"
+        },
+        {
+          "name": "سينتيا خليفة",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/aLBfy6uALtLvvxWKaO9lRLrQLXn.jpg"
+        },
+        {
+          "name": "محمود البزاوي",
+          "character": "عزازي أبو الحسن",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zSEhTEA07ZE4xchHU5SDwOOytmr.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=9ldZ3Nhf2f4",
+      "start": "2026-11-18T21:00:00+00:00",
+      "stop": "2026-11-18T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/1rv82gNj4IisQPiaRD2a6J7Fg4t.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pivsXHXVJFsDJeHcT99IqINDtA1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/1rv82gNj4IisQPiaRD2a6J7Fg4t.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T08:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314079,
+      "title": "درب الذهب",
+      "clean_title": "درب الذهب",
+      "original_title": "درب الذهب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "بعد سنوات من غدرٍ أودى بها خلف القضبان، تخرج فايزة من عتمة السجن إلى عالم الثراء، فتجد سعد الذي خانها يوماً قد شيد إمبراطوريته من حطام صفقتهما القديمة. وبينما تتصادم طموحاتهما في صفقات مشبوهة جديدة، يشتعل فتيل انتقام تتشابك فيه مصائر أبنائهما بمرارة الماضي.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "أحمد إيراج",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/yeVmETvIVYkmInhw8HlihLhI1o7.jpg"
+        },
+        {
+          "name": "طيف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8erSsR12FGMOZmUksSh0dreFMhV.jpg"
+        },
+        {
+          "name": "شهد الياسين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hORpa73TDacYIga8ID1Bb2L3Bfl.jpg"
+        },
+        {
+          "name": "Abdullah Abass",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Mai Abdullah",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Khaled Al Ajeerb",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T22:00:00+00:00",
+      "stop": "2026-11-18T23:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/zxoB8iTDIg2v9bikj7NaApuXwAl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yMnAbSZpenUzmHP8nLtaplR27Cy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/zxoB8iTDIg2v9bikj7NaApuXwAl.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314125,
+      "title": "عيلة الملك",
+      "clean_title": "عيلة الملك",
+      "original_title": "عيلة الملك",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في دمشق المثقلة بالتحولات عام 2024، يسقط رجل الأعمال النافذ 'جبري المالك' في قبضة نظام متهالك، ليترك خلفه إمبراطورية يتصارع عليها أقرب الناس إليه في حربٍ عائلية ضروس وقودها الجشع. وبينما يظن الجميع أن أثره قد مُحي، ينهار النظام ويخرج المالك من ظلمات المعتقل كالشبح، ليعيد ترتيب أوراقه في مشهدٍ يعج بالانتقام، وتتكشف خيانات وتحالفات دموية كانت تحاك تحت الرماد، مهددةً بحرق كل من تجرأ على وراثة العرش.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Juan Al Kheder",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/d2MxFGzMfYx8EWiRRm0Qh6SSsjT.jpg"
+        },
+        {
+          "name": "Lojain Ismail",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/c6mhCTKxREbPQUVZ2IpXs9oG3Dr.jpg"
+        },
+        {
+          "name": "Deema Bayyaa",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8QT143znnwKUnVGIZx92YnyGaEb.jpg"
+        },
+        {
+          "name": "Rana Risha",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4jSKHIYflpG19lPuvnKET7WkFYm.jpg"
+        },
+        {
+          "name": "سلوم حداد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3RPqqMSYYUl33ChPo3TzygWY53U.jpg"
+        },
+        {
+          "name": "Fatih Salman",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/btyc56uKm6N9h66mqXvsjSZDuBp.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T23:00:00+00:00",
+      "stop": "2026-11-19T00:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/4Nl6U4iartb3GvDNBQkhnE2TPYM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jkzEnN3bDGclc26EuQEJANGSWIt.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/4Nl6U4iartb3GvDNBQkhnE2TPYM.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "صدى البلد دراما",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314079,
+      "title": "درب الذهب",
+      "clean_title": "درب الذهب",
+      "original_title": "درب الذهب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "بعد سنوات من غدرٍ أودى بها خلف القضبان، تخرج فايزة من عتمة السجن إلى عالم الثراء، فتجد سعد الذي خانها يوماً قد شيد إمبراطوريته من حطام صفقتهما القديمة. وبينما تتصادم طموحاتهما في صفقات مشبوهة جديدة، يشتعل فتيل انتقام تتشابك فيه مصائر أبنائهما بمرارة الماضي.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "أحمد إيراج",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/yeVmETvIVYkmInhw8HlihLhI1o7.jpg"
+        },
+        {
+          "name": "طيف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8erSsR12FGMOZmUksSh0dreFMhV.jpg"
+        },
+        {
+          "name": "شهد الياسين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hORpa73TDacYIga8ID1Bb2L3Bfl.jpg"
+        },
+        {
+          "name": "Abdullah Abass",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Mai Abdullah",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Khaled Al Ajeerb",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-19T17:00:00+00:00",
+      "stop": "2026-11-19T18:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/zxoB8iTDIg2v9bikj7NaApuXwAl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yMnAbSZpenUzmHP8nLtaplR27Cy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/zxoB8iTDIg2v9bikj7NaApuXwAl.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314125,
+      "title": "عيلة الملك",
+      "clean_title": "عيلة الملك",
+      "original_title": "عيلة الملك",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في دمشق المثقلة بالتحولات عام 2024، يسقط رجل الأعمال النافذ 'جبري المالك' في قبضة نظام متهالك، ليترك خلفه إمبراطورية يتصارع عليها أقرب الناس إليه في حربٍ عائلية ضروس وقودها الجشع. وبينما يظن الجميع أن أثره قد مُحي، ينهار النظام ويخرج المالك من ظلمات المعتقل كالشبح، ليعيد ترتيب أوراقه في مشهدٍ يعج بالانتقام، وتتكشف خيانات وتحالفات دموية كانت تحاك تحت الرماد، مهددةً بحرق كل من تجرأ على وراثة العرش.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "Juan Al Kheder",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/d2MxFGzMfYx8EWiRRm0Qh6SSsjT.jpg"
+        },
+        {
+          "name": "Lojain Ismail",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/c6mhCTKxREbPQUVZ2IpXs9oG3Dr.jpg"
+        },
+        {
+          "name": "Deema Bayyaa",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8QT143znnwKUnVGIZx92YnyGaEb.jpg"
+        },
+        {
+          "name": "Rana Risha",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4jSKHIYflpG19lPuvnKET7WkFYm.jpg"
+        },
+        {
+          "name": "سلوم حداد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/3RPqqMSYYUl33ChPo3TzygWY53U.jpg"
+        },
+        {
+          "name": "Fatih Salman",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/btyc56uKm6N9h66mqXvsjSZDuBp.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-19T18:00:00+00:00",
+      "stop": "2026-11-19T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/4Nl6U4iartb3GvDNBQkhnE2TPYM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jkzEnN3bDGclc26EuQEJANGSWIt.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/4Nl6U4iartb3GvDNBQkhnE2TPYM.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "صدى البلد دراما",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 304606,
+      "title": "خطوات صغيرة",
+      "clean_title": "خطوات صغيرة",
+      "original_title": "خطوات صغيرة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "في عالم تتشابك فيه المصالح مع المشاعر، تنفجر صراعات مكتومة داخل حيوات مجموعة من النساء. تبدأ القصة بقرار فرح المصيري حين تحمل حقيبتها وتغادر منزل زوجها، معلنةً نهاية الصمت وبداية الحرب من أجل الكرامة. وعلى الجانب الآخر، تعيش حصة نشوة نجاح زائف قبل أن يصدمها سقوط الأقنعة لتكشف عن خيانة غادرة من أقرب الناس إليها. بين طموحات محطمة وصراعات عائلية مريرة، تخوض كل شخصية معركتها الخاصة للبقاء.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": 9,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Returning Series",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": "أنفال الدويسان",
+      "cast": [
+        {
+          "name": "هبة الدري",
+          "character": "حصة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wQ9UtCHH0cyCNewEms1Fk2ahaN0.jpg"
+        },
+        {
+          "name": "حمد العماني",
+          "character": "ناصر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dxty7GdQU3BPRiRnIq4IIaFlBGB.jpg"
+        },
+        {
+          "name": "لمياء طارق",
+          "character": "فرح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ereDERZExoCwSW7JDVe8zn8Btye.jpg"
+        },
+        {
+          "name": "ريم أرحمه",
+          "character": "أنوار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cttLUm3Ptla39xRAnDgKvmuBrYA.jpg"
+        },
+        {
+          "name": "محمد الرمضان",
+          "character": "طلال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kxh1PEcIfwHI7rGqbLEAD6Fddgf.jpg"
+        },
+        {
+          "name": "زينب بهمن",
+          "character": "دلال",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dlbFQ00mXYfAu4RpbAFfRsAa6IY.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-19T19:00:00+00:00",
+      "stop": "2026-11-19T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/xBzmjWAjIGhoH5VVYljlhBLCHFK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jBS96XLInQOrW0WtPVEppK8cLe6.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/xBzmjWAjIGhoH5VVYljlhBLCHFK.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 223238,
+      "title": "أكباد المهاجرة",
+      "clean_title": "أكباد المهاجرة",
+      "original_title": "أكباد المهاجرة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 5,
+      "description": "مسلسل درامي رومانسي تشويقي، تدور أحداثها بين الفلاحين والبدو في الأردن، حيث يتمرد منصور الفارس البدوي ابن الشيخ ضافي على حكم العشيرة بسبب حبه لشمس.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-23",
+      "status": "Returning Series",
+      "country": "الأردن",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "صفاء سلطان",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/sYQmOGbmRNbbZwICQakjj3MHwFl.jpg"
+        },
+        {
+          "name": "Mohammad Al Majali",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Abeer Issa",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "جولييت عواد",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Jameel Barahmeh",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Munia Kdaiss",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-19T20:00:00+00:00",
+      "stop": "2026-11-19T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/1oBEoeJy5sBGciDnaGA6rYgZXeQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kE0wLWnNLplrYEDq2LXfxUGCDrA.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/1oBEoeJy5sBGciDnaGA6rYgZXeQ.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301329,
+      "title": "علي كلاي",
+      "clean_title": "علي كلاي",
+      "original_title": "علي كلاي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "علي، شاب نال لقب «كلاي» بين جيرانه بفضل براعته الاستثنائية في الملاكمة وقوة جأشه. بعيداً عن حلبة النزال، يعمل في تجارة قطع غيار السيارات، محاولا الموازنة بين خشونة عمله وطموحاته الرياضية. لكن أقسى مبارياته لا تكن فوق الحلبة، بل في حياته الخاصة؛ حيث يجد نفسه عالقاً في حلبة من النزاعات الأسرية المستمرة، وصراعات عاطفية مع حبيبته.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "جريمة"
+      ],
+      "rating": 7,
+      "vote_count": 3,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمود حمدان",
+      "cast": [
+        {
+          "name": "أحمد العوضي",
+          "character": "علي كلاي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/okGwM8RGj5A88GWdNevH4LPXYc4.jpg"
+        },
+        {
+          "name": "درة",
+          "character": "ميادة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vF4NIuKm6pKe2Sdm1L8MqntbN0z.jpg"
+        },
+        {
+          "name": "عصام السقا",
+          "character": "صفوان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rd2XDEe7ti42thwL17Xrb8Fw3pp.jpg"
+        },
+        {
+          "name": "يارا السكري",
+          "character": "روح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8cBIDrsr2H4bEyZRfM4CZ3Xx5rY.jpg"
+        },
+        {
+          "name": "سينتيا خليفة",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/aLBfy6uALtLvvxWKaO9lRLrQLXn.jpg"
+        },
+        {
+          "name": "محمود البزاوي",
+          "character": "عزازي أبو الحسن",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zSEhTEA07ZE4xchHU5SDwOOytmr.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=9ldZ3Nhf2f4",
+      "start": "2026-11-19T21:00:00+00:00",
+      "stop": "2026-11-19T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/1rv82gNj4IisQPiaRD2a6J7Fg4t.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pivsXHXVJFsDJeHcT99IqINDtA1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/1rv82gNj4IisQPiaRD2a6J7Fg4t.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T08:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T16:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 314079,
+      "title": "درب الذهب",
+      "clean_title": "درب الذهب",
+      "original_title": "درب الذهب",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "بعد سنوات من غدرٍ أودى بها خلف القضبان، تخرج فايزة من عتمة السجن إلى عالم الثراء، فتجد سعد الذي خانها يوماً قد شيد إمبراطوريته من حطام صفقتهما القديمة. وبينما تتصادم طموحاتهما في صفقات مشبوهة جديدة، يشتعل فتيل انتقام تتشابك فيه مصائر أبنائهما بمرارة الماضي.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "الكويت",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "أحمد إيراج",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/yeVmETvIVYkmInhw8HlihLhI1o7.jpg"
+        },
+        {
+          "name": "طيف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/8erSsR12FGMOZmUksSh0dreFMhV.jpg"
+        },
+        {
+          "name": "شهد الياسين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hORpa73TDacYIga8ID1Bb2L3Bfl.jpg"
+        },
+        {
+          "name": "Abdullah Abass",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Mai Abdullah",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "Khaled Al Ajeerb",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-19T22:00:00+00:00",
+      "stop": "2026-11-19T23:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/zxoB8iTDIg2v9bikj7NaApuXwAl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yMnAbSZpenUzmHP8nLtaplR27Cy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/zxoB8iTDIg2v9bikj7NaApuXwAl.jpg",
+      "channel_icon": "https://i.imgur.com/sOMOe9t.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "الظفرة",
+          "start": "2026-11-19T17:00:00+00:00"
         }
       ]
     }

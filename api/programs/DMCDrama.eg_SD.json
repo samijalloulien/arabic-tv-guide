@@ -2,359 +2,8 @@
   "channel_id": "DMCDrama.eg@SD",
   "channel_name": "دي إم سي دراما",
   "channel_icon": "https://i.imgur.com/OOXylJI.png",
+  "days_count": 7,
   "programs": [
-    {
-      "tmdb_id": 102376,
-      "title": "بـ١٠٠ وش",
-      "clean_title": "بـ١٠٠ وش",
-      "original_title": "بـ100 وش",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 30,
-      "description": "سكر - نصابة محترفة - يتم النصب عليها من قِبل عمر - نصاب محترف ايضًا - فتدخل في صراعات معه لإعادة أموالها، ثم تقرر الاتحاد معه للقيام بعمليات نصب اكبر.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل",
-        "دراما",
-        "كوميديا"
-      ],
-      "rating": 8.2,
-      "vote_count": 22,
-      "age_rating": "TV-PG",
-      "year": "2020",
-      "release_date": "2020-04-24",
-      "status": "Ended",
-      "country": "مصر",
-      "language": "العربية",
-      "director": "Ahmed Wael, Amr El Daly",
-      "cast": [
-        {
-          "name": "نيللى كريم",
-          "character": "Sukkar",
-          "profile_image": "https://image.tmdb.org/t/p/w185/6URqCTsDW1bPTCRGfyIKUtavDJY.jpg"
-        },
-        {
-          "name": "آسر ياسين",
-          "character": "عمر",
-          "profile_image": "https://image.tmdb.org/t/p/w185/olUkZr3b6wcKCiU7Kmdoxd9CZiw.jpg"
-        },
-        {
-          "name": "إسلام إبراهيم",
-          "character": "حماده",
-          "profile_image": "https://image.tmdb.org/t/p/w185/oAfUBoMoJ6SkuyrLQWiHkpUgwx1.jpg"
-        },
-        {
-          "name": "زينب غريب",
-          "character": "Radwa",
-          "profile_image": "https://image.tmdb.org/t/p/w185/fWEld5e5bcMys9xSkgz11NUvc5I.jpg"
-        },
-        {
-          "name": "دنيا ماهر",
-          "character": "Naglaa",
-          "profile_image": "https://image.tmdb.org/t/p/w185/y4lVAb0EBl5M1sCIeATftZzbi2G.jpg"
-        },
-        {
-          "name": "شريف دسوقي",
-          "character": "Seba3y",
-          "profile_image": "https://image.tmdb.org/t/p/w185/dT4V6FdpobWJQMFz575t4On5hXl.jpg"
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-16T12:00:00+00:00",
-      "stop": "2026-11-16T13:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/6x7ZgFqNuNK6FZXhXxsuJtVuPzG.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/k1dFqBtgoDAU0FgJ48G3X7WrwJd.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/6x7ZgFqNuNK6FZXhXxsuJtVuPzG.jpg",
-      "channel_icon": "https://i.imgur.com/OOXylJI.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-16T19:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-17T02:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-17T07:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-17T12:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-17T19:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 218324,
-      "title": "كامل العدد +1",
-      "clean_title": "كامل العدد +1",
-      "original_title": "كامل العدد",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 3,
-      "episodes_count": 45,
-      "description": "تدور الأحداث حول (أحمد) و(ليلى)، حيث يجدان نفسيهما في مواقف لا يُحسدان عليها؛ بعد تطور حياة أولادهما، وكثرة مشاكلهما، وإعلان قدوم شخص جديد إلى حياتهما.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل",
-        "كوميديا",
-        "عائلي",
-        "دراما"
-      ],
-      "rating": 8.3,
-      "vote_count": 6,
-      "age_rating": null,
-      "year": "2023",
-      "release_date": "2023-03-23",
-      "status": "Ended",
-      "country": "مصر",
-      "language": "العربية",
-      "director": "رنا أبو الريش",
-      "cast": [
-        {
-          "name": "دينا الشربيني",
-          "character": "ليلى تيمور",
-          "profile_image": "https://image.tmdb.org/t/p/w185/yKIdQwGzMtYN7j75gSQOYQOwVXz.jpg"
-        },
-        {
-          "name": "شريف سلامة",
-          "character": "احمد مختار",
-          "profile_image": "https://image.tmdb.org/t/p/w185/1KK2HlLD8m7B0qhOb7OJmvUzGCl.jpg"
-        },
-        {
-          "name": "إسعاد يونس",
-          "character": "حياة عبدالجواد",
-          "profile_image": "https://image.tmdb.org/t/p/w185/jP7Sc5tSneEBTmni0npq87obq1g.jpg"
-        },
-        {
-          "name": "أحمد كمال",
-          "character": "تيمور ابو العز",
-          "profile_image": "https://image.tmdb.org/t/p/w185/jbcXAcGeSNCGwZ4xwoUf2d0Lp1X.jpg"
-        },
-        {
-          "name": "تميم عبده",
-          "character": "مختار",
-          "profile_image": "https://image.tmdb.org/t/p/w185/5DZb0kZFjuXuCMG5CEWj39hZelz.jpg"
-        },
-        {
-          "name": "أحمد جمال سعيد",
-          "character": "طارق",
-          "profile_image": "https://image.tmdb.org/t/p/w185/2ozlmPOkClZI1F2PdbPbCdViPD5.jpg"
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-16T13:00:00+00:00",
-      "stop": "2026-11-16T14:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/uPhBxT1LoX7VQkdQbvWXCDJsX66.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
-      "channel_icon": "https://i.imgur.com/OOXylJI.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-16T20:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-17T13:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-17T20:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 299697,
-      "title": "بطل العالم",
-      "clean_title": "بطل العالم",
-      "original_title": "بطل العالم",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "description": "بعد خسارة بطولة العالم، يتحول بطل أفريقيا في الملاكمة إلى حارس شخصي محترف يبحث عن فرصة ثانية. تتغير حياته تماماً حين يُكلَّف بحماية دنيا، ابنة رجل أعمال ماكر ترك وراءه ميراثاً مخفياً وديوناً خطيرة لمحروق، ملك عالم الرهانات. ينطلق صلاح ودنيا في مطاردات مشتعلة لكشف سر الثروة، وخلال الرحلة يستعيد البطل قوته ويجد طريقاً جديداً نحو الحب والخلاص.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل",
-        "حركة ومغامرة",
-        "دراما"
-      ],
-      "rating": 6.2,
-      "vote_count": 4,
-      "age_rating": null,
-      "year": "2026",
-      "release_date": "2026-01-18",
-      "status": "Ended",
-      "country": "مصر",
-      "language": "العربية",
-      "director": "هاني سرحان",
-      "cast": [
-        {
-          "name": "عصام عمر",
-          "character": "صلاح",
-          "profile_image": "https://image.tmdb.org/t/p/w185/bpOORNk7UudRmwuiyVXp0n6c9Ph.jpg"
-        },
-        {
-          "name": "جيهان الشماشرجي",
-          "character": "دنيا",
-          "profile_image": "https://image.tmdb.org/t/p/w185/be7ZkPwz7yeozbPqYRtWuQjWzYU.jpg"
-        },
-        {
-          "name": "فتحي عبدالوهاب",
-          "character": "المحروق",
-          "profile_image": "https://image.tmdb.org/t/p/w185/kYIlzvwURNRxrQED5OtkqYCUN8Z.jpg"
-        },
-        {
-          "name": "محمد لطفي",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/Akh0XZ1gRWeMWAmDz7kbg6xwz4V.jpg"
-        },
-        {
-          "name": "أحمد عبدالحميد",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/4Zyn9sywEAOcYtyinKmj26YXPCr.jpg"
-        },
-        {
-          "name": "Adam El Nahas",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/hdBXDghxIgg1aPB5jpwbPvhgipl.jpg"
-        }
-      ],
-      "trailer_url": "https://www.youtube.com/watch?v=JcG-deHwH9k",
-      "start": "2026-11-16T14:00:00+00:00",
-      "stop": "2026-11-16T16:00:00+00:00",
-      "duration_minutes": 120,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/txb6JCeXJXyXyUzQ02sydzRDdM9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/pCsoqEzM6ON3nu4NISHgSOyLrZj.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/txb6JCeXJXyXyUzQ02sydzRDdM9.jpg",
-      "channel_icon": "https://i.imgur.com/OOXylJI.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-16T21:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-17T14:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-17T21:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 135210,
-      "title": "البشاير",
-      "clean_title": "البشاير",
-      "original_title": "البشاير",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 15,
-      "description": "تدور أحداث القصة حول (أبو المعاطي)، وهو رجل ذاق مرارة الغربة ليجني ثروة ضخمة، وعندما عاد إلى الوطن قرر (أبو المعاطي) أن يشتري قطعة أرض زراعية، وأن يقوم بزراعتها بمساعدة نسيبه، تأتي مجموعة عمل سينمائي ليقوموا بتصوير بعض المشاهد الخارجية في فيلم سينمائي جديد في منطقة قريبة من مزرعة (أبو المعاطي)، ولكن تتعرض النجمة السينمائية وبطلة الفيلم (سلوى) إلى حادث أثناء توجهها إلى منطقة التصوير، ويقوم (أبو المعاطي) بإنقاذها، واصطحابها إلى مزرعته للعناية بها، تكتشف (سلوى نصار) أنه لا أحد في المزرعة يعرفها، وأن شهرتها التي ملأت المجلات والصحف وإعلانات التليفزيون لم تصل بعد إلى تلك المنطقة النائية، وتعجب كثيرا بالحياة البسيطة التي يعيشها الجميع في المزرعة الصغيرة.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل",
-        "دراما"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": "1987",
-      "release_date": "1987-04-28",
-      "status": "Ended",
-      "country": "مصر",
-      "language": "العربية",
-      "director": null,
-      "cast": [
-        {
-          "name": "محمود عبدالعزيز",
-          "character": "أبو المعاطي شمروخ",
-          "profile_image": "https://image.tmdb.org/t/p/w185/2tTG533lGmSsybIVOR6lYkFQ3t5.jpg"
-        },
-        {
-          "name": "مديحة كامل",
-          "character": "سلوى نصار",
-          "profile_image": "https://image.tmdb.org/t/p/w185/l5HaBDR9knXllZRIAiX1oga8jjy.jpg"
-        },
-        {
-          "name": "أحمد بدير",
-          "character": "أحمد",
-          "profile_image": "https://image.tmdb.org/t/p/w185/czumAPB9nIYytuVEELuhnBgqc10.jpg"
-        },
-        {
-          "name": "حسن حسني",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/vMG9Carh5bi18v5unk06aYvvKZw.jpg"
-        },
-        {
-          "name": "عبدالعزيز مخيون",
-          "character": "هشام صبري",
-          "profile_image": "https://image.tmdb.org/t/p/w185/bNVEnr8LO2MzDL0XrYVp1GyvTnO.jpg"
-        },
-        {
-          "name": "سناء يونس",
-          "character": "عطيات",
-          "profile_image": "https://image.tmdb.org/t/p/w185/q9wFmnJmulmxigSToIcGNj6DhYi.jpg"
-        }
-      ],
-      "trailer_url": "https://www.youtube.com/watch?v=aj-jLCkqD0o",
-      "start": "2026-11-16T16:00:00+00:00",
-      "stop": "2026-11-16T17:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/b1q7QUcG1AETxwUn0m7ciXWkb5T.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/6NHMayDrzU9rdOvay7vKqzjV6dc.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/b1q7QUcG1AETxwUn0m7ciXWkb5T.jpg",
-      "channel_icon": "https://i.imgur.com/OOXylJI.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-17T08:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-17T16:00:00+00:00"
-        }
-      ]
-    },
     {
       "tmdb_id": null,
       "title": "يوميات ونيس ج1",
@@ -383,8 +32,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-16T17:00:00+00:00",
-      "stop": "2026-11-16T18:00:00+00:00",
+      "start": "2026-11-16T12:00:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
@@ -395,15 +44,27 @@
       "reruns": [
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T05:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T09:00:00+00:00"
+          "start": "2026-11-17T04:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T17:00:00+00:00"
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T12:00:00+00:00"
         }
       ]
     },
@@ -435,8 +96,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-16T18:00:00+00:00",
-      "stop": "2026-11-16T19:00:00+00:00",
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
@@ -455,11 +116,31 @@
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T11:00:00+00:00"
+          "start": "2026-11-17T13:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T18:00:00+00:00"
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T20:00:00+00:00"
         }
       ]
     },
@@ -524,20 +205,16 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-16T19:00:00+00:00",
-      "stop": "2026-11-16T20:00:00+00:00",
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/6x7ZgFqNuNK6FZXhXxsuJtVuPzG.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w780/k1dFqBtgoDAU0FgJ48G3X7WrwJd.jpg",
       "icon": "https://image.tmdb.org/t/p/w500/6x7ZgFqNuNK6FZXhXxsuJtVuPzG.jpg",
       "channel_icon": "https://i.imgur.com/OOXylJI.png",
-      "is_rerun": true,
+      "is_rerun": false,
       "reruns": [
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-16T12:00:00+00:00"
-        },
         {
           "channel": "دي إم سي دراما",
           "start": "2026-11-17T02:00:00+00:00"
@@ -548,11 +225,31 @@
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T12:00:00+00:00"
+          "start": "2026-11-17T14:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T19:00:00+00:00"
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T21:00:00+00:00"
         }
       ]
     },
@@ -618,27 +315,31 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-16T20:00:00+00:00",
-      "stop": "2026-11-16T21:00:00+00:00",
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w780/uPhBxT1LoX7VQkdQbvWXCDJsX66.jpg",
       "icon": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
       "channel_icon": "https://i.imgur.com/OOXylJI.png",
-      "is_rerun": true,
+      "is_rerun": false,
       "reruns": [
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-16T13:00:00+00:00"
+          "start": "2026-11-17T08:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T13:00:00+00:00"
+          "start": "2026-11-17T15:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T20:00:00+00:00"
+          "start": "2026-11-18T08:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T15:00:00+00:00"
         }
       ]
     },
@@ -703,192 +404,95 @@
         }
       ],
       "trailer_url": "https://www.youtube.com/watch?v=JcG-deHwH9k",
-      "start": "2026-11-16T21:00:00+00:00",
-      "stop": "2026-11-16T23:00:00+00:00",
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T18:00:00+00:00",
       "duration_minutes": 120,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/txb6JCeXJXyXyUzQ02sydzRDdM9.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w780/pCsoqEzM6ON3nu4NISHgSOyLrZj.jpg",
       "icon": "https://image.tmdb.org/t/p/w500/txb6JCeXJXyXyUzQ02sydzRDdM9.jpg",
       "channel_icon": "https://i.imgur.com/OOXylJI.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-16T14:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-17T14:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-17T21:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 112399,
-      "title": "نجيب زاهي زركش",
-      "clean_title": "نجيب زاهي زركش",
-      "original_title": "نجيب زاهي زركش",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 30,
-      "description": "يتناول العمل في إطار درامي قصة الثري نجيب زاهي زركش، والذي يكتشف سرا خطيرا بوجود ابن له، وبمساعدة خادمه ينجح في الوصول لثلاث شباب محتمل أن يكون ابنه ضمنهم.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل",
-        "كوميديا",
-        "دراما"
-      ],
-      "rating": 7.5,
-      "vote_count": 2,
-      "age_rating": null,
-      "year": "2021",
-      "release_date": "2021-04-12",
-      "status": "Ended",
-      "country": "مصر",
-      "language": "العربية",
-      "director": null,
-      "cast": [
-        {
-          "name": "يحيى الفخراني",
-          "character": "Naguib Zahi Zarkash",
-          "profile_image": "https://image.tmdb.org/t/p/w185/lzQT2AX0yDTe63eYMjFuTIUGf4X.jpg"
-        },
-        {
-          "name": "هالة فاخر",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
-        },
-        {
-          "name": "إسلام إبراهيم",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/oAfUBoMoJ6SkuyrLQWiHkpUgwx1.jpg"
-        },
-        {
-          "name": "كريم عفيفي",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/afQYakbQXoRAh1vP6WuhqxsiD9V.jpg"
-        },
-        {
-          "name": "Ramez Amir",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/6DiZCvzMTX5mwdrFbEV9zCmn3PM.jpg"
-        },
-        {
-          "name": "رنا رئيس",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/cCktHiWt2Xr1G57fiyLG1mRvqhZ.jpg"
-        }
-      ],
-      "trailer_url": "https://www.youtube.com/watch?v=4cbAVNxq-JE",
-      "start": "2026-11-16T23:00:00+00:00",
-      "stop": "2026-11-17T00:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/m7oxiom5rUNbACmPFKcxGeve9jT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/iiX2fuYR10cvdikRuRtktq9yQ1w.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/m7oxiom5rUNbACmPFKcxGeve9jT.jpg",
-      "channel_icon": "https://i.imgur.com/OOXylJI.png",
       "is_rerun": false,
       "reruns": [
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T10:00:00+00:00"
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T16:00:00+00:00"
         }
       ]
     },
     {
-      "tmdb_id": 135210,
-      "title": "البشاير",
-      "clean_title": "البشاير",
-      "original_title": "البشاير",
+      "tmdb_id": null,
+      "title": "يوميات ونيس ج1",
+      "clean_title": "يوميات ونيس ج1",
+      "original_title": null,
       "tagline": null,
       "episode_title": null,
       "content_type": "series",
       "season": null,
       "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 15,
-      "description": "تدور أحداث القصة حول (أبو المعاطي)، وهو رجل ذاق مرارة الغربة ليجني ثروة ضخمة، وعندما عاد إلى الوطن قرر (أبو المعاطي) أن يشتري قطعة أرض زراعية، وأن يقوم بزراعتها بمساعدة نسيبه، تأتي مجموعة عمل سينمائي ليقوموا بتصوير بعض المشاهد الخارجية في فيلم سينمائي جديد في منطقة قريبة من مزرعة (أبو المعاطي)، ولكن تتعرض النجمة السينمائية وبطلة الفيلم (سلوى) إلى حادث أثناء توجهها إلى منطقة التصوير، ويقوم (أبو المعاطي) بإنقاذها، واصطحابها إلى مزرعته للعناية بها، تكتشف (سلوى نصار) أنه لا أحد في المزرعة يعرفها، وأن شهرتها التي ملأت المجلات والصحف وإعلانات التليفزيون لم تصل بعد إلى تلك المنطقة النائية، وتعجب كثيرا بالحياة البسيطة التي يعيشها الجميع في المزرعة الصغيرة.",
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم ونيس (محمد صبحي) وزوجته مايسة (سعاد نصر) على تربية أبناءهما الأربعة على الأخلاق والقيم الصالحة، وأثناء تأديتهم لهذه الرسالة يكتشفان أنهما يخالفان الكثير من القيم التي يحاولنان زرعها في أولادهما، فيحاولان التصحيح من نفسيهما.",
       "category": "مسلسل",
       "genres": [
-        "مسلسل",
-        "دراما"
+        "مسلسل"
       ],
       "rating": null,
       "vote_count": null,
       "age_rating": null,
-      "year": "1987",
-      "release_date": "1987-04-28",
-      "status": "Ended",
-      "country": "مصر",
-      "language": "العربية",
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
       "director": null,
-      "cast": [
-        {
-          "name": "محمود عبدالعزيز",
-          "character": "أبو المعاطي شمروخ",
-          "profile_image": "https://image.tmdb.org/t/p/w185/2tTG533lGmSsybIVOR6lYkFQ3t5.jpg"
-        },
-        {
-          "name": "مديحة كامل",
-          "character": "سلوى نصار",
-          "profile_image": "https://image.tmdb.org/t/p/w185/l5HaBDR9knXllZRIAiX1oga8jjy.jpg"
-        },
-        {
-          "name": "أحمد بدير",
-          "character": "أحمد",
-          "profile_image": "https://image.tmdb.org/t/p/w185/czumAPB9nIYytuVEELuhnBgqc10.jpg"
-        },
-        {
-          "name": "حسن حسني",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/vMG9Carh5bi18v5unk06aYvvKZw.jpg"
-        },
-        {
-          "name": "عبدالعزيز مخيون",
-          "character": "هشام صبري",
-          "profile_image": "https://image.tmdb.org/t/p/w185/bNVEnr8LO2MzDL0XrYVp1GyvTnO.jpg"
-        },
-        {
-          "name": "سناء يونس",
-          "character": "عطيات",
-          "profile_image": "https://image.tmdb.org/t/p/w185/q9wFmnJmulmxigSToIcGNj6DhYi.jpg"
-        }
-      ],
-      "trailer_url": "https://www.youtube.com/watch?v=aj-jLCkqD0o",
+      "cast": [],
+      "trailer_url": null,
       "start": "2026-11-17T00:00:00+00:00",
       "stop": "2026-11-17T01:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/b1q7QUcG1AETxwUn0m7ciXWkb5T.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/6NHMayDrzU9rdOvay7vKqzjV6dc.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/b1q7QUcG1AETxwUn0m7ciXWkb5T.jpg",
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
       "channel_icon": "https://i.imgur.com/OOXylJI.png",
       "is_rerun": true,
       "reruns": [
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-16T16:00:00+00:00"
+          "start": "2026-11-16T12:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T03:00:00+00:00"
+          "start": "2026-11-17T04:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T08:00:00+00:00"
+          "start": "2026-11-17T12:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T16:00:00+00:00"
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T12:00:00+00:00"
         }
       ]
     },
@@ -932,7 +536,7 @@
       "reruns": [
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-16T18:00:00+00:00"
+          "start": "2026-11-16T13:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
@@ -940,11 +544,31 @@
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T11:00:00+00:00"
+          "start": "2026-11-17T13:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T18:00:00+00:00"
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T20:00:00+00:00"
         }
       ]
     },
@@ -1021,11 +645,7 @@
       "reruns": [
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-16T12:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-16T19:00:00+00:00"
+          "start": "2026-11-16T14:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
@@ -1033,174 +653,142 @@
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T12:00:00+00:00"
+          "start": "2026-11-17T14:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T19:00:00+00:00"
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T21:00:00+00:00"
         }
       ]
     },
     {
-      "tmdb_id": 135210,
-      "title": "البشاير",
-      "clean_title": "البشاير",
-      "original_title": "البشاير",
+      "tmdb_id": 75665,
+      "title": "الجوارح",
+      "clean_title": "الجوارح",
+      "original_title": "الجوارح",
       "tagline": null,
       "episode_title": null,
       "content_type": "series",
       "season": null,
       "episode": null,
       "seasons_count": 1,
-      "episodes_count": 15,
-      "description": "تدور أحداث القصة حول (أبو المعاطي)، وهو رجل ذاق مرارة الغربة ليجني ثروة ضخمة، وعندما عاد إلى الوطن قرر (أبو المعاطي) أن يشتري قطعة أرض زراعية، وأن يقوم بزراعتها بمساعدة نسيبه، تأتي مجموعة عمل سينمائي ليقوموا بتصوير بعض المشاهد الخارجية في فيلم سينمائي جديد في منطقة قريبة من مزرعة (أبو المعاطي)، ولكن تتعرض النجمة السينمائية وبطلة الفيلم (سلوى) إلى حادث أثناء توجهها إلى منطقة التصوير، ويقوم (أبو المعاطي) بإنقاذها، واصطحابها إلى مزرعته للعناية بها، تكتشف (سلوى نصار) أنه لا أحد في المزرعة يعرفها، وأن شهرتها التي ملأت المجلات والصحف وإعلانات التليفزيون لم تصل بعد إلى تلك المنطقة النائية، وتعجب كثيرا بالحياة البسيطة التي يعيشها الجميع في المزرعة الصغيرة.",
+      "episodes_count": 27,
+      "description": "يحكى عن قصة سيدة تعمل كمدرسة فى مدرسة ابتدائية فى إحدى المناطق الريفية، طلقت مرتين بسبب عدم قدرتها على الإنجاب، فقررت أن تنصرف عن الزواج، وتتفرغ للتصدى لمشاكل طلاب وطالبات المدرسة، حتى يحدث ما يغير نظرتها للحياة، حيث تصطحب التلاميذ فى رحلة إلى حديقة الحيوان لكنها تفقد طفلة أثناء انشغال المشرفين وتبدأ رحلة البحث عن الفتاة المفقودة.",
       "category": "مسلسل",
       "genres": [
         "مسلسل",
-        "دراما"
+        "دراما",
+        "حركة ومغامرة"
       ],
       "rating": null,
       "vote_count": null,
       "age_rating": null,
-      "year": "1987",
-      "release_date": "1987-04-28",
+      "year": null,
+      "release_date": null,
       "status": "Ended",
-      "country": "مصر",
+      "country": "سوريا",
       "language": "العربية",
-      "director": null,
+      "director": "هاني السعدي",
       "cast": [
         {
-          "name": "محمود عبدالعزيز",
-          "character": "أبو المعاطي شمروخ",
-          "profile_image": "https://image.tmdb.org/t/p/w185/2tTG533lGmSsybIVOR6lYkFQ3t5.jpg"
+          "name": "أسعد فضة",
+          "character": "ابن الوهاج",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mMLzuU9aF7r2F57Hr7fmeXqy8k8.jpg"
         },
         {
-          "name": "مديحة كامل",
-          "character": "سلوى نصار",
-          "profile_image": "https://image.tmdb.org/t/p/w185/l5HaBDR9knXllZRIAiX1oga8jjy.jpg"
+          "name": "أيمن زيدان",
+          "character": "أسامة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dLtJROwks5s50yOJ06jDzp8h59.jpg"
         },
         {
-          "name": "أحمد بدير",
-          "character": "أحمد",
-          "profile_image": "https://image.tmdb.org/t/p/w185/czumAPB9nIYytuVEELuhnBgqc10.jpg"
+          "name": "أمل عرفة",
+          "character": "العنقاء",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cfd1sNg49Q663CQTB5XvhfgUGka.jpg"
         },
         {
-          "name": "حسن حسني",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/vMG9Carh5bi18v5unk06aYvvKZw.jpg"
+          "name": "صباح عبيد",
+          "character": "الباشق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gi1uk8HgWd4s3Dohsz5Zu2zSKnV.jpg"
         },
         {
-          "name": "عبدالعزيز مخيون",
-          "character": "هشام صبري",
-          "profile_image": "https://image.tmdb.org/t/p/w185/bNVEnr8LO2MzDL0XrYVp1GyvTnO.jpg"
+          "name": "عارف الطويل",
+          "character": "عقاب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hJjrlBa9FiaDkgB2IZWK10H8CgJ.jpg"
         },
         {
-          "name": "سناء يونس",
-          "character": "عطيات",
-          "profile_image": "https://image.tmdb.org/t/p/w185/q9wFmnJmulmxigSToIcGNj6DhYi.jpg"
+          "name": "Laila Jabr",
+          "character": "ريم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/niHJJSUDZF8wlWeFH8bo6YlM1HO.jpg"
         }
       ],
-      "trailer_url": "https://www.youtube.com/watch?v=aj-jLCkqD0o",
+      "trailer_url": null,
       "start": "2026-11-17T03:00:00+00:00",
       "stop": "2026-11-17T04:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/b1q7QUcG1AETxwUn0m7ciXWkb5T.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/6NHMayDrzU9rdOvay7vKqzjV6dc.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/b1q7QUcG1AETxwUn0m7ciXWkb5T.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3f7VFiE53U4TAzjFoPbG1SEWT7c.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
       "channel_icon": "https://i.imgur.com/OOXylJI.png",
-      "is_rerun": true,
+      "is_rerun": false,
       "reruns": [
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-16T16:00:00+00:00"
+          "start": "2026-11-17T11:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T00:00:00+00:00"
+          "start": "2026-11-17T19:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T08:00:00+00:00"
+          "start": "2026-11-17T22:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T16:00:00+00:00"
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T22:00:00+00:00"
         }
       ]
-    },
-    {
-      "tmdb_id": 95603,
-      "title": "مسلسل",
-      "clean_title": "مسلسل",
-      "original_title": "Kuruluş Osman",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 6,
-      "episodes_count": 194,
-      "description": "ملحمة تاريخية من أضخم إنتاجات الدراما التركية، تعرض سيرة المؤسس عثمان بن أرطغرل، ومعاركه ضد مغول الشرق وبيزنطيي الغرب وضعف الدولة وخيانات الأقربين، وجهاده ومحاربوه لزرع الشجرة التي ظللت فروعها الدنيا.",
-      "category": "General",
-      "genres": [
-        "General",
-        "حرب وسياسة",
-        "حركة ومغامرة",
-        "دراما"
-      ],
-      "rating": 8,
-      "vote_count": 317,
-      "age_rating": "TV-14",
-      "year": "2019",
-      "release_date": "2019-11-20",
-      "status": "Ended",
-      "country": "تركيا",
-      "language": "التركية",
-      "director": "Mehmet Bozdağ",
-      "cast": [
-        {
-          "name": "بوراك أوزجيفيت",
-          "character": "Osman Bey",
-          "profile_image": "https://image.tmdb.org/t/p/w185/pF8EHDM2ETDT2X2Pwg3Ak0ZCPAY.jpg"
-        },
-        {
-          "name": "Özge Törer",
-          "character": "Bala Hatun",
-          "profile_image": "https://image.tmdb.org/t/p/w185/kHe6iJCGEgDuGl0Hdii9lzSIjOf.jpg"
-        },
-        {
-          "name": "Emre Bey",
-          "character": "Orhan Bey",
-          "profile_image": "https://image.tmdb.org/t/p/w185/pjTsTuQ4jVRXoisd9jHDgqrbttt.jpg"
-        },
-        {
-          "name": "Ecem Sena Bayır",
-          "character": "Holofira",
-          "profile_image": "https://image.tmdb.org/t/p/w185/o7tch26buZIgf3EKqOVi0UrxGMs.jpg"
-        },
-        {
-          "name": "Ömer Faruk Aran",
-          "character": "Alaeddin Bey",
-          "profile_image": "https://image.tmdb.org/t/p/w185/mjBanFwjGQHYxBAVzxb66zG08rI.jpg"
-        },
-        {
-          "name": "Belgin Şimşek",
-          "character": "Gonca Hatun",
-          "profile_image": "https://image.tmdb.org/t/p/w185/vLLHlmi5qyH1sgYwf3cUZwSRiWU.jpg"
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-17T04:00:00+00:00",
-      "stop": "2026-11-17T05:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/2lHyJRdXaJkBg5TM59Je5LhJvwM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/puLaqdcTRwFxwv9S3PO6jA3ep7J.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/2lHyJRdXaJkBg5TM59Je5LhJvwM.jpg",
-      "channel_icon": "https://i.imgur.com/OOXylJI.png",
-      "is_rerun": false,
-      "reruns": []
     },
     {
       "tmdb_id": null,
@@ -1230,8 +818,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T05:00:00+00:00",
-      "stop": "2026-11-17T06:00:00+00:00",
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T05:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
@@ -1242,15 +830,116 @@
       "reruns": [
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-16T17:00:00+00:00"
+          "start": "2026-11-16T12:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T09:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T17:00:00+00:00"
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 112399,
+      "title": "نجيب زاهي زركش",
+      "clean_title": "نجيب زاهي زركش",
+      "original_title": "نجيب زاهي زركش",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "يتناول العمل في إطار درامي قصة الثري نجيب زاهي زركش، والذي يكتشف سرا خطيرا بوجود ابن له، وبمساعدة خادمه ينجح في الوصول لثلاث شباب محتمل أن يكون ابنه ضمنهم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا",
+        "دراما"
+      ],
+      "rating": 7.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-04-12",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "يحيى الفخراني",
+          "character": "Naguib Zahi Zarkash",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lzQT2AX0yDTe63eYMjFuTIUGf4X.jpg"
+        },
+        {
+          "name": "هالة فاخر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
+        },
+        {
+          "name": "إسلام إبراهيم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/oAfUBoMoJ6SkuyrLQWiHkpUgwx1.jpg"
+        },
+        {
+          "name": "كريم عفيفي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/afQYakbQXoRAh1vP6WuhqxsiD9V.jpg"
+        },
+        {
+          "name": "Ramez Amir",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/6DiZCvzMTX5mwdrFbEV9zCmn3PM.jpg"
+        },
+        {
+          "name": "رنا رئيس",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/cCktHiWt2Xr1G57fiyLG1mRvqhZ.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=4cbAVNxq-JE",
+      "start": "2026-11-17T05:00:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/m7oxiom5rUNbACmPFKcxGeve9jT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iiX2fuYR10cvdikRuRtktq9yQ1w.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/m7oxiom5rUNbACmPFKcxGeve9jT.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T18:00:00+00:00"
         }
       ]
     },
@@ -1294,7 +983,7 @@
       "reruns": [
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-16T18:00:00+00:00"
+          "start": "2026-11-16T13:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
@@ -1302,11 +991,31 @@
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T11:00:00+00:00"
+          "start": "2026-11-17T13:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T18:00:00+00:00"
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T20:00:00+00:00"
         }
       ]
     },
@@ -1383,11 +1092,7 @@
       "reruns": [
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-16T12:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-16T19:00:00+00:00"
+          "start": "2026-11-16T14:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
@@ -1395,81 +1100,192 @@
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T12:00:00+00:00"
+          "start": "2026-11-17T14:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T19:00:00+00:00"
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T21:00:00+00:00"
         }
       ]
     },
     {
-      "tmdb_id": 135210,
-      "title": "البشاير",
-      "clean_title": "البشاير",
-      "original_title": "البشاير",
+      "tmdb_id": 218324,
+      "title": "كامل العدد +1",
+      "clean_title": "كامل العدد +1",
+      "original_title": "كامل العدد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 45,
+      "description": "تدور الأحداث حول (أحمد) و(ليلى)، حيث يجدان نفسيهما في مواقف لا يُحسدان عليها؛ بعد تطور حياة أولادهما، وكثرة مشاكلهما، وإعلان قدوم شخص جديد إلى حياتهما.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا",
+        "عائلي",
+        "دراما"
+      ],
+      "rating": 8.3,
+      "vote_count": 6,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-23",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "رنا أبو الريش",
+      "cast": [
+        {
+          "name": "دينا الشربيني",
+          "character": "ليلى تيمور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yKIdQwGzMtYN7j75gSQOYQOwVXz.jpg"
+        },
+        {
+          "name": "شريف سلامة",
+          "character": "احمد مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1KK2HlLD8m7B0qhOb7OJmvUzGCl.jpg"
+        },
+        {
+          "name": "إسعاد يونس",
+          "character": "حياة عبدالجواد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jP7Sc5tSneEBTmni0npq87obq1g.jpg"
+        },
+        {
+          "name": "أحمد كمال",
+          "character": "تيمور ابو العز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jbcXAcGeSNCGwZ4xwoUf2d0Lp1X.jpg"
+        },
+        {
+          "name": "تميم عبده",
+          "character": "مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5DZb0kZFjuXuCMG5CEWj39hZelz.jpg"
+        },
+        {
+          "name": "أحمد جمال سعيد",
+          "character": "طارق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ozlmPOkClZI1F2PdbPbCdViPD5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T08:00:00+00:00",
+      "stop": "2026-11-17T09:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uPhBxT1LoX7VQkdQbvWXCDJsX66.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T08:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 299697,
+      "title": "بطل العالم",
+      "clean_title": "بطل العالم",
+      "original_title": "بطل العالم",
       "tagline": null,
       "episode_title": null,
       "content_type": "series",
       "season": null,
       "episode": null,
       "seasons_count": 1,
-      "episodes_count": 15,
-      "description": "تدور أحداث القصة حول (أبو المعاطي)، وهو رجل ذاق مرارة الغربة ليجني ثروة ضخمة، وعندما عاد إلى الوطن قرر (أبو المعاطي) أن يشتري قطعة أرض زراعية، وأن يقوم بزراعتها بمساعدة نسيبه، تأتي مجموعة عمل سينمائي ليقوموا بتصوير بعض المشاهد الخارجية في فيلم سينمائي جديد في منطقة قريبة من مزرعة (أبو المعاطي)، ولكن تتعرض النجمة السينمائية وبطلة الفيلم (سلوى) إلى حادث أثناء توجهها إلى منطقة التصوير، ويقوم (أبو المعاطي) بإنقاذها، واصطحابها إلى مزرعته للعناية بها، تكتشف (سلوى نصار) أنه لا أحد في المزرعة يعرفها، وأن شهرتها التي ملأت المجلات والصحف وإعلانات التليفزيون لم تصل بعد إلى تلك المنطقة النائية، وتعجب كثيرا بالحياة البسيطة التي يعيشها الجميع في المزرعة الصغيرة.",
+      "episodes_count": 10,
+      "description": "بعد خسارة بطولة العالم، يتحول بطل أفريقيا في الملاكمة إلى حارس شخصي محترف يبحث عن فرصة ثانية. تتغير حياته تماماً حين يُكلَّف بحماية دنيا، ابنة رجل أعمال ماكر ترك وراءه ميراثاً مخفياً وديوناً خطيرة لمحروق، ملك عالم الرهانات. ينطلق صلاح ودنيا في مطاردات مشتعلة لكشف سر الثروة، وخلال الرحلة يستعيد البطل قوته ويجد طريقاً جديداً نحو الحب والخلاص.",
       "category": "مسلسل",
       "genres": [
         "مسلسل",
+        "حركة ومغامرة",
         "دراما"
       ],
-      "rating": null,
-      "vote_count": null,
+      "rating": 6.2,
+      "vote_count": 4,
       "age_rating": null,
-      "year": "1987",
-      "release_date": "1987-04-28",
+      "year": "2026",
+      "release_date": "2026-01-18",
       "status": "Ended",
       "country": "مصر",
       "language": "العربية",
-      "director": null,
+      "director": "هاني سرحان",
       "cast": [
         {
-          "name": "محمود عبدالعزيز",
-          "character": "أبو المعاطي شمروخ",
-          "profile_image": "https://image.tmdb.org/t/p/w185/2tTG533lGmSsybIVOR6lYkFQ3t5.jpg"
+          "name": "عصام عمر",
+          "character": "صلاح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bpOORNk7UudRmwuiyVXp0n6c9Ph.jpg"
         },
         {
-          "name": "مديحة كامل",
-          "character": "سلوى نصار",
-          "profile_image": "https://image.tmdb.org/t/p/w185/l5HaBDR9knXllZRIAiX1oga8jjy.jpg"
+          "name": "جيهان الشماشرجي",
+          "character": "دنيا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/be7ZkPwz7yeozbPqYRtWuQjWzYU.jpg"
         },
         {
-          "name": "أحمد بدير",
-          "character": "أحمد",
-          "profile_image": "https://image.tmdb.org/t/p/w185/czumAPB9nIYytuVEELuhnBgqc10.jpg"
+          "name": "فتحي عبدالوهاب",
+          "character": "المحروق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kYIlzvwURNRxrQED5OtkqYCUN8Z.jpg"
         },
         {
-          "name": "حسن حسني",
+          "name": "محمد لطفي",
           "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/vMG9Carh5bi18v5unk06aYvvKZw.jpg"
+          "profile_image": "https://image.tmdb.org/t/p/w185/Akh0XZ1gRWeMWAmDz7kbg6xwz4V.jpg"
         },
         {
-          "name": "عبدالعزيز مخيون",
-          "character": "هشام صبري",
-          "profile_image": "https://image.tmdb.org/t/p/w185/bNVEnr8LO2MzDL0XrYVp1GyvTnO.jpg"
+          "name": "أحمد عبدالحميد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4Zyn9sywEAOcYtyinKmj26YXPCr.jpg"
         },
         {
-          "name": "سناء يونس",
-          "character": "عطيات",
-          "profile_image": "https://image.tmdb.org/t/p/w185/q9wFmnJmulmxigSToIcGNj6DhYi.jpg"
+          "name": "Adam El Nahas",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hdBXDghxIgg1aPB5jpwbPvhgipl.jpg"
         }
       ],
-      "trailer_url": "https://www.youtube.com/watch?v=aj-jLCkqD0o",
-      "start": "2026-11-17T08:00:00+00:00",
-      "stop": "2026-11-17T09:00:00+00:00",
-      "duration_minutes": 60,
+      "trailer_url": "https://www.youtube.com/watch?v=JcG-deHwH9k",
+      "start": "2026-11-17T09:00:00+00:00",
+      "stop": "2026-11-17T11:00:00+00:00",
+      "duration_minutes": 120,
       "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/b1q7QUcG1AETxwUn0m7ciXWkb5T.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/6NHMayDrzU9rdOvay7vKqzjV6dc.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/b1q7QUcG1AETxwUn0m7ciXWkb5T.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/txb6JCeXJXyXyUzQ02sydzRDdM9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pCsoqEzM6ON3nu4NISHgSOyLrZj.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/txb6JCeXJXyXyUzQ02sydzRDdM9.jpg",
       "channel_icon": "https://i.imgur.com/OOXylJI.png",
       "is_rerun": true,
       "reruns": [
@@ -1479,15 +1295,124 @@
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T00:00:00+00:00"
+          "start": "2026-11-17T16:00:00+00:00"
         },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 75665,
+      "title": "الجوارح",
+      "clean_title": "الجوارح",
+      "original_title": "الجوارح",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 27,
+      "description": "يحكى عن قصة سيدة تعمل كمدرسة فى مدرسة ابتدائية فى إحدى المناطق الريفية، طلقت مرتين بسبب عدم قدرتها على الإنجاب، فقررت أن تنصرف عن الزواج، وتتفرغ للتصدى لمشاكل طلاب وطالبات المدرسة، حتى يحدث ما يغير نظرتها للحياة، حيث تصطحب التلاميذ فى رحلة إلى حديقة الحيوان لكنها تفقد طفلة أثناء انشغال المشرفين وتبدأ رحلة البحث عن الفتاة المفقودة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حركة ومغامرة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": "هاني السعدي",
+      "cast": [
+        {
+          "name": "أسعد فضة",
+          "character": "ابن الوهاج",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mMLzuU9aF7r2F57Hr7fmeXqy8k8.jpg"
+        },
+        {
+          "name": "أيمن زيدان",
+          "character": "أسامة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dLtJROwks5s50yOJ06jDzp8h59.jpg"
+        },
+        {
+          "name": "أمل عرفة",
+          "character": "العنقاء",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cfd1sNg49Q663CQTB5XvhfgUGka.jpg"
+        },
+        {
+          "name": "صباح عبيد",
+          "character": "الباشق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gi1uk8HgWd4s3Dohsz5Zu2zSKnV.jpg"
+        },
+        {
+          "name": "عارف الطويل",
+          "character": "عقاب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hJjrlBa9FiaDkgB2IZWK10H8CgJ.jpg"
+        },
+        {
+          "name": "Laila Jabr",
+          "character": "ريم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/niHJJSUDZF8wlWeFH8bo6YlM1HO.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T11:00:00+00:00",
+      "stop": "2026-11-17T12:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3f7VFiE53U4TAzjFoPbG1SEWT7c.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
         {
           "channel": "دي إم سي دراما",
           "start": "2026-11-17T03:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T16:00:00+00:00"
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T22:00:00+00:00"
         }
       ]
     },
@@ -1519,8 +1444,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T09:00:00+00:00",
-      "stop": "2026-11-17T10:00:00+00:00",
+      "start": "2026-11-17T12:00:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
@@ -1531,15 +1456,391 @@
       "reruns": [
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-16T17:00:00+00:00"
+          "start": "2026-11-16T12:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T05:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T17:00:00+00:00"
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "في بيتنا روبوت ج2",
+      "clean_title": "في بيتنا روبوت ج2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في إطار خيالي كوميدي، يستكمل الجزء الثاني قصة مهندس البرمجيات يوسف الذي طور نموذجين من البشر الآليين، وهما زومبا ولذيذ، ليقوما بمساعدته في شركته ومساعدة زوجته سارة في الأعمال المنزلية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 102376,
+      "title": "بـ١٠٠ وش",
+      "clean_title": "بـ١٠٠ وش",
+      "original_title": "بـ100 وش",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "سكر - نصابة محترفة - يتم النصب عليها من قِبل عمر - نصاب محترف ايضًا - فتدخل في صراعات معه لإعادة أموالها، ثم تقرر الاتحاد معه للقيام بعمليات نصب اكبر.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": 8.2,
+      "vote_count": 22,
+      "age_rating": "TV-PG",
+      "year": "2020",
+      "release_date": "2020-04-24",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "Ahmed Wael, Amr El Daly",
+      "cast": [
+        {
+          "name": "نيللى كريم",
+          "character": "Sukkar",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6URqCTsDW1bPTCRGfyIKUtavDJY.jpg"
+        },
+        {
+          "name": "آسر ياسين",
+          "character": "عمر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/olUkZr3b6wcKCiU7Kmdoxd9CZiw.jpg"
+        },
+        {
+          "name": "إسلام إبراهيم",
+          "character": "حماده",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oAfUBoMoJ6SkuyrLQWiHkpUgwx1.jpg"
+        },
+        {
+          "name": "زينب غريب",
+          "character": "Radwa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fWEld5e5bcMys9xSkgz11NUvc5I.jpg"
+        },
+        {
+          "name": "دنيا ماهر",
+          "character": "Naglaa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/y4lVAb0EBl5M1sCIeATftZzbi2G.jpg"
+        },
+        {
+          "name": "شريف دسوقي",
+          "character": "Seba3y",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dT4V6FdpobWJQMFz575t4On5hXl.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/6x7ZgFqNuNK6FZXhXxsuJtVuPzG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/k1dFqBtgoDAU0FgJ48G3X7WrwJd.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/6x7ZgFqNuNK6FZXhXxsuJtVuPzG.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 218324,
+      "title": "كامل العدد +1",
+      "clean_title": "كامل العدد +1",
+      "original_title": "كامل العدد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 45,
+      "description": "تدور الأحداث حول (أحمد) و(ليلى)، حيث يجدان نفسيهما في مواقف لا يُحسدان عليها؛ بعد تطور حياة أولادهما، وكثرة مشاكلهما، وإعلان قدوم شخص جديد إلى حياتهما.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا",
+        "عائلي",
+        "دراما"
+      ],
+      "rating": 8.3,
+      "vote_count": 6,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-23",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "رنا أبو الريش",
+      "cast": [
+        {
+          "name": "دينا الشربيني",
+          "character": "ليلى تيمور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yKIdQwGzMtYN7j75gSQOYQOwVXz.jpg"
+        },
+        {
+          "name": "شريف سلامة",
+          "character": "احمد مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1KK2HlLD8m7B0qhOb7OJmvUzGCl.jpg"
+        },
+        {
+          "name": "إسعاد يونس",
+          "character": "حياة عبدالجواد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jP7Sc5tSneEBTmni0npq87obq1g.jpg"
+        },
+        {
+          "name": "أحمد كمال",
+          "character": "تيمور ابو العز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jbcXAcGeSNCGwZ4xwoUf2d0Lp1X.jpg"
+        },
+        {
+          "name": "تميم عبده",
+          "character": "مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5DZb0kZFjuXuCMG5CEWj39hZelz.jpg"
+        },
+        {
+          "name": "أحمد جمال سعيد",
+          "character": "طارق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ozlmPOkClZI1F2PdbPbCdViPD5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T15:00:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uPhBxT1LoX7VQkdQbvWXCDJsX66.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T08:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 299697,
+      "title": "بطل العالم",
+      "clean_title": "بطل العالم",
+      "original_title": "بطل العالم",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "description": "بعد خسارة بطولة العالم، يتحول بطل أفريقيا في الملاكمة إلى حارس شخصي محترف يبحث عن فرصة ثانية. تتغير حياته تماماً حين يُكلَّف بحماية دنيا، ابنة رجل أعمال ماكر ترك وراءه ميراثاً مخفياً وديوناً خطيرة لمحروق، ملك عالم الرهانات. ينطلق صلاح ودنيا في مطاردات مشتعلة لكشف سر الثروة، وخلال الرحلة يستعيد البطل قوته ويجد طريقاً جديداً نحو الحب والخلاص.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "حركة ومغامرة",
+        "دراما"
+      ],
+      "rating": 6.2,
+      "vote_count": 4,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-01-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "هاني سرحان",
+      "cast": [
+        {
+          "name": "عصام عمر",
+          "character": "صلاح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bpOORNk7UudRmwuiyVXp0n6c9Ph.jpg"
+        },
+        {
+          "name": "جيهان الشماشرجي",
+          "character": "دنيا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/be7ZkPwz7yeozbPqYRtWuQjWzYU.jpg"
+        },
+        {
+          "name": "فتحي عبدالوهاب",
+          "character": "المحروق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kYIlzvwURNRxrQED5OtkqYCUN8Z.jpg"
+        },
+        {
+          "name": "محمد لطفي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/Akh0XZ1gRWeMWAmDz7kbg6xwz4V.jpg"
+        },
+        {
+          "name": "أحمد عبدالحميد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4Zyn9sywEAOcYtyinKmj26YXPCr.jpg"
+        },
+        {
+          "name": "Adam El Nahas",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hdBXDghxIgg1aPB5jpwbPvhgipl.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=JcG-deHwH9k",
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T18:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/txb6JCeXJXyXyUzQ02sydzRDdM9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pCsoqEzM6ON3nu4NISHgSOyLrZj.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/txb6JCeXJXyXyUzQ02sydzRDdM9.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T16:00:00+00:00"
         }
       ]
     },
@@ -1604,8 +1905,8 @@
         }
       ],
       "trailer_url": "https://www.youtube.com/watch?v=4cbAVNxq-JE",
-      "start": "2026-11-17T10:00:00+00:00",
-      "stop": "2026-11-17T11:00:00+00:00",
+      "start": "2026-11-17T18:00:00+00:00",
+      "stop": "2026-11-17T19:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/m7oxiom5rUNbACmPFKcxGeve9jT.jpg",
@@ -1616,7 +1917,128 @@
       "reruns": [
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-16T23:00:00+00:00"
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 75665,
+      "title": "الجوارح",
+      "clean_title": "الجوارح",
+      "original_title": "الجوارح",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 27,
+      "description": "يحكى عن قصة سيدة تعمل كمدرسة فى مدرسة ابتدائية فى إحدى المناطق الريفية، طلقت مرتين بسبب عدم قدرتها على الإنجاب، فقررت أن تنصرف عن الزواج، وتتفرغ للتصدى لمشاكل طلاب وطالبات المدرسة، حتى يحدث ما يغير نظرتها للحياة، حيث تصطحب التلاميذ فى رحلة إلى حديقة الحيوان لكنها تفقد طفلة أثناء انشغال المشرفين وتبدأ رحلة البحث عن الفتاة المفقودة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حركة ومغامرة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": "هاني السعدي",
+      "cast": [
+        {
+          "name": "أسعد فضة",
+          "character": "ابن الوهاج",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mMLzuU9aF7r2F57Hr7fmeXqy8k8.jpg"
+        },
+        {
+          "name": "أيمن زيدان",
+          "character": "أسامة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dLtJROwks5s50yOJ06jDzp8h59.jpg"
+        },
+        {
+          "name": "أمل عرفة",
+          "character": "العنقاء",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cfd1sNg49Q663CQTB5XvhfgUGka.jpg"
+        },
+        {
+          "name": "صباح عبيد",
+          "character": "الباشق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gi1uk8HgWd4s3Dohsz5Zu2zSKnV.jpg"
+        },
+        {
+          "name": "عارف الطويل",
+          "character": "عقاب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hJjrlBa9FiaDkgB2IZWK10H8CgJ.jpg"
+        },
+        {
+          "name": "Laila Jabr",
+          "character": "ريم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/niHJJSUDZF8wlWeFH8bo6YlM1HO.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T19:00:00+00:00",
+      "stop": "2026-11-17T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3f7VFiE53U4TAzjFoPbG1SEWT7c.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T22:00:00+00:00"
         }
       ]
     },
@@ -1648,8 +2070,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T11:00:00+00:00",
-      "stop": "2026-11-17T12:00:00+00:00",
+      "start": "2026-11-17T20:00:00+00:00",
+      "stop": "2026-11-17T21:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
@@ -1660,7 +2082,7 @@
       "reruns": [
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-16T18:00:00+00:00"
+          "start": "2026-11-16T13:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
@@ -1672,7 +2094,27 @@
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T18:00:00+00:00"
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T20:00:00+00:00"
         }
       ]
     },
@@ -1737,8 +2179,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T12:00:00+00:00",
-      "stop": "2026-11-17T13:00:00+00:00",
+      "start": "2026-11-17T21:00:00+00:00",
+      "stop": "2026-11-17T22:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/6x7ZgFqNuNK6FZXhXxsuJtVuPzG.jpg",
@@ -1749,11 +2191,7 @@
       "reruns": [
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-16T12:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-16T19:00:00+00:00"
+          "start": "2026-11-16T14:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
@@ -1765,266 +2203,214 @@
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T19:00:00+00:00"
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T21:00:00+00:00"
         }
       ]
     },
     {
-      "tmdb_id": 218324,
-      "title": "كامل العدد +1",
-      "clean_title": "كامل العدد +1",
-      "original_title": "كامل العدد",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 3,
-      "episodes_count": 45,
-      "description": "تدور الأحداث حول (أحمد) و(ليلى)، حيث يجدان نفسيهما في مواقف لا يُحسدان عليها؛ بعد تطور حياة أولادهما، وكثرة مشاكلهما، وإعلان قدوم شخص جديد إلى حياتهما.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل",
-        "كوميديا",
-        "عائلي",
-        "دراما"
-      ],
-      "rating": 8.3,
-      "vote_count": 6,
-      "age_rating": null,
-      "year": "2023",
-      "release_date": "2023-03-23",
-      "status": "Ended",
-      "country": "مصر",
-      "language": "العربية",
-      "director": "رنا أبو الريش",
-      "cast": [
-        {
-          "name": "دينا الشربيني",
-          "character": "ليلى تيمور",
-          "profile_image": "https://image.tmdb.org/t/p/w185/yKIdQwGzMtYN7j75gSQOYQOwVXz.jpg"
-        },
-        {
-          "name": "شريف سلامة",
-          "character": "احمد مختار",
-          "profile_image": "https://image.tmdb.org/t/p/w185/1KK2HlLD8m7B0qhOb7OJmvUzGCl.jpg"
-        },
-        {
-          "name": "إسعاد يونس",
-          "character": "حياة عبدالجواد",
-          "profile_image": "https://image.tmdb.org/t/p/w185/jP7Sc5tSneEBTmni0npq87obq1g.jpg"
-        },
-        {
-          "name": "أحمد كمال",
-          "character": "تيمور ابو العز",
-          "profile_image": "https://image.tmdb.org/t/p/w185/jbcXAcGeSNCGwZ4xwoUf2d0Lp1X.jpg"
-        },
-        {
-          "name": "تميم عبده",
-          "character": "مختار",
-          "profile_image": "https://image.tmdb.org/t/p/w185/5DZb0kZFjuXuCMG5CEWj39hZelz.jpg"
-        },
-        {
-          "name": "أحمد جمال سعيد",
-          "character": "طارق",
-          "profile_image": "https://image.tmdb.org/t/p/w185/2ozlmPOkClZI1F2PdbPbCdViPD5.jpg"
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-17T13:00:00+00:00",
-      "stop": "2026-11-17T14:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/uPhBxT1LoX7VQkdQbvWXCDJsX66.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
-      "channel_icon": "https://i.imgur.com/OOXylJI.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-16T13:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-16T20:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-17T20:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 299697,
-      "title": "بطل العالم",
-      "clean_title": "بطل العالم",
-      "original_title": "بطل العالم",
+      "tmdb_id": 75665,
+      "title": "الجوارح",
+      "clean_title": "الجوارح",
+      "original_title": "الجوارح",
       "tagline": null,
       "episode_title": null,
       "content_type": "series",
       "season": null,
       "episode": null,
       "seasons_count": 1,
-      "episodes_count": 10,
-      "description": "بعد خسارة بطولة العالم، يتحول بطل أفريقيا في الملاكمة إلى حارس شخصي محترف يبحث عن فرصة ثانية. تتغير حياته تماماً حين يُكلَّف بحماية دنيا، ابنة رجل أعمال ماكر ترك وراءه ميراثاً مخفياً وديوناً خطيرة لمحروق، ملك عالم الرهانات. ينطلق صلاح ودنيا في مطاردات مشتعلة لكشف سر الثروة، وخلال الرحلة يستعيد البطل قوته ويجد طريقاً جديداً نحو الحب والخلاص.",
+      "episodes_count": 27,
+      "description": "يحكى عن قصة سيدة تعمل كمدرسة فى مدرسة ابتدائية فى إحدى المناطق الريفية، طلقت مرتين بسبب عدم قدرتها على الإنجاب، فقررت أن تنصرف عن الزواج، وتتفرغ للتصدى لمشاكل طلاب وطالبات المدرسة، حتى يحدث ما يغير نظرتها للحياة، حيث تصطحب التلاميذ فى رحلة إلى حديقة الحيوان لكنها تفقد طفلة أثناء انشغال المشرفين وتبدأ رحلة البحث عن الفتاة المفقودة.",
       "category": "مسلسل",
       "genres": [
         "مسلسل",
-        "حركة ومغامرة",
-        "دراما"
-      ],
-      "rating": 6.2,
-      "vote_count": 4,
-      "age_rating": null,
-      "year": "2026",
-      "release_date": "2026-01-18",
-      "status": "Ended",
-      "country": "مصر",
-      "language": "العربية",
-      "director": "هاني سرحان",
-      "cast": [
-        {
-          "name": "عصام عمر",
-          "character": "صلاح",
-          "profile_image": "https://image.tmdb.org/t/p/w185/bpOORNk7UudRmwuiyVXp0n6c9Ph.jpg"
-        },
-        {
-          "name": "جيهان الشماشرجي",
-          "character": "دنيا",
-          "profile_image": "https://image.tmdb.org/t/p/w185/be7ZkPwz7yeozbPqYRtWuQjWzYU.jpg"
-        },
-        {
-          "name": "فتحي عبدالوهاب",
-          "character": "المحروق",
-          "profile_image": "https://image.tmdb.org/t/p/w185/kYIlzvwURNRxrQED5OtkqYCUN8Z.jpg"
-        },
-        {
-          "name": "محمد لطفي",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/Akh0XZ1gRWeMWAmDz7kbg6xwz4V.jpg"
-        },
-        {
-          "name": "أحمد عبدالحميد",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/4Zyn9sywEAOcYtyinKmj26YXPCr.jpg"
-        },
-        {
-          "name": "Adam El Nahas",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/hdBXDghxIgg1aPB5jpwbPvhgipl.jpg"
-        }
-      ],
-      "trailer_url": "https://www.youtube.com/watch?v=JcG-deHwH9k",
-      "start": "2026-11-17T14:00:00+00:00",
-      "stop": "2026-11-17T16:00:00+00:00",
-      "duration_minutes": 120,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/txb6JCeXJXyXyUzQ02sydzRDdM9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/pCsoqEzM6ON3nu4NISHgSOyLrZj.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/txb6JCeXJXyXyUzQ02sydzRDdM9.jpg",
-      "channel_icon": "https://i.imgur.com/OOXylJI.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-16T14:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-16T21:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-17T21:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 135210,
-      "title": "البشاير",
-      "clean_title": "البشاير",
-      "original_title": "البشاير",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 15,
-      "description": "تدور أحداث القصة حول (أبو المعاطي)، وهو رجل ذاق مرارة الغربة ليجني ثروة ضخمة، وعندما عاد إلى الوطن قرر (أبو المعاطي) أن يشتري قطعة أرض زراعية، وأن يقوم بزراعتها بمساعدة نسيبه، تأتي مجموعة عمل سينمائي ليقوموا بتصوير بعض المشاهد الخارجية في فيلم سينمائي جديد في منطقة قريبة من مزرعة (أبو المعاطي)، ولكن تتعرض النجمة السينمائية وبطلة الفيلم (سلوى) إلى حادث أثناء توجهها إلى منطقة التصوير، ويقوم (أبو المعاطي) بإنقاذها، واصطحابها إلى مزرعته للعناية بها، تكتشف (سلوى نصار) أنه لا أحد في المزرعة يعرفها، وأن شهرتها التي ملأت المجلات والصحف وإعلانات التليفزيون لم تصل بعد إلى تلك المنطقة النائية، وتعجب كثيرا بالحياة البسيطة التي يعيشها الجميع في المزرعة الصغيرة.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل",
-        "دراما"
+        "دراما",
+        "حركة ومغامرة"
       ],
       "rating": null,
       "vote_count": null,
       "age_rating": null,
-      "year": "1987",
-      "release_date": "1987-04-28",
+      "year": null,
+      "release_date": null,
       "status": "Ended",
-      "country": "مصر",
+      "country": "سوريا",
       "language": "العربية",
-      "director": null,
+      "director": "هاني السعدي",
       "cast": [
         {
-          "name": "محمود عبدالعزيز",
-          "character": "أبو المعاطي شمروخ",
-          "profile_image": "https://image.tmdb.org/t/p/w185/2tTG533lGmSsybIVOR6lYkFQ3t5.jpg"
+          "name": "أسعد فضة",
+          "character": "ابن الوهاج",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mMLzuU9aF7r2F57Hr7fmeXqy8k8.jpg"
         },
         {
-          "name": "مديحة كامل",
-          "character": "سلوى نصار",
-          "profile_image": "https://image.tmdb.org/t/p/w185/l5HaBDR9knXllZRIAiX1oga8jjy.jpg"
+          "name": "أيمن زيدان",
+          "character": "أسامة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dLtJROwks5s50yOJ06jDzp8h59.jpg"
         },
         {
-          "name": "أحمد بدير",
-          "character": "أحمد",
-          "profile_image": "https://image.tmdb.org/t/p/w185/czumAPB9nIYytuVEELuhnBgqc10.jpg"
+          "name": "أمل عرفة",
+          "character": "العنقاء",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cfd1sNg49Q663CQTB5XvhfgUGka.jpg"
         },
         {
-          "name": "حسن حسني",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/vMG9Carh5bi18v5unk06aYvvKZw.jpg"
+          "name": "صباح عبيد",
+          "character": "الباشق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gi1uk8HgWd4s3Dohsz5Zu2zSKnV.jpg"
         },
         {
-          "name": "عبدالعزيز مخيون",
-          "character": "هشام صبري",
-          "profile_image": "https://image.tmdb.org/t/p/w185/bNVEnr8LO2MzDL0XrYVp1GyvTnO.jpg"
+          "name": "عارف الطويل",
+          "character": "عقاب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hJjrlBa9FiaDkgB2IZWK10H8CgJ.jpg"
         },
         {
-          "name": "سناء يونس",
-          "character": "عطيات",
-          "profile_image": "https://image.tmdb.org/t/p/w185/q9wFmnJmulmxigSToIcGNj6DhYi.jpg"
+          "name": "Laila Jabr",
+          "character": "ريم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/niHJJSUDZF8wlWeFH8bo6YlM1HO.jpg"
         }
       ],
-      "trailer_url": "https://www.youtube.com/watch?v=aj-jLCkqD0o",
-      "start": "2026-11-17T16:00:00+00:00",
-      "stop": "2026-11-17T17:00:00+00:00",
+      "trailer_url": null,
+      "start": "2026-11-17T22:00:00+00:00",
+      "stop": "2026-11-17T23:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/b1q7QUcG1AETxwUn0m7ciXWkb5T.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/6NHMayDrzU9rdOvay7vKqzjV6dc.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/b1q7QUcG1AETxwUn0m7ciXWkb5T.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3f7VFiE53U4TAzjFoPbG1SEWT7c.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
       "channel_icon": "https://i.imgur.com/OOXylJI.png",
       "is_rerun": true,
       "reruns": [
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-16T16:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
         {
           "channel": "دي إم سي دراما",
           "start": "2026-11-17T03:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T08:00:00+00:00"
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 95603,
+      "title": "مسلسل",
+      "clean_title": "مسلسل",
+      "original_title": "Kuruluş Osman",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 6,
+      "episodes_count": 194,
+      "description": "ملحمة تاريخية من أضخم إنتاجات الدراما التركية، تعرض سيرة المؤسس عثمان بن أرطغرل، ومعاركه ضد مغول الشرق وبيزنطيي الغرب وضعف الدولة وخيانات الأقربين، وجهاده ومحاربوه لزرع الشجرة التي ظللت فروعها الدنيا.",
+      "category": "General",
+      "genres": [
+        "General",
+        "حرب وسياسة",
+        "حركة ومغامرة",
+        "دراما"
+      ],
+      "rating": 8,
+      "vote_count": 317,
+      "age_rating": "TV-14",
+      "year": "2019",
+      "release_date": "2019-11-20",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Mehmet Bozdağ",
+      "cast": [
+        {
+          "name": "بوراك أوزجيفيت",
+          "character": "Osman Bey",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pF8EHDM2ETDT2X2Pwg3Ak0ZCPAY.jpg"
+        },
+        {
+          "name": "Özge Törer",
+          "character": "Bala Hatun",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kHe6iJCGEgDuGl0Hdii9lzSIjOf.jpg"
+        },
+        {
+          "name": "Emre Bey",
+          "character": "Orhan Bey",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pjTsTuQ4jVRXoisd9jHDgqrbttt.jpg"
+        },
+        {
+          "name": "Ecem Sena Bayır",
+          "character": "Holofira",
+          "profile_image": "https://image.tmdb.org/t/p/w185/o7tch26buZIgf3EKqOVi0UrxGMs.jpg"
+        },
+        {
+          "name": "Ömer Faruk Aran",
+          "character": "Alaeddin Bey",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mjBanFwjGQHYxBAVzxb66zG08rI.jpg"
+        },
+        {
+          "name": "Belgin Şimşek",
+          "character": "Gonca Hatun",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vLLHlmi5qyH1sgYwf3cUZwSRiWU.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T23:00:00+00:00",
+      "stop": "2026-11-18T00:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2lHyJRdXaJkBg5TM59Je5LhJvwM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/puLaqdcTRwFxwv9S3PO6jA3ep7J.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2lHyJRdXaJkBg5TM59Je5LhJvwM.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T23:00:00+00:00"
         }
       ]
     },
@@ -2056,8 +2442,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T17:00:00+00:00",
-      "stop": "2026-11-17T18:00:00+00:00",
+      "start": "2026-11-18T00:00:00+00:00",
+      "stop": "2026-11-18T01:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
@@ -2068,15 +2454,27 @@
       "reruns": [
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-16T17:00:00+00:00"
+          "start": "2026-11-16T12:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T05:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T09:00:00+00:00"
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T12:00:00+00:00"
         }
       ]
     },
@@ -2108,8 +2506,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T18:00:00+00:00",
-      "stop": "2026-11-17T19:00:00+00:00",
+      "start": "2026-11-18T01:00:00+00:00",
+      "stop": "2026-11-18T02:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
@@ -2120,7 +2518,7 @@
       "reruns": [
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-16T18:00:00+00:00"
+          "start": "2026-11-16T13:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
@@ -2132,7 +2530,27 @@
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T11:00:00+00:00"
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T20:00:00+00:00"
         }
       ]
     },
@@ -2197,8 +2615,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T19:00:00+00:00",
-      "stop": "2026-11-17T20:00:00+00:00",
+      "start": "2026-11-18T02:00:00+00:00",
+      "stop": "2026-11-18T03:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/6x7ZgFqNuNK6FZXhXxsuJtVuPzG.jpg",
@@ -2209,11 +2627,7 @@
       "reruns": [
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-16T12:00:00+00:00"
-        },
-        {
-          "channel": "دي إم سي دراما",
-          "start": "2026-11-16T19:00:00+00:00"
+          "start": "2026-11-16T14:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
@@ -2225,7 +2639,474 @@
         },
         {
           "channel": "دي إم سي دراما",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 75665,
+      "title": "الجوارح",
+      "clean_title": "الجوارح",
+      "original_title": "الجوارح",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 27,
+      "description": "يحكى عن قصة سيدة تعمل كمدرسة فى مدرسة ابتدائية فى إحدى المناطق الريفية، طلقت مرتين بسبب عدم قدرتها على الإنجاب، فقررت أن تنصرف عن الزواج، وتتفرغ للتصدى لمشاكل طلاب وطالبات المدرسة، حتى يحدث ما يغير نظرتها للحياة، حيث تصطحب التلاميذ فى رحلة إلى حديقة الحيوان لكنها تفقد طفلة أثناء انشغال المشرفين وتبدأ رحلة البحث عن الفتاة المفقودة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حركة ومغامرة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": "هاني السعدي",
+      "cast": [
+        {
+          "name": "أسعد فضة",
+          "character": "ابن الوهاج",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mMLzuU9aF7r2F57Hr7fmeXqy8k8.jpg"
+        },
+        {
+          "name": "أيمن زيدان",
+          "character": "أسامة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dLtJROwks5s50yOJ06jDzp8h59.jpg"
+        },
+        {
+          "name": "أمل عرفة",
+          "character": "العنقاء",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cfd1sNg49Q663CQTB5XvhfgUGka.jpg"
+        },
+        {
+          "name": "صباح عبيد",
+          "character": "الباشق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gi1uk8HgWd4s3Dohsz5Zu2zSKnV.jpg"
+        },
+        {
+          "name": "عارف الطويل",
+          "character": "عقاب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hJjrlBa9FiaDkgB2IZWK10H8CgJ.jpg"
+        },
+        {
+          "name": "Laila Jabr",
+          "character": "ريم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/niHJJSUDZF8wlWeFH8bo6YlM1HO.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T03:00:00+00:00",
+      "stop": "2026-11-18T04:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3f7VFiE53U4TAzjFoPbG1SEWT7c.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "يوميات ونيس ج1",
+      "clean_title": "يوميات ونيس ج1",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم ونيس (محمد صبحي) وزوجته مايسة (سعاد نصر) على تربية أبناءهما الأربعة على الأخلاق والقيم الصالحة، وأثناء تأديتهم لهذه الرسالة يكتشفان أنهما يخالفان الكثير من القيم التي يحاولنان زرعها في أولادهما، فيحاولان التصحيح من نفسيهما.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T04:00:00+00:00",
+      "stop": "2026-11-18T05:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
           "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 112399,
+      "title": "نجيب زاهي زركش",
+      "clean_title": "نجيب زاهي زركش",
+      "original_title": "نجيب زاهي زركش",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "يتناول العمل في إطار درامي قصة الثري نجيب زاهي زركش، والذي يكتشف سرا خطيرا بوجود ابن له، وبمساعدة خادمه ينجح في الوصول لثلاث شباب محتمل أن يكون ابنه ضمنهم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا",
+        "دراما"
+      ],
+      "rating": 7.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-04-12",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "يحيى الفخراني",
+          "character": "Naguib Zahi Zarkash",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lzQT2AX0yDTe63eYMjFuTIUGf4X.jpg"
+        },
+        {
+          "name": "هالة فاخر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
+        },
+        {
+          "name": "إسلام إبراهيم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/oAfUBoMoJ6SkuyrLQWiHkpUgwx1.jpg"
+        },
+        {
+          "name": "كريم عفيفي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/afQYakbQXoRAh1vP6WuhqxsiD9V.jpg"
+        },
+        {
+          "name": "Ramez Amir",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/6DiZCvzMTX5mwdrFbEV9zCmn3PM.jpg"
+        },
+        {
+          "name": "رنا رئيس",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/cCktHiWt2Xr1G57fiyLG1mRvqhZ.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=4cbAVNxq-JE",
+      "start": "2026-11-18T05:00:00+00:00",
+      "stop": "2026-11-18T06:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/m7oxiom5rUNbACmPFKcxGeve9jT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iiX2fuYR10cvdikRuRtktq9yQ1w.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/m7oxiom5rUNbACmPFKcxGeve9jT.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "في بيتنا روبوت ج2",
+      "clean_title": "في بيتنا روبوت ج2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في إطار خيالي كوميدي، يستكمل الجزء الثاني قصة مهندس البرمجيات يوسف الذي طور نموذجين من البشر الآليين، وهما زومبا ولذيذ، ليقوما بمساعدته في شركته ومساعدة زوجته سارة في الأعمال المنزلية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T06:00:00+00:00",
+      "stop": "2026-11-18T07:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 102376,
+      "title": "بـ١٠٠ وش",
+      "clean_title": "بـ١٠٠ وش",
+      "original_title": "بـ100 وش",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "سكر - نصابة محترفة - يتم النصب عليها من قِبل عمر - نصاب محترف ايضًا - فتدخل في صراعات معه لإعادة أموالها، ثم تقرر الاتحاد معه للقيام بعمليات نصب اكبر.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": 8.2,
+      "vote_count": 22,
+      "age_rating": "TV-PG",
+      "year": "2020",
+      "release_date": "2020-04-24",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "Ahmed Wael, Amr El Daly",
+      "cast": [
+        {
+          "name": "نيللى كريم",
+          "character": "Sukkar",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6URqCTsDW1bPTCRGfyIKUtavDJY.jpg"
+        },
+        {
+          "name": "آسر ياسين",
+          "character": "عمر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/olUkZr3b6wcKCiU7Kmdoxd9CZiw.jpg"
+        },
+        {
+          "name": "إسلام إبراهيم",
+          "character": "حماده",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oAfUBoMoJ6SkuyrLQWiHkpUgwx1.jpg"
+        },
+        {
+          "name": "زينب غريب",
+          "character": "Radwa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fWEld5e5bcMys9xSkgz11NUvc5I.jpg"
+        },
+        {
+          "name": "دنيا ماهر",
+          "character": "Naglaa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/y4lVAb0EBl5M1sCIeATftZzbi2G.jpg"
+        },
+        {
+          "name": "شريف دسوقي",
+          "character": "Seba3y",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dT4V6FdpobWJQMFz575t4On5hXl.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T07:00:00+00:00",
+      "stop": "2026-11-18T08:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/6x7ZgFqNuNK6FZXhXxsuJtVuPzG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/k1dFqBtgoDAU0FgJ48G3X7WrwJd.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/6x7ZgFqNuNK6FZXhXxsuJtVuPzG.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T21:00:00+00:00"
         }
       ]
     },
@@ -2291,8 +3172,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T20:00:00+00:00",
-      "stop": "2026-11-17T21:00:00+00:00",
+      "start": "2026-11-18T08:00:00+00:00",
+      "stop": "2026-11-18T09:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
@@ -2303,15 +3184,19 @@
       "reruns": [
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-16T13:00:00+00:00"
+          "start": "2026-11-16T15:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-16T20:00:00+00:00"
+          "start": "2026-11-17T08:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-17T13:00:00+00:00"
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T15:00:00+00:00"
         }
       ]
     },
@@ -2376,8 +3261,8 @@
         }
       ],
       "trailer_url": "https://www.youtube.com/watch?v=JcG-deHwH9k",
-      "start": "2026-11-17T21:00:00+00:00",
-      "stop": "2026-11-17T23:00:00+00:00",
+      "start": "2026-11-18T09:00:00+00:00",
+      "stop": "2026-11-18T11:00:00+00:00",
       "duration_minutes": 120,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/txb6JCeXJXyXyUzQ02sydzRDdM9.jpg",
@@ -2388,15 +3273,1618 @@
       "reruns": [
         {
           "channel": "دي إم سي دراما",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 75665,
+      "title": "الجوارح",
+      "clean_title": "الجوارح",
+      "original_title": "الجوارح",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 27,
+      "description": "يحكى عن قصة سيدة تعمل كمدرسة فى مدرسة ابتدائية فى إحدى المناطق الريفية، طلقت مرتين بسبب عدم قدرتها على الإنجاب، فقررت أن تنصرف عن الزواج، وتتفرغ للتصدى لمشاكل طلاب وطالبات المدرسة، حتى يحدث ما يغير نظرتها للحياة، حيث تصطحب التلاميذ فى رحلة إلى حديقة الحيوان لكنها تفقد طفلة أثناء انشغال المشرفين وتبدأ رحلة البحث عن الفتاة المفقودة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حركة ومغامرة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": "هاني السعدي",
+      "cast": [
+        {
+          "name": "أسعد فضة",
+          "character": "ابن الوهاج",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mMLzuU9aF7r2F57Hr7fmeXqy8k8.jpg"
+        },
+        {
+          "name": "أيمن زيدان",
+          "character": "أسامة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dLtJROwks5s50yOJ06jDzp8h59.jpg"
+        },
+        {
+          "name": "أمل عرفة",
+          "character": "العنقاء",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cfd1sNg49Q663CQTB5XvhfgUGka.jpg"
+        },
+        {
+          "name": "صباح عبيد",
+          "character": "الباشق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gi1uk8HgWd4s3Dohsz5Zu2zSKnV.jpg"
+        },
+        {
+          "name": "عارف الطويل",
+          "character": "عقاب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hJjrlBa9FiaDkgB2IZWK10H8CgJ.jpg"
+        },
+        {
+          "name": "Laila Jabr",
+          "character": "ريم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/niHJJSUDZF8wlWeFH8bo6YlM1HO.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T11:00:00+00:00",
+      "stop": "2026-11-18T12:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3f7VFiE53U4TAzjFoPbG1SEWT7c.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "يوميات ونيس ج1",
+      "clean_title": "يوميات ونيس ج1",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم ونيس (محمد صبحي) وزوجته مايسة (سعاد نصر) على تربية أبناءهما الأربعة على الأخلاق والقيم الصالحة، وأثناء تأديتهم لهذه الرسالة يكتشفان أنهما يخالفان الكثير من القيم التي يحاولنان زرعها في أولادهما، فيحاولان التصحيح من نفسيهما.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T12:00:00+00:00",
+      "stop": "2026-11-18T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T04:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "في بيتنا روبوت ج2",
+      "clean_title": "في بيتنا روبوت ج2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في إطار خيالي كوميدي، يستكمل الجزء الثاني قصة مهندس البرمجيات يوسف الذي طور نموذجين من البشر الآليين، وهما زومبا ولذيذ، ليقوما بمساعدته في شركته ومساعدة زوجته سارة في الأعمال المنزلية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T13:00:00+00:00",
+      "stop": "2026-11-18T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 102376,
+      "title": "بـ١٠٠ وش",
+      "clean_title": "بـ١٠٠ وش",
+      "original_title": "بـ100 وش",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "سكر - نصابة محترفة - يتم النصب عليها من قِبل عمر - نصاب محترف ايضًا - فتدخل في صراعات معه لإعادة أموالها، ثم تقرر الاتحاد معه للقيام بعمليات نصب اكبر.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": 8.2,
+      "vote_count": 22,
+      "age_rating": "TV-PG",
+      "year": "2020",
+      "release_date": "2020-04-24",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "Ahmed Wael, Amr El Daly",
+      "cast": [
+        {
+          "name": "نيللى كريم",
+          "character": "Sukkar",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6URqCTsDW1bPTCRGfyIKUtavDJY.jpg"
+        },
+        {
+          "name": "آسر ياسين",
+          "character": "عمر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/olUkZr3b6wcKCiU7Kmdoxd9CZiw.jpg"
+        },
+        {
+          "name": "إسلام إبراهيم",
+          "character": "حماده",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oAfUBoMoJ6SkuyrLQWiHkpUgwx1.jpg"
+        },
+        {
+          "name": "زينب غريب",
+          "character": "Radwa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fWEld5e5bcMys9xSkgz11NUvc5I.jpg"
+        },
+        {
+          "name": "دنيا ماهر",
+          "character": "Naglaa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/y4lVAb0EBl5M1sCIeATftZzbi2G.jpg"
+        },
+        {
+          "name": "شريف دسوقي",
+          "character": "Seba3y",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dT4V6FdpobWJQMFz575t4On5hXl.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T14:00:00+00:00",
+      "stop": "2026-11-18T15:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/6x7ZgFqNuNK6FZXhXxsuJtVuPzG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/k1dFqBtgoDAU0FgJ48G3X7WrwJd.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/6x7ZgFqNuNK6FZXhXxsuJtVuPzG.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
           "start": "2026-11-16T14:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
-          "start": "2026-11-16T21:00:00+00:00"
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T07:00:00+00:00"
         },
         {
           "channel": "دي إم سي دراما",
           "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 218324,
+      "title": "كامل العدد +1",
+      "clean_title": "كامل العدد +1",
+      "original_title": "كامل العدد",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 3,
+      "episodes_count": 45,
+      "description": "تدور الأحداث حول (أحمد) و(ليلى)، حيث يجدان نفسيهما في مواقف لا يُحسدان عليها؛ بعد تطور حياة أولادهما، وكثرة مشاكلهما، وإعلان قدوم شخص جديد إلى حياتهما.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا",
+        "عائلي",
+        "دراما"
+      ],
+      "rating": 8.3,
+      "vote_count": 6,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": "2023-03-23",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "رنا أبو الريش",
+      "cast": [
+        {
+          "name": "دينا الشربيني",
+          "character": "ليلى تيمور",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yKIdQwGzMtYN7j75gSQOYQOwVXz.jpg"
+        },
+        {
+          "name": "شريف سلامة",
+          "character": "احمد مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1KK2HlLD8m7B0qhOb7OJmvUzGCl.jpg"
+        },
+        {
+          "name": "إسعاد يونس",
+          "character": "حياة عبدالجواد",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jP7Sc5tSneEBTmni0npq87obq1g.jpg"
+        },
+        {
+          "name": "أحمد كمال",
+          "character": "تيمور ابو العز",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jbcXAcGeSNCGwZ4xwoUf2d0Lp1X.jpg"
+        },
+        {
+          "name": "تميم عبده",
+          "character": "مختار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5DZb0kZFjuXuCMG5CEWj39hZelz.jpg"
+        },
+        {
+          "name": "أحمد جمال سعيد",
+          "character": "طارق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ozlmPOkClZI1F2PdbPbCdViPD5.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T15:00:00+00:00",
+      "stop": "2026-11-18T16:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uPhBxT1LoX7VQkdQbvWXCDJsX66.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 299697,
+      "title": "بطل العالم",
+      "clean_title": "بطل العالم",
+      "original_title": "بطل العالم",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "description": "بعد خسارة بطولة العالم، يتحول بطل أفريقيا في الملاكمة إلى حارس شخصي محترف يبحث عن فرصة ثانية. تتغير حياته تماماً حين يُكلَّف بحماية دنيا، ابنة رجل أعمال ماكر ترك وراءه ميراثاً مخفياً وديوناً خطيرة لمحروق، ملك عالم الرهانات. ينطلق صلاح ودنيا في مطاردات مشتعلة لكشف سر الثروة، وخلال الرحلة يستعيد البطل قوته ويجد طريقاً جديداً نحو الحب والخلاص.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "حركة ومغامرة",
+        "دراما"
+      ],
+      "rating": 6.2,
+      "vote_count": 4,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-01-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "هاني سرحان",
+      "cast": [
+        {
+          "name": "عصام عمر",
+          "character": "صلاح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bpOORNk7UudRmwuiyVXp0n6c9Ph.jpg"
+        },
+        {
+          "name": "جيهان الشماشرجي",
+          "character": "دنيا",
+          "profile_image": "https://image.tmdb.org/t/p/w185/be7ZkPwz7yeozbPqYRtWuQjWzYU.jpg"
+        },
+        {
+          "name": "فتحي عبدالوهاب",
+          "character": "المحروق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kYIlzvwURNRxrQED5OtkqYCUN8Z.jpg"
+        },
+        {
+          "name": "محمد لطفي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/Akh0XZ1gRWeMWAmDz7kbg6xwz4V.jpg"
+        },
+        {
+          "name": "أحمد عبدالحميد",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/4Zyn9sywEAOcYtyinKmj26YXPCr.jpg"
+        },
+        {
+          "name": "Adam El Nahas",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/hdBXDghxIgg1aPB5jpwbPvhgipl.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=JcG-deHwH9k",
+      "start": "2026-11-18T16:00:00+00:00",
+      "stop": "2026-11-18T18:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/txb6JCeXJXyXyUzQ02sydzRDdM9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pCsoqEzM6ON3nu4NISHgSOyLrZj.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/txb6JCeXJXyXyUzQ02sydzRDdM9.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 112399,
+      "title": "نجيب زاهي زركش",
+      "clean_title": "نجيب زاهي زركش",
+      "original_title": "نجيب زاهي زركش",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "يتناول العمل في إطار درامي قصة الثري نجيب زاهي زركش، والذي يكتشف سرا خطيرا بوجود ابن له، وبمساعدة خادمه ينجح في الوصول لثلاث شباب محتمل أن يكون ابنه ضمنهم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا",
+        "دراما"
+      ],
+      "rating": 7.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-04-12",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "يحيى الفخراني",
+          "character": "Naguib Zahi Zarkash",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lzQT2AX0yDTe63eYMjFuTIUGf4X.jpg"
+        },
+        {
+          "name": "هالة فاخر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
+        },
+        {
+          "name": "إسلام إبراهيم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/oAfUBoMoJ6SkuyrLQWiHkpUgwx1.jpg"
+        },
+        {
+          "name": "كريم عفيفي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/afQYakbQXoRAh1vP6WuhqxsiD9V.jpg"
+        },
+        {
+          "name": "Ramez Amir",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/6DiZCvzMTX5mwdrFbEV9zCmn3PM.jpg"
+        },
+        {
+          "name": "رنا رئيس",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/cCktHiWt2Xr1G57fiyLG1mRvqhZ.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=4cbAVNxq-JE",
+      "start": "2026-11-18T18:00:00+00:00",
+      "stop": "2026-11-18T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/m7oxiom5rUNbACmPFKcxGeve9jT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iiX2fuYR10cvdikRuRtktq9yQ1w.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/m7oxiom5rUNbACmPFKcxGeve9jT.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 75665,
+      "title": "الجوارح",
+      "clean_title": "الجوارح",
+      "original_title": "الجوارح",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 27,
+      "description": "يحكى عن قصة سيدة تعمل كمدرسة فى مدرسة ابتدائية فى إحدى المناطق الريفية، طلقت مرتين بسبب عدم قدرتها على الإنجاب، فقررت أن تنصرف عن الزواج، وتتفرغ للتصدى لمشاكل طلاب وطالبات المدرسة، حتى يحدث ما يغير نظرتها للحياة، حيث تصطحب التلاميذ فى رحلة إلى حديقة الحيوان لكنها تفقد طفلة أثناء انشغال المشرفين وتبدأ رحلة البحث عن الفتاة المفقودة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حركة ومغامرة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": "هاني السعدي",
+      "cast": [
+        {
+          "name": "أسعد فضة",
+          "character": "ابن الوهاج",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mMLzuU9aF7r2F57Hr7fmeXqy8k8.jpg"
+        },
+        {
+          "name": "أيمن زيدان",
+          "character": "أسامة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dLtJROwks5s50yOJ06jDzp8h59.jpg"
+        },
+        {
+          "name": "أمل عرفة",
+          "character": "العنقاء",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cfd1sNg49Q663CQTB5XvhfgUGka.jpg"
+        },
+        {
+          "name": "صباح عبيد",
+          "character": "الباشق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gi1uk8HgWd4s3Dohsz5Zu2zSKnV.jpg"
+        },
+        {
+          "name": "عارف الطويل",
+          "character": "عقاب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hJjrlBa9FiaDkgB2IZWK10H8CgJ.jpg"
+        },
+        {
+          "name": "Laila Jabr",
+          "character": "ريم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/niHJJSUDZF8wlWeFH8bo6YlM1HO.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T19:00:00+00:00",
+      "stop": "2026-11-18T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3f7VFiE53U4TAzjFoPbG1SEWT7c.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "في بيتنا روبوت ج2",
+      "clean_title": "في بيتنا روبوت ج2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في إطار خيالي كوميدي، يستكمل الجزء الثاني قصة مهندس البرمجيات يوسف الذي طور نموذجين من البشر الآليين، وهما زومبا ولذيذ، ليقوما بمساعدته في شركته ومساعدة زوجته سارة في الأعمال المنزلية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T20:00:00+00:00",
+      "stop": "2026-11-18T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 102376,
+      "title": "بـ١٠٠ وش",
+      "clean_title": "بـ١٠٠ وش",
+      "original_title": "بـ100 وش",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "سكر - نصابة محترفة - يتم النصب عليها من قِبل عمر - نصاب محترف ايضًا - فتدخل في صراعات معه لإعادة أموالها، ثم تقرر الاتحاد معه للقيام بعمليات نصب اكبر.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": 8.2,
+      "vote_count": 22,
+      "age_rating": "TV-PG",
+      "year": "2020",
+      "release_date": "2020-04-24",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "Ahmed Wael, Amr El Daly",
+      "cast": [
+        {
+          "name": "نيللى كريم",
+          "character": "Sukkar",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6URqCTsDW1bPTCRGfyIKUtavDJY.jpg"
+        },
+        {
+          "name": "آسر ياسين",
+          "character": "عمر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/olUkZr3b6wcKCiU7Kmdoxd9CZiw.jpg"
+        },
+        {
+          "name": "إسلام إبراهيم",
+          "character": "حماده",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oAfUBoMoJ6SkuyrLQWiHkpUgwx1.jpg"
+        },
+        {
+          "name": "زينب غريب",
+          "character": "Radwa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fWEld5e5bcMys9xSkgz11NUvc5I.jpg"
+        },
+        {
+          "name": "دنيا ماهر",
+          "character": "Naglaa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/y4lVAb0EBl5M1sCIeATftZzbi2G.jpg"
+        },
+        {
+          "name": "شريف دسوقي",
+          "character": "Seba3y",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dT4V6FdpobWJQMFz575t4On5hXl.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T21:00:00+00:00",
+      "stop": "2026-11-18T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/6x7ZgFqNuNK6FZXhXxsuJtVuPzG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/k1dFqBtgoDAU0FgJ48G3X7WrwJd.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/6x7ZgFqNuNK6FZXhXxsuJtVuPzG.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 75665,
+      "title": "الجوارح",
+      "clean_title": "الجوارح",
+      "original_title": "الجوارح",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 27,
+      "description": "يحكى عن قصة سيدة تعمل كمدرسة فى مدرسة ابتدائية فى إحدى المناطق الريفية، طلقت مرتين بسبب عدم قدرتها على الإنجاب، فقررت أن تنصرف عن الزواج، وتتفرغ للتصدى لمشاكل طلاب وطالبات المدرسة، حتى يحدث ما يغير نظرتها للحياة، حيث تصطحب التلاميذ فى رحلة إلى حديقة الحيوان لكنها تفقد طفلة أثناء انشغال المشرفين وتبدأ رحلة البحث عن الفتاة المفقودة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حركة ومغامرة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": "هاني السعدي",
+      "cast": [
+        {
+          "name": "أسعد فضة",
+          "character": "ابن الوهاج",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mMLzuU9aF7r2F57Hr7fmeXqy8k8.jpg"
+        },
+        {
+          "name": "أيمن زيدان",
+          "character": "أسامة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dLtJROwks5s50yOJ06jDzp8h59.jpg"
+        },
+        {
+          "name": "أمل عرفة",
+          "character": "العنقاء",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cfd1sNg49Q663CQTB5XvhfgUGka.jpg"
+        },
+        {
+          "name": "صباح عبيد",
+          "character": "الباشق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gi1uk8HgWd4s3Dohsz5Zu2zSKnV.jpg"
+        },
+        {
+          "name": "عارف الطويل",
+          "character": "عقاب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hJjrlBa9FiaDkgB2IZWK10H8CgJ.jpg"
+        },
+        {
+          "name": "Laila Jabr",
+          "character": "ريم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/niHJJSUDZF8wlWeFH8bo6YlM1HO.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T22:00:00+00:00",
+      "stop": "2026-11-18T23:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3f7VFiE53U4TAzjFoPbG1SEWT7c.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 95603,
+      "title": "مسلسل",
+      "clean_title": "مسلسل",
+      "original_title": "Kuruluş Osman",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 6,
+      "episodes_count": 194,
+      "description": "ملحمة تاريخية من أضخم إنتاجات الدراما التركية، تعرض سيرة المؤسس عثمان بن أرطغرل، ومعاركه ضد مغول الشرق وبيزنطيي الغرب وضعف الدولة وخيانات الأقربين، وجهاده ومحاربوه لزرع الشجرة التي ظللت فروعها الدنيا.",
+      "category": "General",
+      "genres": [
+        "General",
+        "حرب وسياسة",
+        "حركة ومغامرة",
+        "دراما"
+      ],
+      "rating": 8,
+      "vote_count": 317,
+      "age_rating": "TV-14",
+      "year": "2019",
+      "release_date": "2019-11-20",
+      "status": "Ended",
+      "country": "تركيا",
+      "language": "التركية",
+      "director": "Mehmet Bozdağ",
+      "cast": [
+        {
+          "name": "بوراك أوزجيفيت",
+          "character": "Osman Bey",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pF8EHDM2ETDT2X2Pwg3Ak0ZCPAY.jpg"
+        },
+        {
+          "name": "Özge Törer",
+          "character": "Bala Hatun",
+          "profile_image": "https://image.tmdb.org/t/p/w185/kHe6iJCGEgDuGl0Hdii9lzSIjOf.jpg"
+        },
+        {
+          "name": "Emre Bey",
+          "character": "Orhan Bey",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pjTsTuQ4jVRXoisd9jHDgqrbttt.jpg"
+        },
+        {
+          "name": "Ecem Sena Bayır",
+          "character": "Holofira",
+          "profile_image": "https://image.tmdb.org/t/p/w185/o7tch26buZIgf3EKqOVi0UrxGMs.jpg"
+        },
+        {
+          "name": "Ömer Faruk Aran",
+          "character": "Alaeddin Bey",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mjBanFwjGQHYxBAVzxb66zG08rI.jpg"
+        },
+        {
+          "name": "Belgin Şimşek",
+          "character": "Gonca Hatun",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vLLHlmi5qyH1sgYwf3cUZwSRiWU.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T23:00:00+00:00",
+      "stop": "2026-11-19T00:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2lHyJRdXaJkBg5TM59Je5LhJvwM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/puLaqdcTRwFxwv9S3PO6jA3ep7J.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2lHyJRdXaJkBg5TM59Je5LhJvwM.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 112399,
+      "title": "نجيب زاهي زركش",
+      "clean_title": "نجيب زاهي زركش",
+      "original_title": "نجيب زاهي زركش",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "يتناول العمل في إطار درامي قصة الثري نجيب زاهي زركش، والذي يكتشف سرا خطيرا بوجود ابن له، وبمساعدة خادمه ينجح في الوصول لثلاث شباب محتمل أن يكون ابنه ضمنهم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "كوميديا",
+        "دراما"
+      ],
+      "rating": 7.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-04-12",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": null,
+      "cast": [
+        {
+          "name": "يحيى الفخراني",
+          "character": "Naguib Zahi Zarkash",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lzQT2AX0yDTe63eYMjFuTIUGf4X.jpg"
+        },
+        {
+          "name": "هالة فاخر",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
+        },
+        {
+          "name": "إسلام إبراهيم",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/oAfUBoMoJ6SkuyrLQWiHkpUgwx1.jpg"
+        },
+        {
+          "name": "كريم عفيفي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/afQYakbQXoRAh1vP6WuhqxsiD9V.jpg"
+        },
+        {
+          "name": "Ramez Amir",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/6DiZCvzMTX5mwdrFbEV9zCmn3PM.jpg"
+        },
+        {
+          "name": "رنا رئيس",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/cCktHiWt2Xr1G57fiyLG1mRvqhZ.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=4cbAVNxq-JE",
+      "start": "2026-11-19T18:00:00+00:00",
+      "stop": "2026-11-19T19:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/m7oxiom5rUNbACmPFKcxGeve9jT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iiX2fuYR10cvdikRuRtktq9yQ1w.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/m7oxiom5rUNbACmPFKcxGeve9jT.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 75665,
+      "title": "الجوارح",
+      "clean_title": "الجوارح",
+      "original_title": "الجوارح",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 27,
+      "description": "يحكى عن قصة سيدة تعمل كمدرسة فى مدرسة ابتدائية فى إحدى المناطق الريفية، طلقت مرتين بسبب عدم قدرتها على الإنجاب، فقررت أن تنصرف عن الزواج، وتتفرغ للتصدى لمشاكل طلاب وطالبات المدرسة، حتى يحدث ما يغير نظرتها للحياة، حيث تصطحب التلاميذ فى رحلة إلى حديقة الحيوان لكنها تفقد طفلة أثناء انشغال المشرفين وتبدأ رحلة البحث عن الفتاة المفقودة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حركة ومغامرة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": "هاني السعدي",
+      "cast": [
+        {
+          "name": "أسعد فضة",
+          "character": "ابن الوهاج",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mMLzuU9aF7r2F57Hr7fmeXqy8k8.jpg"
+        },
+        {
+          "name": "أيمن زيدان",
+          "character": "أسامة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dLtJROwks5s50yOJ06jDzp8h59.jpg"
+        },
+        {
+          "name": "أمل عرفة",
+          "character": "العنقاء",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cfd1sNg49Q663CQTB5XvhfgUGka.jpg"
+        },
+        {
+          "name": "صباح عبيد",
+          "character": "الباشق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gi1uk8HgWd4s3Dohsz5Zu2zSKnV.jpg"
+        },
+        {
+          "name": "عارف الطويل",
+          "character": "عقاب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hJjrlBa9FiaDkgB2IZWK10H8CgJ.jpg"
+        },
+        {
+          "name": "Laila Jabr",
+          "character": "ريم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/niHJJSUDZF8wlWeFH8bo6YlM1HO.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-19T19:00:00+00:00",
+      "stop": "2026-11-19T20:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3f7VFiE53U4TAzjFoPbG1SEWT7c.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "في بيتنا روبوت ج2",
+      "clean_title": "في بيتنا روبوت ج2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في إطار خيالي كوميدي، يستكمل الجزء الثاني قصة مهندس البرمجيات يوسف الذي طور نموذجين من البشر الآليين، وهما زومبا ولذيذ، ليقوما بمساعدته في شركته ومساعدة زوجته سارة في الأعمال المنزلية.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T20:00:00+00:00",
+      "stop": "2026-11-19T21:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 102376,
+      "title": "بـ١٠٠ وش",
+      "clean_title": "بـ١٠٠ وش",
+      "original_title": "بـ100 وش",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "سكر - نصابة محترفة - يتم النصب عليها من قِبل عمر - نصاب محترف ايضًا - فتدخل في صراعات معه لإعادة أموالها، ثم تقرر الاتحاد معه للقيام بعمليات نصب اكبر.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": 8.2,
+      "vote_count": 22,
+      "age_rating": "TV-PG",
+      "year": "2020",
+      "release_date": "2020-04-24",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "Ahmed Wael, Amr El Daly",
+      "cast": [
+        {
+          "name": "نيللى كريم",
+          "character": "Sukkar",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6URqCTsDW1bPTCRGfyIKUtavDJY.jpg"
+        },
+        {
+          "name": "آسر ياسين",
+          "character": "عمر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/olUkZr3b6wcKCiU7Kmdoxd9CZiw.jpg"
+        },
+        {
+          "name": "إسلام إبراهيم",
+          "character": "حماده",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oAfUBoMoJ6SkuyrLQWiHkpUgwx1.jpg"
+        },
+        {
+          "name": "زينب غريب",
+          "character": "Radwa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fWEld5e5bcMys9xSkgz11NUvc5I.jpg"
+        },
+        {
+          "name": "دنيا ماهر",
+          "character": "Naglaa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/y4lVAb0EBl5M1sCIeATftZzbi2G.jpg"
+        },
+        {
+          "name": "شريف دسوقي",
+          "character": "Seba3y",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dT4V6FdpobWJQMFz575t4On5hXl.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-19T21:00:00+00:00",
+      "stop": "2026-11-19T22:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/6x7ZgFqNuNK6FZXhXxsuJtVuPzG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/k1dFqBtgoDAU0FgJ48G3X7WrwJd.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/6x7ZgFqNuNK6FZXhXxsuJtVuPzG.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 75665,
+      "title": "الجوارح",
+      "clean_title": "الجوارح",
+      "original_title": "الجوارح",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 27,
+      "description": "يحكى عن قصة سيدة تعمل كمدرسة فى مدرسة ابتدائية فى إحدى المناطق الريفية، طلقت مرتين بسبب عدم قدرتها على الإنجاب، فقررت أن تنصرف عن الزواج، وتتفرغ للتصدى لمشاكل طلاب وطالبات المدرسة، حتى يحدث ما يغير نظرتها للحياة، حيث تصطحب التلاميذ فى رحلة إلى حديقة الحيوان لكنها تفقد طفلة أثناء انشغال المشرفين وتبدأ رحلة البحث عن الفتاة المفقودة.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما",
+        "حركة ومغامرة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": "Ended",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": "هاني السعدي",
+      "cast": [
+        {
+          "name": "أسعد فضة",
+          "character": "ابن الوهاج",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mMLzuU9aF7r2F57Hr7fmeXqy8k8.jpg"
+        },
+        {
+          "name": "أيمن زيدان",
+          "character": "أسامة",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dLtJROwks5s50yOJ06jDzp8h59.jpg"
+        },
+        {
+          "name": "أمل عرفة",
+          "character": "العنقاء",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cfd1sNg49Q663CQTB5XvhfgUGka.jpg"
+        },
+        {
+          "name": "صباح عبيد",
+          "character": "الباشق",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gi1uk8HgWd4s3Dohsz5Zu2zSKnV.jpg"
+        },
+        {
+          "name": "عارف الطويل",
+          "character": "عقاب",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hJjrlBa9FiaDkgB2IZWK10H8CgJ.jpg"
+        },
+        {
+          "name": "Laila Jabr",
+          "character": "ريم",
+          "profile_image": "https://image.tmdb.org/t/p/w185/niHJJSUDZF8wlWeFH8bo6YlM1HO.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-19T22:00:00+00:00",
+      "stop": "2026-11-19T23:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3f7VFiE53U4TAzjFoPbG1SEWT7c.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/srEXjZagpSTJpHWlliOHlqFKt5r.jpg",
+      "channel_icon": "https://i.imgur.com/OOXylJI.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "دي إم سي دراما",
+          "start": "2026-11-19T19:00:00+00:00"
         }
       ]
     }

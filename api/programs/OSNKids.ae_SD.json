@@ -2,6 +2,7 @@
   "channel_id": "OSNKids.ae@SD",
   "channel_name": "OSNtv Kids",
   "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+  "days_count": 7,
   "programs": [
     {
       "tmdb_id": null,
@@ -40,7 +41,12 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/DRwLAtC.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-19T10:20:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -235,7 +241,12 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/DRwLAtC.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-21T03:55:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -274,7 +285,16 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/DRwLAtC.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-19T03:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-21T05:55:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -313,7 +333,12 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/DRwLAtC.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-19T01:20:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -356,6 +381,10 @@
         {
           "channel": "OSNtv Kids",
           "start": "2026-11-17T09:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-22T04:05:00+00:00"
         }
       ]
     },
@@ -400,6 +429,14 @@
         {
           "channel": "OSNtv Kids",
           "start": "2026-11-17T11:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-20T02:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-22T06:05:00+00:00"
         }
       ]
     },
@@ -444,6 +481,14 @@
         {
           "channel": "OSNtv Kids",
           "start": "2026-11-17T21:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-18T23:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-22T08:20:00+00:00"
         }
       ]
     },
@@ -484,7 +529,16 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/DRwLAtC.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-17T23:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-21T08:00:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -523,7 +577,12 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/DRwLAtC.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-20T08:50:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -712,7 +771,12 @@
       "icon": "https://image.tmdb.org/t/p/w500/jqqiBDyTPLUFIN58XYlB1p9EXl4.jpg",
       "channel_icon": "https://i.imgur.com/DRwLAtC.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-21T18:00:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -755,6 +819,10 @@
         {
           "channel": "OSNtv Kids",
           "start": "2026-11-16T15:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-22T04:05:00+00:00"
         }
       ]
     },
@@ -799,6 +867,14 @@
         {
           "channel": "OSNtv Kids",
           "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-20T02:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-22T06:05:00+00:00"
         }
       ]
     },
@@ -839,7 +915,12 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/DRwLAtC.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-20T00:20:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -878,7 +959,16 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/DRwLAtC.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-18T12:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-21T00:10:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -917,7 +1007,16 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/DRwLAtC.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-18T14:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-21T02:10:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -956,7 +1055,16 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/DRwLAtC.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-18T21:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-19T22:50:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -999,6 +1107,3025 @@
         {
           "channel": "OSNtv Kids",
           "start": "2026-11-16T20:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-18T23:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-22T08:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا شوشانك ريدمشن",
+      "clean_title": "ذا شوشانك ريدمشن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يُدان آندي دوفرين بقتل زوجته، ويُحكم عليه بالسجن مدى الحياة في سجن شاوشانك.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1994",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T23:30:00+00:00",
+      "stop": "2026-11-18T01:50:00+00:00",
+      "duration_minutes": 140,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-21T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 11976,
+      "title": "ليجند",
+      "clean_title": "ليجند",
+      "original_title": "Legend",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتعين على شاب أن ينقذ أميرة جميلة وعالمهما المسحور من سيد الظلام الشرير.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي",
+        "مغامرة",
+        "فانتازيا"
+      ],
+      "rating": 6.3,
+      "vote_count": 1476,
+      "age_rating": "PG",
+      "year": "1985",
+      "release_date": "1985-08-28",
+      "status": "Released",
+      "country": "المملكة المتحدة",
+      "language": "الإنجليزية",
+      "director": "ريدلي سكوت",
+      "cast": [
+        {
+          "name": "توم كروز",
+          "character": "Jack",
+          "profile_image": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+        },
+        {
+          "name": "ميا سارا",
+          "character": "Princess Lili",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gF1hYh0Rw5qCryiwGAWDdmiLufc.jpg"
+        },
+        {
+          "name": "تيم كاري",
+          "character": "Lord of \"Darkness\"",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg"
+        },
+        {
+          "name": "David Bennent",
+          "character": "Honeythorn Gump",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cy4DNG2FIrEGdoiKwhYt1KC6pqz.jpg"
+        },
+        {
+          "name": "Alice Playten",
+          "character": "Blix",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bd5ulqTHxY457wIN2RHeDO6lJnB.jpg"
+        },
+        {
+          "name": "Billy Barty",
+          "character": "Screwball",
+          "profile_image": "https://image.tmdb.org/t/p/w185/b8Q8bD1AaXFDBpAg4pDBkb7Z1Nh.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T01:50:00+00:00",
+      "stop": "2026-11-18T03:00:00+00:00",
+      "duration_minutes": 70,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/6n3PQSYpZRK5YPk2w8JEwED7AZk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4T6bvKgTf8cJiWsmScDkYlBkAV9.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/6n3PQSYpZRK5YPk2w8JEwED7AZk.jpg",
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "سبوتلايت",
+      "clean_title": "سبوتلايت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتناول الفيلم القصة الحقيقية لصحفيي جريدة \"بوسطن غلوب\" الذين كشفوا عن فضيحة تتعلق بالتحرش بالأطفال، وهي الفضيحة التي هزت أركان الكنيسة والعالم بأسره.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2015",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T03:00:00+00:00",
+      "stop": "2026-11-18T05:05:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-20T04:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بريزنرز",
+      "clean_title": "بريزنرز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما تختفي فتاتان صغيرتان، يتولى والد إحداهما زمام الأمور بنفسه.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T05:05:00+00:00",
+      "stop": "2026-11-18T07:30:00+00:00",
+      "duration_minutes": 145,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-20T06:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "توتسي",
+      "clean_title": "توتسي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ممثل عاطل عن العمل يتنكر في زي امرأة ليفوز بدور في مسلسل تلفزيوني.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1982",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T07:30:00+00:00",
+      "stop": "2026-11-18T09:25:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "مستر ديدس",
+      "clean_title": "مستر ديدس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يحاول منتج تلفزيوني الحصول على سبق صحفي حول صاحب مطعم بيتزا في بلدة صغيرة، وذلك بعد أن ورث الرجل مبلغ 40 مليار دولار.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2002",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T09:25:00+00:00",
+      "stop": "2026-11-18T11:00:00+00:00",
+      "duration_minutes": 95,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا كينغ أوف كوميدي",
+      "clean_title": "ذا كينغ أوف كوميدي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يغامر ممثل كوميدي يكافح من أجل النجاح بمستقبله المجهول في خطة مجنونة لابتزاز فدية للوصول إلى التلفزيون عن طريق اختطاف مقدم برنامج حواري شهير.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1983",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T11:00:00+00:00",
+      "stop": "2026-11-18T12:45:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "وات ومن ونت",
+      "clean_title": "وات ومن ونت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يكتسب مدير تنفيذي في مجال الإعلانات بمدينة شيكاغو منظوراً جديداً تماماً، وذلك بعد أن يمنحه حادث عرضي القدرة على قراءة أفكار النساء.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2000",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T12:45:00+00:00",
+      "stop": "2026-11-18T14:45:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-21T00:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "لوف أند أذر دراغز",
+      "clean_title": "لوف أند أذر دراغز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقع جيمي، الوسيم والجذاب، في حب ماغي، تلك الروح الحرة والمشرقة؛ فيكتشف الاثنان -اللذان لم يتصورا يوماً أنهما قد يقعان في الحب- وجود انجذاب قوي للغاية بينهما.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2010",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T14:45:00+00:00",
+      "stop": "2026-11-18T16:30:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-21T02:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا ديد بول",
+      "clean_title": "ذا ديد بول",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعمل \"ديرتي هاري\" كالاهان، من سان فرانسيسكو، على حماية صحفية وآخرين وردت أسماؤهم في قائمة مستهدفة تضم شخصيات شهيرة.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1988",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T16:30:00+00:00",
+      "stop": "2026-11-18T18:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-19T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-22T00:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أوغست: أوسيج كلونتي",
+      "clean_title": "أوغست: أوسيج كلونتي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد اختفاء والدهن، تعود ثلاث شقيقات إلى المنزل الذي نشأن فيه في ولاية أوكلاهوما، وهو منزل يسوده الخلل الأسري.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T18:00:00+00:00",
+      "stop": "2026-11-18T19:55:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-19T14:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-22T02:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ورم باديز",
+      "clean_title": "ورم باديز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تنشأ علاقة بين زومبي وفتاة بشرية، مما يطلق سلسلة من الأحداث التي تُحدث تحولاً في عالمٍ بأكمله كان يفتقر إلى الحياة.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T19:55:00+00:00",
+      "stop": "2026-11-18T21:35:00+00:00",
+      "duration_minutes": 100,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-19T21:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-20T22:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فرايداي ذا ثيرينث",
+      "clean_title": "فرايداي ذا ثيرينث",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يدور الفيلم حول مجموعة من المراهقين الذين يلقون حتفهم على يد قاتل مجهول في مخيم صيفي ذي ماضٍ مظلم ومميت.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1980",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T21:35:00+00:00",
+      "stop": "2026-11-18T23:05:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-17T19:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-19T22:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا بيليكان بريف",
+      "clean_title": "ذا بيليكان بريف",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تكشف طالبة في كلية الحقوق عن مؤامرة تعرضها هي وآخرين للخطر.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1993",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T23:05:00+00:00",
+      "stop": "2026-11-19T01:20:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-16T20:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-17T21:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-22T08:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سادن إمباكت",
+      "clean_title": "سادن إمباكت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "قاتل متسلسل وحشي طليق في سان فرانسيسكو.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1983",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T01:20:00+00:00",
+      "stop": "2026-11-19T03:45:00+00:00",
+      "duration_minutes": 145,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-16T14:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سيفن",
+      "clean_title": "سيفن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتعقب محققان قاتلاً متسلسلاً، تجسد جرائمه الوحشية نسخاً مشوهة من الخطايا السبع المميتة.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1995",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T03:45:00+00:00",
+      "stop": "2026-11-19T05:50:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-21T05:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مافريك",
+      "clean_title": "مافريك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتعاون مافريك مع لاعبة قمار للمشاركة في لعبة بوكر يفوز فيها طرف واحد بكل شيء.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1994",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T05:50:00+00:00",
+      "stop": "2026-11-19T07:55:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "جاكي براون",
+      "clean_title": "جاكي براون",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "جاكي براون مضيفة طيران تقوم بتهريب مبالغ نقدية إلى داخل الولايات المتحدة لصالح أورديل روبي، وهو تاجر أسلحة خطير. وعندما يتم القبض عليها، تجد نفسها مضطرة لابتكار خطة ذكية لتنجو بحياتها.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1997",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T07:55:00+00:00",
+      "stop": "2026-11-19T10:20:00+00:00",
+      "duration_minutes": 145,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا هيتفول إيت",
+      "clean_title": "ذا هيتفول إيت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في ولاية وايومنغ، وفي أعقاب الحرب الأهلية، يحاول صائدو الجوائز العثور على مأوى خلال عاصفة ثلجية، لكنهم يجدون أنفسهم متورطين في مؤامرة قائمة على الخيانة والخداع.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2015",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T10:20:00+00:00",
+      "stop": "2026-11-19T13:00:00+00:00",
+      "duration_minutes": 160,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-16T00:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا ديد بول",
+      "clean_title": "ذا ديد بول",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعمل \"ديرتي هاري\" كالاهان، من سان فرانسيسكو، على حماية صحفية وآخرين وردت أسماؤهم في قائمة مستهدفة تضم شخصيات شهيرة.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1988",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T13:00:00+00:00",
+      "stop": "2026-11-19T14:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-18T16:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-22T00:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أوغست: أوسيج كلونتي",
+      "clean_title": "أوغست: أوسيج كلونتي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد اختفاء والدهن، تعود ثلاث شقيقات إلى المنزل الذي نشأن فيه في ولاية أوكلاهوما، وهو منزل يسوده الخلل الأسري.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T14:30:00+00:00",
+      "stop": "2026-11-19T16:25:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-22T02:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دادي داي كير",
+      "clean_title": "دادي داي كير",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يلعب إيدي ميرفي وجيف جارلين دور البطولة في هذا الفيلم الكوميدي، حيث يؤديان شخصيتي أبّين عاطلين عن العمل يقرران افتتاح دار رعاية نهارية للأطفال في منزلهما، بأسلوب غير تقليدي.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2003",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T16:25:00+00:00",
+      "stop": "2026-11-19T18:00:00+00:00",
+      "duration_minutes": 95,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-20T10:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إيفولوشن",
+      "clean_title": "إيفولوشن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتحطم نيزك على الأرض حاملاً كائنات فضائية تتطور بسرعة فائقة.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2001",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T18:00:00+00:00",
+      "stop": "2026-11-19T19:40:00+00:00",
+      "duration_minutes": 100,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-20T12:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فيري باد ثينغز",
+      "clean_title": "فيري باد ثينغز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينقلب ضيوف حفل زفاف بعضهم على بعض بعد مقتل فتاة ليل.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1998",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T19:40:00+00:00",
+      "stop": "2026-11-19T21:15:00+00:00",
+      "duration_minutes": 95,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-20T21:20:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-21T23:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ورم باديز",
+      "clean_title": "ورم باديز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تنشأ علاقة بين زومبي وفتاة بشرية، مما يطلق سلسلة من الأحداث التي تُحدث تحولاً في عالمٍ بأكمله كان يفتقر إلى الحياة.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T21:15:00+00:00",
+      "stop": "2026-11-19T22:50:00+00:00",
+      "duration_minutes": 95,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-18T19:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-20T22:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فرايداي ذا ثيرينث",
+      "clean_title": "فرايداي ذا ثيرينث",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يدور الفيلم حول مجموعة من المراهقين الذين يلقون حتفهم على يد قاتل مجهول في مخيم صيفي ذي ماضٍ مظلم ومميت.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1980",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T22:50:00+00:00",
+      "stop": "2026-11-20T00:20:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-17T19:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-18T21:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "تين كوب",
+      "clean_title": "تين كوب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "روي \"تين كاب\" ماكافوي لاعب غولف محترف سابق يسير في طريق تدمير الذات، إلى أن تقتحم حياته طبيبة نفسية جذابة، فتقلب موازين أموره بالكامل.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1996",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T00:20:00+00:00",
+      "stop": "2026-11-20T02:00:00+00:00",
+      "duration_minutes": 100,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-17T13:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إل إي كونفيدنشال",
+      "clean_title": "إل إي كونفيدنشال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "وسط أجواء تعج بالفساد وجرائم القتل وبريق نجوم السينما، يكافح ثلاثة من ضباط الشرطة للكشف عن حقيقة مذبحة وحشية.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1997",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T02:00:00+00:00",
+      "stop": "2026-11-20T04:15:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-17T11:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-22T06:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سبوتلايت",
+      "clean_title": "سبوتلايت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتناول الفيلم القصة الحقيقية لصحفيي جريدة \"بوسطن غلوب\" الذين كشفوا عن فضيحة تتعلق بالتحرش بالأطفال، وهي الفضيحة التي هزت أركان الكنيسة والعالم بأسره.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2015",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T04:15:00+00:00",
+      "stop": "2026-11-20T06:20:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-15T23:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-18T03:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بريزنرز",
+      "clean_title": "بريزنرز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما تختفي فتاتان صغيرتان، يتولى والد إحداهما زمام الأمور بنفسه.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T06:20:00+00:00",
+      "stop": "2026-11-20T08:50:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-18T05:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا برستيج",
+      "clean_title": "ذا برستيج",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يدفع السعي نحو الكمال بساحرين اثنين إلى حافة فقدان العقل والتخلي عن الأخلاق.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2006",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T08:50:00+00:00",
+      "stop": "2026-11-20T10:55:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-17T00:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دادي داي كير",
+      "clean_title": "دادي داي كير",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يلعب إيدي ميرفي وجيف جارلين دور البطولة في هذا الفيلم الكوميدي، حيث يؤديان شخصيتي أبّين عاطلين عن العمل يقرران افتتاح دار رعاية نهارية للأطفال في منزلهما، بأسلوب غير تقليدي.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2003",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T10:55:00+00:00",
+      "stop": "2026-11-20T12:25:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-19T16:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إيفولوشن",
+      "clean_title": "إيفولوشن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتحطم نيزك على الأرض حاملاً كائنات فضائية تتطور بسرعة فائقة.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2001",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T12:25:00+00:00",
+      "stop": "2026-11-20T14:05:00+00:00",
+      "duration_minutes": 100,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-19T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا سوسايد كينغز",
+      "clean_title": "ذا سوسايد كينغز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تقوم مجموعة من المراهقين الأثرياء باحتجاز زعيم سابق لعصابة إجرامية، آملين في ابتزازه للحصول على المال. لكن سرعان ما يجدون أنفسهم في موقف يفوق قدراتهم، إذ يبدأ رجل العصابات الداهية في التغلب عليهم بذكائه.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1998",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T14:05:00+00:00",
+      "stop": "2026-11-20T15:50:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أساسينز",
+      "clean_title": "أساسينز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يكتشف روبرت راث، وهو قاتل مأجور محترف بدأ يشعر بخيبة أمل تجاه عمله، أنه هو نفسه أصبح هدفاً لعملية اغتيال.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1995",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T15:50:00+00:00",
+      "stop": "2026-11-20T18:00:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-21T10:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كيل بيل: فول 1",
+      "clean_title": "كيل بيل: فول 1",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كانت \"العروس\" في وقتٍ ما جزءاً من مجموعة تضم قاتلات من الطراز العالمي، إلى أن انقلب عليها زعيم المجموعة بيل، وبقية القاتلات.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2003",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T18:00:00+00:00",
+      "stop": "2026-11-20T19:45:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-21T12:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ماد ماكس",
+      "clean_title": "ماد ماكس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسعى شرطي للانتقام بعد مقتل عائلته على يد عصابة وحشية من راكبي الدراجات النارية في أستراليا في مرحلة ما بعد نهاية العالم.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1979",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T19:45:00+00:00",
+      "stop": "2026-11-20T21:20:00+00:00",
+      "duration_minutes": 95,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-21T21:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-22T23:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فيري باد ثينغز",
+      "clean_title": "فيري باد ثينغز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينقلب ضيوف حفل زفاف بعضهم على بعض بعد مقتل فتاة ليل.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1998",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T21:20:00+00:00",
+      "stop": "2026-11-20T22:50:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-19T19:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-21T23:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ورم باديز",
+      "clean_title": "ورم باديز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تنشأ علاقة بين زومبي وفتاة بشرية، مما يطلق سلسلة من الأحداث التي تُحدث تحولاً في عالمٍ بأكمله كان يفتقر إلى الحياة.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T22:50:00+00:00",
+      "stop": "2026-11-21T00:10:00+00:00",
+      "duration_minutes": 80,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-18T19:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-19T21:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "وات ومن ونت",
+      "clean_title": "وات ومن ونت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يكتسب مدير تنفيذي في مجال الإعلانات بمدينة شيكاغو منظوراً جديداً تماماً، وذلك بعد أن يمنحه حادث عرضي القدرة على قراءة أفكار النساء.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2000",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T00:10:00+00:00",
+      "stop": "2026-11-21T02:10:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-18T12:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "لوف أند أذر دراغز",
+      "clean_title": "لوف أند أذر دراغز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقع جيمي، الوسيم والجذاب، في حب ماغي، تلك الروح الحرة والمشرقة؛ فيكتشف الاثنان -اللذان لم يتصورا يوماً أنهما قد يقعان في الحب- وجود انجذاب قوي للغاية بينهما.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2010",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T02:10:00+00:00",
+      "stop": "2026-11-21T03:55:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-18T14:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فولن",
+      "clean_title": "فولن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يطارد محقق وفريقه الروح الشريرة لقاتل متسلسل.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1998",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T03:55:00+00:00",
+      "stop": "2026-11-21T05:55:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-16T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سيفن",
+      "clean_title": "سيفن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتعقب محققان قاتلاً متسلسلاً، تجسد جرائمه الوحشية نسخاً مشوهة من الخطايا السبع المميتة.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1995",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T05:55:00+00:00",
+      "stop": "2026-11-21T08:00:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-19T03:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا شوشانك ريدمشن",
+      "clean_title": "ذا شوشانك ريدمشن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يُدان آندي دوفرين بقتل زوجته، ويُحكم عليه بالسجن مدى الحياة في سجن شاوشانك.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1994",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T08:00:00+00:00",
+      "stop": "2026-11-21T10:15:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-16T22:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-17T23:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أساسينز",
+      "clean_title": "أساسينز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يكتشف روبرت راث، وهو قاتل مأجور محترف بدأ يشعر بخيبة أمل تجاه عمله، أنه هو نفسه أصبح هدفاً لعملية اغتيال.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1995",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T10:15:00+00:00",
+      "stop": "2026-11-21T12:25:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-20T15:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كيل بيل: فول 1",
+      "clean_title": "كيل بيل: فول 1",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "كانت \"العروس\" في وقتٍ ما جزءاً من مجموعة تضم قاتلات من الطراز العالمي، إلى أن انقلب عليها زعيم المجموعة بيل، وبقية القاتلات.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2003",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T12:25:00+00:00",
+      "stop": "2026-11-21T14:15:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-20T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ليثل وبن 3",
+      "clean_title": "ليثل وبن 3",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "أكثر ثنائي إثارةً للجدل في شرطة لوس أنجلوس، يطاردان شرطياً مارقاً متورطاً في تهريب الأسلحة والمخدرات، واستخدام رصاصات فتاكة قادرة على اختراق الدروع.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1992",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T14:15:00+00:00",
+      "stop": "2026-11-21T16:10:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا ديفلز أون",
+      "clean_title": "ذا ديفلز أون",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستضيف ضابط الشرطة في نيويورك، توم أوميرا، في منزله شاباً أيرلندياً مهاجراً يبدو ودوداً ولكنه يخفي ماضياً غامضاً، ويجعله فرداً من أفراد عائلته.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1997",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T16:10:00+00:00",
+      "stop": "2026-11-21T18:00:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-22T10:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا سوشال نيتورك",
+      "clean_title": "ذا سوشال نيتورك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتبادر إلى ذهن مارك زوكربيرغ، الطالب الذكي في السنة الجامعية الثانية بجامعة هارفارد، فكرة إنشاء موقع للتواصل الاجتماعي سيتحول لاحقاً إلى ظاهرة تُغيّر وجه العالم...",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2010",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T18:00:00+00:00",
+      "stop": "2026-11-21T19:55:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-22T12:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا ريسلر",
+      "clean_title": "ذا ريسلر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يجب أن يتقاعد مصارع محترف قديم، لكنه يجد أن سعيه لحياة جديدة خارج الحلبة سيكون صراعًا محبطًا.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2008",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T19:55:00+00:00",
+      "stop": "2026-11-21T21:40:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-22T22:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ماد ماكس",
+      "clean_title": "ماد ماكس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسعى شرطي للانتقام بعد مقتل عائلته على يد عصابة وحشية من راكبي الدراجات النارية في أستراليا في مرحلة ما بعد نهاية العالم.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1979",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T21:40:00+00:00",
+      "stop": "2026-11-21T23:10:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-20T19:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-22T23:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فيري باد ثينغز",
+      "clean_title": "فيري باد ثينغز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينقلب ضيوف حفل زفاف بعضهم على بعض بعد مقتل فتاة ليل.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1998",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T23:10:00+00:00",
+      "stop": "2026-11-22T00:35:00+00:00",
+      "duration_minutes": 85,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-19T19:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-20T21:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا ديد بول",
+      "clean_title": "ذا ديد بول",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعمل \"ديرتي هاري\" كالاهان، من سان فرانسيسكو، على حماية صحفية وآخرين وردت أسماؤهم في قائمة مستهدفة تضم شخصيات شهيرة.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1988",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T00:35:00+00:00",
+      "stop": "2026-11-22T02:05:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-18T16:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-19T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أوغست: أوسيج كلونتي",
+      "clean_title": "أوغست: أوسيج كلونتي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد اختفاء والدهن، تعود ثلاث شقيقات إلى المنزل الذي نشأن فيه في ولاية أوكلاهوما، وهو منزل يسوده الخلل الأسري.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T02:05:00+00:00",
+      "stop": "2026-11-22T04:05:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-19T14:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بوشينغ تن",
+      "clean_title": "بوشينغ تن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينشأ خلاف بين مراقبين جويين؛ أحدهما مفعم بالثقة ومصمم على تحقيق أهدافه، بينما يتسم الآخر بالرزانة والهدوء، وهو ما يؤثر حتمًا على حياتهما.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1999",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T04:05:00+00:00",
+      "stop": "2026-11-22T06:05:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-16T15:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-17T09:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إل إي كونفيدنشال",
+      "clean_title": "إل إي كونفيدنشال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "وسط أجواء تعج بالفساد وجرائم القتل وبريق نجوم السينما، يكافح ثلاثة من ضباط الشرطة للكشف عن حقيقة مذبحة وحشية.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1997",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T06:05:00+00:00",
+      "stop": "2026-11-22T08:20:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-17T11:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-20T02:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا بيليكان بريف",
+      "clean_title": "ذا بيليكان بريف",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تكشف طالبة في كلية الحقوق عن مؤامرة تعرضها هي وآخرين للخطر.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1993",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T08:20:00+00:00",
+      "stop": "2026-11-22T10:35:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-16T20:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-17T21:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-18T23:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا ديفلز أون",
+      "clean_title": "ذا ديفلز أون",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستضيف ضابط الشرطة في نيويورك، توم أوميرا، في منزله شاباً أيرلندياً مهاجراً يبدو ودوداً ولكنه يخفي ماضياً غامضاً، ويجعله فرداً من أفراد عائلته.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1997",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T10:35:00+00:00",
+      "stop": "2026-11-22T12:25:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-21T16:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا سوشال نيتورك",
+      "clean_title": "ذا سوشال نيتورك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتبادر إلى ذهن مارك زوكربيرغ، الطالب الذكي في السنة الجامعية الثانية بجامعة هارفارد، فكرة إنشاء موقع للتواصل الاجتماعي سيتحول لاحقاً إلى ظاهرة تُغيّر وجه العالم...",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2010",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T12:25:00+00:00",
+      "stop": "2026-11-22T14:20:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-21T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "مارلي & مي",
+      "clean_title": "مارلي & مي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يؤدي أوين ويلسون وجينيفر أنيستون دور البطولة في هذا الفيلم العائلي المؤثر، الذي يدور حول كلب ظريف يمتلك نزعة تدميرية تثير الضحك.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2008",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T14:20:00+00:00",
+      "stop": "2026-11-22T16:15:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ستيل مانغولياز",
+      "clean_title": "ستيل مانغولياز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدور أحداث القصة في صالون تجميل ببلدة صغيرة بالقرب من نيو أورلينز، وتغطي فترة تمتد لعدة سنوات من حياة صاحبة الصالون وزبائنها.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1989",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T16:15:00+00:00",
+      "stop": "2026-11-22T18:00:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 78,
+      "title": "بليد رانر",
+      "clean_title": "بليد رانر",
+      "original_title": "Blade Runner",
+      "tagline": "لقد صنع الرجل مباراته ... الآن هذه مشكلته.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في عام 2019، يُستدعى المحقق السابق ريك ديكارد من تقاعده لتعقّب مجموعة من الآليين ذوي الهيئة البشرية والقضاء عليهم.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي",
+        "خيال علمي",
+        "دراما",
+        "إثارة"
+      ],
+      "rating": 7.9,
+      "vote_count": 15644,
+      "age_rating": "R",
+      "year": "1982",
+      "release_date": "1982-06-25",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "ريدلي سكوت",
+      "cast": [
+        {
+          "name": "هاريسون فورد",
+          "character": "Deckard",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
+        },
+        {
+          "name": "راتغر هاور",
+          "character": "Batty",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xyag0LbjocTwx2Ht7B3RofvCNMT.jpg"
+        },
+        {
+          "name": "Sean Young",
+          "character": "Rachael",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yfJADYt6xYPpg1g7Z7TTW0bcL2s.jpg"
+        },
+        {
+          "name": "إدوارد جيمس أولموس",
+          "character": "Gaff",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yleTij2PUEgaMLw8xYbLAt7UqIo.jpg"
+        },
+        {
+          "name": "مايكل إيمت ولش",
+          "character": "Bryant",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fVWvBxvwyk4aTA9vKZOV9qHRNNk.jpg"
+        },
+        {
+          "name": "داريل هانا",
+          "character": "Pris",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5FllFmoiaru7tjXJ6Orc11OpQcw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-22T18:00:00+00:00",
+      "stop": "2026-11-22T19:55:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/br1qQTecBWGZHajVU7BFNEYeH9Z.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2spEHYDcyE9r9mS7AFEscfKVDzO.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/br1qQTecBWGZHajVU7BFNEYeH9Z.jpg",
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "كونسبرسي ثيري",
+      "clean_title": "كونسبرسي ثيري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينجح أحد أصحاب نظريات المؤامرة المهووسين في إصابة الحقيقة بإحدى نظرياته الكثيرة، لكنه يعجز عن تحديد أيّها هي الصحيحة، فيجرّ محامياً إلى شبكته المليئة بالهواجس والارتياب.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1997",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T19:55:00+00:00",
+      "stop": "2026-11-22T22:05:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا ريسلر",
+      "clean_title": "ذا ريسلر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يجب أن يتقاعد مصارع محترف قديم، لكنه يجد أن سعيه لحياة جديدة خارج الحلبة سيكون صراعًا محبطًا.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2008",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T22:05:00+00:00",
+      "stop": "2026-11-22T23:50:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-21T19:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ماد ماكس",
+      "clean_title": "ماد ماكس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسعى شرطي للانتقام بعد مقتل عائلته على يد عصابة وحشية من راكبي الدراجات النارية في أستراليا في مرحلة ما بعد نهاية العالم.",
+      "category": "كلاسيكي",
+      "genres": [
+        "كلاسيكي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1979",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T23:50:00+00:00",
+      "stop": "2026-11-23T01:20:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/DRwLAtC.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-20T19:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-21T21:40:00+00:00"
         }
       ]
     }

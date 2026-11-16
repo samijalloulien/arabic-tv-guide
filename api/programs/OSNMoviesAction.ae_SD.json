@@ -2,6 +2,7 @@
   "channel_id": "OSNMoviesAction.ae@SD",
   "channel_name": "OSNtv Movies Action",
   "channel_icon": "https://i.imgur.com/uOzyKup.png",
+  "days_count": 7,
   "programs": [
     {
       "tmdb_id": null,
@@ -156,6 +157,18 @@
         {
           "channel": "OSNtv Movies Action",
           "start": "2026-11-17T06:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T22:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-21T10:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-22T06:05:00+00:00"
         }
       ]
     },
@@ -196,7 +209,16 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/uOzyKup.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T14:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T06:30:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -239,6 +261,18 @@
         {
           "channel": "OSNtv Movies Action",
           "start": "2026-11-17T02:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T02:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T16:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T08:20:00+00:00"
         }
       ]
     },
@@ -291,6 +325,10 @@
         {
           "channel": "MBC MAX",
           "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T00:35:00+00:00"
         }
       ]
     },
@@ -413,6 +451,14 @@
         {
           "channel": "OSNtv Movies Action",
           "start": "2026-11-17T11:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T01:10:00+00:00"
         }
       ]
     },
@@ -457,6 +503,14 @@
         {
           "channel": "OSNtv Movies Action",
           "start": "2026-11-17T13:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T06:20:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T03:05:00+00:00"
         }
       ]
     },
@@ -501,6 +555,14 @@
         {
           "channel": "OSNtv Movies Action",
           "start": "2026-11-17T14:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T08:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T04:50:00+00:00"
         }
       ]
     },
@@ -541,7 +603,12 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/uOzyKup.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-22T21:20:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -584,6 +651,14 @@
         {
           "channel": "OSNtv Movies Action",
           "start": "2026-11-17T16:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T09:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T06:35:00+00:00"
         }
       ]
     },
@@ -624,7 +699,12 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/uOzyKup.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T22:00:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -745,6 +825,18 @@
         {
           "channel": "OSNtv Movies Action",
           "start": "2026-11-16T07:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T02:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T16:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T08:20:00+00:00"
         }
       ]
     },
@@ -797,6 +889,10 @@
         {
           "channel": "MBC MAX",
           "start": "2026-11-17T06:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T00:35:00+00:00"
         }
       ]
     },
@@ -875,6 +971,18 @@
         {
           "channel": "OSNtv Movies Action",
           "start": "2026-11-16T02:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T22:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-21T10:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-22T06:05:00+00:00"
         }
       ]
     },
@@ -997,6 +1105,14 @@
         {
           "channel": "OSNtv Movies Action",
           "start": "2026-11-16T12:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T04:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T01:10:00+00:00"
         }
       ]
     },
@@ -1041,6 +1157,14 @@
         {
           "channel": "OSNtv Movies Action",
           "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T06:20:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T03:05:00+00:00"
         }
       ]
     },
@@ -1085,6 +1209,14 @@
         {
           "channel": "OSNtv Movies Action",
           "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T08:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T04:50:00+00:00"
         }
       ]
     },
@@ -1129,6 +1261,14 @@
         {
           "channel": "OSNtv Movies Action",
           "start": "2026-11-16T19:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T09:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T06:35:00+00:00"
         }
       ]
     },
@@ -1169,7 +1309,16 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/uOzyKup.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T12:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T09:40:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -1286,7 +1435,3392 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/uOzyKup.png",
       "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-22T22:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إيدج أوف تومورو",
+      "clean_title": "إيدج أوف تومورو",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يجد جندي نفسه عالقاً داخل حلقة ويقاتل نفس المعركة الغريبة مراراً وتكراراً ليخسر في النهاية ويموت",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2014",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T00:35:00+00:00",
+      "stop": "2026-11-18T02:30:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T09:05:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T04:35:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-17T06:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كونغ: جزيرة الجمجمة - كونغ: سكال آيلاند",
+      "clean_title": "كونغ: جزيرة الجمجمة - كونغ: سكال آيلاند",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "استكشف الموطن الغامض والخطير لملك القردة، من خلال فريق من المستكشفين الذين ينطلقون في رحلة خطرة إلى عمق الجزيرة البدائية والغادرة",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T02:30:00+00:00",
+      "stop": "2026-11-18T04:25:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T07:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T02:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T16:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T08:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 121856,
+      "title": "أساسينز كريد",
+      "clean_title": "أساسينز كريد",
+      "original_title": "Assassin's Creed",
+      "tagline": "مصيرك في دمك.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتم إجبار مجرم على عيش ذكريات أسلافه كقاتل مأجور خلال القرن الخامس عشر في اسبانيا وذلك ما يمنحه المهارات والخبرة اللازمة للتصدي لمؤامرة شريرة في عصرنا الحالي.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "حركة",
+        "مغامرة",
+        "خيال علمي"
+      ],
+      "rating": 5.4,
+      "vote_count": 8331,
+      "age_rating": "PG-13",
+      "year": "2016",
+      "release_date": "2016-12-21",
+      "status": "Released",
+      "country": "فرنسا",
+      "language": "الإنجليزية",
+      "director": "Justin Kurzel",
+      "cast": [
+        {
+          "name": "مايكل فاسبندر",
+          "character": "Callum Lynch / Aguilar de Nerha",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg"
+        },
+        {
+          "name": "ماريون كوتيار",
+          "character": "Dr. Sophia Rikkin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/biitzOF0GffIqFYLyOPkoiaOngQ.jpg"
+        },
+        {
+          "name": "جيرمي أيرونز",
+          "character": "Alan Rikkin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+        },
+        {
+          "name": "برندان غليسون",
+          "character": "Joseph Lynch",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+        },
+        {
+          "name": "شارلوت رامبلينغ",
+          "character": "Ellen Kaye",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7fhg5FCcl0VfYERP5D0unpybqgx.jpg"
+        },
+        {
+          "name": "مايكل كينيث ويليامز",
+          "character": "Moussa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mafEXtGlT1qYjGmZtbjo7Ep5qK3.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=3xaxXfFnA60",
+      "start": "2026-11-18T04:25:00+00:00",
+      "stop": "2026-11-18T06:20:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/dtXefOOcfZTYYmuJpSFzJ2flNU3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/e29oMyfzzlWbhRlCBrzmZhlsw2m.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/dtXefOOcfZTYYmuJpSFzJ2flNU3.jpg",
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T12:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T11:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T01:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "داي أوف ركوينغ",
+      "clean_title": "داي أوف ركوينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يجد الشريف جون دورسي نفسه يمسك زوجة أحد الهاربين كرهينة عن غير قصد. سرعان ما يدرك إميلي وجون أنهما بحاجة لبعضهما للبقاء على قيد الحياة",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T06:20:00+00:00",
+      "stop": "2026-11-18T08:05:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T13:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T03:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ديردفيل",
+      "clean_title": "ديردفيل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستخدم رجل أصيب بالعمى في طفولته جراء حادث أليم حواسه المتبقية التي تعززت بشكل خارق لمحاربة الجريمة.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2003",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T08:05:00+00:00",
+      "stop": "2026-11-18T09:50:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T14:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T04:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فاينال ديستينيشن 2",
+      "clean_title": "فاينال ديستينيشن 2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما تختار الانعزال بإرادتها في مأمن داخل مستشفى نفسي، تعيش الناجية الوحيدة من الجزء الأول في رعب دائم من فكرة أن الموت قادم إليها.",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2003",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T09:50:00+00:00",
+      "stop": "2026-11-18T11:20:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T19:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T16:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T06:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "آيج أوف هيروز",
+      "clean_title": "آيج أوف هيروز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدور الأحداث حول قصة تشكيل وحدة كوماندو 30 بقيادة إيان فليمنغ، التي تمهد الطريق لنشوء قوات النخبة البريطانية.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T11:20:00+00:00",
+      "stop": "2026-11-18T12:55:00+00:00",
+      "duration_minutes": 95,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T08:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فاينال ديستينيشن 3",
+      "clean_title": "فاينال ديستينيشن 3",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتحد الطالبة في المدرسة الثانوية ويندي كريستنسن مع زميلها كيفن فيشر في سباق مع الزمن لمنع الموت من زيارة الناجين من حادثة مدينة الملاهي مرة أخرى",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2006",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T12:55:00+00:00",
+      "stop": "2026-11-18T14:25:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T18:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T09:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أنابيل: كرييشن",
+      "clean_title": "أنابيل: كرييشن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستقبلان صانع دمى وزوجته راهبة برفقة فتيات صغيرات من ملجأ لرعاية الأيتام في منزلهما، ولكنهما سرعان ما يصبحان هدف دمية مسكونة صاغها صانع الدمى بيديه... إنها أنابيل.",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T14:25:00+00:00",
+      "stop": "2026-11-18T16:15:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T11:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T02:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أنابيل كامز هوم",
+      "clean_title": "أنابيل كامز هوم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يضعان إد ولورين الدمية أنابيل في غرفة مغلقة مليئة بالتحف، ولكن تنتظرهما ليلة مرعبة عندما تستيقظ أنابيل وتطلق العنان للأرواح الشريرة التي في داخلها.",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T16:15:00+00:00",
+      "stop": "2026-11-18T18:00:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T04:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-22T02:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فاينال ديستينيشين 5",
+      "clean_title": "فاينال ديستينيشين 5",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعود الموت في رحلة مثيرة أخرى.",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T18:00:00+00:00",
+      "stop": "2026-11-18T19:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
       "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "فاينل دستنيشن بلودلاينز",
+      "clean_title": "فاينل دستنيشن بلودلاينز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما تطاردها كوابيس دموية لا ترحم، تهرع الطالبة الجامعية ستيفاني إلى بيت الطفولة لتبحث عن الشخص الوحيد القادر على كسر اللعنة وإنقاذ عائلتها.",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T19:30:00+00:00",
+      "stop": "2026-11-18T21:20:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "بلو آيس",
+      "clean_title": "بلو آيس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يساعد جاسوس بريطاني سابق زوجة دبلوماسي أمريكي ويكشف عن تستر حكومي مميت.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1992",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T21:20:00+00:00",
+      "stop": "2026-11-18T23:00:00+00:00",
+      "duration_minutes": 100,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "التعويذة 2 - ذا كونجورينغ 2",
+      "clean_title": "التعويذة 2 - ذا كونجورينغ 2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يساعد الزوجان المحققان في الظواهر الخارقة إيد ولورين وارين أماً عازبة تعيش في لندن خلال عام 1977 والتي تدعي بأنها وأطفالها تحت تهديد قوى خارقة..",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2016",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T23:00:00+00:00",
+      "stop": "2026-11-19T01:10:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 121856,
+      "title": "أساسينز كريد",
+      "clean_title": "أساسينز كريد",
+      "original_title": "Assassin's Creed",
+      "tagline": "مصيرك في دمك.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتم إجبار مجرم على عيش ذكريات أسلافه كقاتل مأجور خلال القرن الخامس عشر في اسبانيا وذلك ما يمنحه المهارات والخبرة اللازمة للتصدي لمؤامرة شريرة في عصرنا الحالي.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "حركة",
+        "مغامرة",
+        "خيال علمي"
+      ],
+      "rating": 5.4,
+      "vote_count": 8331,
+      "age_rating": "PG-13",
+      "year": "2016",
+      "release_date": "2016-12-21",
+      "status": "Released",
+      "country": "فرنسا",
+      "language": "الإنجليزية",
+      "director": "Justin Kurzel",
+      "cast": [
+        {
+          "name": "مايكل فاسبندر",
+          "character": "Callum Lynch / Aguilar de Nerha",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg"
+        },
+        {
+          "name": "ماريون كوتيار",
+          "character": "Dr. Sophia Rikkin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/biitzOF0GffIqFYLyOPkoiaOngQ.jpg"
+        },
+        {
+          "name": "جيرمي أيرونز",
+          "character": "Alan Rikkin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+        },
+        {
+          "name": "برندان غليسون",
+          "character": "Joseph Lynch",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+        },
+        {
+          "name": "شارلوت رامبلينغ",
+          "character": "Ellen Kaye",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7fhg5FCcl0VfYERP5D0unpybqgx.jpg"
+        },
+        {
+          "name": "مايكل كينيث ويليامز",
+          "character": "Moussa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/mafEXtGlT1qYjGmZtbjo7Ep5qK3.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=3xaxXfFnA60",
+      "start": "2026-11-19T01:10:00+00:00",
+      "stop": "2026-11-19T03:05:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/dtXefOOcfZTYYmuJpSFzJ2flNU3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/e29oMyfzzlWbhRlCBrzmZhlsw2m.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/dtXefOOcfZTYYmuJpSFzJ2flNU3.jpg",
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T12:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T11:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T04:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "داي أوف ركوينغ",
+      "clean_title": "داي أوف ركوينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يجد الشريف جون دورسي نفسه يمسك زوجة أحد الهاربين كرهينة عن غير قصد. سرعان ما يدرك إميلي وجون أنهما بحاجة لبعضهما للبقاء على قيد الحياة",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T03:05:00+00:00",
+      "stop": "2026-11-19T04:50:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T14:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T13:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T06:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ديردفيل",
+      "clean_title": "ديردفيل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستخدم رجل أصيب بالعمى في طفولته جراء حادث أليم حواسه المتبقية التي تعززت بشكل خارق لمحاربة الجريمة.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2003",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T04:50:00+00:00",
+      "stop": "2026-11-19T06:35:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T16:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T14:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T08:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فاينال ديستينيشن 2",
+      "clean_title": "فاينال ديستينيشن 2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما تختار الانعزال بإرادتها في مأمن داخل مستشفى نفسي، تعيش الناجية الوحيدة من الجزء الأول في رعب دائم من فكرة أن الموت قادم إليها.",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2003",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T06:35:00+00:00",
+      "stop": "2026-11-19T08:05:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T19:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T16:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T09:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "آيج أوف هيروز",
+      "clean_title": "آيج أوف هيروز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تدور الأحداث حول قصة تشكيل وحدة كوماندو 30 بقيادة إيان فليمنغ، التي تمهد الطريق لنشوء قوات النخبة البريطانية.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T08:05:00+00:00",
+      "stop": "2026-11-19T09:40:00+00:00",
+      "duration_minutes": 95,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T11:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فاينال ديستينيشن 3",
+      "clean_title": "فاينال ديستينيشن 3",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتحد الطالبة في المدرسة الثانوية ويندي كريستنسن مع زميلها كيفن فيشر في سباق مع الزمن لمنع الموت من زيارة الناجين من حادثة مدينة الملاهي مرة أخرى",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2006",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T09:40:00+00:00",
+      "stop": "2026-11-19T11:15:00+00:00",
+      "duration_minutes": 95,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T18:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T12:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أنابيل: كرييشن",
+      "clean_title": "أنابيل: كرييشن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستقبلان صانع دمى وزوجته راهبة برفقة فتيات صغيرات من ملجأ لرعاية الأيتام في منزلهما، ولكنهما سرعان ما يصبحان هدف دمية مسكونة صاغها صانع الدمى بيديه... إنها أنابيل.",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T11:15:00+00:00",
+      "stop": "2026-11-19T13:05:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T14:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T02:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أنابيل كامز هوم",
+      "clean_title": "أنابيل كامز هوم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يضعان إد ولورين الدمية أنابيل في غرفة مغلقة مليئة بالتحف، ولكن تنتظرهما ليلة مرعبة عندما تستيقظ أنابيل وتطلق العنان للأرواح الشريرة التي في داخلها.",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T13:05:00+00:00",
+      "stop": "2026-11-19T14:50:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T16:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T04:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-22T02:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غودزيلا فيرزس كونغ",
+      "clean_title": "غودزيلا فيرزس كونغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتصادمان غودزيلا وكونغ في معركة على مر العصور بينما ينطلق مونارك في مهمة في منطقة مجهولة وتهدد مؤامرة بشرية بمسح المخلوقات من على وجه الأرض.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T14:50:00+00:00",
+      "stop": "2026-11-19T16:40:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T05:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T06:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كونغ: جزيرة الجمجمة - كونغ: سكال آيلاند",
+      "clean_title": "كونغ: جزيرة الجمجمة - كونغ: سكال آيلاند",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "استكشف الموطن الغامض والخطير لملك القردة، من خلال فريق من المستكشفين الذين ينطلقون في رحلة خطرة إلى عمق الجزيرة البدائية والغادرة",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T16:40:00+00:00",
+      "stop": "2026-11-19T18:35:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T07:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T02:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T02:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T08:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 268,
+      "title": "باتمان",
+      "clean_title": "باتمان",
+      "original_title": "Batman",
+      "tagline": "العدالة تكون أشد ظلمة قبل الفجر.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما يأمر المحافظ بزيادة نشاط الشرطة لمكافحة الجريمة، يواجه الرجل الوطواط (دارك نايت) في مدينة غوثام أخطر عدو له وهو الجوكر.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "فانتازيا",
+        "حركة",
+        "جريمة"
+      ],
+      "rating": 7.2,
+      "vote_count": 8958,
+      "age_rating": "PG-13",
+      "year": "1989",
+      "release_date": "1989-06-21",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "تيم برتون",
+      "cast": [
+        {
+          "name": "مايكل كيتون",
+          "character": "Batman / Bruce Wayne",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+        },
+        {
+          "name": "Jack Nicholson",
+          "character": "Joker / Jack Napier",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg"
+        },
+        {
+          "name": "كيم باسنجر",
+          "character": "Vicki Vale",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iqQ4o2sRna7J1Z9KkB9Avp9CIsk.jpg"
+        },
+        {
+          "name": "Robert Wuhl",
+          "character": "Alexander Knox",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hs8jxnVGOytAhwM9Y7Rab69ijdW.jpg"
+        },
+        {
+          "name": "Pat Hingle",
+          "character": "Commissioner Gordon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pSvLdAxEwluDOee7H1FV4yiq3a2.jpg"
+        },
+        {
+          "name": "Billy Dee Williams",
+          "character": "Harvey Dent",
+          "profile_image": "https://image.tmdb.org/t/p/w185/AwFFWuXJbGCXb0cA5uZvCNtg68H.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-19T18:35:00+00:00",
+      "stop": "2026-11-19T20:40:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/w6nO7p4yIEvqq7tu0nQBmTWsurQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/rhc7OF7tC9HPu0X8DBKQJzaGRbu.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/w6nO7p4yIEvqq7tu0nQBmTWsurQ.jpg",
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T10:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "عودة باتمان - باتمان ريتيرنز",
+      "clean_title": "عودة باتمان - باتمان ريتيرنز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتصارع باتمان مع (ذا بينغوين) الذي يخطط إلى جانب رجل الأعمال الثري ماكس لكي يصبح الأخير عمدة لمدينة غوثام ويحولها إلى مرتع للجريمة.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1992",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T20:40:00+00:00",
+      "stop": "2026-11-19T22:45:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T12:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "باتمان للأبد - باتمان فوريفر",
+      "clean_title": "باتمان للأبد - باتمان فوريفر",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتعاون ذا ريدلر مع تو-فايس للإطاحة بباتمان واستنزاف عقول سكان مدينة غوثام، بينما يحصل باتمان على مساعدة هو بأمس الحاجة لها.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1995",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T22:45:00+00:00",
+      "stop": "2026-11-20T00:45:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا كونجورينغ: لاست رايتس",
+      "clean_title": "ذا كونجورينغ: لاست رايتس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يخوضان إد ولورين وارن آخر معاركهما في عالم الظواهر الغامضة، حيث يواجهان قوى خفية تتحدى كل ما عرفاه من قبل.",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T00:45:00+00:00",
+      "stop": "2026-11-20T02:55:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أنابيل: كرييشن",
+      "clean_title": "أنابيل: كرييشن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستقبلان صانع دمى وزوجته راهبة برفقة فتيات صغيرات من ملجأ لرعاية الأيتام في منزلهما، ولكنهما سرعان ما يصبحان هدف دمية مسكونة صاغها صانع الدمى بيديه... إنها أنابيل.",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T02:55:00+00:00",
+      "stop": "2026-11-20T04:45:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T14:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T11:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أنابيل كامز هوم",
+      "clean_title": "أنابيل كامز هوم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يضعان إد ولورين الدمية أنابيل في غرفة مغلقة مليئة بالتحف، ولكن تنتظرهما ليلة مرعبة عندما تستيقظ أنابيل وتطلق العنان للأرواح الشريرة التي في داخلها.",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T04:45:00+00:00",
+      "stop": "2026-11-20T06:30:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T16:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-22T02:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غودزيلا فيرزس كونغ",
+      "clean_title": "غودزيلا فيرزس كونغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتصادمان غودزيلا وكونغ في معركة على مر العصور بينما ينطلق مونارك في مهمة في منطقة مجهولة وتهدد مؤامرة بشرية بمسح المخلوقات من على وجه الأرض.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T06:30:00+00:00",
+      "stop": "2026-11-20T08:20:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T05:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T14:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كونغ: جزيرة الجمجمة - كونغ: سكال آيلاند",
+      "clean_title": "كونغ: جزيرة الجمجمة - كونغ: سكال آيلاند",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "استكشف الموطن الغامض والخطير لملك القردة، من خلال فريق من المستكشفين الذين ينطلقون في رحلة خطرة إلى عمق الجزيرة البدائية والغادرة",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T08:20:00+00:00",
+      "stop": "2026-11-20T10:15:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T07:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T02:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T02:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T16:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 268,
+      "title": "باتمان",
+      "clean_title": "باتمان",
+      "original_title": "Batman",
+      "tagline": "العدالة تكون أشد ظلمة قبل الفجر.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما يأمر المحافظ بزيادة نشاط الشرطة لمكافحة الجريمة، يواجه الرجل الوطواط (دارك نايت) في مدينة غوثام أخطر عدو له وهو الجوكر.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "فانتازيا",
+        "حركة",
+        "جريمة"
+      ],
+      "rating": 7.2,
+      "vote_count": 8958,
+      "age_rating": "PG-13",
+      "year": "1989",
+      "release_date": "1989-06-21",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "تيم برتون",
+      "cast": [
+        {
+          "name": "مايكل كيتون",
+          "character": "Batman / Bruce Wayne",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+        },
+        {
+          "name": "Jack Nicholson",
+          "character": "Joker / Jack Napier",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg"
+        },
+        {
+          "name": "كيم باسنجر",
+          "character": "Vicki Vale",
+          "profile_image": "https://image.tmdb.org/t/p/w185/iqQ4o2sRna7J1Z9KkB9Avp9CIsk.jpg"
+        },
+        {
+          "name": "Robert Wuhl",
+          "character": "Alexander Knox",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hs8jxnVGOytAhwM9Y7Rab69ijdW.jpg"
+        },
+        {
+          "name": "Pat Hingle",
+          "character": "Commissioner Gordon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pSvLdAxEwluDOee7H1FV4yiq3a2.jpg"
+        },
+        {
+          "name": "Billy Dee Williams",
+          "character": "Harvey Dent",
+          "profile_image": "https://image.tmdb.org/t/p/w185/AwFFWuXJbGCXb0cA5uZvCNtg68H.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-20T10:15:00+00:00",
+      "stop": "2026-11-20T12:20:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/w6nO7p4yIEvqq7tu0nQBmTWsurQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/rhc7OF7tC9HPu0X8DBKQJzaGRbu.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/w6nO7p4yIEvqq7tu0nQBmTWsurQ.jpg",
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T18:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "عودة باتمان - باتمان ريتيرنز",
+      "clean_title": "عودة باتمان - باتمان ريتيرنز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتصارع باتمان مع (ذا بينغوين) الذي يخطط إلى جانب رجل الأعمال الثري ماكس لكي يصبح الأخير عمدة لمدينة غوثام ويحولها إلى مرتع للجريمة.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1992",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T12:20:00+00:00",
+      "stop": "2026-11-20T14:25:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T20:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 245891,
+      "title": "جون ويك",
+      "clean_title": "جون ويك",
+      "original_title": "John Wick",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يجوب القاتل المأجور المتقاعد جون ويك في شوارع مدينة نيويورك بحثاً عن رجال العصابات الذين سرقوا منه سبب وجوده على قيد الحياة.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "حركة",
+        "إثارة"
+      ],
+      "rating": 7.5,
+      "vote_count": 21632,
+      "age_rating": "R",
+      "year": "2014",
+      "release_date": "2014-10-16",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "تشاد ستاهيلسكي",
+      "cast": [
+        {
+          "name": "كيانو ريفز",
+          "character": "John Wick",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+        },
+        {
+          "name": "Michael Nyqvist",
+          "character": "Viggo Tarasov",
+          "profile_image": "https://image.tmdb.org/t/p/w185/d9nGt8MloJwosRbGp10gaeHExcZ.jpg"
+        },
+        {
+          "name": "ألفي آلن",
+          "character": "Iosef Tarasov",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aF3SyXNd2JfktnYkUvC1tsFHJDu.jpg"
+        },
+        {
+          "name": "ويليم دافو",
+          "character": "Marcus",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+        },
+        {
+          "name": "Dean Winters",
+          "character": "Avi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/zxgOZAYGxa2qmiZkJKGRIhwbGhG.jpg"
+        },
+        {
+          "name": "Adrianne Palicki",
+          "character": "Ms. Perkins",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sh9s2GpNuaNdg7oNz9QN3L2jqs6.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-20T14:25:00+00:00",
+      "stop": "2026-11-20T16:05:00+00:00",
+      "duration_minutes": 100,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/AhFvO9Yl5W767qwao3rKpuB2LbC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/AhFvO9Yl5W767qwao3rKpuB2LbC.jpg",
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T16:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-21T03:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-21T15:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-22T11:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 324552,
+      "title": "جون ويك: الجزء 2",
+      "clean_title": "جون ويك:",
+      "original_title": "John Wick: Chapter 2",
+      "tagline": "لا تطعن الشيطان في ظهره أبدًا",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": 2,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يُجبر القاتل الأسطوري جون ويك على التراجع عن التقاعد بسبب زميل سابق يخطط للسيطرة على نقابة قتل دولية غامضة.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "حركة",
+        "إثارة",
+        "جريمة"
+      ],
+      "rating": 7.3,
+      "vote_count": 14846,
+      "age_rating": "R",
+      "year": "2017",
+      "release_date": "2017-02-08",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "تشاد ستاهيلسكي",
+      "cast": [
+        {
+          "name": "كيانو ريفز",
+          "character": "John Wick",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+        },
+        {
+          "name": "كومن",
+          "character": "Cassian",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eggJAnJxpn8wYraX7ea5svETB54.jpg"
+        },
+        {
+          "name": "لورنس فيشبورن",
+          "character": "Bowery King",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+        },
+        {
+          "name": "Riccardo Scamarcio",
+          "character": "Santino D'Antonio",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s3ZAW6QA6yZaOx9wmAZfGZ1Z8BP.jpg"
+        },
+        {
+          "name": "روبي روز",
+          "character": "Ares",
+          "profile_image": "https://image.tmdb.org/t/p/w185/djhT0A2hZxpYKPnCeRtim8qUdPi.jpg"
+        },
+        {
+          "name": "لانس ريديك",
+          "character": "Charon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-20T16:05:00+00:00",
+      "stop": "2026-11-20T18:05:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/5HNWfo8NZxboSGycIw5ZrDL7ZR8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/Aa9Lx6gotP0szl9tlt5SPCN08oF.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/5HNWfo8NZxboSGycIw5ZrDL7ZR8.jpg",
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T14:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-21T03:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-21T15:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-22T11:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "باتمان وروبن - باتمان آند روبن",
+      "clean_title": "باتمان وروبن - باتمان آند روبن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقاتل باتمان إلى جانب شريكه في مكافحة الجريمة روبن وباتغيرل التي تم تعينها حديثا، التهديد المزدوج لـ مستر فريز الذي يمكنه تجميد أي شيء والقاتلة بويزن آيفي التي يمكنها تسخير النباتات لصالحها.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1997",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T18:05:00+00:00",
+      "stop": "2026-11-20T20:10:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-21T05:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-22T01:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بداية باتمان - باتمان بيغنز",
+      "clean_title": "بداية باتمان - باتمان بيغنز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم بروس واين بصنع شخصية سرية كمقاتل مقنع لصالح العدالة، يشن حربا لتحرير مدينة غوثام من الفساد",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2005",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T20:10:00+00:00",
+      "stop": "2026-11-20T22:30:00+00:00",
+      "duration_minutes": 140,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-21T07:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-22T03:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 209112,
+      "title": "باتمان ضد سوبرمان: فجر العدالة",
+      "clean_title": "باتمان ضد سوبرمان: فجر العدالة",
+      "original_title": "Batman v Superman: Dawn of Justice",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مع وجود باتمان وسوبرمان في حالة حرب مع بعضهما البعض، ينشأ تهديد جديد بسرعة، والذي يعرض البشرية لخطر كبير لم يحدث من قبل",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "حركة",
+        "مغامرة",
+        "فانتازيا"
+      ],
+      "rating": 6,
+      "vote_count": 19565,
+      "age_rating": "PG-13",
+      "year": "2016",
+      "release_date": "2016-03-23",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "زاك سنايدر",
+      "cast": [
+        {
+          "name": "بن أفليك",
+          "character": "Bruce Wayne / Batman",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+        },
+        {
+          "name": "هنري كافيل",
+          "character": "Clark Kent / Superman",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dgTD7Q9owL3DyX9uYoSX9KZeUUz.jpg"
+        },
+        {
+          "name": "جيسي آيزينبيرغ",
+          "character": "Lex Luthor",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ojZrkt5rdkUi857WSeCatxXdGS.jpg"
+        },
+        {
+          "name": "غال غادوت",
+          "character": "Diana Prince / Wonder Woman",
+          "profile_image": "https://image.tmdb.org/t/p/w185/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg"
+        },
+        {
+          "name": "إيمي آدمز",
+          "character": "Lois",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gn0K6c6d1L6qQrRc86iL8uyIqiF.jpg"
+        },
+        {
+          "name": "دايان لاين",
+          "character": "Martha Kent",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6OfP3vFMuCL51zamFKgb8aS74hs.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=LkuW92oxj7A",
+      "start": "2026-11-20T22:30:00+00:00",
+      "stop": "2026-11-21T01:35:00+00:00",
+      "duration_minutes": 185,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/qjv78GyXon2ekTzNBuGBp44bJ8c.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/qjv78GyXon2ekTzNBuGBp44bJ8c.jpg",
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T02:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T06:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-21T10:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-22T06:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا كونجورينغ: ذا ديفل ميد مي دو إت",
+      "clean_title": "ذا كونجورينغ: ذا ديفل ميد مي دو إت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "رجل يقتل مالك عقاره، مدعيًا أنه كان تحت سيطرة شيطانية. يتولى محققون في الظواهر الخارقة للقضايا، باحثين عن الحقيقة ويكافحون لإثبات براءته.",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T01:35:00+00:00",
+      "stop": "2026-11-21T03:35:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 324552,
+      "title": "جون ويك: الجزء 2",
+      "clean_title": "جون ويك:",
+      "original_title": "John Wick: Chapter 2",
+      "tagline": "لا تطعن الشيطان في ظهره أبدًا",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": 2,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يُجبر القاتل الأسطوري جون ويك على التراجع عن التقاعد بسبب زميل سابق يخطط للسيطرة على نقابة قتل دولية غامضة.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "حركة",
+        "إثارة",
+        "جريمة"
+      ],
+      "rating": 7.3,
+      "vote_count": 14846,
+      "age_rating": "R",
+      "year": "2017",
+      "release_date": "2017-02-08",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "تشاد ستاهيلسكي",
+      "cast": [
+        {
+          "name": "كيانو ريفز",
+          "character": "John Wick",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+        },
+        {
+          "name": "كومن",
+          "character": "Cassian",
+          "profile_image": "https://image.tmdb.org/t/p/w185/eggJAnJxpn8wYraX7ea5svETB54.jpg"
+        },
+        {
+          "name": "لورنس فيشبورن",
+          "character": "Bowery King",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+        },
+        {
+          "name": "Riccardo Scamarcio",
+          "character": "Santino D'Antonio",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s3ZAW6QA6yZaOx9wmAZfGZ1Z8BP.jpg"
+        },
+        {
+          "name": "روبي روز",
+          "character": "Ares",
+          "profile_image": "https://image.tmdb.org/t/p/w185/djhT0A2hZxpYKPnCeRtim8qUdPi.jpg"
+        },
+        {
+          "name": "لانس ريديك",
+          "character": "Charon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-21T03:35:00+00:00",
+      "stop": "2026-11-21T05:40:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/5HNWfo8NZxboSGycIw5ZrDL7ZR8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/Aa9Lx6gotP0szl9tlt5SPCN08oF.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/5HNWfo8NZxboSGycIw5ZrDL7ZR8.jpg",
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T14:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T16:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-21T15:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-22T11:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "باتمان وروبن - باتمان آند روبن",
+      "clean_title": "باتمان وروبن - باتمان آند روبن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقاتل باتمان إلى جانب شريكه في مكافحة الجريمة روبن وباتغيرل التي تم تعينها حديثا، التهديد المزدوج لـ مستر فريز الذي يمكنه تجميد أي شيء والقاتلة بويزن آيفي التي يمكنها تسخير النباتات لصالحها.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1997",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T05:40:00+00:00",
+      "stop": "2026-11-21T07:45:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T18:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-22T01:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بداية باتمان - باتمان بيغنز",
+      "clean_title": "بداية باتمان - باتمان بيغنز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم بروس واين بصنع شخصية سرية كمقاتل مقنع لصالح العدالة، يشن حربا لتحرير مدينة غوثام من الفساد",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2005",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T07:45:00+00:00",
+      "stop": "2026-11-21T10:05:00+00:00",
+      "duration_minutes": 140,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T20:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-22T03:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 209112,
+      "title": "باتمان ضد سوبرمان: فجر العدالة",
+      "clean_title": "باتمان ضد سوبرمان: فجر العدالة",
+      "original_title": "Batman v Superman: Dawn of Justice",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مع وجود باتمان وسوبرمان في حالة حرب مع بعضهما البعض، ينشأ تهديد جديد بسرعة، والذي يعرض البشرية لخطر كبير لم يحدث من قبل",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "حركة",
+        "مغامرة",
+        "فانتازيا"
+      ],
+      "rating": 6,
+      "vote_count": 19565,
+      "age_rating": "PG-13",
+      "year": "2016",
+      "release_date": "2016-03-23",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "زاك سنايدر",
+      "cast": [
+        {
+          "name": "بن أفليك",
+          "character": "Bruce Wayne / Batman",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+        },
+        {
+          "name": "هنري كافيل",
+          "character": "Clark Kent / Superman",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dgTD7Q9owL3DyX9uYoSX9KZeUUz.jpg"
+        },
+        {
+          "name": "جيسي آيزينبيرغ",
+          "character": "Lex Luthor",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ojZrkt5rdkUi857WSeCatxXdGS.jpg"
+        },
+        {
+          "name": "غال غادوت",
+          "character": "Diana Prince / Wonder Woman",
+          "profile_image": "https://image.tmdb.org/t/p/w185/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg"
+        },
+        {
+          "name": "إيمي آدمز",
+          "character": "Lois",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gn0K6c6d1L6qQrRc86iL8uyIqiF.jpg"
+        },
+        {
+          "name": "دايان لاين",
+          "character": "Martha Kent",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6OfP3vFMuCL51zamFKgb8aS74hs.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=LkuW92oxj7A",
+      "start": "2026-11-21T10:05:00+00:00",
+      "stop": "2026-11-21T13:05:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/qjv78GyXon2ekTzNBuGBp44bJ8c.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/qjv78GyXon2ekTzNBuGBp44bJ8c.jpg",
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T02:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T06:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T22:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-22T06:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "جون ويك: الجزء 3 - بارابيلوم",
+      "clean_title": "جون ويك: - بارابيلوم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 3,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعود القاتل الخارق جون ويك مستهدفا أربعة عشر مليون دولارا ومجموعة كبيرة من القتلة المأجورين.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T13:05:00+00:00",
+      "stop": "2026-11-21T15:15:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-22T09:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 603692,
+      "title": "جون ويك: الجزء 4",
+      "clean_title": "جون ويك:",
+      "original_title": "John Wick: Chapter 4",
+      "tagline": "لا مجال للعودة. طريق واحد للحرية.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": 4,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يكتشف جون ويك طريقة لهزيمة ذا هاي تيبل وذلك مع ارتفاع الجائزة من أجل قتله باستمرار. ولكن قبل أن ينال حريته يكون ويك مضطراً على مواجهة عدو جديد.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "حركة",
+        "إثارة",
+        "جريمة"
+      ],
+      "rating": 7.7,
+      "vote_count": 8541,
+      "age_rating": "R",
+      "year": "2023",
+      "release_date": "2023-03-21",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "تشاد ستاهيلسكي",
+      "cast": [
+        {
+          "name": "كيانو ريفز",
+          "character": "John Wick",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+        },
+        {
+          "name": "دوني ين",
+          "character": "Caine",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg"
+        },
+        {
+          "name": "بيل سكارسغارد",
+          "character": "Marquis",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg"
+        },
+        {
+          "name": "إيان ماكشين",
+          "character": "Winston",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rteBJYNgD1yGsHg2HGZAIrYHz1t.jpg"
+        },
+        {
+          "name": "لورنس فيشبورن",
+          "character": "Bowery King",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+        },
+        {
+          "name": "لانس ريديك",
+          "character": "Charon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-21T15:15:00+00:00",
+      "stop": "2026-11-21T18:00:00+00:00",
+      "duration_minutes": 165,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/j6Zcib1u1QhBs0KVKU8yxOugkAv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/j6Zcib1u1QhBs0KVKU8yxOugkAv.jpg",
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T14:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T16:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-21T03:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-22T11:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 36647,
+      "title": "بليد",
+      "clean_title": "بليد",
+      "original_title": "Blade",
+      "tagline": "جزء رجل . جزء مصاص دماء .الكل  بطل",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "الرجل المعروف باسم \"بليد\" - نصف مصاص دماء ونصف إنسان - يصبح حامي البشرية ضد جيش من مصاصي الدماء السريين.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "رعب",
+        "حركة"
+      ],
+      "rating": 6.9,
+      "vote_count": 7104,
+      "age_rating": "R",
+      "year": "1998",
+      "release_date": "1998-08-21",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "ستيفن نورينون",
+      "cast": [
+        {
+          "name": "ويسلي سنايبس",
+          "character": "Blade",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oOjRfYKQOBS6XsRyXaZktmSQBph.jpg"
+        },
+        {
+          "name": "N'Bushe Wright",
+          "character": "Karen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/jSXuSko6tZQ69LfJEMmNLiXEOS8.jpg"
+        },
+        {
+          "name": "Stephen Dorff",
+          "character": "Deacon Frost",
+          "profile_image": "https://image.tmdb.org/t/p/w185/bhlM1xNzBvc8jTw42YloUKlGTCL.jpg"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "character": "Whistler",
+          "profile_image": "https://image.tmdb.org/t/p/w185/efD2Uu8QYBN7ZWSFa79mm3Pkk4L.jpg"
+        },
+        {
+          "name": "Donal Logue",
+          "character": "Quinn",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5Rj850yVkIqsgCihtZLbkNSHbFb.jpg"
+        },
+        {
+          "name": "يودو كيير",
+          "character": "Dragonetti",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-21T18:00:00+00:00",
+      "stop": "2026-11-21T20:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/jqqiBDyTPLUFIN58XYlB1p9EXl4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7NKfxJrQn053UJeLftlx4m4NTzo.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/jqqiBDyTPLUFIN58XYlB1p9EXl4.jpg",
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Kids",
+          "start": "2026-11-17T07:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كوين أوف ذا دامد",
+      "clean_title": "كوين أوف ذا دامد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد سبات دام لعقود، يتحول مصاص الدماء ليستات إلى نجم روك، مما يؤدي إلى إيقاظ الملكة الكبرى لكل مصاصي الدماء، أكاشا، التي تبدأ في مهمة لجعل ليستات ملكها.",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2002",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T20:00:00+00:00",
+      "stop": "2026-11-21T21:40:00+00:00",
+      "duration_minutes": 100,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 36586,
+      "title": "بليد 2",
+      "clean_title": "بليد 2",
+      "original_title": "Blade II",
+      "tagline": "سريع. حاد. أكثر فتكا.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يشكل بليد تحالفًا غير مستقر مع مجلس مصاصي الدماء لمواجهة الكائنات المفترسة التي تتغذى على مصاصي الدماء.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "فانتازيا",
+        "رعب",
+        "حركة",
+        "إثارة"
+      ],
+      "rating": 6.6,
+      "vote_count": 5506,
+      "age_rating": "R",
+      "year": "2002",
+      "release_date": "2002-03-22",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "غييرمو ديل تورو",
+      "cast": [
+        {
+          "name": "ويسلي سنايبس",
+          "character": "Blade",
+          "profile_image": "https://image.tmdb.org/t/p/w185/oOjRfYKQOBS6XsRyXaZktmSQBph.jpg"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "character": "Whistler",
+          "profile_image": "https://image.tmdb.org/t/p/w185/efD2Uu8QYBN7ZWSFa79mm3Pkk4L.jpg"
+        },
+        {
+          "name": "نورمان ريديس",
+          "character": "Scud",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg"
+        },
+        {
+          "name": "رون بيرلمان",
+          "character": "Reinhardt",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg"
+        },
+        {
+          "name": "Leonor Varela",
+          "character": "Nyssa",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ooZQvMganzssNGoTKaIgFXM38U7.jpg"
+        },
+        {
+          "name": "توماس كريتشمان",
+          "character": "Damaskinos",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7M0P39a3CVA22dJyv5YQEkTThU7.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-21T21:40:00+00:00",
+      "stop": "2026-11-21T23:35:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/wAn6VYamKbnOtfyTZ6arVtkMzDv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/86b0NGY1i0bt3ckhkcHxiCSMxk1.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/wAn6VYamKbnOtfyTZ6arVtkMzDv.jpg",
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ديث بروف",
+      "clean_title": "ديث بروف",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يترصّد رجل مشوّه يعمل كبديل في مشاهد الأفلام الخطرة مجموعتين من النساء الجذابات في أوقات مختلفة، مستخدماً سياراته \"المحصنة ضد الموت\" لتنفيذ جرائمه المروعة.",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2007",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T23:35:00+00:00",
+      "stop": "2026-11-22T01:25:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "باتمان وروبن - باتمان آند روبن",
+      "clean_title": "باتمان وروبن - باتمان آند روبن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقاتل باتمان إلى جانب شريكه في مكافحة الجريمة روبن وباتغيرل التي تم تعينها حديثا، التهديد المزدوج لـ مستر فريز الذي يمكنه تجميد أي شيء والقاتلة بويزن آيفي التي يمكنها تسخير النباتات لصالحها.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1997",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T01:25:00+00:00",
+      "stop": "2026-11-22T03:45:00+00:00",
+      "duration_minutes": 140,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T18:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-21T05:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بداية باتمان - باتمان بيغنز",
+      "clean_title": "بداية باتمان - باتمان بيغنز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم بروس واين بصنع شخصية سرية كمقاتل مقنع لصالح العدالة، يشن حربا لتحرير مدينة غوثام من الفساد",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2005",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T03:45:00+00:00",
+      "stop": "2026-11-22T06:05:00+00:00",
+      "duration_minutes": 140,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T20:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-21T07:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 209112,
+      "title": "باتمان ضد سوبرمان: فجر العدالة",
+      "clean_title": "باتمان ضد سوبرمان: فجر العدالة",
+      "original_title": "Batman v Superman: Dawn of Justice",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مع وجود باتمان وسوبرمان في حالة حرب مع بعضهما البعض، ينشأ تهديد جديد بسرعة، والذي يعرض البشرية لخطر كبير لم يحدث من قبل",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "حركة",
+        "مغامرة",
+        "فانتازيا"
+      ],
+      "rating": 6,
+      "vote_count": 19565,
+      "age_rating": "PG-13",
+      "year": "2016",
+      "release_date": "2016-03-23",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "زاك سنايدر",
+      "cast": [
+        {
+          "name": "بن أفليك",
+          "character": "Bruce Wayne / Batman",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+        },
+        {
+          "name": "هنري كافيل",
+          "character": "Clark Kent / Superman",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dgTD7Q9owL3DyX9uYoSX9KZeUUz.jpg"
+        },
+        {
+          "name": "جيسي آيزينبيرغ",
+          "character": "Lex Luthor",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2ojZrkt5rdkUi857WSeCatxXdGS.jpg"
+        },
+        {
+          "name": "غال غادوت",
+          "character": "Diana Prince / Wonder Woman",
+          "profile_image": "https://image.tmdb.org/t/p/w185/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg"
+        },
+        {
+          "name": "إيمي آدمز",
+          "character": "Lois",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gn0K6c6d1L6qQrRc86iL8uyIqiF.jpg"
+        },
+        {
+          "name": "دايان لاين",
+          "character": "Martha Kent",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6OfP3vFMuCL51zamFKgb8aS74hs.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=LkuW92oxj7A",
+      "start": "2026-11-22T06:05:00+00:00",
+      "stop": "2026-11-22T09:05:00+00:00",
+      "duration_minutes": 180,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/qjv78GyXon2ekTzNBuGBp44bJ8c.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/qjv78GyXon2ekTzNBuGBp44bJ8c.jpg",
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T02:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T06:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T22:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-21T10:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "جون ويك: الجزء 3 - بارابيلوم",
+      "clean_title": "جون ويك: - بارابيلوم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": 3,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعود القاتل الخارق جون ويك مستهدفا أربعة عشر مليون دولارا ومجموعة كبيرة من القتلة المأجورين.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T09:05:00+00:00",
+      "stop": "2026-11-22T11:15:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-21T13:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 603692,
+      "title": "جون ويك: الجزء 4",
+      "clean_title": "جون ويك:",
+      "original_title": "John Wick: Chapter 4",
+      "tagline": "لا مجال للعودة. طريق واحد للحرية.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": 4,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يكتشف جون ويك طريقة لهزيمة ذا هاي تيبل وذلك مع ارتفاع الجائزة من أجل قتله باستمرار. ولكن قبل أن ينال حريته يكون ويك مضطراً على مواجهة عدو جديد.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "حركة",
+        "إثارة",
+        "جريمة"
+      ],
+      "rating": 7.7,
+      "vote_count": 8541,
+      "age_rating": "R",
+      "year": "2023",
+      "release_date": "2023-03-21",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "تشاد ستاهيلسكي",
+      "cast": [
+        {
+          "name": "كيانو ريفز",
+          "character": "John Wick",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+        },
+        {
+          "name": "دوني ين",
+          "character": "Caine",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg"
+        },
+        {
+          "name": "بيل سكارسغارد",
+          "character": "Marquis",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg"
+        },
+        {
+          "name": "إيان ماكشين",
+          "character": "Winston",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rteBJYNgD1yGsHg2HGZAIrYHz1t.jpg"
+        },
+        {
+          "name": "لورنس فيشبورن",
+          "character": "Bowery King",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+        },
+        {
+          "name": "لانس ريديك",
+          "character": "Charon",
+          "profile_image": "https://image.tmdb.org/t/p/w185/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-22T11:15:00+00:00",
+      "stop": "2026-11-22T14:00:00+00:00",
+      "duration_minutes": 165,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/j6Zcib1u1QhBs0KVKU8yxOugkAv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/j6Zcib1u1QhBs0KVKU8yxOugkAv.jpg",
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T14:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T16:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-21T03:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-21T15:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "زاك سنايدرز جاستس ليغ",
+      "clean_title": "زاك سنايدرز جاستس ليغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يجنّدان باتمان ووندر وومان فريقاً قادراً على حماية العالم من التهديد الوشيك لستيبن وولف وجيشه من البراديمن.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T14:00:00+00:00",
+      "stop": "2026-11-22T18:00:00+00:00",
+      "duration_minutes": 240,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-17T06:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-18T09:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سو",
+      "clean_title": "سو",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يستيقظ غريبان داخل غرفة مجهولة دون أي ذكرى عن كيفية وصولهما إليها، وسرعان ما يكتشفان أنهما مجرد بيادق في لعبة قاتلة يديرها قاتل متسلسل لا يرحم.",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2004",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T18:00:00+00:00",
+      "stop": "2026-11-22T19:45:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 214,
+      "title": "سو II",
+      "clean_title": "سو II",
+      "original_title": "Saw III",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواجه محقّق وفريقه سباقاً مع الزمن لإنقاذ ثمانية أشخاص محتجزين داخل مصنع على يد القاتل المتسلسل المهووس المعروف باسم جيغسو.",
+      "category": "رعب",
+      "genres": [
+        "رعب",
+        "إثارة",
+        "جريمة"
+      ],
+      "rating": 6.4,
+      "vote_count": 5161,
+      "age_rating": "R",
+      "year": "2005",
+      "release_date": "2006-10-26",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "دارن لين بوسمان",
+      "cast": [
+        {
+          "name": "توبين بل",
+          "character": "Jigsaw / John",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wyyfG5Pml4G1Y3Aw873LIe32wsl.jpg"
+        },
+        {
+          "name": "شاوني سميث",
+          "character": "Amanda",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s2Ouz4b7xqDH72aU48TSW5zS40v.jpg"
+        },
+        {
+          "name": "أنجوس ماكفادين",
+          "character": "Jeff",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yUuA7U3lw6yM0Eb6mD83qYeevH2.jpg"
+        },
+        {
+          "name": "Bahar Soomekh",
+          "character": "Lynn",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pexK8WSgJFunUFizBlvGEz8ez9U.jpg"
+        },
+        {
+          "name": "دوني والبيرغ",
+          "character": "Eric Matthews",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8OQTlgl7eGAFlKTF2o8rZZT0MoF.jpg"
+        },
+        {
+          "name": "دينا ماير",
+          "character": "Kerry",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1AQEXem8soBEKjjDhE0mOyXtjCG.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-22T19:45:00+00:00",
+      "stop": "2026-11-22T21:20:00+00:00",
+      "duration_minutes": 95,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/4iO9n24Rb10peXV0JH2EldIOrAp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qx8Pb3nVnHLBizI9792pbRN5nnm.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/4iO9n24Rb10peXV0JH2EldIOrAp.jpg",
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "فاينال ديستينيشن",
+      "clean_title": "فاينال ديستينيشن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "الموت قادم. وأليكس براونينغ ملعون بمعرفة متى وكيف وأين سيأخذ ملك الموت ضحيته التالية",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2000",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T21:20:00+00:00",
+      "stop": "2026-11-22T22:55:00+00:00",
+      "duration_minutes": 95,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T18:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "التعويذة - ذا كونجورينغ",
+      "clean_title": "التعويذة - ذا كونجورينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "قصة مستلهمة من أحداث حقيقية، وتدور حول كيان شيطاني يدعي امتلاكه لعائلة تعيش في مزرعة معزولة، ويقوم بدفعهم لطلب المساعدة من باحثين خارقين مشهورين",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T22:55:00+00:00",
+      "stop": "2026-11-23T00:45:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/uOzyKup.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-17T22:40:00+00:00"
+        }
+      ]
     }
   ]
 }

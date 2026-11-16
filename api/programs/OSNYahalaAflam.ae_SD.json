@@ -2,6 +2,7 @@
   "channel_id": "OSNYahalaAflam.ae@SD",
   "channel_name": "OSNtv Yahala Aflam",
   "channel_icon": "https://i.imgur.com/8pr5STo.png",
+  "days_count": 7,
   "programs": [
     {
       "tmdb_id": null,
@@ -88,6 +89,18 @@
         {
           "channel": "OSNtv Yahala Aflam",
           "start": "2026-11-17T11:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T09:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T15:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T13:55:00+00:00"
         }
       ]
     },
@@ -132,6 +145,14 @@
         {
           "channel": "OSNtv Yahala Aflam",
           "start": "2026-11-17T13:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T04:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T01:00:00+00:00"
         }
       ]
     },
@@ -176,6 +197,18 @@
         {
           "channel": "OSNtv Yahala Aflam",
           "start": "2026-11-17T07:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T12:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T00:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T07:40:00+00:00"
         }
       ]
     },
@@ -220,6 +253,14 @@
         {
           "channel": "OSNtv Yahala Aflam",
           "start": "2026-11-17T02:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T10:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T03:25:00+00:00"
         }
       ]
     },
@@ -264,6 +305,10 @@
         {
           "channel": "OSNtv Yahala Aflam",
           "start": "2026-11-17T16:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T08:20:00+00:00"
         }
       ]
     },
@@ -304,7 +349,24 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/8pr5STo.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T14:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T05:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T12:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T05:55:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -421,7 +483,16 @@
       "icon": "https://image.tmdb.org/t/p/w500/58Y4CjcRX8AtMNtI0AXu9H7iebP.jpg",
       "channel_icon": "https://i.imgur.com/8pr5STo.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T14:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T10:00:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": 214083,
@@ -682,6 +753,14 @@
         {
           "channel": "OSNtv Yahala Aflam",
           "start": "2026-11-16T09:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T10:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T03:25:00+00:00"
         }
       ]
     },
@@ -809,6 +888,18 @@
         {
           "channel": "OSNtv Yahala Aflam",
           "start": "2026-11-16T06:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T12:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T00:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T07:40:00+00:00"
         }
       ]
     },
@@ -849,7 +940,16 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/8pr5STo.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T16:20:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-19T08:15:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -892,6 +992,18 @@
         {
           "channel": "OSNtv Yahala Aflam",
           "start": "2026-11-16T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T09:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T15:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T13:55:00+00:00"
         }
       ]
     },
@@ -936,6 +1048,14 @@
         {
           "channel": "OSNtv Yahala Aflam",
           "start": "2026-11-16T04:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T04:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T01:00:00+00:00"
         }
       ]
     },
@@ -980,6 +1100,10 @@
         {
           "channel": "OSNtv Yahala Aflam",
           "start": "2026-11-16T11:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T08:20:00+00:00"
         }
       ]
     },
@@ -1052,7 +1176,16 @@
       "icon": "https://image.tmdb.org/t/p/w500/pemm6zasyvyRRdlaiio2k9fEvC3.jpg",
       "channel_icon": "https://i.imgur.com/8pr5STo.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T20:35:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": 214083,
@@ -1173,6 +1306,3330 @@
       "channel_icon": "https://i.imgur.com/8pr5STo.png",
       "is_rerun": false,
       "reruns": []
+    },
+    {
+      "tmdb_id": 318846,
+      "title": "ذا بيغ شورت",
+      "clean_title": "ذا بيغ شورت",
+      "original_title": "The Big Short",
+      "tagline": "هذه قصة حقيقية.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بين عامين 2006-2007، راهنت مجموعة من المستثمرين ضد سوق الرهن العقاري الأمريكي، لتكتشف من خلال أبحاثها مدى فساد السوق وتخبطه.",
+      "category": "دراما",
+      "genres": [
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": 7.4,
+      "vote_count": 10260,
+      "age_rating": "R",
+      "year": "2015",
+      "release_date": "2015-12-11",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "آدم مكاي",
+      "cast": [
+        {
+          "name": "ستيف كارل",
+          "character": "Mark Baum",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sSxw69G0znJuettMYGDCAXfSwSY.jpg"
+        },
+        {
+          "name": "كريستيان بيل",
+          "character": "Michael Burry",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+        },
+        {
+          "name": "رايان غوسلينغ",
+          "character": "Jared Vennett",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+        },
+        {
+          "name": "براد بيت",
+          "character": "Ben Rickert",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+        },
+        {
+          "name": "ماريسا تومي",
+          "character": "Cynthia Baum",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5NCCKQooVCQD36R6JL3a1hOeBVn.jpg"
+        },
+        {
+          "name": "ميليسا ليو",
+          "character": "Georgia Hale",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ueAIX0MH68xCei3N8vFLS0EUEjY.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T00:00:00+00:00",
+      "stop": "2026-11-18T02:15:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/pemm6zasyvyRRdlaiio2k9fEvC3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iof28QKa6bKFYCXSexuITxdKBvi.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/pemm6zasyvyRRdlaiio2k9fEvC3.jpg",
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T20:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "تشارلي آند ذا تشوكليت فاكتوري",
+      "clean_title": "تشارلي آند ذا تشوكليت فاكتوري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما يَعد صانع الحلوى غريب الأطوار ويلي ونكا بخزائن لا تنفد من الحلويات وجولة سحرية في مصنع الشوكولاتة لخمسة أطفال محظوظين، ينطلق الفقير تشارلي باكيت في رحلة أمل باحثاً عن التذكرة الذهبية.",
+      "category": "عائلي",
+      "genres": [
+        "عائلي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2005",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T02:15:00+00:00",
+      "stop": "2026-11-18T04:10:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-19T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-19T16:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T07:35:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-21T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "الوحوش المذهلة: جرائم غريندلوالد",
+      "clean_title": "الوحوش المذهلة: جرائم غريندلوالد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يهرب غرينديلوالد من الحجز ويبدأ في جمع أتباعه، معظمهم غير مدركين لأجندته الحقيقية، وهي رفع السحرة ذوي الدم النقي إلى السيطرة على جميع الكائنات غير السحرية.",
+      "category": "مغامرات",
+      "genres": [
+        "مغامرات"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T04:10:00+00:00",
+      "stop": "2026-11-18T06:25:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-16T04:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-17T13:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 254128,
+      "title": "سان أندرياس",
+      "clean_title": "سان أندرياس",
+      "original_title": "San Andreas",
+      "tagline": "نجا طيار إنقاذ من زلزال وهذا ما سيحدث بعد ذلك",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في أعقاب وقوع زلزال ضخم في كاليفورنيا، يشرع طيار مروحية برحلة خطيرة في أرجاء الولاية لكي ينقذ زوجته السابقة وابنته.",
+      "category": "مغامرات",
+      "genres": [
+        "مغامرات",
+        "حركة",
+        "دراما",
+        "إثارة"
+      ],
+      "rating": 6.3,
+      "vote_count": 9355,
+      "age_rating": "PG-13",
+      "year": "2015",
+      "release_date": "2015-05-27",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "براد بايتون",
+      "cast": [
+        {
+          "name": "دوين جونسون",
+          "character": "Ray Gaines",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+        },
+        {
+          "name": "ألكسندرا داداريو",
+          "character": "Blake Gaines",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6qiLUZZYBE4FsrG8irWbb3I7P1n.jpg"
+        },
+        {
+          "name": "Carla Gugino",
+          "character": "Emma Gaines",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dAqGOsHSzlP6RhaUURX2NrwITaq.jpg"
+        },
+        {
+          "name": "إيوان جروفود",
+          "character": "Daniel Riddick",
+          "profile_image": "https://image.tmdb.org/t/p/w185/h2pg2XwJPcOWotHgiohXjEZUBLa.jpg"
+        },
+        {
+          "name": "ارشي بنجابي",
+          "character": "Serena Johnson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1kSx9zUPwpTe35TbL7T2BWOp3bp.jpg"
+        },
+        {
+          "name": "بول جياماتي",
+          "character": "Dr. Lawrence Hayes",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T06:25:00+00:00",
+      "stop": "2026-11-18T08:20:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zcySy6dnSmyqiichtDgO7AEeZoq.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T03:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T16:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أوشينز إليفن",
+      "clean_title": "أوشينز إليفن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد أقل من 24 ساعة من الإفراج المشروط، يختار داني أوشن فريقاً من أبرع المحترفين لسرقة 150 مليون دولار في ليلة واحدة، لتمثّل أخطر عملية سطو على كازينو في لاس فيغاس على الإطلاق",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2001",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T08:20:00+00:00",
+      "stop": "2026-11-18T10:15:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-16T11:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-17T16:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "جودزيلا",
+      "clean_title": "جودزيلا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تضع هذه القصة المؤثرة، التي تدور حول الشجاعة الإنسانية والمصالحة في وجه قوى الطبيعة الجبارة، الوحش الأكثر شهرة في العالم في مواجهة مباشرة مع مخلوقات مؤذية تهدد الوجود الإنساني.",
+      "category": "خيال علمي",
+      "genres": [
+        "خيال علمي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2014",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T10:15:00+00:00",
+      "stop": "2026-11-18T12:15:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-16T09:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-17T02:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T03:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سوبرمان: ذا موفي",
+      "clean_title": "سوبرمان: ذا موفي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينقذ والدان من كوكب كريبتون المشرف على الهلاك طفلهما من خلال إرساله إلى الأرض في مركبة فضائية، حيث يكبر الطفل ليصبح كلارك كينت، صحفياً في جريدة ديلي بلانيت بمدينة متروبوليس.",
+      "category": "خيال علمي",
+      "genres": [
+        "خيال علمي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1978",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T12:15:00+00:00",
+      "stop": "2026-11-18T14:35:00+00:00",
+      "duration_minutes": 140,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-16T06:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-17T07:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T00:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T07:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دانكيرك",
+      "clean_title": "دانكيرك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يروي الفيلم تفاصيل الإخلاء الذي حدث بأعجوبة لجنود التحالف، والذين كان الجيش الألماني يحوطهم من الشواطئ والموانئ في دانكيرك في فرنسا خلال الحرب العالمية الثانية.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T14:35:00+00:00",
+      "stop": "2026-11-18T16:20:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T05:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T12:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T05:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غوستس أوف غيرلفريندز باست",
+      "clean_title": "غوستس أوف غيرلفريندز باست",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مصور لَعوب يسخر من الحب حتى تظهر له ثلاثة أشباح ماضيه وحاضره ومستقبله، مما يدفعه لتغيير نظرته والسعي وراء الحب الحقيقي.",
+      "category": "رومانسي",
+      "genres": [
+        "رومانسي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2009",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T16:20:00+00:00",
+      "stop": "2026-11-18T18:00:00+00:00",
+      "duration_minutes": 100,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-17T10:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-19T08:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غون غيرل",
+      "clean_title": "غون غيرل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مع اختفاء زوجته، التي أصبحت محور اهتمام الإعلام، يجد رجل نفسه تحت الأضواء كمشتبه به.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2014",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T18:00:00+00:00",
+      "stop": "2026-11-18T20:35:00+00:00",
+      "duration_minutes": 155,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-19T01:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-19T19:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 318846,
+      "title": "ذا بيغ شورت",
+      "clean_title": "ذا بيغ شورت",
+      "original_title": "The Big Short",
+      "tagline": "هذه قصة حقيقية.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بين عامين 2006-2007، راهنت مجموعة من المستثمرين ضد سوق الرهن العقاري الأمريكي، لتكتشف من خلال أبحاثها مدى فساد السوق وتخبطه.",
+      "category": "دراما",
+      "genres": [
+        "دراما",
+        "كوميديا"
+      ],
+      "rating": 7.4,
+      "vote_count": 10260,
+      "age_rating": "R",
+      "year": "2015",
+      "release_date": "2015-12-11",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "آدم مكاي",
+      "cast": [
+        {
+          "name": "ستيف كارل",
+          "character": "Mark Baum",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sSxw69G0znJuettMYGDCAXfSwSY.jpg"
+        },
+        {
+          "name": "كريستيان بيل",
+          "character": "Michael Burry",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+        },
+        {
+          "name": "رايان غوسلينغ",
+          "character": "Jared Vennett",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+        },
+        {
+          "name": "براد بيت",
+          "character": "Ben Rickert",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+        },
+        {
+          "name": "ماريسا تومي",
+          "character": "Cynthia Baum",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5NCCKQooVCQD36R6JL3a1hOeBVn.jpg"
+        },
+        {
+          "name": "ميليسا ليو",
+          "character": "Georgia Hale",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ueAIX0MH68xCei3N8vFLS0EUEjY.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T20:35:00+00:00",
+      "stop": "2026-11-18T22:45:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/pemm6zasyvyRRdlaiio2k9fEvC3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iof28QKa6bKFYCXSexuITxdKBvi.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/pemm6zasyvyRRdlaiio2k9fEvC3.jpg",
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بالو ألتو",
+      "clean_title": "بالو ألتو",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يدفع غياب التوجيه الأسري المراهقين في بلدة كاليفورنية ثرية إلى التمرّد.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T22:45:00+00:00",
+      "stop": "2026-11-19T00:25:00+00:00",
+      "duration_minutes": 100,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "كاي 2: ذي إمبوسبل ديسينت",
+      "clean_title": "كاي 2: ذي إمبوسبل ديسينت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتشبث متسلق جبال بالتزلج برباطاته على ارتفاع 8611 مترًا، متحديًا المستحيل ليصنع التاريخ. من بولندا إلى باكستان، أندريه بارجيل يندفع على منحدرات كاي 2 بزلاجاته، في مغامرة لا تُنسى.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T00:25:00+00:00",
+      "stop": "2026-11-19T01:35:00+00:00",
+      "duration_minutes": 70,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "غون غيرل",
+      "clean_title": "غون غيرل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مع اختفاء زوجته، التي أصبحت محور اهتمام الإعلام، يجد رجل نفسه تحت الأضواء كمشتبه به.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2014",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T01:35:00+00:00",
+      "stop": "2026-11-19T04:10:00+00:00",
+      "duration_minutes": 155,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-19T19:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إيفري ثينغ ويل بي فاين",
+      "clean_title": "إيفري ثينغ ويل بي فاين",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقضي كاتب تسبب بوقوع حادث بينما كان يقود سيارته على طريق ريفي، الـ 12 سنة التالية من حياته بمعاينة آثار تلك المأساة على حياته وحياة كيت التي فقدت شخصا عزيزا على قلبها.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2015",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T04:10:00+00:00",
+      "stop": "2026-11-19T06:10:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "أوشنز تويلف",
+      "clean_title": "أوشنز تويلف",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد أن قسّموا عائدات الـ160 مليون دولار، يسعى كل فرد من عصابة أوشن الشهيرة إلى أن يعيش حياة جديدة بعيداً عن الأضواء... ولكن تبوء محاولاتهم بالفشل.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2004",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T06:10:00+00:00",
+      "stop": "2026-11-19T08:15:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T15:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غوستس أوف غيرلفريندز باست",
+      "clean_title": "غوستس أوف غيرلفريندز باست",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مصور لَعوب يسخر من الحب حتى تظهر له ثلاثة أشباح ماضيه وحاضره ومستقبله، مما يدفعه لتغيير نظرته والسعي وراء الحب الحقيقي.",
+      "category": "رومانسي",
+      "genres": [
+        "رومانسي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2009",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T08:15:00+00:00",
+      "stop": "2026-11-19T10:00:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-17T10:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T16:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "جودزيلا ملك الوحوش - غودزيلا كينغ أوف ذا مونسترز",
+      "clean_title": "جودزيلا ملك الوحوش - غودزيلا كينغ أوف ذا مونسترز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تخوض وكالة مونارك مواجهة شرسة ضد أسطول من الوحوش الضخمة، ومن ضمنهم غودزيلا العظيم الذي يواجه خصمه اللدود الملك غيدورا ذو الرؤوس الثلاثة.",
+      "category": "خيال علمي",
+      "genres": [
+        "خيال علمي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T10:00:00+00:00",
+      "stop": "2026-11-19T12:10:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T11:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أوشينز ثيرتين",
+      "clean_title": "أوشينز ثيرتين",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "لن يكون لدى داني أوشن ورفاقه سوى سبب واحد للقيام بأخطر عملية سطو على كازينو - وهو للدفاع عن أحد أفراد فريقهم. ولكنهم سيحتاجون إلى أكثر من الحظ لتنجح خطتهم",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2007",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T12:10:00+00:00",
+      "stop": "2026-11-19T14:15:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T13:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T10:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أوشينز 8",
+      "clean_title": "أوشينز 8",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تخطط ديبي أوشن لأكبر عملية سرقة في حياتها. إذ إنها تعلم تماماً متطلّب نجاحها، وهو فريق من أفضل الخبراء في المجال",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T14:15:00+00:00",
+      "stop": "2026-11-19T16:05:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T08:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "تشارلي آند ذا تشوكليت فاكتوري",
+      "clean_title": "تشارلي آند ذا تشوكليت فاكتوري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما يَعد صانع الحلوى غريب الأطوار ويلي ونكا بخزائن لا تنفد من الحلويات وجولة سحرية في مصنع الشوكولاتة لخمسة أطفال محظوظين، ينطلق الفقير تشارلي باكيت في رحلة أمل باحثاً عن التذكرة الذهبية.",
+      "category": "عائلي",
+      "genres": [
+        "عائلي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2005",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T16:05:00+00:00",
+      "stop": "2026-11-19T18:00:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T02:15:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-19T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T07:35:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-21T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أسوأ المديرين 2 - هوريبل بوسيز 2",
+      "clean_title": "أسوأ المديرين 2 - هوريبل بوسيز 2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "قرر نيك وديل وكورت أن يصبحوا مدراء أنفسهم من خلال بدء عمل تجاري. وبعد أن يخدعهم مستثمر بارع، يقومون بالتخطيط لاستعادة شركتهم.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2014",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T18:00:00+00:00",
+      "stop": "2026-11-19T19:50:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T01:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T19:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "غون غيرل",
+      "clean_title": "غون غيرل",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "مع اختفاء زوجته، التي أصبحت محور اهتمام الإعلام، يجد رجل نفسه تحت الأضواء كمشتبه به.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2014",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T19:50:00+00:00",
+      "stop": "2026-11-19T22:25:00+00:00",
+      "duration_minutes": 155,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-19T01:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا بيانو",
+      "clean_title": "ذا بيانو",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في منتصف القرن التاسع عشر، تُرسل امرأة بكماء إلى نيوزيلندا مع ابنتها الصغيرة وبيانوها الثمين لزواج مدبر من مزارع.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1993",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T22:25:00+00:00",
+      "stop": "2026-11-20T00:25:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "آوت ديه: ذا يوث أوف جامايكا",
+      "clean_title": "آوت ديه: ذا يوث أوف جامايكا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يروي ثلاثة شبّان من جامايكا حكاياتهم. يحلم المغنّي بيكرستيز بمسيرة عالمية، ويسعى شاما ليكون أول راكب أمواج محترف في بلاده، بينما يكشف رومار عن تفاصيل الحياة في مجتمعه.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T00:25:00+00:00",
+      "stop": "2026-11-20T01:55:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-18T01:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أسوأ المديرين 2 - هوريبل بوسيز 2",
+      "clean_title": "أسوأ المديرين 2 - هوريبل بوسيز 2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "قرر نيك وديل وكورت أن يصبحوا مدراء أنفسهم من خلال بدء عمل تجاري. وبعد أن يخدعهم مستثمر بارع، يقومون بالتخطيط لاستعادة شركتهم.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2014",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T01:55:00+00:00",
+      "stop": "2026-11-20T03:50:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-19T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T19:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 254128,
+      "title": "سان أندرياس",
+      "clean_title": "سان أندرياس",
+      "original_title": "San Andreas",
+      "tagline": "نجا طيار إنقاذ من زلزال وهذا ما سيحدث بعد ذلك",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في أعقاب وقوع زلزال ضخم في كاليفورنيا، يشرع طيار مروحية برحلة خطيرة في أرجاء الولاية لكي ينقذ زوجته السابقة وابنته.",
+      "category": "مغامرات",
+      "genres": [
+        "مغامرات",
+        "حركة",
+        "دراما",
+        "إثارة"
+      ],
+      "rating": 6.3,
+      "vote_count": 9355,
+      "age_rating": "PG-13",
+      "year": "2015",
+      "release_date": "2015-05-27",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "براد بايتون",
+      "cast": [
+        {
+          "name": "دوين جونسون",
+          "character": "Ray Gaines",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+        },
+        {
+          "name": "ألكسندرا داداريو",
+          "character": "Blake Gaines",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6qiLUZZYBE4FsrG8irWbb3I7P1n.jpg"
+        },
+        {
+          "name": "Carla Gugino",
+          "character": "Emma Gaines",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dAqGOsHSzlP6RhaUURX2NrwITaq.jpg"
+        },
+        {
+          "name": "إيوان جروفود",
+          "character": "Daniel Riddick",
+          "profile_image": "https://image.tmdb.org/t/p/w185/h2pg2XwJPcOWotHgiohXjEZUBLa.jpg"
+        },
+        {
+          "name": "ارشي بنجابي",
+          "character": "Serena Johnson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1kSx9zUPwpTe35TbL7T2BWOp3bp.jpg"
+        },
+        {
+          "name": "بول جياماتي",
+          "character": "Dr. Lawrence Hayes",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-20T03:50:00+00:00",
+      "stop": "2026-11-20T05:45:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zcySy6dnSmyqiichtDgO7AEeZoq.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T06:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T16:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دانكيرك",
+      "clean_title": "دانكيرك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يروي الفيلم تفاصيل الإخلاء الذي حدث بأعجوبة لجنود التحالف، والذين كان الجيش الألماني يحوطهم من الشواطئ والموانئ في دانكيرك في فرنسا خلال الحرب العالمية الثانية.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T05:45:00+00:00",
+      "stop": "2026-11-20T07:35:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T14:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T12:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T05:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "تشارلي آند ذا تشوكليت فاكتوري",
+      "clean_title": "تشارلي آند ذا تشوكليت فاكتوري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عندما يَعد صانع الحلوى غريب الأطوار ويلي ونكا بخزائن لا تنفد من الحلويات وجولة سحرية في مصنع الشوكولاتة لخمسة أطفال محظوظين، ينطلق الفقير تشارلي باكيت في رحلة أمل باحثاً عن التذكرة الذهبية.",
+      "category": "عائلي",
+      "genres": [
+        "عائلي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2005",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T07:35:00+00:00",
+      "stop": "2026-11-20T09:30:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T02:15:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-19T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-19T16:05:00+00:00"
+        },
+        {
+          "channel": "MBC MAX",
+          "start": "2026-11-21T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "رناواي جوري",
+      "clean_title": "رناواي جوري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتلاعبان عضو في هيئة المحلفين وامرأة بمحاكمة قضائية تتعلق بشركة كبرى لتصنيع الأسلحة.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2003",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T09:30:00+00:00",
+      "stop": "2026-11-20T11:40:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-16T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-17T11:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T15:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T13:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "جودزيلا ملك الوحوش - غودزيلا كينغ أوف ذا مونسترز",
+      "clean_title": "جودزيلا ملك الوحوش - غودزيلا كينغ أوف ذا مونسترز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تخوض وكالة مونارك مواجهة شرسة ضد أسطول من الوحوش الضخمة، ومن ضمنهم غودزيلا العظيم الذي يواجه خصمه اللدود الملك غيدورا ذو الرؤوس الثلاثة.",
+      "category": "خيال علمي",
+      "genres": [
+        "خيال علمي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T11:40:00+00:00",
+      "stop": "2026-11-20T13:50:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-19T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أوشينز ثيرتين",
+      "clean_title": "أوشينز ثيرتين",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "لن يكون لدى داني أوشن ورفاقه سوى سبب واحد للقيام بأخطر عملية سطو على كازينو - وهو للدفاع عن أحد أفراد فريقهم. ولكنهم سيحتاجون إلى أكثر من الحظ لتنجح خطتهم",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2007",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T13:50:00+00:00",
+      "stop": "2026-11-20T15:55:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-19T12:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T10:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أوشنز تويلف",
+      "clean_title": "أوشنز تويلف",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد أن قسّموا عائدات الـ160 مليون دولار، يسعى كل فرد من عصابة أوشن الشهيرة إلى أن يعيش حياة جديدة بعيداً عن الأضواء... ولكن تبوء محاولاتهم بالفشل.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2004",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T15:55:00+00:00",
+      "stop": "2026-11-20T18:00:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-19T06:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ونس فولين",
+      "clean_title": "ونس فولين",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد خروجه من السجن، يلتقي تشانس بابنه للمرة الأولى ويحاول بدء حياة جديدة، لكن الظروف تجعل من الصعب عليه الهروب من عالم الجريمة الذي يعيش فيه.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2010",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T18:00:00+00:00",
+      "stop": "2026-11-20T19:35:00+00:00",
+      "duration_minutes": 95,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T23:20:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T19:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أسوأ المديرين 2 - هوريبل بوسيز 2",
+      "clean_title": "أسوأ المديرين 2 - هوريبل بوسيز 2",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "قرر نيك وديل وكورت أن يصبحوا مدراء أنفسهم من خلال بدء عمل تجاري. وبعد أن يخدعهم مستثمر بارع، يقومون بالتخطيط لاستعادة شركتهم.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2014",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T19:35:00+00:00",
+      "stop": "2026-11-20T21:25:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-19T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T01:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "تيك ذس والتز",
+      "clean_title": "تيك ذس والتز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تعيش مارغو، البالغة من العمر ثمانية وعشرين عاماً، حياة زوجية سعيدة، لكنها تلتقي بدانيال، الفنان الوسيم الذي يسكن عبر الشارع، فينشأ بينهما انجذاب لا يمكن إنكاره.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2011",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T21:25:00+00:00",
+      "stop": "2026-11-20T23:20:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ونس فولين",
+      "clean_title": "ونس فولين",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد خروجه من السجن، يلتقي تشانس بابنه للمرة الأولى ويحاول بدء حياة جديدة، لكن الظروف تجعل من الصعب عليه الهروب من عالم الجريمة الذي يعيش فيه.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2010",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T23:20:00+00:00",
+      "stop": "2026-11-21T00:50:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T19:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سوبرمان: ذا موفي",
+      "clean_title": "سوبرمان: ذا موفي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينقذ والدان من كوكب كريبتون المشرف على الهلاك طفلهما من خلال إرساله إلى الأرض في مركبة فضائية، حيث يكبر الطفل ليصبح كلارك كينت، صحفياً في جريدة ديلي بلانيت بمدينة متروبوليس.",
+      "category": "خيال علمي",
+      "genres": [
+        "خيال علمي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1978",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T00:50:00+00:00",
+      "stop": "2026-11-21T03:25:00+00:00",
+      "duration_minutes": 155,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-16T06:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-17T07:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T12:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T07:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "جودزيلا",
+      "clean_title": "جودزيلا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تضع هذه القصة المؤثرة، التي تدور حول الشجاعة الإنسانية والمصالحة في وجه قوى الطبيعة الجبارة، الوحش الأكثر شهرة في العالم في مواجهة مباشرة مع مخلوقات مؤذية تهدد الوجود الإنساني.",
+      "category": "خيال علمي",
+      "genres": [
+        "خيال علمي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2014",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T03:25:00+00:00",
+      "stop": "2026-11-21T05:30:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-16T09:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-17T02:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T10:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1949,
+      "title": "زودياك",
+      "clean_title": "زودياك",
+      "original_title": "Zodiac",
+      "tagline": "هناك أكثر من طريقة لتفقد حياتك لقاتل.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتحدى مسلّح غريب الأطوار برداء جلاّد الشرطة من خلال عشرات الرسائل التي تحتوي على رسائل غامضة ومشفّرة.",
+      "category": "دراما",
+      "genres": [
+        "دراما",
+        "جريمة",
+        "غموض",
+        "إثارة"
+      ],
+      "rating": 7.5,
+      "vote_count": 12142,
+      "age_rating": "R",
+      "year": "2007",
+      "release_date": "2007-03-02",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "ديفيد فينشر",
+      "cast": [
+        {
+          "name": "جيك جيلنهال",
+          "character": "Robert Graysmith",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ct2Gh2sJSxd4yaMrSsqSt1HpIC3.jpg"
+        },
+        {
+          "name": "مارك رافالو",
+          "character": "David Toschi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+        },
+        {
+          "name": "Anthony Edwards",
+          "character": "William Armstrong",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rP88gP87pa3je6Viem3081tESIV.jpg"
+        },
+        {
+          "name": "روبرت داوني جونيور",
+          "character": "Paul Avery",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+        },
+        {
+          "name": "كلوي سيفاني",
+          "character": "Melanie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aeuBNiaMm3Fepbu833J5zeuP6Qk.jpg"
+        },
+        {
+          "name": "Elias Koteas",
+          "character": "Jack Mulanax",
+          "profile_image": "https://image.tmdb.org/t/p/w185/luevjlGy0tYQbAbcz0mVxCYqegH.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-21T05:30:00+00:00",
+      "stop": "2026-11-21T08:15:00+00:00",
+      "duration_minutes": 165,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/8WFcLsBdUSnFtxNTVep7OUEtXo9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/8WFcLsBdUSnFtxNTVep7OUEtXo9.jpg",
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T03:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أوشينز 8",
+      "clean_title": "أوشينز 8",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تخطط ديبي أوشن لأكبر عملية سرقة في حياتها. إذ إنها تعلم تماماً متطلّب نجاحها، وهو فريق من أفضل الخبراء في المجال",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T08:15:00+00:00",
+      "stop": "2026-11-21T10:10:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-19T14:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أوشينز ثيرتين",
+      "clean_title": "أوشينز ثيرتين",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "لن يكون لدى داني أوشن ورفاقه سوى سبب واحد للقيام بأخطر عملية سطو على كازينو - وهو للدفاع عن أحد أفراد فريقهم. ولكنهم سيحتاجون إلى أكثر من الحظ لتنجح خطتهم",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2007",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T10:10:00+00:00",
+      "stop": "2026-11-21T12:15:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-19T12:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T13:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دانكيرك",
+      "clean_title": "دانكيرك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يروي الفيلم تفاصيل الإخلاء الذي حدث بأعجوبة لجنود التحالف، والذين كان الجيش الألماني يحوطهم من الشواطئ والموانئ في دانكيرك في فرنسا خلال الحرب العالمية الثانية.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T12:15:00+00:00",
+      "stop": "2026-11-21T14:05:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T14:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T05:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T05:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 222936,
+      "title": "ألوها",
+      "clean_title": "ألوها",
+      "original_title": "Aloha",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعود متعاقد عسكري إلى هاواي بعد غياب طويل، ليجد نفسه في أحضان الماضي حين يلتقي بحبيبته السابقة. ولكن، وسط هذا اللقاء، يقع في حب زميلة تم تعيينها للتعاون معه.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي",
+        "دراما",
+        "كوميديا",
+        "رومنسية"
+      ],
+      "rating": 5.5,
+      "vote_count": 2218,
+      "age_rating": "PG-13",
+      "year": "2015",
+      "release_date": "2015-05-29",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "كاميرون كرو",
+      "cast": [
+        {
+          "name": "برادلي كوبر",
+          "character": "Brian Gilcrest",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
+        },
+        {
+          "name": "إيما ستون",
+          "character": "Captain Allison Ng",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ak2Y9wOI3wi2pNQU6OWSvVvWPj5.jpg"
+        },
+        {
+          "name": "Rachel McAdams",
+          "character": "Tracy Woodside",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2DPh6KoNg0p57vvGc6N468zr3ct.jpg"
+        },
+        {
+          "name": "بيل موري",
+          "character": "Carson Welch",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+        },
+        {
+          "name": "جون كراسينسكي",
+          "character": "John \"Woody\" Woodside",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pmVGDb6Yl6OyFcHVGbu1EYNfyFK.jpg"
+        },
+        {
+          "name": "Danny McBride",
+          "character": "Colonel \"Fingers\" Lacy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sVFPzl2t5QlGudQKWAszIWZCXZv.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-21T14:05:00+00:00",
+      "stop": "2026-11-21T15:55:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/58Y4CjcRX8AtMNtI0AXu9H7iebP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9c8TeWriKWYHFt2V664HqNPGOKX.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/58Y4CjcRX8AtMNtI0AXu9H7iebP.jpg",
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-16T16:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "رناواي جوري",
+      "clean_title": "رناواي جوري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتلاعبان عضو في هيئة المحلفين وامرأة بمحاكمة قضائية تتعلق بشركة كبرى لتصنيع الأسلحة.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2003",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T15:55:00+00:00",
+      "stop": "2026-11-21T18:00:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-16T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-17T11:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T09:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T13:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 72559,
+      "title": "جو",
+      "clean_title": "جو",
+      "original_title": "G.I. Joe: Retaliation",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواجه مُجرم سابق، أبعد ما يكون عن القدوة، فتى في الخامسة عشرة من عمره، وتضعه الحياة أمام خيارين: الخلاص أو الدمار.",
+      "category": "دراما",
+      "genres": [
+        "دراما",
+        "حركة",
+        "خيال علمي",
+        "مغامرة",
+        "إثارة"
+      ],
+      "rating": 5.7,
+      "vote_count": 5930,
+      "age_rating": "PG-13",
+      "year": "2013",
+      "release_date": "2013-03-27",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "جون إم. تشو",
+      "cast": [
+        {
+          "name": "دوين جونسون",
+          "character": "Marvin Hinton / Roadblock",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+        },
+        {
+          "name": "Bruce Willis",
+          "character": "Joe Colton",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+        },
+        {
+          "name": "Jonathan Pryce",
+          "character": "U.S. President",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3nQ01F9WPNPzzLblY7XyaihT9JT.jpg"
+        },
+        {
+          "name": "Adrianne Palicki",
+          "character": "Jaye Burnett / Lady Jaye",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sh9s2GpNuaNdg7oNz9QN3L2jqs6.jpg"
+        },
+        {
+          "name": "Ray Park",
+          "character": "Snake Eyes",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1BxwBrCTfTw9u9RGwEl6qWbPnZL.jpg"
+        },
+        {
+          "name": "Ray Stevenson",
+          "character": "Firefly",
+          "profile_image": "https://image.tmdb.org/t/p/w185/msafbswGI6uisRuNvQ8a1wMF5Ca.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-21T18:00:00+00:00",
+      "stop": "2026-11-21T19:55:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3rWIZMzTKcCtV0eHJ70Z4Ru659f.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pEhXq18GVe1dg2ltplcxtGWfSje.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3rWIZMzTKcCtV0eHJ70Z4Ru659f.jpg",
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T23:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ونس فولين",
+      "clean_title": "ونس فولين",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد خروجه من السجن، يلتقي تشانس بابنه للمرة الأولى ويحاول بدء حياة جديدة، لكن الظروف تجعل من الصعب عليه الهروب من عالم الجريمة الذي يعيش فيه.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2010",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T19:55:00+00:00",
+      "stop": "2026-11-21T21:25:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T23:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "لاست رايد",
+      "clean_title": "لاست رايد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسافر ولد صغير عبر أستراليا مع والده المطلوب للعدالة بسبب ارتكابه جريمة عنف.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2009",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T21:25:00+00:00",
+      "stop": "2026-11-21T23:05:00+00:00",
+      "duration_minutes": 100,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 72559,
+      "title": "جو",
+      "clean_title": "جو",
+      "original_title": "G.I. Joe: Retaliation",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواجه مُجرم سابق، أبعد ما يكون عن القدوة، فتى في الخامسة عشرة من عمره، وتضعه الحياة أمام خيارين: الخلاص أو الدمار.",
+      "category": "دراما",
+      "genres": [
+        "دراما",
+        "حركة",
+        "خيال علمي",
+        "مغامرة",
+        "إثارة"
+      ],
+      "rating": 5.7,
+      "vote_count": 5930,
+      "age_rating": "PG-13",
+      "year": "2013",
+      "release_date": "2013-03-27",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "جون إم. تشو",
+      "cast": [
+        {
+          "name": "دوين جونسون",
+          "character": "Marvin Hinton / Roadblock",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+        },
+        {
+          "name": "Bruce Willis",
+          "character": "Joe Colton",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+        },
+        {
+          "name": "Jonathan Pryce",
+          "character": "U.S. President",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3nQ01F9WPNPzzLblY7XyaihT9JT.jpg"
+        },
+        {
+          "name": "Adrianne Palicki",
+          "character": "Jaye Burnett / Lady Jaye",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sh9s2GpNuaNdg7oNz9QN3L2jqs6.jpg"
+        },
+        {
+          "name": "Ray Park",
+          "character": "Snake Eyes",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1BxwBrCTfTw9u9RGwEl6qWbPnZL.jpg"
+        },
+        {
+          "name": "Ray Stevenson",
+          "character": "Firefly",
+          "profile_image": "https://image.tmdb.org/t/p/w185/msafbswGI6uisRuNvQ8a1wMF5Ca.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-21T23:05:00+00:00",
+      "stop": "2026-11-22T01:00:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3rWIZMzTKcCtV0eHJ70Z4Ru659f.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pEhXq18GVe1dg2ltplcxtGWfSje.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3rWIZMzTKcCtV0eHJ70Z4Ru659f.jpg",
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-22T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "الوحوش المذهلة: جرائم غريندلوالد",
+      "clean_title": "الوحوش المذهلة: جرائم غريندلوالد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يهرب غرينديلوالد من الحجز ويبدأ في جمع أتباعه، معظمهم غير مدركين لأجندته الحقيقية، وهي رفع السحرة ذوي الدم النقي إلى السيطرة على جميع الكائنات غير السحرية.",
+      "category": "مغامرات",
+      "genres": [
+        "مغامرات"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T01:00:00+00:00",
+      "stop": "2026-11-22T03:15:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-16T04:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-17T13:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T04:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1949,
+      "title": "زودياك",
+      "clean_title": "زودياك",
+      "original_title": "Zodiac",
+      "tagline": "هناك أكثر من طريقة لتفقد حياتك لقاتل.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتحدى مسلّح غريب الأطوار برداء جلاّد الشرطة من خلال عشرات الرسائل التي تحتوي على رسائل غامضة ومشفّرة.",
+      "category": "دراما",
+      "genres": [
+        "دراما",
+        "جريمة",
+        "غموض",
+        "إثارة"
+      ],
+      "rating": 7.5,
+      "vote_count": 12142,
+      "age_rating": "R",
+      "year": "2007",
+      "release_date": "2007-03-02",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "ديفيد فينشر",
+      "cast": [
+        {
+          "name": "جيك جيلنهال",
+          "character": "Robert Graysmith",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ct2Gh2sJSxd4yaMrSsqSt1HpIC3.jpg"
+        },
+        {
+          "name": "مارك رافالو",
+          "character": "David Toschi",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+        },
+        {
+          "name": "Anthony Edwards",
+          "character": "William Armstrong",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rP88gP87pa3je6Viem3081tESIV.jpg"
+        },
+        {
+          "name": "روبرت داوني جونيور",
+          "character": "Paul Avery",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+        },
+        {
+          "name": "كلوي سيفاني",
+          "character": "Melanie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aeuBNiaMm3Fepbu833J5zeuP6Qk.jpg"
+        },
+        {
+          "name": "Elias Koteas",
+          "character": "Jack Mulanax",
+          "profile_image": "https://image.tmdb.org/t/p/w185/luevjlGy0tYQbAbcz0mVxCYqegH.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-22T03:15:00+00:00",
+      "stop": "2026-11-22T05:55:00+00:00",
+      "duration_minutes": 160,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/8WFcLsBdUSnFtxNTVep7OUEtXo9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/8WFcLsBdUSnFtxNTVep7OUEtXo9.jpg",
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T05:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دانكيرك",
+      "clean_title": "دانكيرك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يروي الفيلم تفاصيل الإخلاء الذي حدث بأعجوبة لجنود التحالف، والذين كان الجيش الألماني يحوطهم من الشواطئ والموانئ في دانكيرك في فرنسا خلال الحرب العالمية الثانية.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T05:55:00+00:00",
+      "stop": "2026-11-22T07:40:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T14:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T05:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T12:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سوبرمان: ذا موفي",
+      "clean_title": "سوبرمان: ذا موفي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينقذ والدان من كوكب كريبتون المشرف على الهلاك طفلهما من خلال إرساله إلى الأرض في مركبة فضائية، حيث يكبر الطفل ليصبح كلارك كينت، صحفياً في جريدة ديلي بلانيت بمدينة متروبوليس.",
+      "category": "خيال علمي",
+      "genres": [
+        "خيال علمي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "1978",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T07:40:00+00:00",
+      "stop": "2026-11-22T10:00:00+00:00",
+      "duration_minutes": 140,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-16T06:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-17T07:40:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T12:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T00:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 222936,
+      "title": "ألوها",
+      "clean_title": "ألوها",
+      "original_title": "Aloha",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يعود متعاقد عسكري إلى هاواي بعد غياب طويل، ليجد نفسه في أحضان الماضي حين يلتقي بحبيبته السابقة. ولكن، وسط هذا اللقاء، يقع في حب زميلة تم تعيينها للتعاون معه.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي",
+        "دراما",
+        "كوميديا",
+        "رومنسية"
+      ],
+      "rating": 5.5,
+      "vote_count": 2218,
+      "age_rating": "PG-13",
+      "year": "2015",
+      "release_date": "2015-05-29",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "كاميرون كرو",
+      "cast": [
+        {
+          "name": "برادلي كوبر",
+          "character": "Brian Gilcrest",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
+        },
+        {
+          "name": "إيما ستون",
+          "character": "Captain Allison Ng",
+          "profile_image": "https://image.tmdb.org/t/p/w185/ak2Y9wOI3wi2pNQU6OWSvVvWPj5.jpg"
+        },
+        {
+          "name": "Rachel McAdams",
+          "character": "Tracy Woodside",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2DPh6KoNg0p57vvGc6N468zr3ct.jpg"
+        },
+        {
+          "name": "بيل موري",
+          "character": "Carson Welch",
+          "profile_image": "https://image.tmdb.org/t/p/w185/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+        },
+        {
+          "name": "جون كراسينسكي",
+          "character": "John \"Woody\" Woodside",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pmVGDb6Yl6OyFcHVGbu1EYNfyFK.jpg"
+        },
+        {
+          "name": "Danny McBride",
+          "character": "Colonel \"Fingers\" Lacy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sVFPzl2t5QlGudQKWAszIWZCXZv.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-22T10:00:00+00:00",
+      "stop": "2026-11-22T11:45:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/58Y4CjcRX8AtMNtI0AXu9H7iebP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9c8TeWriKWYHFt2V664HqNPGOKX.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/58Y4CjcRX8AtMNtI0AXu9H7iebP.jpg",
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-16T16:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T14:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "بوهيميان رابسودي",
+      "clean_title": "بوهيميان رابسودي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بفضل قدراته الصوتية الرائعة، يصل فريدي ميركوري وفرقة الروك الخاصة به، كوين، إلى قمة النجومية. ومع ذلك، وفي خضم نجاحه المذهل، يواجه مجموعة من التحديات.",
+      "category": "موسيقي",
+      "genres": [
+        "موسيقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T11:45:00+00:00",
+      "stop": "2026-11-22T13:55:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "رناواي جوري",
+      "clean_title": "رناواي جوري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتلاعبان عضو في هيئة المحلفين وامرأة بمحاكمة قضائية تتعلق بشركة كبرى لتصنيع الأسلحة.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2003",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T13:55:00+00:00",
+      "stop": "2026-11-22T16:05:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-16T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-17T11:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T09:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T15:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 254128,
+      "title": "سان أندرياس",
+      "clean_title": "سان أندرياس",
+      "original_title": "San Andreas",
+      "tagline": "نجا طيار إنقاذ من زلزال وهذا ما سيحدث بعد ذلك",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في أعقاب وقوع زلزال ضخم في كاليفورنيا، يشرع طيار مروحية برحلة خطيرة في أرجاء الولاية لكي ينقذ زوجته السابقة وابنته.",
+      "category": "مغامرات",
+      "genres": [
+        "مغامرات",
+        "حركة",
+        "دراما",
+        "إثارة"
+      ],
+      "rating": 6.3,
+      "vote_count": 9355,
+      "age_rating": "PG-13",
+      "year": "2015",
+      "release_date": "2015-05-27",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "براد بايتون",
+      "cast": [
+        {
+          "name": "دوين جونسون",
+          "character": "Ray Gaines",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+        },
+        {
+          "name": "ألكسندرا داداريو",
+          "character": "Blake Gaines",
+          "profile_image": "https://image.tmdb.org/t/p/w185/6qiLUZZYBE4FsrG8irWbb3I7P1n.jpg"
+        },
+        {
+          "name": "Carla Gugino",
+          "character": "Emma Gaines",
+          "profile_image": "https://image.tmdb.org/t/p/w185/dAqGOsHSzlP6RhaUURX2NrwITaq.jpg"
+        },
+        {
+          "name": "إيوان جروفود",
+          "character": "Daniel Riddick",
+          "profile_image": "https://image.tmdb.org/t/p/w185/h2pg2XwJPcOWotHgiohXjEZUBLa.jpg"
+        },
+        {
+          "name": "ارشي بنجابي",
+          "character": "Serena Johnson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1kSx9zUPwpTe35TbL7T2BWOp3bp.jpg"
+        },
+        {
+          "name": "بول جياماتي",
+          "character": "Dr. Lawrence Hayes",
+          "profile_image": "https://image.tmdb.org/t/p/w185/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-22T16:05:00+00:00",
+      "stop": "2026-11-22T18:00:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zcySy6dnSmyqiichtDgO7AEeZoq.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-18T06:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T03:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "دكتور سليب",
+      "clean_title": "دكتور سليب",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ناضل دان تورانس ليجد بعضاً من السلام الداخلي، لكن هذا السلام يتبدد عندما يلتقي بأبرا، المراهقة الجريئة التي تملك هبة خارقة.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T18:00:00+00:00",
+      "stop": "2026-11-22T20:30:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 72559,
+      "title": "جو",
+      "clean_title": "جو",
+      "original_title": "G.I. Joe: Retaliation",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواجه مُجرم سابق، أبعد ما يكون عن القدوة، فتى في الخامسة عشرة من عمره، وتضعه الحياة أمام خيارين: الخلاص أو الدمار.",
+      "category": "دراما",
+      "genres": [
+        "دراما",
+        "حركة",
+        "خيال علمي",
+        "مغامرة",
+        "إثارة"
+      ],
+      "rating": 5.7,
+      "vote_count": 5930,
+      "age_rating": "PG-13",
+      "year": "2013",
+      "release_date": "2013-03-27",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "جون إم. تشو",
+      "cast": [
+        {
+          "name": "دوين جونسون",
+          "character": "Marvin Hinton / Roadblock",
+          "profile_image": "https://image.tmdb.org/t/p/w185/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+        },
+        {
+          "name": "Bruce Willis",
+          "character": "Joe Colton",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+        },
+        {
+          "name": "Jonathan Pryce",
+          "character": "U.S. President",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3nQ01F9WPNPzzLblY7XyaihT9JT.jpg"
+        },
+        {
+          "name": "Adrianne Palicki",
+          "character": "Jaye Burnett / Lady Jaye",
+          "profile_image": "https://image.tmdb.org/t/p/w185/sh9s2GpNuaNdg7oNz9QN3L2jqs6.jpg"
+        },
+        {
+          "name": "Ray Park",
+          "character": "Snake Eyes",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1BxwBrCTfTw9u9RGwEl6qWbPnZL.jpg"
+        },
+        {
+          "name": "Ray Stevenson",
+          "character": "Firefly",
+          "profile_image": "https://image.tmdb.org/t/p/w185/msafbswGI6uisRuNvQ8a1wMF5Ca.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-22T20:30:00+00:00",
+      "stop": "2026-11-22T22:25:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/3rWIZMzTKcCtV0eHJ70Z4Ru659f.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pEhXq18GVe1dg2ltplcxtGWfSje.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/3rWIZMzTKcCtV0eHJ70Z4Ru659f.jpg",
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-21T23:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 387268,
+      "title": "روم",
+      "clean_title": "روم",
+      "original_title": "شاهزاده روم",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "animation",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد ان تم احتجازهما لمدة 7 سنوات في مكان مغلق تحررت امرأة وابنها الصغير أخيرًا مما سمح للصبي بتجربة العالم الخارجي لأول مرة.",
+      "category": "دراما",
+      "genres": [
+        "دراما",
+        "رومنسية",
+        "رسوم متحركة",
+        "تاريخ"
+      ],
+      "rating": 5.6,
+      "vote_count": 19,
+      "age_rating": null,
+      "year": "2014",
+      "release_date": "2015-11-04",
+      "status": "Released",
+      "country": "IR",
+      "language": "fa",
+      "director": "هادی محمدیان",
+      "cast": [
+        {
+          "name": "مریم شیرزاد",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "حسین عرفانی",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "جواد پزشکیان",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "مریم رادپور",
+          "character": null,
+          "profile_image": null
+        },
+        {
+          "name": "محمدعلی دیباج",
+          "character": null,
+          "profile_image": null
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-22T22:25:00+00:00",
+      "stop": "2026-11-23T00:20:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/e2I41ElBtMNz0tsgm6knRBamzc2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9Ras4ys6rr51mwdIgFZCzk9rAUY.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/e2I41ElBtMNz0tsgm6knRBamzc2.jpg",
+      "channel_icon": "https://i.imgur.com/8pr5STo.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Showcase",
+          "start": "2026-11-19T20:00:00+00:00"
+        }
+      ]
     }
   ]
 }

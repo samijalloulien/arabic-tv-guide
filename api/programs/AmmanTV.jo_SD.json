@@ -2,307 +2,8 @@
   "channel_id": "AmmanTV.jo@SD",
   "channel_name": "عَمان",
   "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+  "days_count": 7,
   "programs": [
-    {
-      "tmdb_id": null,
-      "title": "برنامج سلام الروح",
-      "clean_title": "سلام الروح",
-      "original_title": null,
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "program",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "",
-      "category": "General",
-      "genres": [
-        "General"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-16T12:00:00+00:00",
-      "stop": "2026-11-16T13:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "عَمان",
-          "start": "2026-11-17T00:30:00+00:00"
-        },
-        {
-          "channel": "عَمان",
-          "start": "2026-11-17T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": null,
-      "title": "برنامج تي روئ",
-      "clean_title": "تي روئ",
-      "original_title": null,
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "program",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "",
-      "category": "General",
-      "genres": [
-        "General"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-16T13:00:00+00:00",
-      "stop": "2026-11-16T15:00:00+00:00",
-      "duration_minutes": 120,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "عَمان",
-          "start": "2026-11-17T13:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": null,
-      "title": "Barbaros: Sword of the Mediterranean",
-      "clean_title": "Barbaros: Sword of the Mediterranean",
-      "original_title": null,
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "يحكي المسلسل قصة حياة البحار خير الدين بربروس، الذي صنع بطولات لا تنسى للإمبراطورية العثمانية في عهد السلطان سليم الأول، والذي ضمن السيادة العثمانية في البحر الأبيض المتوسط، وكان من أكبر مؤيدي خير الدين بربروس شقيقه عروج بربروس الذي تمكن من السيطرة على جميع السواحل.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-16T15:00:00+00:00",
-      "stop": "2026-11-16T16:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "عَمان",
-          "start": "2026-11-17T15:00:00+00:00"
-        },
-        {
-          "channel": "عَمان",
-          "start": "2026-11-17T22:35:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 301320,
-      "title": "أولاد الراعي",
-      "clean_title": "أولاد الراعي",
-      "original_title": "أولاد الراعي",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 1,
-      "episodes_count": 30,
-      "description": "من نقطة الصفر وجذور بسيطة، ينطلق ثلاثة أشقاء في رحلة كفاح مريرة لبناء إمبراطورية تجارية تهز عالم المال. ومع تضخم الثروة والنفوذ، يتحول النجاح إلى اختبار قاسٍ لروابط الدم؛ حيث تتشابك المصالح وتنفجر صراعات السلطة والولاء بينهم. يضعهم العمل أمام خيارات مصيرية تهدد الكيان الذي بنوه معاً، كاشفاً كيف يمكن للمال أن يغير القلوب ويقلب الأشقاء إلى خصوم في ساحة معركة لا ترحم.",
-      "category": "مسلسل",
-      "genres": [
-        "مسلسل",
-        "دراما"
-      ],
-      "rating": 5.5,
-      "vote_count": 2,
-      "age_rating": null,
-      "year": "2026",
-      "release_date": "2026-02-18",
-      "status": "Ended",
-      "country": "مصر",
-      "language": "العربية",
-      "director": "محمود شكري, خالد شكري",
-      "cast": [
-        {
-          "name": "ماجد المصري",
-          "character": "راغب الراعي",
-          "profile_image": "https://image.tmdb.org/t/p/w185/hCFDKcAiotPNs5cvlhHXgFS6dX0.jpg"
-        },
-        {
-          "name": "أحمد عيد",
-          "character": "نديم الراعي",
-          "profile_image": "https://image.tmdb.org/t/p/w185/8mkmyIoo0EAfZ00YbLetFsUCirY.jpg"
-        },
-        {
-          "name": "خالد الصاوي",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/t4Z5PVsbFgN6RsN1bksjDwZlkhc.jpg"
-        },
-        {
-          "name": "إيهاب فهمي",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/upDuaN9GI86Ch5spYI9iAqj5hqt.jpg"
-        },
-        {
-          "name": "نيرمين الفقي",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/uyQ74Sa0wacujf01tGpCkDaH8U5.jpg"
-        },
-        {
-          "name": "إيمان يوسف",
-          "character": null,
-          "profile_image": "https://image.tmdb.org/t/p/w185/WsvQNRX2JonqHZwm7jibkfZz3a.jpg"
-        }
-      ],
-      "trailer_url": "https://www.youtube.com/watch?v=LWChudOrCWU",
-      "start": "2026-11-16T16:00:00+00:00",
-      "stop": "2026-11-16T17:00:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/biAvwA8P2h348GLYLMbykmiNOBI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/cQsRSF61ME6AyLpkLCJ8teFflMy.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/biAvwA8P2h348GLYLMbykmiNOBI.jpg",
-      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "Dubai TV HD",
-          "start": "2026-11-16T08:00:00+00:00"
-        },
-        {
-          "channel": "Dubai TV HD",
-          "start": "2026-11-16T14:00:00+00:00"
-        },
-        {
-          "channel": "بي إن دراما",
-          "start": "2026-11-16T14:00:00+00:00"
-        },
-        {
-          "channel": "سي بي سي",
-          "start": "2026-11-16T17:00:00+00:00"
-        },
-        {
-          "channel": "Dubai TV HD",
-          "start": "2026-11-16T19:40:00+00:00"
-        },
-        {
-          "channel": "سي بي سي دراما",
-          "start": "2026-11-16T20:00:00+00:00"
-        },
-        {
-          "channel": "بي إن دراما",
-          "start": "2026-11-16T20:00:00+00:00"
-        },
-        {
-          "channel": "سي بي سي",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "Dubai TV HD",
-          "start": "2026-11-17T01:30:00+00:00"
-        },
-        {
-          "channel": "بي إن دراما",
-          "start": "2026-11-17T02:00:00+00:00"
-        },
-        {
-          "channel": "سي بي سي دراما",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "سي بي سي",
-          "start": "2026-11-17T07:00:00+00:00"
-        },
-        {
-          "channel": "Dubai TV HD",
-          "start": "2026-11-17T08:00:00+00:00"
-        },
-        {
-          "channel": "بي إن دراما",
-          "start": "2026-11-17T08:00:00+00:00"
-        },
-        {
-          "channel": "سي بي سي دراما",
-          "start": "2026-11-17T10:00:00+00:00"
-        },
-        {
-          "channel": "Dubai TV HD",
-          "start": "2026-11-17T14:00:00+00:00"
-        },
-        {
-          "channel": "بي إن دراما",
-          "start": "2026-11-17T14:00:00+00:00"
-        },
-        {
-          "channel": "عَمان",
-          "start": "2026-11-17T16:00:00+00:00"
-        },
-        {
-          "channel": "سي بي سي",
-          "start": "2026-11-17T17:00:00+00:00"
-        },
-        {
-          "channel": "Dubai TV HD",
-          "start": "2026-11-17T19:30:00+00:00"
-        },
-        {
-          "channel": "سي بي سي دراما",
-          "start": "2026-11-17T20:00:00+00:00"
-        },
-        {
-          "channel": "بي إن دراما",
-          "start": "2026-11-17T20:00:00+00:00"
-        }
-      ]
-    },
     {
       "tmdb_id": 252385,
       "title": "برنامج بصراحة",
@@ -331,8 +32,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-16T17:00:00+00:00",
-      "stop": "2026-11-16T18:00:00+00:00",
+      "start": "2026-11-16T12:00:00+00:00",
+      "stop": "2026-11-16T13:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/kgCNd07WiVtL6U860jVOzD4eEB1.jpg",
@@ -343,11 +44,19 @@
       "reruns": [
         {
           "channel": "عَمان",
-          "start": "2026-11-17T04:30:00+00:00"
+          "start": "2026-11-17T12:00:00+00:00"
         },
         {
           "channel": "عَمان",
-          "start": "2026-11-17T17:00:00+00:00"
+          "start": "2026-11-17T23:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T23:30:00+00:00"
         }
       ]
     },
@@ -379,8 +88,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-16T18:00:00+00:00",
-      "stop": "2026-11-16T19:00:00+00:00",
+      "start": "2026-11-16T13:00:00+00:00",
+      "stop": "2026-11-16T14:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
@@ -391,15 +100,35 @@
       "reruns": [
         {
           "channel": "يو تي في",
-          "start": "2026-11-16T20:00:00+00:00"
+          "start": "2026-11-16T15:00:00+00:00"
         },
         {
           "channel": "يو تي في",
-          "start": "2026-11-17T01:00:00+00:00"
+          "start": "2026-11-17T15:00:00+00:00"
         },
         {
           "channel": "يو تي في",
           "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T22:30:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-19T20:00:00+00:00"
         }
       ]
     },
@@ -463,8 +192,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-16T19:00:00+00:00",
-      "stop": "2026-11-16T19:30:00+00:00",
+      "start": "2026-11-16T14:00:00+00:00",
+      "stop": "2026-11-16T14:30:00+00:00",
       "duration_minutes": 30,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/jVKDRjsDqRfAsNp0xrQLIgQsosX.jpg",
@@ -475,7 +204,7 @@
       "reruns": [
         {
           "channel": "عَمان",
-          "start": "2026-11-17T03:30:00+00:00"
+          "start": "2026-11-17T22:30:00+00:00"
         }
       ]
     },
@@ -507,8 +236,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-16T19:30:00+00:00",
-      "stop": "2026-11-16T20:00:00+00:00",
+      "start": "2026-11-16T14:30:00+00:00",
+      "stop": "2026-11-16T15:00:00+00:00",
       "duration_minutes": 30,
       "is_live": false,
       "poster": null,
@@ -519,7 +248,7 @@
       "reruns": [
         {
           "channel": "عَمان",
-          "start": "2026-11-17T19:30:00+00:00"
+          "start": "2026-11-17T14:30:00+00:00"
         }
       ]
     },
@@ -583,8 +312,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-16T20:00:00+00:00",
-      "stop": "2026-11-16T21:00:00+00:00",
+      "start": "2026-11-16T15:00:00+00:00",
+      "stop": "2026-11-16T16:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/n9wfQg9QHCksPH3BGbvR0YIn5cz.jpg",
@@ -595,7 +324,11 @@
       "reruns": [
         {
           "channel": "عَمان",
-          "start": "2026-11-17T20:00:00+00:00"
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T15:00:00+00:00"
         }
       ]
     },
@@ -659,8 +392,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-16T21:00:00+00:00",
-      "stop": "2026-11-16T22:35:00+00:00",
+      "start": "2026-11-16T16:00:00+00:00",
+      "stop": "2026-11-16T17:35:00+00:00",
       "duration_minutes": 95,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/sEOGdq3Oo90SnkYvMRbtkm7eaZV.jpg",
@@ -671,319 +404,19 @@
       "reruns": [
         {
           "channel": "عَمان",
-          "start": "2026-11-17T07:00:00+00:00"
+          "start": "2026-11-17T02:00:00+00:00"
         },
         {
           "channel": "عَمان",
-          "start": "2026-11-17T21:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": null,
-      "title": "برنامج صحتين وهنا",
-      "clean_title": "صحتين وهنا",
-      "original_title": null,
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "program",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "",
-      "category": "General",
-      "genres": [
-        "General"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-16T23:30:00+00:00",
-      "stop": "2026-11-17T00:30:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "عَمان",
-          "start": "2026-11-17T11:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": null,
-      "title": "برنامج سلام الروح",
-      "clean_title": "سلام الروح",
-      "original_title": null,
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "program",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "",
-      "category": "General",
-      "genres": [
-        "General"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-17T00:30:00+00:00",
-      "stop": "2026-11-17T01:00:00+00:00",
-      "duration_minutes": 30,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "عَمان",
-          "start": "2026-11-16T12:00:00+00:00"
+          "start": "2026-11-17T16:00:00+00:00"
         },
         {
           "channel": "عَمان",
-          "start": "2026-11-17T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": null,
-      "title": "فترة دينية",
-      "clean_title": "فترة دينية",
-      "original_title": null,
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "program",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "",
-      "category": "General",
-      "genres": [
-        "General"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-17T01:00:00+00:00",
-      "stop": "2026-11-17T02:30:00+00:00",
-      "duration_minutes": 90,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "الشارقة",
-          "start": "2026-11-16T13:45:00+00:00"
-        },
-        {
-          "channel": "المنار",
-          "start": "2026-11-16T15:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": null,
-      "title": "برنامج بهار ونار",
-      "clean_title": "بهار ونار",
-      "original_title": null,
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "program",
-      "season": null,
-      "episode": null,
-      "seasons_count": null,
-      "episodes_count": null,
-      "description": "",
-      "category": "General",
-      "genres": [
-        "General"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": null,
-      "release_date": null,
-      "status": null,
-      "country": null,
-      "language": null,
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-17T02:30:00+00:00",
-      "stop": "2026-11-17T03:30:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": null,
-      "backdrop": null,
-      "icon": null,
-      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
-      "is_rerun": false,
-      "reruns": [
-        {
-          "channel": "عَمان",
-          "start": "2026-11-17T09:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 1274,
-      "title": "برنامج عمق",
-      "clean_title": "عمق",
-      "original_title": "Six Feet Under",
-      "tagline": "الحياة ألم، فاعتد عليه.",
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 5,
-      "episodes_count": 63,
-      "description": "\"حين يكون الموت هو مهنتك... فماذا تكون حياتك؟\"\n\nبالنسبة لعائلة فيشر، فإن العالم خارج صالة الجنازات العائلية لا يقل تعقيدًا عن عالمهم الداخلي—بل إنه غالبًا أكثر تقلبًا وأقل قابلية للتوقع.",
-      "category": "General",
-      "genres": [
-        "General",
-        "دراما"
-      ],
-      "rating": 8.1,
-      "vote_count": 1196,
-      "age_rating": "TV-MA",
-      "year": "2001",
-      "release_date": "2001-06-03",
-      "status": "Ended",
-      "country": "الولايات المتحدة",
-      "language": "الإنجليزية",
-      "director": "Alan Ball",
-      "cast": [
-        {
-          "name": "Peter Krause",
-          "character": "Nate Fisher",
-          "profile_image": "https://image.tmdb.org/t/p/w185/vjTIKHUBceaM3cBbtwwDE8mgaKn.jpg"
-        },
-        {
-          "name": "مايكل ك. هول",
-          "character": "David Fisher",
-          "profile_image": "https://image.tmdb.org/t/p/w185/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
-        },
-        {
-          "name": "فرانسيس كونروي",
-          "character": "Ruth Fisher",
-          "profile_image": "https://image.tmdb.org/t/p/w185/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
-        },
-        {
-          "name": "Lauren Ambrose",
-          "character": "Claire Fisher",
-          "profile_image": "https://image.tmdb.org/t/p/w185/67oLiPwWKhy0zqdfm6NX9cXD5is.jpg"
-        },
-        {
-          "name": "Freddy Rodríguez",
-          "character": "Federico Diaz",
-          "profile_image": "https://image.tmdb.org/t/p/w185/syCMZjteDnmWQa26NqOaVaRdYmj.jpg"
-        },
-        {
-          "name": "Mathew St. Patrick",
-          "character": "Keith Charles",
-          "profile_image": "https://image.tmdb.org/t/p/w185/vi5SPtkQEztDkkQEm8cmDzDBDfA.jpg"
-        }
-      ],
-      "trailer_url": null,
-      "start": "2026-11-17T03:30:00+00:00",
-      "stop": "2026-11-17T04:30:00+00:00",
-      "duration_minutes": 60,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/jVKDRjsDqRfAsNp0xrQLIgQsosX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5NOQNDMVXe8t5wIuY6r6b6iUXcc.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/jVKDRjsDqRfAsNp0xrQLIgQsosX.jpg",
-      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "عَمان",
-          "start": "2026-11-16T19:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "tmdb_id": 252385,
-      "title": "برنامج بصراحة",
-      "clean_title": "بصراحة",
-      "original_title": "بصراحة مع",
-      "tagline": null,
-      "episode_title": null,
-      "content_type": "series",
-      "season": null,
-      "episode": null,
-      "seasons_count": 2,
-      "episodes_count": 30,
-      "description": "يلتقي نجمان من العالم العربي في حوار متبادل بلا مذيع، يتبادلان الأسئلة والذكريات والحديث عن تجاربهما الشخصية والفنية.",
-      "category": "General",
-      "genres": [
-        "General"
-      ],
-      "rating": null,
-      "vote_count": null,
-      "age_rating": null,
-      "year": "2021",
-      "release_date": "2021-01-17",
-      "status": "Returning Series",
-      "country": "السعودية",
-      "language": "العربية",
-      "director": null,
-      "cast": [],
-      "trailer_url": null,
-      "start": "2026-11-17T04:30:00+00:00",
-      "stop": "2026-11-17T06:30:00+00:00",
-      "duration_minutes": 120,
-      "is_live": false,
-      "poster": "https://image.tmdb.org/t/p/w500/kgCNd07WiVtL6U860jVOzD4eEB1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/ulJ8r5Me6FHujT85M5vBW639CBS.jpg",
-      "icon": "https://image.tmdb.org/t/p/w500/kgCNd07WiVtL6U860jVOzD4eEB1.jpg",
-      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
-      "is_rerun": true,
-      "reruns": [
-        {
-          "channel": "عَمان",
-          "start": "2026-11-16T17:00:00+00:00"
+          "start": "2026-11-18T02:00:00+00:00"
         },
         {
           "channel": "عَمان",
-          "start": "2026-11-17T17:00:00+00:00"
+          "start": "2026-11-18T16:00:00+00:00"
         }
       ]
     },
@@ -1015,8 +448,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T06:30:00+00:00",
-      "stop": "2026-11-17T07:00:00+00:00",
+      "start": "2026-11-17T01:30:00+00:00",
+      "stop": "2026-11-17T02:00:00+00:00",
       "duration_minutes": 30,
       "is_live": false,
       "poster": null,
@@ -1024,7 +457,12 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/5l7kw0b.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T01:30:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": 94133,
@@ -1086,8 +524,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T07:00:00+00:00",
-      "stop": "2026-11-17T09:00:00+00:00",
+      "start": "2026-11-17T02:00:00+00:00",
+      "stop": "2026-11-17T04:00:00+00:00",
       "duration_minutes": 120,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/sEOGdq3Oo90SnkYvMRbtkm7eaZV.jpg",
@@ -1098,11 +536,19 @@
       "reruns": [
         {
           "channel": "عَمان",
-          "start": "2026-11-16T21:00:00+00:00"
+          "start": "2026-11-16T16:00:00+00:00"
         },
         {
           "channel": "عَمان",
-          "start": "2026-11-17T21:00:00+00:00"
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T16:00:00+00:00"
         }
       ]
     },
@@ -1134,8 +580,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T09:00:00+00:00",
-      "stop": "2026-11-17T09:30:00+00:00",
+      "start": "2026-11-17T04:00:00+00:00",
+      "stop": "2026-11-17T04:30:00+00:00",
       "duration_minutes": 30,
       "is_live": false,
       "poster": null,
@@ -1143,7 +589,12 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/5l7kw0b.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T04:00:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -1173,19 +624,31 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T09:30:00+00:00",
-      "stop": "2026-11-17T11:00:00+00:00",
+      "start": "2026-11-17T04:30:00+00:00",
+      "stop": "2026-11-17T06:00:00+00:00",
       "duration_minutes": 90,
       "is_live": false,
       "poster": null,
       "backdrop": null,
       "icon": null,
       "channel_icon": "https://i.imgur.com/5l7kw0b.png",
-      "is_rerun": true,
+      "is_rerun": false,
       "reruns": [
         {
           "channel": "عَمان",
-          "start": "2026-11-17T02:30:00+00:00"
+          "start": "2026-11-17T21:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T04:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T21:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-19T21:30:00+00:00"
         }
       ]
     },
@@ -1217,19 +680,31 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T11:00:00+00:00",
-      "stop": "2026-11-17T12:00:00+00:00",
+      "start": "2026-11-17T06:00:00+00:00",
+      "stop": "2026-11-17T07:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
       "backdrop": null,
       "icon": null,
       "channel_icon": "https://i.imgur.com/5l7kw0b.png",
-      "is_rerun": true,
+      "is_rerun": false,
       "reruns": [
         {
           "channel": "عَمان",
-          "start": "2026-11-16T23:30:00+00:00"
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T18:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-19T18:30:00+00:00"
         }
       ]
     },
@@ -1261,23 +736,31 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T12:00:00+00:00",
-      "stop": "2026-11-17T13:00:00+00:00",
+      "start": "2026-11-17T07:00:00+00:00",
+      "stop": "2026-11-17T08:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
       "backdrop": null,
       "icon": null,
       "channel_icon": "https://i.imgur.com/5l7kw0b.png",
-      "is_rerun": true,
+      "is_rerun": false,
       "reruns": [
         {
           "channel": "عَمان",
-          "start": "2026-11-16T12:00:00+00:00"
+          "start": "2026-11-17T19:30:00+00:00"
         },
         {
           "channel": "عَمان",
-          "start": "2026-11-17T00:30:00+00:00"
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T19:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-19T19:30:00+00:00"
         }
       ]
     },
@@ -1309,19 +792,19 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T13:00:00+00:00",
-      "stop": "2026-11-17T15:00:00+00:00",
+      "start": "2026-11-17T08:00:00+00:00",
+      "stop": "2026-11-17T10:00:00+00:00",
       "duration_minutes": 120,
       "is_live": false,
       "poster": null,
       "backdrop": null,
       "icon": null,
       "channel_icon": "https://i.imgur.com/5l7kw0b.png",
-      "is_rerun": true,
+      "is_rerun": false,
       "reruns": [
         {
           "channel": "عَمان",
-          "start": "2026-11-16T13:00:00+00:00"
+          "start": "2026-11-18T08:00:00+00:00"
         }
       ]
     },
@@ -1353,23 +836,31 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T15:00:00+00:00",
-      "stop": "2026-11-17T16:00:00+00:00",
+      "start": "2026-11-17T10:00:00+00:00",
+      "stop": "2026-11-17T11:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": null,
       "backdrop": null,
       "icon": null,
       "channel_icon": "https://i.imgur.com/5l7kw0b.png",
-      "is_rerun": true,
+      "is_rerun": false,
       "reruns": [
         {
           "channel": "عَمان",
-          "start": "2026-11-16T15:00:00+00:00"
+          "start": "2026-11-17T17:35:00+00:00"
         },
         {
           "channel": "عَمان",
-          "start": "2026-11-17T22:35:00+00:00"
+          "start": "2026-11-18T10:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T17:35:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-19T17:35:00+00:00"
         }
       ]
     },
@@ -1433,8 +924,8 @@
         }
       ],
       "trailer_url": "https://www.youtube.com/watch?v=LWChudOrCWU",
-      "start": "2026-11-17T16:00:00+00:00",
-      "stop": "2026-11-17T17:00:00+00:00",
+      "start": "2026-11-17T11:00:00+00:00",
+      "stop": "2026-11-17T12:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/biAvwA8P2h348GLYLMbykmiNOBI.jpg",
@@ -1448,52 +939,40 @@
           "start": "2026-11-16T08:00:00+00:00"
         },
         {
+          "channel": "سي بي سي",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
           "channel": "Dubai TV HD",
           "start": "2026-11-16T14:00:00+00:00"
         },
         {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
           "channel": "بي إن دراما",
-          "start": "2026-11-16T14:00:00+00:00"
-        },
-        {
-          "channel": "عَمان",
-          "start": "2026-11-16T16:00:00+00:00"
-        },
-        {
-          "channel": "سي بي سي",
-          "start": "2026-11-16T17:00:00+00:00"
+          "start": "2026-11-16T15:00:00+00:00"
         },
         {
           "channel": "Dubai TV HD",
           "start": "2026-11-16T19:40:00+00:00"
         },
         {
-          "channel": "سي بي سي دراما",
-          "start": "2026-11-16T20:00:00+00:00"
-        },
-        {
-          "channel": "بي إن دراما",
-          "start": "2026-11-16T20:00:00+00:00"
-        },
-        {
-          "channel": "سي بي سي",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
           "channel": "Dubai TV HD",
           "start": "2026-11-17T01:30:00+00:00"
         },
         {
-          "channel": "بي إن دراما",
+          "channel": "سي بي سي",
           "start": "2026-11-17T02:00:00+00:00"
         },
         {
-          "channel": "سي بي سي دراما",
+          "channel": "بي إن دراما",
           "start": "2026-11-17T03:00:00+00:00"
         },
         {
-          "channel": "سي بي سي",
-          "start": "2026-11-17T07:00:00+00:00"
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T05:00:00+00:00"
         },
         {
           "channel": "Dubai TV HD",
@@ -1501,35 +980,147 @@
         },
         {
           "channel": "بي إن دراما",
-          "start": "2026-11-17T08:00:00+00:00"
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T14:00:00+00:00"
         },
         {
           "channel": "سي بي سي دراما",
-          "start": "2026-11-17T10:00:00+00:00"
-        },
-        {
-          "channel": "Dubai TV HD",
-          "start": "2026-11-17T14:00:00+00:00"
+          "start": "2026-11-17T15:00:00+00:00"
         },
         {
           "channel": "بي إن دراما",
-          "start": "2026-11-17T14:00:00+00:00"
+          "start": "2026-11-17T15:00:00+00:00"
         },
         {
           "channel": "سي بي سي",
-          "start": "2026-11-17T17:00:00+00:00"
+          "start": "2026-11-17T18:00:00+00:00"
         },
         {
           "channel": "Dubai TV HD",
           "start": "2026-11-17T19:30:00+00:00"
         },
         {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
           "channel": "سي بي سي دراما",
-          "start": "2026-11-17T20:00:00+00:00"
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-18T01:30:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-18T02:00:00+00:00"
         },
         {
           "channel": "بي إن دراما",
-          "start": "2026-11-17T20:00:00+00:00"
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-18T08:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-18T19:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-19T01:30:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-19T08:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-19T14:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-19T18:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-19T19:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-19T21:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-19T22:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-20T01:30:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-20T14:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-20T19:30:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-21T01:30:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-21T09:00:00+00:00"
         }
       ]
     },
@@ -1561,8 +1152,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T17:00:00+00:00",
-      "stop": "2026-11-17T18:00:00+00:00",
+      "start": "2026-11-17T12:00:00+00:00",
+      "stop": "2026-11-17T13:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/kgCNd07WiVtL6U860jVOzD4eEB1.jpg",
@@ -1573,11 +1164,19 @@
       "reruns": [
         {
           "channel": "عَمان",
-          "start": "2026-11-16T17:00:00+00:00"
+          "start": "2026-11-16T12:00:00+00:00"
         },
         {
           "channel": "عَمان",
-          "start": "2026-11-17T04:30:00+00:00"
+          "start": "2026-11-17T23:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T23:30:00+00:00"
         }
       ]
     },
@@ -1640,8 +1239,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T18:00:00+00:00",
-      "stop": "2026-11-17T19:00:00+00:00",
+      "start": "2026-11-17T13:00:00+00:00",
+      "stop": "2026-11-17T14:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/rR03DM4wj6MX7zjQlWs9WqItDAm.jpg",
@@ -1713,8 +1312,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T19:00:00+00:00",
-      "stop": "2026-11-17T19:30:00+00:00",
+      "start": "2026-11-17T14:00:00+00:00",
+      "stop": "2026-11-17T14:30:00+00:00",
       "duration_minutes": 30,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/PZzdFPrXZg3xTD4VIiLgiB0Kqj.jpg",
@@ -1724,471 +1323,199 @@
       "is_rerun": true,
       "reruns": [
         {
-          "channel": "الحياة",
+          "channel": "يو تي في",
           "start": "2026-11-16T12:00:00+00:00"
         },
         {
           "channel": "تلفزيون حضرموت",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
           "start": "2026-11-16T14:00:00+00:00"
         },
         {
-          "channel": "الجديد",
-          "start": "2026-11-16T15:00:00+00:00"
-        },
-        {
-          "channel": "تلفزيون حضرموت",
-          "start": "2026-11-16T15:00:00+00:00"
-        },
-        {
-          "channel": "الشارقة",
-          "start": "2026-11-16T15:15:00+00:00"
-        },
-        {
-          "channel": "الجديد",
-          "start": "2026-11-16T15:40:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-16T16:00:00+00:00"
-        },
-        {
-          "channel": "تلفزيون حضرموت",
-          "start": "2026-11-16T16:00:00+00:00"
-        },
-        {
-          "channel": "الثانية",
-          "start": "2026-11-16T16:00:00+00:00"
-        },
-        {
-          "channel": "نسمة",
-          "start": "2026-11-16T17:00:00+00:00"
-        },
-        {
-          "channel": "يو تي في",
-          "start": "2026-11-16T17:00:00+00:00"
-        },
-        {
-          "channel": "تلفزيون حضرموت",
-          "start": "2026-11-16T17:00:00+00:00"
-        },
-        {
-          "channel": "أون إي",
-          "start": "2026-11-16T19:00:00+00:00"
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-16T14:00:00+00:00"
         },
         {
           "channel": "الفجيرة",
-          "start": "2026-11-16T19:00:00+00:00"
+          "start": "2026-11-16T14:00:00+00:00"
         },
         {
           "channel": "دجلة",
-          "start": "2026-11-16T19:00:00+00:00"
+          "start": "2026-11-16T14:00:00+00:00"
         },
         {
           "channel": "الشارقة",
-          "start": "2026-11-16T19:35:00+00:00"
+          "start": "2026-11-16T14:35:00+00:00"
         },
         {
           "channel": "الشرقية",
-          "start": "2026-11-16T20:00:00+00:00"
+          "start": "2026-11-16T15:00:00+00:00"
         },
         {
           "channel": "الرشيد",
-          "start": "2026-11-16T20:00:00+00:00"
+          "start": "2026-11-16T15:00:00+00:00"
         },
         {
           "channel": "السعيدة",
-          "start": "2026-11-16T20:00:00+00:00"
+          "start": "2026-11-16T15:00:00+00:00"
         },
         {
           "channel": "تلفزيون حضرموت",
-          "start": "2026-11-16T20:00:00+00:00"
+          "start": "2026-11-16T15:00:00+00:00"
         },
         {
           "channel": "الرشيد",
-          "start": "2026-11-16T21:00:00+00:00"
+          "start": "2026-11-16T16:00:00+00:00"
         },
         {
           "channel": "السعيدة",
-          "start": "2026-11-16T21:00:00+00:00"
+          "start": "2026-11-16T16:00:00+00:00"
         },
         {
           "channel": "تلفزيون حضرموت",
-          "start": "2026-11-16T21:00:00+00:00"
+          "start": "2026-11-16T16:00:00+00:00"
         },
         {
           "channel": "نسمة",
-          "start": "2026-11-16T21:30:00+00:00"
+          "start": "2026-11-16T16:30:00+00:00"
         },
         {
           "channel": "الشروق الجزائرية",
-          "start": "2026-11-16T21:30:00+00:00"
-        },
-        {
-          "channel": "قناة مصر الأولى",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "المصرية",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "إل بي سي آي",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "أون إي",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "السعيدة",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "العراقية",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "يو تي في",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "تلفزيون حضرموت",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "دجلة",
-          "start": "2026-11-16T23:00:00+00:00"
-        },
-        {
-          "channel": "إل بي سي آي",
-          "start": "2026-11-16T23:30:00+00:00"
-        },
-        {
-          "channel": "الجديد",
-          "start": "2026-11-16T23:30:00+00:00"
-        },
-        {
-          "channel": "الشروق الجزائرية",
-          "start": "2026-11-16T23:30:00+00:00"
-        },
-        {
-          "channel": "قناة مصر الأولى",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "المصرية",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "الحياة",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "أون إي",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "صدى البلد",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "الشروق الجزائرية",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "السعيدة",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "العراقية",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "يو تي في",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "تلفزيون حضرموت",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "دجلة",
-          "start": "2026-11-17T00:00:00+00:00"
-        },
-        {
-          "channel": "إل بي سي آي",
-          "start": "2026-11-17T00:30:00+00:00"
-        },
-        {
-          "channel": "الجديد",
-          "start": "2026-11-17T00:30:00+00:00"
-        },
-        {
-          "channel": "قناة مصر الأولى",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "المصرية",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "سي بي سي",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "أون إي",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "صدى البلد",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "الشروق الجزائرية",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "السعيدة",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "الثانية",
-          "start": "2026-11-17T01:00:00+00:00"
-        },
-        {
-          "channel": "نسمة",
-          "start": "2026-11-17T01:45:00+00:00"
-        },
-        {
-          "channel": "قناة مصر الأولى",
-          "start": "2026-11-17T02:00:00+00:00"
-        },
-        {
-          "channel": "المصرية",
-          "start": "2026-11-17T02:00:00+00:00"
+          "start": "2026-11-16T16:30:00+00:00"
         },
         {
           "channel": "النهار",
-          "start": "2026-11-17T02:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
         },
         {
-          "channel": "سي بي سي",
-          "start": "2026-11-17T02:00:00+00:00"
+          "channel": "أون إي",
+          "start": "2026-11-17T00:00:00+00:00"
         },
         {
           "channel": "صدى البلد",
-          "start": "2026-11-17T02:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
         },
         {
-          "channel": "الفجيرة",
-          "start": "2026-11-17T02:00:00+00:00"
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T00:00:00+00:00"
         },
         {
           "channel": "الرشيد",
-          "start": "2026-11-17T02:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
         },
         {
           "channel": "الشروق الجزائرية",
-          "start": "2026-11-17T02:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
         },
         {
           "channel": "السعيدة",
-          "start": "2026-11-17T02:00:00+00:00"
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-17T00:30:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "تن",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T01:00:00+00:00"
         },
         {
           "channel": "ماسة",
           "start": "2026-11-17T02:00:00+00:00"
         },
         {
-          "channel": "قناة مصر الأولى",
+          "channel": "الفجيرة",
+          "start": "2026-11-17T02:30:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
           "start": "2026-11-17T03:00:00+00:00"
         },
         {
-          "channel": "المصرية",
+          "channel": "ماسة",
           "start": "2026-11-17T03:00:00+00:00"
         },
         {
           "channel": "نايل لايف",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "النهار",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "الجديد",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "صدى البلد",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "نسمة",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "الشروق الجزائرية",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "السعيدة",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "ماسة",
-          "start": "2026-11-17T03:00:00+00:00"
-        },
-        {
-          "channel": "تن",
-          "start": "2026-11-17T03:30:00+00:00"
-        },
-        {
-          "channel": "الفجيرة",
-          "start": "2026-11-17T03:30:00+00:00"
-        },
-        {
-          "channel": "نسمة",
-          "start": "2026-11-17T03:45:00+00:00"
-        },
-        {
-          "channel": "قناة مصر الأولى",
-          "start": "2026-11-17T04:00:00+00:00"
-        },
-        {
-          "channel": "المصرية",
-          "start": "2026-11-17T04:00:00+00:00"
-        },
-        {
-          "channel": "الجديد",
-          "start": "2026-11-17T04:00:00+00:00"
-        },
-        {
-          "channel": "صدى البلد",
-          "start": "2026-11-17T04:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-17T04:00:00+00:00"
-        },
-        {
-          "channel": "الشروق الجزائرية",
-          "start": "2026-11-17T04:00:00+00:00"
-        },
-        {
-          "channel": "السعيدة",
           "start": "2026-11-17T04:00:00+00:00"
         },
         {
           "channel": "ماسة",
-          "start": "2026-11-17T04:00:00+00:00"
-        },
-        {
-          "channel": "النهار",
-          "start": "2026-11-17T04:30:00+00:00"
-        },
-        {
-          "channel": "نسمة",
-          "start": "2026-11-17T04:30:00+00:00"
-        },
-        {
-          "channel": "النهار",
-          "start": "2026-11-17T05:00:00+00:00"
-        },
-        {
-          "channel": "أون إي",
-          "start": "2026-11-17T05:00:00+00:00"
-        },
-        {
-          "channel": "صدى البلد",
-          "start": "2026-11-17T05:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-17T05:00:00+00:00"
-        },
-        {
-          "channel": "الشروق الجزائرية",
-          "start": "2026-11-17T05:00:00+00:00"
-        },
-        {
-          "channel": "السعيدة",
-          "start": "2026-11-17T05:00:00+00:00"
+          "start": "2026-11-17T04:10:00+00:00"
         },
         {
           "channel": "ماسة",
           "start": "2026-11-17T05:00:00+00:00"
-        },
-        {
-          "channel": "يو تي في",
-          "start": "2026-11-17T05:30:00+00:00"
-        },
-        {
-          "channel": "تن",
-          "start": "2026-11-17T06:00:00+00:00"
-        },
-        {
-          "channel": "الشروق الجزائرية",
-          "start": "2026-11-17T06:00:00+00:00"
-        },
-        {
-          "channel": "السعيدة",
-          "start": "2026-11-17T06:00:00+00:00"
         },
         {
           "channel": "ماسة",
           "start": "2026-11-17T06:00:00+00:00"
         },
         {
-          "channel": "ماسة",
+          "channel": "الحياة",
           "start": "2026-11-17T07:00:00+00:00"
         },
         {
-          "channel": "الفجيرة",
-          "start": "2026-11-17T07:30:00+00:00"
+          "channel": "يو تي في",
+          "start": "2026-11-17T07:00:00+00:00"
         },
         {
           "channel": "تلفزيون حضرموت",
-          "start": "2026-11-17T08:00:00+00:00"
+          "start": "2026-11-17T07:30:00+00:00"
         },
         {
           "channel": "ماسة",
-          "start": "2026-11-17T08:00:00+00:00"
+          "start": "2026-11-17T07:40:00+00:00"
         },
         {
-          "channel": "نايل لايف",
+          "channel": "تلفزيون حضرموت",
           "start": "2026-11-17T09:00:00+00:00"
         },
         {
-          "channel": "ماسة",
-          "start": "2026-11-17T09:10:00+00:00"
-        },
-        {
-          "channel": "ماسة",
+          "channel": "تلفزيون حضرموت",
           "start": "2026-11-17T10:00:00+00:00"
         },
         {
-          "channel": "ماسة",
+          "channel": "الرشيد",
           "start": "2026-11-17T11:00:00+00:00"
         },
         {
-          "channel": "الحياة",
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "الثانية",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "نسمة",
           "start": "2026-11-17T12:00:00+00:00"
         },
         {
@@ -2197,15 +1524,19 @@
         },
         {
           "channel": "تلفزيون حضرموت",
-          "start": "2026-11-17T12:30:00+00:00"
+          "start": "2026-11-17T12:00:00+00:00"
         },
         {
-          "channel": "ماسة",
-          "start": "2026-11-17T12:40:00+00:00"
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T13:00:00+00:00"
         },
         {
-          "channel": "تلفزيون حضرموت",
-          "start": "2026-11-17T14:00:00+00:00"
+          "channel": "نايل لايف",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T15:00:00+00:00"
         },
         {
           "channel": "تلفزيون حضرموت",
@@ -2220,59 +1551,311 @@
           "start": "2026-11-17T16:00:00+00:00"
         },
         {
-          "channel": "الثانية",
-          "start": "2026-11-17T16:00:00+00:00"
-        },
-        {
           "channel": "نسمة",
-          "start": "2026-11-17T17:00:00+00:00"
-        },
-        {
-          "channel": "يو تي في",
-          "start": "2026-11-17T17:00:00+00:00"
-        },
-        {
-          "channel": "تلفزيون حضرموت",
-          "start": "2026-11-17T17:00:00+00:00"
-        },
-        {
-          "channel": "نايل لايف",
-          "start": "2026-11-17T20:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-17T20:00:00+00:00"
-        },
-        {
-          "channel": "تلفزيون حضرموت",
-          "start": "2026-11-17T20:00:00+00:00"
-        },
-        {
-          "channel": "الرشيد",
-          "start": "2026-11-17T21:00:00+00:00"
-        },
-        {
-          "channel": "تلفزيون حضرموت",
-          "start": "2026-11-17T21:00:00+00:00"
-        },
-        {
-          "channel": "نسمة",
-          "start": "2026-11-17T21:30:00+00:00"
+          "start": "2026-11-17T16:30:00+00:00"
         },
         {
           "channel": "الشروق الجزائرية",
-          "start": "2026-11-17T21:30:00+00:00"
+          "start": "2026-11-17T16:30:00+00:00"
         },
         {
           "channel": "الحياة",
-          "start": "2026-11-17T22:00:00+00:00"
+          "start": "2026-11-17T17:00:00+00:00"
         },
         {
           "channel": "إل بي سي آي",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T17:30:00+00:00"
+        },
+        {
+          "channel": "نسمة",
+          "start": "2026-11-17T17:45:00+00:00"
+        },
+        {
+          "channel": "قناة مصر الأولى",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "المصرية",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "إل بي سي آي",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "Egyptian TV",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "إل بي سي آي",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "قناة مصر الأولى",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "المصرية",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الحياة",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "الوطنية 2",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "Egyptian TV",
+          "start": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "channel": "إل بي سي آي",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "قناة مصر الأولى",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "المصرية",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "الثانية",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "Egyptian TV",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "نسمة",
+          "start": "2026-11-17T20:45:00+00:00"
+        },
+        {
+          "channel": "قناة مصر الأولى",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "المصرية",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "الوطنية 2",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "Egyptian TV",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "قناة مصر الأولى",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "المصرية",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "نايل لايف",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
           "start": "2026-11-17T22:00:00+00:00"
         },
         {
           "channel": "صدى البلد",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "نسمة",
           "start": "2026-11-17T22:00:00+00:00"
         },
         {
@@ -2288,12 +1871,544 @@
           "start": "2026-11-17T22:00:00+00:00"
         },
         {
-          "channel": "الجديد",
+          "channel": "ماسة",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "Egyptian TV",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "تن",
+          "start": "2026-11-17T22:30:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
           "start": "2026-11-17T22:30:00+00:00"
         },
         {
           "channel": "نسمة",
           "start": "2026-11-17T22:45:00+00:00"
+        },
+        {
+          "channel": "قناة مصر الأولى",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "المصرية",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "الشروق الجزائرية",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "الوطنية 2",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "السعيدة",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "Egyptian TV",
+          "start": "2026-11-17T23:00:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-17T23:30:00+00:00"
+        },
+        {
+          "channel": "نسمة",
+          "start": "2026-11-17T23:30:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-18T00:30:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T00:30:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "تن",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T01:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T01:15:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-18T01:30:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-18T02:30:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس",
+          "start": "2026-11-18T03:53:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T07:40:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T08:00:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T10:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "الثانية",
+          "start": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "الثانية",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-18T17:30:00+00:00"
+        },
+        {
+          "channel": "نسمة",
+          "start": "2026-11-18T17:45:00+00:00"
+        },
+        {
+          "channel": "الحياة",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "تن",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-18T18:30:00+00:00"
+        },
+        {
+          "channel": "الحياة",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-18T19:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-18T19:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-18T19:52:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "أون إي",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "الثانية",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "الحياة",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-18T22:30:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "صدى البلد 2",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "الرشيد",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-18T23:00:00+00:00"
+        },
+        {
+          "channel": "النهار",
+          "start": "2026-11-18T23:30:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-19T17:30:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-19T18:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-19T18:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-19T18:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-19T18:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-19T18:30:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-19T19:30:00+00:00"
+        },
+        {
+          "channel": "القاهرة والناس 2",
+          "start": "2026-11-19T19:52:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-19T20:00:00+00:00"
+        },
+        {
+          "channel": "دجلة",
+          "start": "2026-11-19T20:00:00+00:00"
+        },
+        {
+          "channel": "الثانية",
+          "start": "2026-11-19T20:00:00+00:00"
+        },
+        {
+          "channel": "المحور",
+          "start": "2026-11-19T21:00:00+00:00"
+        },
+        {
+          "channel": "الفجيرة",
+          "start": "2026-11-19T21:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-19T21:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-19T21:30:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-19T22:00:00+00:00"
+        },
+        {
+          "channel": "الجديد",
+          "start": "2026-11-19T22:00:00+00:00"
+        },
+        {
+          "channel": "ماسة",
+          "start": "2026-11-19T22:00:00+00:00"
         }
       ]
     },
@@ -2325,8 +2440,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T19:30:00+00:00",
-      "stop": "2026-11-17T20:00:00+00:00",
+      "start": "2026-11-17T14:30:00+00:00",
+      "stop": "2026-11-17T15:00:00+00:00",
       "duration_minutes": 30,
       "is_live": false,
       "poster": null,
@@ -2337,7 +2452,7 @@
       "reruns": [
         {
           "channel": "عَمان",
-          "start": "2026-11-16T19:30:00+00:00"
+          "start": "2026-11-16T14:30:00+00:00"
         }
       ]
     },
@@ -2401,8 +2516,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T20:00:00+00:00",
-      "stop": "2026-11-17T21:00:00+00:00",
+      "start": "2026-11-17T15:00:00+00:00",
+      "stop": "2026-11-17T16:00:00+00:00",
       "duration_minutes": 60,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/n9wfQg9QHCksPH3BGbvR0YIn5cz.jpg",
@@ -2413,7 +2528,11 @@
       "reruns": [
         {
           "channel": "عَمان",
-          "start": "2026-11-16T20:00:00+00:00"
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T15:00:00+00:00"
         }
       ]
     },
@@ -2477,8 +2596,8 @@
         }
       ],
       "trailer_url": null,
-      "start": "2026-11-17T21:00:00+00:00",
-      "stop": "2026-11-17T22:35:00+00:00",
+      "start": "2026-11-17T16:00:00+00:00",
+      "stop": "2026-11-17T17:35:00+00:00",
       "duration_minutes": 95,
       "is_live": false,
       "poster": "https://image.tmdb.org/t/p/w500/sEOGdq3Oo90SnkYvMRbtkm7eaZV.jpg",
@@ -2489,11 +2608,19 @@
       "reruns": [
         {
           "channel": "عَمان",
-          "start": "2026-11-16T21:00:00+00:00"
+          "start": "2026-11-16T16:00:00+00:00"
         },
         {
           "channel": "عَمان",
-          "start": "2026-11-17T07:00:00+00:00"
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T16:00:00+00:00"
         }
       ]
     },
@@ -2525,8 +2652,8 @@
       "director": null,
       "cast": [],
       "trailer_url": null,
-      "start": "2026-11-17T22:35:00+00:00",
-      "stop": "2026-11-17T23:30:00+00:00",
+      "start": "2026-11-17T17:35:00+00:00",
+      "stop": "2026-11-17T18:30:00+00:00",
       "duration_minutes": 55,
       "is_live": false,
       "poster": null,
@@ -2537,11 +2664,2203 @@
       "reruns": [
         {
           "channel": "عَمان",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T10:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T17:35:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-19T17:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج صحتين وهنا",
+      "clean_title": "صحتين وهنا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T18:30:00+00:00",
+      "stop": "2026-11-17T19:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T18:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-19T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج سلام الروح",
+      "clean_title": "سلام الروح",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T19:30:00+00:00",
+      "stop": "2026-11-17T20:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T19:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-19T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فترة دينية",
+      "clean_title": "فترة دينية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T20:00:00+00:00",
+      "stop": "2026-11-17T21:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-19T20:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-19T20:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-19T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج بهار ونار",
+      "clean_title": "بهار ونار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T21:30:00+00:00",
+      "stop": "2026-11-17T22:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T04:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T04:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T21:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-19T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 1274,
+      "title": "برنامج عمق",
+      "clean_title": "عمق",
+      "original_title": "Six Feet Under",
+      "tagline": "الحياة ألم، فاعتد عليه.",
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 5,
+      "episodes_count": 63,
+      "description": "\"حين يكون الموت هو مهنتك... فماذا تكون حياتك؟\"\n\nبالنسبة لعائلة فيشر، فإن العالم خارج صالة الجنازات العائلية لا يقل تعقيدًا عن عالمهم الداخلي—بل إنه غالبًا أكثر تقلبًا وأقل قابلية للتوقع.",
+      "category": "General",
+      "genres": [
+        "General",
+        "دراما"
+      ],
+      "rating": 8.1,
+      "vote_count": 1196,
+      "age_rating": "TV-MA",
+      "year": "2001",
+      "release_date": "2001-06-03",
+      "status": "Ended",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "Alan Ball",
+      "cast": [
+        {
+          "name": "Peter Krause",
+          "character": "Nate Fisher",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vjTIKHUBceaM3cBbtwwDE8mgaKn.jpg"
+        },
+        {
+          "name": "مايكل ك. هول",
+          "character": "David Fisher",
+          "profile_image": "https://image.tmdb.org/t/p/w185/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
+        },
+        {
+          "name": "فرانسيس كونروي",
+          "character": "Ruth Fisher",
+          "profile_image": "https://image.tmdb.org/t/p/w185/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
+        },
+        {
+          "name": "Lauren Ambrose",
+          "character": "Claire Fisher",
+          "profile_image": "https://image.tmdb.org/t/p/w185/67oLiPwWKhy0zqdfm6NX9cXD5is.jpg"
+        },
+        {
+          "name": "Freddy Rodríguez",
+          "character": "Federico Diaz",
+          "profile_image": "https://image.tmdb.org/t/p/w185/syCMZjteDnmWQa26NqOaVaRdYmj.jpg"
+        },
+        {
+          "name": "Mathew St. Patrick",
+          "character": "Keith Charles",
+          "profile_image": "https://image.tmdb.org/t/p/w185/vi5SPtkQEztDkkQEm8cmDzDBDfA.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-17T22:30:00+00:00",
+      "stop": "2026-11-17T23:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/jVKDRjsDqRfAsNp0xrQLIgQsosX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5NOQNDMVXe8t5wIuY6r6b6iUXcc.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/jVKDRjsDqRfAsNp0xrQLIgQsosX.jpg",
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-16T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 252385,
+      "title": "برنامج بصراحة",
+      "clean_title": "بصراحة",
+      "original_title": "بصراحة مع",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 30,
+      "description": "يلتقي نجمان من العالم العربي في حوار متبادل بلا مذيع، يتبادلان الأسئلة والذكريات والحديث عن تجاربهما الشخصية والفنية.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-01-17",
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-17T23:30:00+00:00",
+      "stop": "2026-11-18T01:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kgCNd07WiVtL6U860jVOzD4eEB1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ulJ8r5Me6FHujT85M5vBW639CBS.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kgCNd07WiVtL6U860jVOzD4eEB1.jpg",
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T23:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فواصل ترويجية وفترة غنائية",
+      "clean_title": "فواصل ترويجية وفترة غنائية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T01:30:00+00:00",
+      "stop": "2026-11-18T02:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T01:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 94133,
+      "title": "برنامج صح صح",
+      "clean_title": "صح صح",
+      "original_title": "صح النوم",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 18,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General",
+        "كوميديا"
+      ],
+      "rating": 9,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "1972",
+      "release_date": "1972-06-13",
+      "status": "Returning Series",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": "نهاد قلعي",
+      "cast": [
+        {
+          "name": "دريد لحام",
+          "character": "غوار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/l7PXITkqYpbrnldFxjt3WoggftZ.jpg"
+        },
+        {
+          "name": "نهاد قلعي",
+          "character": "حسني البورازان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2SGQ9KqKNJEMacDz4FjpF5w5GnM.jpg"
+        },
+        {
+          "name": "Naji Jabr",
+          "character": "أبو عنتر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xyY9IoniPbgfO1ZzsrOI2fKOtCt.jpg"
+        },
+        {
+          "name": "Najah Hafiez",
+          "character": "فطوم حيص بيص",
+          "profile_image": "https://image.tmdb.org/t/p/w185/v1Bkt3i8TDtWkZn8DTvvKWlWLBK.jpg"
+        },
+        {
+          "name": "Yasseen Bakoush",
+          "character": "ياسين بقوش",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w9Dop08gMIVxvi7qezSEVSWVZUH.jpg"
+        },
+        {
+          "name": "صباح الجزائري",
+          "character": "انسه صباح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rKZRNLqnp1rRDN10G0FHIPGZaZw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T02:00:00+00:00",
+      "stop": "2026-11-18T04:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/sEOGdq3Oo90SnkYvMRbtkm7eaZV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ljXH2gt3b7DFzTYyNVqmyYASK7X.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/sEOGdq3Oo90SnkYvMRbtkm7eaZV.jpg",
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج وثائقي كليك",
+      "clean_title": "وثائقي كليك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T04:00:00+00:00",
+      "stop": "2026-11-18T04:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج بهار ونار",
+      "clean_title": "بهار ونار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T04:30:00+00:00",
+      "stop": "2026-11-18T06:00:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T04:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T21:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T21:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-19T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج صحتين وهنا",
+      "clean_title": "صحتين وهنا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T06:00:00+00:00",
+      "stop": "2026-11-18T07:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T18:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-19T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج سلام الروح",
+      "clean_title": "سلام الروح",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T07:00:00+00:00",
+      "stop": "2026-11-18T08:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T19:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-19T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج تي روئ",
+      "clean_title": "تي روئ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T08:00:00+00:00",
+      "stop": "2026-11-18T10:00:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Barbaros: Sword of the Mediterranean",
+      "clean_title": "Barbaros: Sword of the Mediterranean",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يحكي المسلسل قصة حياة البحار خير الدين بربروس، الذي صنع بطولات لا تنسى للإمبراطورية العثمانية في عهد السلطان سليم الأول، والذي ضمن السيادة العثمانية في البحر الأبيض المتوسط، وكان من أكبر مؤيدي خير الدين بربروس شقيقه عروج بربروس الذي تمكن من السيطرة على جميع السواحل.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T10:00:00+00:00",
+      "stop": "2026-11-18T11:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T17:35:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T17:35:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-19T17:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 301320,
+      "title": "أولاد الراعي",
+      "clean_title": "أولاد الراعي",
+      "original_title": "أولاد الراعي",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "من نقطة الصفر وجذور بسيطة، ينطلق ثلاثة أشقاء في رحلة كفاح مريرة لبناء إمبراطورية تجارية تهز عالم المال. ومع تضخم الثروة والنفوذ، يتحول النجاح إلى اختبار قاسٍ لروابط الدم؛ حيث تتشابك المصالح وتنفجر صراعات السلطة والولاء بينهم. يضعهم العمل أمام خيارات مصيرية تهدد الكيان الذي بنوه معاً، كاشفاً كيف يمكن للمال أن يغير القلوب ويقلب الأشقاء إلى خصوم في ساحة معركة لا ترحم.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 5.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "محمود شكري, خالد شكري",
+      "cast": [
+        {
+          "name": "ماجد المصري",
+          "character": "راغب الراعي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/hCFDKcAiotPNs5cvlhHXgFS6dX0.jpg"
+        },
+        {
+          "name": "أحمد عيد",
+          "character": "نديم الراعي",
+          "profile_image": "https://image.tmdb.org/t/p/w185/8mkmyIoo0EAfZ00YbLetFsUCirY.jpg"
+        },
+        {
+          "name": "خالد الصاوي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/t4Z5PVsbFgN6RsN1bksjDwZlkhc.jpg"
+        },
+        {
+          "name": "إيهاب فهمي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/upDuaN9GI86Ch5spYI9iAqj5hqt.jpg"
+        },
+        {
+          "name": "نيرمين الفقي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/uyQ74Sa0wacujf01tGpCkDaH8U5.jpg"
+        },
+        {
+          "name": "إيمان يوسف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/WsvQNRX2JonqHZwm7jibkfZz3a.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=LWChudOrCWU",
+      "start": "2026-11-18T11:00:00+00:00",
+      "stop": "2026-11-18T12:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/biAvwA8P2h348GLYLMbykmiNOBI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cQsRSF61ME6AyLpkLCJ8teFflMy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/biAvwA8P2h348GLYLMbykmiNOBI.jpg",
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T08:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-16T19:40:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T01:30:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T03:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T05:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-17T21:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-17T22:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-18T01:30:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-18T02:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-18T03:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-18T05:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-18T08:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-18T09:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-18T14:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-18T19:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-18T21:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-18T22:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-19T01:30:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-19T08:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-19T14:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي",
+          "start": "2026-11-19T18:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-19T19:30:00+00:00"
+        },
+        {
+          "channel": "بي إن دراما",
+          "start": "2026-11-19T21:00:00+00:00"
+        },
+        {
+          "channel": "سي بي سي دراما",
+          "start": "2026-11-19T22:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-20T01:30:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-20T14:00:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-20T19:30:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-21T01:30:00+00:00"
+        },
+        {
+          "channel": "Dubai TV HD",
+          "start": "2026-11-21T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 252385,
+      "title": "برنامج بصراحة",
+      "clean_title": "بصراحة",
+      "original_title": "بصراحة مع",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 30,
+      "description": "يلتقي نجمان من العالم العربي في حوار متبادل بلا مذيع، يتبادلان الأسئلة والذكريات والحديث عن تجاربهما الشخصية والفنية.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-01-17",
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T12:00:00+00:00",
+      "stop": "2026-11-18T13:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kgCNd07WiVtL6U860jVOzD4eEB1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ulJ8r5Me6FHujT85M5vBW639CBS.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kgCNd07WiVtL6U860jVOzD4eEB1.jpg",
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T23:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T23:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 202466,
+      "title": "برنامج نيران صديقة",
+      "clean_title": "نيران صديقة",
+      "original_title": "نيران صديقة",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General",
+        "دراما"
+      ],
+      "rating": 8.5,
+      "vote_count": 2,
+      "age_rating": null,
+      "year": "2013",
+      "release_date": "2013-07-10",
+      "status": "Ended",
+      "country": "مصر",
+      "language": "العربية",
+      "director": "Mohammed Amien Rady",
+      "cast": [
+        {
+          "name": "منة شلبي",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/oxX093z8VFpDUTDTR0T0WFaMIos.jpg"
+        },
+        {
+          "name": "رانيا يوسف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/9cDjVg6P4EsBsIJClPWgPc8Gck9.jpg"
+        },
+        {
+          "name": "عمرو يوسف",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/vYyvP5NHlVUNdKmUgX3e7X5sAW.jpg"
+        },
+        {
+          "name": "كندة علوش",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/lhjTsn5rfL7yAs31PuWRMHrOytu.jpg"
+        },
+        {
+          "name": "ظافر العابدين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/6K3vk8NdRBO9JvJX0PFUyD3ZAbM.jpg"
+        },
+        {
+          "name": "محمد شاهين",
+          "character": null,
+          "profile_image": "https://image.tmdb.org/t/p/w185/6Qg3CvAQzWkANgz3gunfa1U9xta.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T13:00:00+00:00",
+      "stop": "2026-11-18T14:00:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/xY5HOsCeHG2TdgVdS1n2IPCN3iI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4DQZZf4e9PqlVufQGeo6CTqAsef.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/xY5HOsCeHG2TdgVdS1n2IPCN3iI.jpg",
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "فترة وثائقية",
+      "clean_title": "فترة وثائقية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T14:00:00+00:00",
+      "stop": "2026-11-18T14:30:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج خفايا الحكاية",
+      "clean_title": "خفايا الحكاية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T14:30:00+00:00",
+      "stop": "2026-11-18T15:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 256128,
+      "title": "The Best Thing",
+      "clean_title": "The Best Thing",
+      "original_title": "爱你",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 1,
+      "episodes_count": 28,
+      "description": "تدور الأحداث حول (شين شيفان)، مديرة فندق مهووسة بالعمل، تلتقي بالطبيب الهادئ (خه سو يه) أثناء بحثها عن علاج. ورغم أن علاقتهما تبدأ طبيعية، فإن الصدفة تجمعهما كجيران، فتتطور بينهما مشاعر حب.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل",
+        "دراما"
+      ],
+      "rating": 8,
+      "vote_count": 64,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": "2025-02-25",
+      "status": "Ended",
+      "country": "CN",
+      "language": "zh",
+      "director": null,
+      "cast": [
+        {
+          "name": "张凌赫",
+          "character": "He Suye",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qfQbrpS9ZcmPlrMPTEAC289ujhr.jpg"
+        },
+        {
+          "name": "徐若晗",
+          "character": "Shen Xifan",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2STQEbzr74sOlJ4iGZLyWxsMenp.jpg"
+        },
+        {
+          "name": "王宥鈞",
+          "character": "Lin Yishen",
+          "profile_image": "https://image.tmdb.org/t/p/w185/joT1igvKLFeNlwP7GfihcIBOxS6.jpg"
+        },
+        {
+          "name": "唐九洲",
+          "character": "Li Jie",
+          "profile_image": "https://image.tmdb.org/t/p/w185/fc2vwZDLJUVJiQkwteKIwZM54Ix.jpg"
+        },
+        {
+          "name": "Huang Cancan",
+          "character": "Xu Xiangya",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pF4G9RDwp49zTMl92xBF7ndzGoI.jpg"
+        },
+        {
+          "name": "周益如",
+          "character": "Fang Kexin",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3Qy7Qagm0WNkSVCs09mk3hRwZ6b.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T15:00:00+00:00",
+      "stop": "2026-11-18T15:45:00+00:00",
+      "duration_minutes": 45,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/n9wfQg9QHCksPH3BGbvR0YIn5cz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/rFnuaqPvuELiAdedkxiS8oDMNTQ.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/n9wfQg9QHCksPH3BGbvR0YIn5cz.jpg",
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
           "start": "2026-11-16T15:00:00+00:00"
         },
         {
           "channel": "عَمان",
           "start": "2026-11-17T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فواصل ترويجية",
+      "clean_title": "فواصل ترويجية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T15:45:00+00:00",
+      "stop": "2026-11-18T16:00:00+00:00",
+      "duration_minutes": 15,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 94133,
+      "title": "برنامج صح صح",
+      "clean_title": "صح صح",
+      "original_title": "صح النوم",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 18,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General",
+        "كوميديا"
+      ],
+      "rating": 9,
+      "vote_count": 1,
+      "age_rating": null,
+      "year": "1972",
+      "release_date": "1972-06-13",
+      "status": "Returning Series",
+      "country": "سوريا",
+      "language": "العربية",
+      "director": "نهاد قلعي",
+      "cast": [
+        {
+          "name": "دريد لحام",
+          "character": "غوار",
+          "profile_image": "https://image.tmdb.org/t/p/w185/l7PXITkqYpbrnldFxjt3WoggftZ.jpg"
+        },
+        {
+          "name": "نهاد قلعي",
+          "character": "حسني البورازان",
+          "profile_image": "https://image.tmdb.org/t/p/w185/2SGQ9KqKNJEMacDz4FjpF5w5GnM.jpg"
+        },
+        {
+          "name": "Naji Jabr",
+          "character": "أبو عنتر",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xyY9IoniPbgfO1ZzsrOI2fKOtCt.jpg"
+        },
+        {
+          "name": "Najah Hafiez",
+          "character": "فطوم حيص بيص",
+          "profile_image": "https://image.tmdb.org/t/p/w185/v1Bkt3i8TDtWkZn8DTvvKWlWLBK.jpg"
+        },
+        {
+          "name": "Yasseen Bakoush",
+          "character": "ياسين بقوش",
+          "profile_image": "https://image.tmdb.org/t/p/w185/w9Dop08gMIVxvi7qezSEVSWVZUH.jpg"
+        },
+        {
+          "name": "صباح الجزائري",
+          "character": "انسه صباح",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rKZRNLqnp1rRDN10G0FHIPGZaZw.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T16:00:00+00:00",
+      "stop": "2026-11-18T17:35:00+00:00",
+      "duration_minutes": 95,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/sEOGdq3Oo90SnkYvMRbtkm7eaZV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ljXH2gt3b7DFzTYyNVqmyYASK7X.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/sEOGdq3Oo90SnkYvMRbtkm7eaZV.jpg",
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-16T16:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T02:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T16:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T02:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Barbaros: Sword of the Mediterranean",
+      "clean_title": "Barbaros: Sword of the Mediterranean",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يحكي المسلسل قصة حياة البحار خير الدين بربروس، الذي صنع بطولات لا تنسى للإمبراطورية العثمانية في عهد السلطان سليم الأول، والذي ضمن السيادة العثمانية في البحر الأبيض المتوسط، وكان من أكبر مؤيدي خير الدين بربروس شقيقه عروج بربروس الذي تمكن من السيطرة على جميع السواحل.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T17:35:00+00:00",
+      "stop": "2026-11-18T18:30:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T17:35:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T10:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-19T17:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج صحتين وهنا",
+      "clean_title": "صحتين وهنا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T18:30:00+00:00",
+      "stop": "2026-11-18T19:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-19T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج سلام الروح",
+      "clean_title": "سلام الروح",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T19:30:00+00:00",
+      "stop": "2026-11-18T20:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-19T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فترة دينية",
+      "clean_title": "فترة دينية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T20:00:00+00:00",
+      "stop": "2026-11-18T21:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-19T20:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-19T20:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-19T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج بهار ونار",
+      "clean_title": "بهار ونار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T21:30:00+00:00",
+      "stop": "2026-11-18T22:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T04:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T21:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T04:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-19T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج هاتريك",
+      "clean_title": "هاتريك",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T22:30:00+00:00",
+      "stop": "2026-11-18T23:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-16T13:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-16T15:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T04:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T15:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "يو تي في",
+          "start": "2026-11-19T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 252385,
+      "title": "برنامج بصراحة",
+      "clean_title": "بصراحة",
+      "original_title": "بصراحة مع",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": 2,
+      "episodes_count": 30,
+      "description": "يلتقي نجمان من العالم العربي في حوار متبادل بلا مذيع، يتبادلان الأسئلة والذكريات والحديث عن تجاربهما الشخصية والفنية.",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": "2021-01-17",
+      "status": "Returning Series",
+      "country": "السعودية",
+      "language": "العربية",
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T23:30:00+00:00",
+      "stop": "2026-11-19T01:30:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/kgCNd07WiVtL6U860jVOzD4eEB1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ulJ8r5Me6FHujT85M5vBW639CBS.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/kgCNd07WiVtL6U860jVOzD4eEB1.jpg",
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T23:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "Barbaros: Sword of the Mediterranean",
+      "clean_title": "Barbaros: Sword of the Mediterranean",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يحكي المسلسل قصة حياة البحار خير الدين بربروس، الذي صنع بطولات لا تنسى للإمبراطورية العثمانية في عهد السلطان سليم الأول، والذي ضمن السيادة العثمانية في البحر الأبيض المتوسط، وكان من أكبر مؤيدي خير الدين بربروس شقيقه عروج بربروس الذي تمكن من السيطرة على جميع السواحل.",
+      "category": "مسلسل",
+      "genres": [
+        "مسلسل"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T17:35:00+00:00",
+      "stop": "2026-11-19T18:30:00+00:00",
+      "duration_minutes": 55,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T10:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T17:35:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T10:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T17:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج صحتين وهنا",
+      "clean_title": "صحتين وهنا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T18:30:00+00:00",
+      "stop": "2026-11-19T19:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T18:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T06:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج سلام الروح",
+      "clean_title": "سلام الروح",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T19:30:00+00:00",
+      "stop": "2026-11-19T20:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T19:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T07:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "فترة دينية",
+      "clean_title": "فترة دينية",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T20:00:00+00:00",
+      "stop": "2026-11-19T21:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-17T20:00:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "العراقية",
+          "start": "2026-11-18T20:00:00+00:00"
+        },
+        {
+          "channel": "تلفزيون حضرموت",
+          "start": "2026-11-18T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "برنامج بهار ونار",
+      "clean_title": "بهار ونار",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "",
+      "category": "General",
+      "genres": [
+        "General"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": null,
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T21:30:00+00:00",
+      "stop": "2026-11-19T22:30:00+00:00",
+      "duration_minutes": 60,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/5l7kw0b.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T04:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-17T21:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T04:30:00+00:00"
+        },
+        {
+          "channel": "عَمان",
+          "start": "2026-11-18T21:30:00+00:00"
         }
       ]
     }

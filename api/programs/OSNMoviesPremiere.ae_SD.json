@@ -2,6 +2,7 @@
   "channel_id": "OSNMoviesPremiere.ae@SD",
   "channel_name": "OSNtv Movies Premiere",
   "channel_icon": "https://i.imgur.com/2MomHqn.png",
+  "days_count": 7,
   "programs": [
     {
       "tmdb_id": null,
@@ -127,6 +128,10 @@
         {
           "channel": "OSNtv Movies Premiere",
           "start": "2026-11-17T10:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-18T15:35:00+00:00"
         }
       ]
     },
@@ -171,6 +176,10 @@
         {
           "channel": "OSNtv Movies Premiere",
           "start": "2026-11-17T16:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-18T04:25:00+00:00"
         }
       ]
     },
@@ -211,7 +220,12 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/2MomHqn.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T02:15:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -294,7 +308,12 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/2MomHqn.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-22T06:15:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": 1020006,
@@ -407,6 +426,14 @@
         {
           "channel": "OSNtv Movies Premiere",
           "start": "2026-11-17T06:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-18T09:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-22T14:00:00+00:00"
         }
       ]
     },
@@ -665,7 +692,16 @@
       "icon": null,
       "channel_icon": "https://i.imgur.com/2MomHqn.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-18T07:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T11:45:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": 1061474,
@@ -781,6 +817,14 @@
         {
           "channel": "OSNtv Movies Premiere",
           "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-18T09:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-22T14:00:00+00:00"
         }
       ]
     },
@@ -825,6 +869,10 @@
         {
           "channel": "OSNtv Movies Premiere",
           "start": "2026-11-16T03:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-18T15:35:00+00:00"
         }
       ]
     },
@@ -899,7 +947,20 @@
       "icon": "https://image.tmdb.org/t/p/w500/uKBYCOy6Z4rYLyUsAEKIkO1YBsD.jpg",
       "channel_icon": "https://i.imgur.com/2MomHqn.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T04:20:00+00:00"
+        },
+        {
+          "channel": "MBC2",
+          "start": "2026-11-21T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-22T12:25:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -986,6 +1047,10 @@
         {
           "channel": "OSNtv Movies Premiere",
           "start": "2026-11-16T05:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-18T04:25:00+00:00"
         }
       ]
     },
@@ -1060,7 +1125,16 @@
       "icon": "https://image.tmdb.org/t/p/w500/xayv8vZgN3aoqy8ADWvPz8RJOE8.jpg",
       "channel_icon": "https://i.imgur.com/2MomHqn.png",
       "is_rerun": false,
-      "reruns": []
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-17T23:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-18T19:55:00+00:00"
+        }
+      ]
     },
     {
       "tmdb_id": null,
@@ -1141,6 +1215,3043 @@
       "start": "2026-11-17T21:35:00+00:00",
       "stop": "2026-11-17T23:10:00+00:00",
       "duration_minutes": 95,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 436969,
+      "title": "ذا سويسايد سكواد",
+      "clean_title": "ذا سويسايد سكواد",
+      "original_title": "The Suicide Squad",
+      "tagline": "متحمسون لإنقاذ العالم.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تبدأ الحكاية في قلب الجحيم في \"بيل ريف\"، السجن الأخطر في أمريكا، حيث يُحتجز أعتى الأشرار ويُتركون فريسة لليأس، فلا أمل يلوح في الأفق، ولا حديث سوى عن الهروب مهما كان الثمن",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "حركة",
+        "كوميديا",
+        "مغامرة"
+      ],
+      "rating": 7.4,
+      "vote_count": 10097,
+      "age_rating": "R",
+      "year": "2021",
+      "release_date": "2021-07-28",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "جيمس غان",
+      "cast": [
+        {
+          "name": "مارجو روبي",
+          "character": "Harley Quinn",
+          "profile_image": "https://image.tmdb.org/t/p/w185/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+        },
+        {
+          "name": "إدريس إلبا",
+          "character": "Bloodsport",
+          "profile_image": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+        },
+        {
+          "name": "جون سينا",
+          "character": "Peacemaker",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+        },
+        {
+          "name": "جويل كينمان",
+          "character": "Colonel Rick Flag",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cVfYzTyQdJ4xtxKPZe7IcW3BJN4.jpg"
+        },
+        {
+          "name": "سيلفستر ستالون",
+          "character": "King Shark (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+        },
+        {
+          "name": "فيولا ديفيس",
+          "character": "Amanda Waller",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xDssw6vpYNRjsybvMPRE30e0dPN.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=YmC449_rZDk",
+      "start": "2026-11-17T23:10:00+00:00",
+      "stop": "2026-11-18T01:25:00+00:00",
+      "duration_minutes": 135,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/xayv8vZgN3aoqy8ADWvPz8RJOE8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/xayv8vZgN3aoqy8ADWvPz8RJOE8.jpg",
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-18T19:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "آوت ديه: ذا يوث أوف جامايكا",
+      "clean_title": "آوت ديه: ذا يوث أوف جامايكا",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يروي ثلاثة شبّان من جامايكا حكاياتهم. يحلم المغنّي بيكرستيز بمسيرة عالمية، ويسعى شاما ليكون أول راكب أمواج محترف في بلاده، بينما يكشف رومار عن تفاصيل الحياة في مجتمعه.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T01:25:00+00:00",
+      "stop": "2026-11-18T02:45:00+00:00",
+      "duration_minutes": 80,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Yahala Aflam",
+          "start": "2026-11-20T00:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا كيتشن",
+      "clean_title": "ذا كيتشن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "زوجات رجال العصابات في نيويورك في منطقة هيلز كيتشن خلال السبعينيات يواصلن إدارة أعمال أزواجهن غير القانونية بعد دخولهم السجن",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T02:45:00+00:00",
+      "stop": "2026-11-18T04:25:00+00:00",
+      "duration_minutes": 100,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T10:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إي ماتشو بيتشو بروپوزال",
+      "clean_title": "إي ماتشو بيتشو بروپوزال",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تسافر كاتي إلى بيرو لمساعدة شقيقها دان على طلب الزواج من لوسيانا، لكن تدخل الطاهي كارلوس يقلب خطتهما رأسًا على عقب، وربما يسرق قلب كاتي أيضًا.",
+      "category": "رومانسي",
+      "genres": [
+        "رومانسي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2025",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T04:25:00+00:00",
+      "stop": "2026-11-18T05:55:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-16T05:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-17T16:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذوس هو ويش مي ديد",
+      "clean_title": "ذوس هو ويش مي ديد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تكافح عاملة إطفاء وصبي يبلغ من العمر 12 عاماً من أجل حياتهما بينما يلاحقهما قاتلان في البرية",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T05:55:00+00:00",
+      "stop": "2026-11-18T07:35:00+00:00",
+      "duration_minutes": 100,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T13:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا ليتل ثينغز",
+      "clean_title": "ذا ليتل ثينغز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم نائب الشريف جو ديكون الملقب بديكي بالبحث عن قاتل متسلسل مع الرقيب جيم باكستر والذي لم يكن مدركا بأن التحقيق سوف ينبش ماضي ديكي.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T07:35:00+00:00",
+      "stop": "2026-11-18T09:45:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-17T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T11:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "زاك سنايدرز جاستس ليغ",
+      "clean_title": "زاك سنايدرز جاستس ليغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يجنّدان باتمان ووندر وومان فريقاً قادراً على حماية العالم من التهديد الوشيك لستيبن وولف وجيشه من البراديمن.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T09:45:00+00:00",
+      "stop": "2026-11-18T13:45:00+00:00",
+      "duration_minutes": 240,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-16T14:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-17T06:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-22T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 460465,
+      "title": "مورتال كومبات",
+      "clean_title": "مورتال كومبات",
+      "original_title": "Mortal Kombat",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يجب أن يتدرب كول يونج مقاتل الفنون القتالية المختلطة لإطلاق العنان لقوته الحقيقية والاتحاد مع أعظم أبطال الأرض ضد أعداء العالم الخارجي لخوض معركة شديدة الخطورة من أجل الكون.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "حركة",
+        "فانتازيا",
+        "مغامرة"
+      ],
+      "rating": 7,
+      "vote_count": 7155,
+      "age_rating": "R",
+      "year": "2021",
+      "release_date": "2021-04-07",
+      "status": "Released",
+      "country": "أستراليا",
+      "language": "الإنجليزية",
+      "director": "Simon McQuoid",
+      "cast": [
+        {
+          "name": "لويس تان",
+          "character": "Cole Young",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yMr3mwHHBpfbXwDDkahOzFtTCak.jpg"
+        },
+        {
+          "name": "Jessica McNamee",
+          "character": "Sonya Blade",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xX1WxRZyJqVAx24Q3ziziGq2T8A.jpg"
+        },
+        {
+          "name": "Mehcad Brooks",
+          "character": "Jax",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s7Cu6Si9n5qsH64eLBVGXaf55bE.jpg"
+        },
+        {
+          "name": "Josh Lawson",
+          "character": "Kano",
+          "profile_image": "https://image.tmdb.org/t/p/w185/Am9vM77uZd9bGODugwmWtOfzx6E.jpg"
+        },
+        {
+          "name": "Ludi Lin",
+          "character": "Liu Kang",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9Ila4K8POeuVWRO9hzyekFjvCDk.jpg"
+        },
+        {
+          "name": "Max Huang",
+          "character": "Kung Lao",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pHntB82hNVVKZtTAUgUKr2KE1Zt.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-18T13:45:00+00:00",
+      "stop": "2026-11-18T15:35:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/k684AhG9b02p0G96OqTnswDXguF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/k684AhG9b02p0G96OqTnswDXguF.jpg",
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "موذرليس بروكلين",
+      "clean_title": "موذرليس بروكلين",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "ينطلق محقق خاص وحيد لحل لغز مقتل معلمه وصديقه الوحيد.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T15:35:00+00:00",
+      "stop": "2026-11-18T18:00:00+00:00",
+      "duration_minutes": 145,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-16T03:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-17T10:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "الأم ماري",
+      "clean_title": "الأم ماري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تطفو على السطح جروح قديمة عندما تجتمع نجمة البوب الشهيرة ماذر ماري مع صديقتها المقرّبة السابقة ومصممة الأزياء السابقة سام أنسلم عشية أداء عودتها",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T18:00:00+00:00",
+      "stop": "2026-11-18T19:55:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T00:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T19:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 436969,
+      "title": "ذا سويسايد سكواد",
+      "clean_title": "ذا سويسايد سكواد",
+      "original_title": "The Suicide Squad",
+      "tagline": "متحمسون لإنقاذ العالم.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تبدأ الحكاية في قلب الجحيم في \"بيل ريف\"، السجن الأخطر في أمريكا، حيث يُحتجز أعتى الأشرار ويُتركون فريسة لليأس، فلا أمل يلوح في الأفق، ولا حديث سوى عن الهروب مهما كان الثمن",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "حركة",
+        "كوميديا",
+        "مغامرة"
+      ],
+      "rating": 7.4,
+      "vote_count": 10097,
+      "age_rating": "R",
+      "year": "2021",
+      "release_date": "2021-07-28",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "جيمس غان",
+      "cast": [
+        {
+          "name": "مارجو روبي",
+          "character": "Harley Quinn",
+          "profile_image": "https://image.tmdb.org/t/p/w185/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+        },
+        {
+          "name": "إدريس إلبا",
+          "character": "Bloodsport",
+          "profile_image": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+        },
+        {
+          "name": "جون سينا",
+          "character": "Peacemaker",
+          "profile_image": "https://image.tmdb.org/t/p/w185/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+        },
+        {
+          "name": "جويل كينمان",
+          "character": "Colonel Rick Flag",
+          "profile_image": "https://image.tmdb.org/t/p/w185/cVfYzTyQdJ4xtxKPZe7IcW3BJN4.jpg"
+        },
+        {
+          "name": "سيلفستر ستالون",
+          "character": "King Shark (voice)",
+          "profile_image": "https://image.tmdb.org/t/p/w185/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+        },
+        {
+          "name": "فيولا ديفيس",
+          "character": "Amanda Waller",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xDssw6vpYNRjsybvMPRE30e0dPN.jpg"
+        }
+      ],
+      "trailer_url": "https://www.youtube.com/watch?v=YmC449_rZDk",
+      "start": "2026-11-18T19:55:00+00:00",
+      "stop": "2026-11-18T22:05:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/xayv8vZgN3aoqy8ADWvPz8RJOE8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/xayv8vZgN3aoqy8ADWvPz8RJOE8.jpg",
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-17T23:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إيميليا بيريز",
+      "clean_title": "إيميليا بيريز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "سعياً لعيش حياة صادقة، تستعين إيميليا بريتا، محامية غير مقدّرة، لمساعدتها في تزييف وفاتها، ما يجعلهما تخوضا معاً رحلة استكشافية للهوية والذات.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-18T22:05:00+00:00",
+      "stop": "2026-11-19T00:15:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "الأم ماري",
+      "clean_title": "الأم ماري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تطفو على السطح جروح قديمة عندما تجتمع نجمة البوب الشهيرة ماذر ماري مع صديقتها المقرّبة السابقة ومصممة الأزياء السابقة سام أنسلم عشية أداء عودتها",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T00:15:00+00:00",
+      "stop": "2026-11-19T02:15:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T19:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ريبلكاس",
+      "clean_title": "ريبلكاس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يصبح عالمًا مهووسًا بإعادة أفراد أسرته و الذين لقوا حتفهم في حادث مروري.",
+      "category": "خيال علمي",
+      "genres": [
+        "خيال علمي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T02:15:00+00:00",
+      "stop": "2026-11-19T04:05:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-16T07:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا ميغ",
+      "clean_title": "ذا ميغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عقب نجاته من هجوم سمكة قرش يدعي أن طولها يتجاوز الـ 21 متراً، يتعين على جوناس تيلور التغلب على أسوأ مخاوفه وإنقاذ مجموعة من الأشخاص عالقين في غواصة غارقة",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T04:05:00+00:00",
+      "stop": "2026-11-19T06:00:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T14:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T06:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T16:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 460465,
+      "title": "مورتال كومبات",
+      "clean_title": "مورتال كومبات",
+      "original_title": "Mortal Kombat",
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يجب أن يتدرب كول يونج مقاتل الفنون القتالية المختلطة لإطلاق العنان لقوته الحقيقية والاتحاد مع أعظم أبطال الأرض ضد أعداء العالم الخارجي لخوض معركة شديدة الخطورة من أجل الكون.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "حركة",
+        "فانتازيا",
+        "مغامرة"
+      ],
+      "rating": 7,
+      "vote_count": 7155,
+      "age_rating": "R",
+      "year": "2021",
+      "release_date": "2021-04-07",
+      "status": "Released",
+      "country": "أستراليا",
+      "language": "الإنجليزية",
+      "director": "Simon McQuoid",
+      "cast": [
+        {
+          "name": "لويس تان",
+          "character": "Cole Young",
+          "profile_image": "https://image.tmdb.org/t/p/w185/yMr3mwHHBpfbXwDDkahOzFtTCak.jpg"
+        },
+        {
+          "name": "Jessica McNamee",
+          "character": "Sonya Blade",
+          "profile_image": "https://image.tmdb.org/t/p/w185/xX1WxRZyJqVAx24Q3ziziGq2T8A.jpg"
+        },
+        {
+          "name": "Mehcad Brooks",
+          "character": "Jax",
+          "profile_image": "https://image.tmdb.org/t/p/w185/s7Cu6Si9n5qsH64eLBVGXaf55bE.jpg"
+        },
+        {
+          "name": "Josh Lawson",
+          "character": "Kano",
+          "profile_image": "https://image.tmdb.org/t/p/w185/Am9vM77uZd9bGODugwmWtOfzx6E.jpg"
+        },
+        {
+          "name": "Ludi Lin",
+          "character": "Liu Kang",
+          "profile_image": "https://image.tmdb.org/t/p/w185/9Ila4K8POeuVWRO9hzyekFjvCDk.jpg"
+        },
+        {
+          "name": "Max Huang",
+          "character": "Kung Lao",
+          "profile_image": "https://image.tmdb.org/t/p/w185/pHntB82hNVVKZtTAUgUKr2KE1Zt.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-19T06:00:00+00:00",
+      "stop": "2026-11-19T07:50:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/k684AhG9b02p0G96OqTnswDXguF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/k684AhG9b02p0G96OqTnswDXguF.jpg",
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-18T13:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إن ذا هايتس",
+      "clean_title": "إن ذا هايتس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في واشنطن هايتس، يوفر صاحب بقالة نيويورك المتعاطف كل قرش يوميًا بينما يتخيل حياة أفضل لنفسه ويغنّي عنها.",
+      "category": "موسيقي",
+      "genres": [
+        "موسيقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T07:50:00+00:00",
+      "stop": "2026-11-19T10:15:00+00:00",
+      "duration_minutes": 145,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T12:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T02:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إي كوستا ريكان ويدينغ",
+      "clean_title": "إي كوستا ريكان ويدينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تطلب وصيفة الشرف المتعثرة المساعدة من منافسها الوسيم عندما تخرج الأمور عن السيطرة في حفل زفاف صديقتها المقربة في كوستاريكا.",
+      "category": "رومانسي",
+      "genres": [
+        "رومانسي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T10:15:00+00:00",
+      "stop": "2026-11-19T11:45:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T16:35:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T10:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا ليتل ثينغز",
+      "clean_title": "ذا ليتل ثينغز",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم نائب الشريف جو ديكون الملقب بديكي بالبحث عن قاتل متسلسل مع الرقيب جيم باكستر والذي لم يكن مدركا بأن التحقيق سوف ينبش ماضي ديكي.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T11:45:00+00:00",
+      "stop": "2026-11-19T13:55:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-17T02:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-18T07:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذوس هو ويش مي ديد",
+      "clean_title": "ذوس هو ويش مي ديد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تكافح عاملة إطفاء وصبي يبلغ من العمر 12 عاماً من أجل حياتهما بينما يلاحقهما قاتلان في البرية",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T13:55:00+00:00",
+      "stop": "2026-11-19T15:35:00+00:00",
+      "duration_minutes": 100,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-18T05:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كينغ ريتشارد",
+      "clean_title": "كينغ ريتشارد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نتابع الرحلة التي صنعت أسطورتي التنس فينوس وسيرينا ويليامز وكيف قادهما تدريب والدهما ريتشارد إلى المجد العالمي.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T15:35:00+00:00",
+      "stop": "2026-11-19T18:00:00+00:00",
+      "duration_minutes": 145,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T08:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا دراما",
+      "clean_title": "ذا دراما",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواجه ثنائي مخطوب وسعيد تحديات غير متوقعة تقلب أسبوع زفافهما رأسًا على عقب.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T18:00:00+00:00",
+      "stop": "2026-11-19T19:50:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T00:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T20:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "الأم ماري",
+      "clean_title": "الأم ماري",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تطفو على السطح جروح قديمة عندما تجتمع نجمة البوب الشهيرة ماذر ماري مع صديقتها المقرّبة السابقة ومصممة الأزياء السابقة سام أنسلم عشية أداء عودتها",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T19:50:00+00:00",
+      "stop": "2026-11-19T21:45:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T00:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا سبستانس",
+      "clean_title": "ذا سبستانس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتعاطى نجمة تتلاشى شهرتها مخدراً من السوق السوداء، يعمل مؤقتاً على إعادة تكوين خلاياها، ليُنتج نسخة أصغر وأفضل منها.",
+      "category": "خيال علمي",
+      "genres": [
+        "خيال علمي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-19T21:45:00+00:00",
+      "stop": "2026-11-20T00:05:00+00:00",
+      "duration_minutes": 140,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T22:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا دراما",
+      "clean_title": "ذا دراما",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواجه ثنائي مخطوب وسعيد تحديات غير متوقعة تقلب أسبوع زفافهما رأسًا على عقب.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T00:05:00+00:00",
+      "stop": "2026-11-20T01:55:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T20:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "تينيت",
+      "clean_title": "تينيت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في معركة من أجل بقاء العالم بأسره، ينطلق عميل المخابرات المركزية في رحلة عبر عالم غامض من التجسس الدولي في مهمة ستكشف عن أحداث تتجاوز الزمن الحقيقي.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T01:55:00+00:00",
+      "stop": "2026-11-20T04:20:00+00:00",
+      "duration_minutes": 145,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T11:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-22T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": 287947,
+      "title": "شازام",
+      "clean_title": "شازام",
+      "original_title": "Shazam!",
+      "tagline": "قل الكلمة فقط.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بمجرد أن يصرخ بكلمة واحدة - \"شازام!\" - يمكن لهذا المراهق الذكي البالغ من العمر 14 عاماً والذي يعيش في عائلة حاضنة أن يتحول إلى البطل الخارق، شازام.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "حركة",
+        "كوميديا",
+        "فانتازيا"
+      ],
+      "rating": 7,
+      "vote_count": 10588,
+      "age_rating": "PG-13",
+      "year": "2019",
+      "release_date": "2019-03-29",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "David F. Sandberg",
+      "cast": [
+        {
+          "name": "زكاري ليفي",
+          "character": "Shazam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg"
+        },
+        {
+          "name": "مارك سترونج",
+          "character": "Dr. Sivana",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+        },
+        {
+          "name": "Asher Angel",
+          "character": "Billy Batson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lgBt67iggDs0d8QBSyjdk2ytHtK.jpg"
+        },
+        {
+          "name": "جاك ديلان غرازر",
+          "character": "Freddy Freeman",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lSE2LLt1ZEVf2n1X2CycTl0ehyV.jpg"
+        },
+        {
+          "name": "آدم برودي",
+          "character": "Super Hero Freddy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qKBWrohBYegm6AAaLrtxEqqouIK.jpg"
+        },
+        {
+          "name": "دجيمون هونسو",
+          "character": "Wizard",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-20T04:20:00+00:00",
+      "stop": "2026-11-20T06:30:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/uKBYCOy6Z4rYLyUsAEKIkO1YBsD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/uKBYCOy6Z4rYLyUsAEKIkO1YBsD.jpg",
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-17T13:05:00+00:00"
+        },
+        {
+          "channel": "MBC2",
+          "start": "2026-11-21T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-22T12:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ريمنيسنس",
+      "clean_title": "ريمنيسنس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتنقل المحقق الخاص للعقل عبر الماضي من خلال الوصول إلى الذكريات المفقودة و تتغير حياته إلى الأبد عندما يلتقي مع عميلة جديدة تحارب للعثور على حقيقة اختفائها",
+      "category": "خيال علمي",
+      "genres": [
+        "خيال علمي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T06:30:00+00:00",
+      "stop": "2026-11-20T08:25:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T14:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-22T04:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كينغ ريتشارد",
+      "clean_title": "كينغ ريتشارد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نتابع الرحلة التي صنعت أسطورتي التنس فينوس وسيرينا ويليامز وكيف قادهما تدريب والدهما ريتشارد إلى المجد العالمي.",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T08:25:00+00:00",
+      "stop": "2026-11-20T10:45:00+00:00",
+      "duration_minutes": 140,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T15:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا كيتشن",
+      "clean_title": "ذا كيتشن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "زوجات رجال العصابات في نيويورك في منطقة هيلز كيتشن خلال السبعينيات يواصلن إدارة أعمال أزواجهن غير القانونية بعد دخولهم السجن",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T10:45:00+00:00",
+      "stop": "2026-11-20T12:25:00+00:00",
+      "duration_minutes": 100,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-18T02:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إن ذا هايتس",
+      "clean_title": "إن ذا هايتس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في واشنطن هايتس، يوفر صاحب بقالة نيويورك المتعاطف كل قرش يوميًا بينما يتخيل حياة أفضل لنفسه ويغنّي عنها.",
+      "category": "موسيقي",
+      "genres": [
+        "موسيقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T12:25:00+00:00",
+      "stop": "2026-11-20T14:45:00+00:00",
+      "duration_minutes": 140,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T07:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T02:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا ميغ",
+      "clean_title": "ذا ميغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عقب نجاته من هجوم سمكة قرش يدعي أن طولها يتجاوز الـ 21 متراً، يتعين على جوناس تيلور التغلب على أسوأ مخاوفه وإنقاذ مجموعة من الأشخاص عالقين في غواصة غارقة",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T14:45:00+00:00",
+      "stop": "2026-11-20T16:35:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T04:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T06:10:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T16:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إي كوستا ريكان ويدينغ",
+      "clean_title": "إي كوستا ريكان ويدينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تطلب وصيفة الشرف المتعثرة المساعدة من منافسها الوسيم عندما تخرج الأمور عن السيطرة في حفل زفاف صديقتها المقربة في كوستاريكا.",
+      "category": "رومانسي",
+      "genres": [
+        "رومانسي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T16:35:00+00:00",
+      "stop": "2026-11-20T18:00:00+00:00",
+      "duration_minutes": 85,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T10:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T10:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ساوند أوف فريدوم",
+      "clean_title": "ساوند أوف فريدوم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "القصة الحقيقية المذهلة لعميل حكومي سابق تحول إلى قصاص يشرع في مهمة خطيرة لإنقاذ مئات الأطفال من المتاجرين بالجنس.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T18:00:00+00:00",
+      "stop": "2026-11-20T20:10:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T00:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T19:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا دراما",
+      "clean_title": "ذا دراما",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يواجه ثنائي مخطوب وسعيد تحديات غير متوقعة تقلب أسبوع زفافهما رأسًا على عقب.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T20:10:00+00:00",
+      "stop": "2026-11-20T22:00:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T00:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إماكيوليت",
+      "clean_title": "إماكيوليت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تبدأ راهبة أمريكية رحلة جديدة عندما تنضم إلى دير منعزل للراهبات في الريف الإيطالي، ولكن سرعان ما يتحول استقبالها الحار إلى كابوس حي.",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T22:00:00+00:00",
+      "stop": "2026-11-20T23:30:00+00:00",
+      "duration_minutes": 90,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-16T21:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "جينيريشنز أوف فريسكيينغ",
+      "clean_title": "جينيريشنز أوف فريسكيينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "نكتشف معاً قصة التزلج الحر من جذوره، ونتابع كيف تطور عبر الزمن.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2017",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-20T23:30:00+00:00",
+      "stop": "2026-11-21T00:00:00+00:00",
+      "duration_minutes": 30,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "ساوند أوف فريدوم",
+      "clean_title": "ساوند أوف فريدوم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "القصة الحقيقية المذهلة لعميل حكومي سابق تحول إلى قصاص يشرع في مهمة خطيرة لإنقاذ مئات الأطفال من المتاجرين بالجنس.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T00:00:00+00:00",
+      "stop": "2026-11-21T02:10:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T19:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "إن ذا هايتس",
+      "clean_title": "إن ذا هايتس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في واشنطن هايتس، يوفر صاحب بقالة نيويورك المتعاطف كل قرش يوميًا بينما يتخيل حياة أفضل لنفسه ويغنّي عنها.",
+      "category": "موسيقي",
+      "genres": [
+        "موسيقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T02:10:00+00:00",
+      "stop": "2026-11-21T04:30:00+00:00",
+      "duration_minutes": 140,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T07:50:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T12:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أفترسن",
+      "clean_title": "أفترسن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تسترجع صوفي ذكريات رحلة قضتها مع والدها قبل عشرين عاماً، وتمزج بين الحقيقة والخيال في محاولة لفهم الرجل الذي لم تعرفه خلف صورة الأب الذي أحبّته",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T04:30:00+00:00",
+      "stop": "2026-11-21T06:10:00+00:00",
+      "duration_minutes": 100,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-22T14:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا ميغ",
+      "clean_title": "ذا ميغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عقب نجاته من هجوم سمكة قرش يدعي أن طولها يتجاوز الـ 21 متراً، يتعين على جوناس تيلور التغلب على أسوأ مخاوفه وإنقاذ مجموعة من الأشخاص عالقين في غواصة غارقة",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T06:10:00+00:00",
+      "stop": "2026-11-21T08:00:00+00:00",
+      "duration_minutes": 110,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T04:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T14:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T16:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ريدي بلاير ون",
+      "clean_title": "ريدي بلاير ون",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في عام 2045، أصبح العالم مكاناً قاسياً إذ اللحظات الوحيدة التي يشعر فيها وايد واتس بالحياة هي عندما يهرب إلى أويسيس، وهو العالم الافتراضي الغامر حيث يقضي معظم البشر أيامهم.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T08:00:00+00:00",
+      "stop": "2026-11-21T10:20:00+00:00",
+      "duration_minutes": 140,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "إي كوستا ريكان ويدينغ",
+      "clean_title": "إي كوستا ريكان ويدينغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تطلب وصيفة الشرف المتعثرة المساعدة من منافسها الوسيم عندما تخرج الأمور عن السيطرة في حفل زفاف صديقتها المقربة في كوستاريكا.",
+      "category": "رومانسي",
+      "genres": [
+        "رومانسي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T10:20:00+00:00",
+      "stop": "2026-11-21T11:45:00+00:00",
+      "duration_minutes": 85,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T10:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T16:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "تينيت",
+      "clean_title": "تينيت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في معركة من أجل بقاء العالم بأسره، ينطلق عميل المخابرات المركزية في رحلة عبر عالم غامض من التجسس الدولي في مهمة ستكشف عن أحداث تتجاوز الزمن الحقيقي.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T11:45:00+00:00",
+      "stop": "2026-11-21T14:10:00+00:00",
+      "duration_minutes": 145,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T01:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-22T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ريمنيسنس",
+      "clean_title": "ريمنيسنس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتنقل المحقق الخاص للعقل عبر الماضي من خلال الوصول إلى الذكريات المفقودة و تتغير حياته إلى الأبد عندما يلتقي مع عميلة جديدة تحارب للعثور على حقيقة اختفائها",
+      "category": "خيال علمي",
+      "genres": [
+        "خيال علمي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T14:10:00+00:00",
+      "stop": "2026-11-21T16:05:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T06:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-22T04:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا ميغ",
+      "clean_title": "ذا ميغ",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "عقب نجاته من هجوم سمكة قرش يدعي أن طولها يتجاوز الـ 21 متراً، يتعين على جوناس تيلور التغلب على أسوأ مخاوفه وإنقاذ مجموعة من الأشخاص عالقين في غواصة غارقة",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2018",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T16:05:00+00:00",
+      "stop": "2026-11-21T18:00:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T04:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T14:45:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T06:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نو سادن موف",
+      "clean_title": "نو سادن موف",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتم انضمام مجموعة من المجرمين معًا في ظل ظروف غامضة وعليهم العمل معًا للكشف عما يحدث بالفعل عندما تأخذ مهمتهم البسيطة نتحى آخر تمامًا.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T18:00:00+00:00",
+      "stop": "2026-11-21T19:55:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-22T00:25:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-22T20:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ساوند أوف فريدوم",
+      "clean_title": "ساوند أوف فريدوم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "القصة الحقيقية المذهلة لعميل حكومي سابق تحول إلى قصاص يشرع في مهمة خطيرة لإنقاذ مئات الأطفال من المتاجرين بالجنس.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T19:55:00+00:00",
+      "stop": "2026-11-21T22:05:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ذا سبستانس",
+      "clean_title": "ذا سبستانس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تتعاطى نجمة تتلاشى شهرتها مخدراً من السوق السوداء، يعمل مؤقتاً على إعادة تكوين خلاياها، ليُنتج نسخة أصغر وأفضل منها.",
+      "category": "خيال علمي",
+      "genres": [
+        "خيال علمي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-21T22:05:00+00:00",
+      "stop": "2026-11-22T00:25:00+00:00",
+      "duration_minutes": 140,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-19T21:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "نو سادن موف",
+      "clean_title": "نو سادن موف",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتم انضمام مجموعة من المجرمين معًا في ظل ظروف غامضة وعليهم العمل معًا للكشف عما يحدث بالفعل عندما تأخذ مهمتهم البسيطة نتحى آخر تمامًا.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T00:25:00+00:00",
+      "stop": "2026-11-22T02:35:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-22T20:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أنابيل كامز هوم",
+      "clean_title": "أنابيل كامز هوم",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يضعان إد ولورين الدمية أنابيل في غرفة مغلقة مليئة بالتحف، ولكن تنتظرهما ليلة مرعبة عندما تستيقظ أنابيل وتطلق العنان للأرواح الشريرة التي في داخلها.",
+      "category": "رعب",
+      "genres": [
+        "رعب"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2019",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T02:35:00+00:00",
+      "stop": "2026-11-22T04:20:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-18T16:15:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-19T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Action",
+          "start": "2026-11-20T04:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "ريمنيسنس",
+      "clean_title": "ريمنيسنس",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتنقل المحقق الخاص للعقل عبر الماضي من خلال الوصول إلى الذكريات المفقودة و تتغير حياته إلى الأبد عندما يلتقي مع عميلة جديدة تحارب للعثور على حقيقة اختفائها",
+      "category": "خيال علمي",
+      "genres": [
+        "خيال علمي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T04:20:00+00:00",
+      "stop": "2026-11-22T06:15:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T06:30:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T14:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "كراي ماتشو",
+      "clean_title": "كراي ماتشو",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في عام 1979، يحصل نجم مسابقات رعاة البقر ومربي خيول سابق على وظيفة من رئيسه السابق لإحضار ابنه من المكسيك",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T06:15:00+00:00",
+      "stop": "2026-11-22T08:00:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-16T10:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "تينيت",
+      "clean_title": "تينيت",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "في معركة من أجل بقاء العالم بأسره، ينطلق عميل المخابرات المركزية في رحلة عبر عالم غامض من التجسس الدولي في مهمة ستكشف عن أحداث تتجاوز الزمن الحقيقي.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T08:00:00+00:00",
+      "stop": "2026-11-22T10:30:00+00:00",
+      "duration_minutes": 150,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T01:55:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T11:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سبيس جام: إيه نيو ليغاسي",
+      "clean_title": "سبيس جام: إيه نيو ليغاسي",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يقوم ذكاء اصطناعي متمرد بخطف ابن لاعب كرة سلة الشهير، مما يجبر اللاعب على التعاون مع شخصيات لوني تونز للفوز في مباراة كرة السلة.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T10:30:00+00:00",
+      "stop": "2026-11-22T12:25:00+00:00",
+      "duration_minutes": 115,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": 287947,
+      "title": "شازام",
+      "clean_title": "شازام",
+      "original_title": "Shazam!",
+      "tagline": "قل الكلمة فقط.",
+      "episode_title": null,
+      "content_type": "movie",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بمجرد أن يصرخ بكلمة واحدة - \"شازام!\" - يمكن لهذا المراهق الذكي البالغ من العمر 14 عاماً والذي يعيش في عائلة حاضنة أن يتحول إلى البطل الخارق، شازام.",
+      "category": "أكشن",
+      "genres": [
+        "أكشن",
+        "حركة",
+        "كوميديا",
+        "فانتازيا"
+      ],
+      "rating": 7,
+      "vote_count": 10588,
+      "age_rating": "PG-13",
+      "year": "2019",
+      "release_date": "2019-03-29",
+      "status": "Released",
+      "country": "الولايات المتحدة",
+      "language": "الإنجليزية",
+      "director": "David F. Sandberg",
+      "cast": [
+        {
+          "name": "زكاري ليفي",
+          "character": "Shazam",
+          "profile_image": "https://image.tmdb.org/t/p/w185/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg"
+        },
+        {
+          "name": "مارك سترونج",
+          "character": "Dr. Sivana",
+          "profile_image": "https://image.tmdb.org/t/p/w185/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+        },
+        {
+          "name": "Asher Angel",
+          "character": "Billy Batson",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lgBt67iggDs0d8QBSyjdk2ytHtK.jpg"
+        },
+        {
+          "name": "جاك ديلان غرازر",
+          "character": "Freddy Freeman",
+          "profile_image": "https://image.tmdb.org/t/p/w185/lSE2LLt1ZEVf2n1X2CycTl0ehyV.jpg"
+        },
+        {
+          "name": "آدم برودي",
+          "character": "Super Hero Freddy",
+          "profile_image": "https://image.tmdb.org/t/p/w185/qKBWrohBYegm6AAaLrtxEqqouIK.jpg"
+        },
+        {
+          "name": "دجيمون هونسو",
+          "character": "Wizard",
+          "profile_image": "https://image.tmdb.org/t/p/w185/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg"
+        }
+      ],
+      "trailer_url": null,
+      "start": "2026-11-22T12:25:00+00:00",
+      "stop": "2026-11-22T14:35:00+00:00",
+      "duration_minutes": 130,
+      "is_live": false,
+      "poster": "https://image.tmdb.org/t/p/w500/uKBYCOy6Z4rYLyUsAEKIkO1YBsD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
+      "icon": "https://image.tmdb.org/t/p/w500/uKBYCOy6Z4rYLyUsAEKIkO1YBsD.jpg",
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-17T13:05:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-20T04:20:00+00:00"
+        },
+        {
+          "channel": "MBC2",
+          "start": "2026-11-21T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "أفترسن",
+      "clean_title": "أفترسن",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "تسترجع صوفي ذكريات رحلة قضتها مع والدها قبل عشرين عاماً، وتمزج بين الحقيقة والخيال في محاولة لفهم الرجل الذي لم تعرفه خلف صورة الأب الذي أحبّته",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2023",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T14:35:00+00:00",
+      "stop": "2026-11-22T16:15:00+00:00",
+      "duration_minutes": 100,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T04:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "سويتشد",
+      "clean_title": "سويتشد",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "بعد أن سئمت من التنمر، تصلي كاساندرا إيفانز بأن تجرب عدوّتها كايتي شارب، ملكة وسائل التواصل الاجتماعي، ما يعنيه أن تعيش يومًا في حياتها. تُستجاب صلاتها بطريقة غير متوقعة عندما يتبادلان الأدوار.",
+      "category": "كوميدي",
+      "genres": [
+        "كوميدي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2020",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T16:15:00+00:00",
+      "stop": "2026-11-22T18:00:00+00:00",
+      "duration_minutes": 105,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "العروس - ذا برايد!",
+      "clean_title": "العروس - ذا برايد!",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "series",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يسافر فرانكشتاين بمفرده إلى شيكاغو في ثلاثينيات القرن الماضي، حيث يطلب من عالم أن يخلق له رفيقة. معًا، يعيدون إحياء امرأة مقتولة، لكن خلقهم يجلب عواقب غير متوقعة",
+      "category": "دراما",
+      "genres": [
+        "دراما"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2026",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T18:00:00+00:00",
+      "stop": "2026-11-22T20:05:00+00:00",
+      "duration_minutes": 125,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": false,
+      "reruns": []
+    },
+    {
+      "tmdb_id": null,
+      "title": "نو سادن موف",
+      "clean_title": "نو سادن موف",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يتم انضمام مجموعة من المجرمين معًا في ظل ظروف غامضة وعليهم العمل معًا للكشف عما يحدث بالفعل عندما تأخذ مهمتهم البسيطة نتحى آخر تمامًا.",
+      "category": "جريمة",
+      "genres": [
+        "جريمة"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2021",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T20:05:00+00:00",
+      "stop": "2026-11-22T22:05:00+00:00",
+      "duration_minutes": 120,
+      "is_live": false,
+      "poster": null,
+      "backdrop": null,
+      "icon": null,
+      "channel_icon": "https://i.imgur.com/2MomHqn.png",
+      "is_rerun": true,
+      "reruns": [
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-21T18:00:00+00:00"
+        },
+        {
+          "channel": "OSNtv Movies Premiere",
+          "start": "2026-11-22T00:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "tmdb_id": null,
+      "title": "لا أرض أخرى (نو أوذر لاند)",
+      "clean_title": "لا أرض أخرى (نو أوذر لاند)",
+      "original_title": null,
+      "tagline": null,
+      "episode_title": null,
+      "content_type": "program",
+      "season": null,
+      "episode": null,
+      "seasons_count": null,
+      "episodes_count": null,
+      "description": "يكافح ناشط فلسطيني شاب من مسافر يطا، تهجير الاحتلال الإسرائيلي لمجتمعه منذ طفولته.",
+      "category": "وثائقي",
+      "genres": [
+        "وثائقي"
+      ],
+      "rating": null,
+      "vote_count": null,
+      "age_rating": null,
+      "year": "2024",
+      "release_date": null,
+      "status": null,
+      "country": null,
+      "language": null,
+      "director": null,
+      "cast": [],
+      "trailer_url": null,
+      "start": "2026-11-22T22:05:00+00:00",
+      "stop": "2026-11-23T00:00:00+00:00",
+      "duration_minutes": 115,
       "is_live": false,
       "poster": null,
       "backdrop": null,
