@@ -12,11 +12,11 @@ const apiDir = path.join(__dirname, 'api');
 const programsDir = path.join(apiDir, 'programs');
 const cacheFile = path.join(__dirname, 'metadata_cache.json');
 
-const SCHEMA_VERSION = 2;
+const SCHEMA_VERSION = 3;
 const CACHE_VERSION = 6;
 // Bumped whenever the shape/fetch strategy of a cache entry changes. Entries
 // with an older `fv` are refreshed in place (by TMDB id, no re-search needed).
-const ENTRY_FORMAT = 9;
+const ENTRY_FORMAT = 10;
 
 const TMDB_API_KEY = process.env.TMDB_API_KEY;
 
@@ -122,6 +122,48 @@ const CHANNEL_RULES = [
   { category: 'general', tier: 3, en: 'Iqraa', ar: 'اقرأ', id: /^Iqraa/i }
 ];
 
+// Canonical genre keys (single source of truth for the app's AR/EN/FR labels).
+// `alias` lists Arabic spellings found in TMDB (ar) and in EPG categories.
+const GENRES = {
+  action: { ar: 'حركة', en: 'Action', fr: 'Action', alias: ['حركة', 'أكشن', 'حركة ومغامرة', 'لايف أكشن', 'action', 'action & adventure'] },
+  adventure: { ar: 'مغامرة', en: 'Adventure', fr: 'Aventure', alias: ['مغامرة', 'مغامرات', 'حركة ومغامرة', 'أنمي المغامرات', 'adventure'] },
+  animation: { ar: 'رسوم متحركة', en: 'Animation', fr: 'Animation', alias: ['رسوم متحركة', 'الرسوم المتحركة اليابانية', 'رسوم متحركة للبالغين', 'أنمي', 'animation'] },
+  comedy: { ar: 'كوميديا', en: 'Comedy', fr: 'Comédie', alias: ['كوميديا', 'كوميدي', 'comedy'] },
+  crime: { ar: 'جريمة', en: 'Crime', fr: 'Crime', alias: ['جريمة', 'crime'] },
+  documentary: { ar: 'وثائقي', en: 'Documentary', fr: 'Documentaire', alias: ['وثائقي', 'حقائق', 'الحياة البرية', 'documentary'] },
+  drama: { ar: 'دراما', en: 'Drama', fr: 'Drame', alias: ['دراما', 'اجتماعي', 'إجتماعي', 'دراما طبية', 'drama'] },
+  family: { ar: 'عائلي', en: 'Family', fr: 'Famille', alias: ['عائلي', 'family', 'children'] },
+  fantasy: { ar: 'فانتازيا', en: 'Fantasy', fr: 'Fantastique', alias: ['فانتازيا', 'خيالي', 'fantasy'] },
+  history: { ar: 'تاريخ', en: 'History', fr: 'Histoire', alias: ['تاريخ', 'تاريخي', 'سيرة ذاتية', 'history'] },
+  horror: { ar: 'رعب', en: 'Horror', fr: 'Horreur', alias: ['رعب', 'horror'] },
+  kids: { ar: 'أطفال', en: 'Kids', fr: 'Enfants', alias: ['أطفال', 'تربية وتعليم', 'kids'] },
+  music: { ar: 'موسيقى', en: 'Music', fr: 'Musique', alias: ['موسيقى', 'عمل غنائي', 'music'] },
+  mystery: { ar: 'غموض', en: 'Mystery', fr: 'Mystère', alias: ['غموض', 'mystery'] },
+  news: { ar: 'أخبار', en: 'News', fr: 'Actualités', alias: ['أخبار', 'news'] },
+  reality: { ar: 'تلفزيون الواقع', en: 'Reality', fr: 'Télé-réalité', alias: ['واقع', 'واقعي', 'تلفزيون الواقع', 'برنامج مسابقات', 'reality'] },
+  romance: { ar: 'رومانسية', en: 'Romance', fr: 'Romance', alias: ['رومنسية', 'رومانسية', 'رومانسي', 'romance'] },
+  scifi: { ar: 'خيال علمي', en: 'Sci-Fi', fr: 'Science-fiction', alias: ['خيال علمي', 'خيالي علمي', 'أنمي الخيال العلمي', 'خيال علمي وفانتازيا', 'sci-fi & fantasy'] },
+  soap: { ar: 'أوبرا صابونية', en: 'Soap', fr: 'Feuilleton', alias: ['أوبرا صابونية', 'soap'] },
+  talk: { ar: 'حوار', en: 'Talk Show', fr: 'Talk-show', alias: ['حوار', 'برنامج حواري', 'talk'] },
+  thriller: { ar: 'إثارة', en: 'Thriller', fr: 'Thriller', alias: ['إثارة', 'إثارة وتشويق', 'تشويق', 'thriller'] },
+  war: { ar: 'حرب', en: 'War', fr: 'Guerre', alias: ['حرب', 'حرب وسياسة', 'war'] },
+  western: { ar: 'غربي', en: 'Western', fr: 'Western', alias: ['غربي', 'western'] },
+  sports: { ar: 'رياضة', en: 'Sports', fr: 'Sport', alias: ['رياضة', 'كرة القدم', 'رياضة المحركات الآلية', 'sports'] },
+  lifestyle: { ar: 'أسلوب حياة', en: 'Lifestyle', fr: 'Art de vivre', alias: ['أسلوب حياة', 'طبخ', 'سيارات', 'السيارات', 'lifestyle'] }
+};
+const GENRE_ALIAS_TO_KEY = new Map();
+for (const [key, g] of Object.entries(GENRES)) {
+  for (const a of g.alias) if (!GENRE_ALIAS_TO_KEY.has(a.toLowerCase())) GENRE_ALIAS_TO_KEY.set(a.toLowerCase(), key);
+}
+function genreKeysFor(names) {
+  const out = [];
+  for (const n of names) {
+    const key = GENRE_ALIAS_TO_KEY.get(String(n).trim().toLowerCase());
+    if (key && !out.includes(key)) out.push(key);
+  }
+  return out;
+}
+
 const CHANNEL_CATEGORY_RULES = [
   ['sports', /sport|^ssc|kass|رياض|الكأس|الكاس/],
   ['kids', /spacetoon|^mbc3\.|mbc 3\b|cartoon|nick|baraem|moonbug|kids|toon|karameesh|cn arabia|سبيس|أطفال|اطفال|كرتون|براعم/],
@@ -177,6 +219,21 @@ function isTitleMatch(candidateTitle, queryTitle) {
   const b = normalizeName(queryTitle);
   if (!a || !b) return false;
   return a === b || a.startsWith(b + ' ') || b.startsWith(a + ' ');
+}
+
+// Non-MENA feeds of Arab-targeted providers (beIN France / Australia / Spanish)
+const EXCLUDED_CHANNEL_RE = /@(France|Australia)$|enEspanol/i;
+
+function beinSportsNames(baseId) {
+  const id = baseId.replace(/\.qa.*$/i, '');
+  let m;
+  if ((m = id.match(/^beINSportsMax(\d+)$/i))) return { en: `beIN Sports Max ${m[1]}`, ar: `بي إن سبورتس ماكس ${m[1]}` };
+  if ((m = id.match(/^beINSportsXtra(\d+)$/i))) return { en: `beIN Sports Xtra ${m[1]}`, ar: `بي إن سبورتس إكسترا ${m[1]}` };
+  if (/^beINSportsNews$/i.test(id)) return { en: 'beIN Sports News', ar: 'بي إن سبورتس نيوز' };
+  if (/^beINSports4K/i.test(id)) return { en: 'beIN Sports 4K', ar: 'بي إن سبورتس 4K' };
+  if ((m = id.match(/^beINSports(\d+)$/i))) return { en: `beIN Sports ${m[1]}`, ar: `بي إن سبورتس ${m[1]}` };
+  if (/^beINSports$/i.test(id)) return { en: 'beIN Sports', ar: 'بي إن سبورتس' };
+  return null;
 }
 
 function isJunkChannelName(name) {
@@ -487,7 +544,22 @@ function titleMatchesAny(candidates, query) {
 }
 
 function isVerifiedDetail(mapped, query) {
-  return titleMatchesAny([mapped.tmdb_title, mapped.original_title, ...mapped.alt_titles], query);
+  return titleMatchesAny([mapped.tmdb_title, mapped.original_title, mapped.i18n.en.title, mapped.i18n.fr.title, ...mapped.alt_titles], query);
+}
+
+function mapTranslations(detail) {
+  const list = (detail.translations && detail.translations.translations) || [];
+  const out = {};
+  for (const lang of ['en', 'fr']) {
+    const cands = list.filter(t => t.iso_639_1 === lang);
+    const pref = cands.find(t => t.iso_3166_1 === (lang === 'en' ? 'US' : 'FR')) || cands[0];
+    const d = (pref && pref.data) || {};
+    out[lang] = { title: cleanText(d.title || d.name), overview: cleanText(d.overview) || '', tagline: cleanText(d.tagline) };
+  }
+  if (!out.en.title && detail.original_language === 'en') {
+    out.en.title = cleanText(detail.original_title || detail.original_name);
+  }
+  return out;
 }
 
 function mapTmdbDetail(detail, mediaType) {
@@ -532,7 +604,7 @@ function mapTmdbDetail(detail, mediaType) {
 
   const cast =
     detail.credits && Array.isArray(detail.credits.cast)
-      ? detail.credits.cast.filter(a => a && a.name).slice(0, 6).map(actor => ({
+      ? detail.credits.cast.filter(a => a && a.name).slice(0, 10).map(actor => ({
           name: actor.name,
           character: cleanText(actor.character),
           profile_image: actor.profile_path ? `https://image.tmdb.org/t/p/w185${actor.profile_path}` : null
@@ -555,6 +627,9 @@ function mapTmdbDetail(detail, mediaType) {
     tmdb_media: mediaType,
     tmdb_title: cleanText(detail.title || detail.name),
     alt_titles: collectAltTitles(detail),
+    i18n: mapTranslations(detail),
+    tagline: cleanText(detail.tagline),
+    runtime: mediaType === 'movie' ? (detail.runtime || null) : ((Array.isArray(detail.episode_run_time) && detail.episode_run_time[0]) || null),
     original_title: cleanText(detail.original_title || detail.original_name),
     poster: posterPath ? `https://image.tmdb.org/t/p/w500${posterPath}` : null,
     backdrop: backdropPath ? `https://image.tmdb.org/t/p/w780${backdropPath}` : null,
@@ -579,7 +654,7 @@ function mapTmdbDetail(detail, mediaType) {
 
 async function fetchTmdbDetail(mediaType, id) {
   const url = `https://api.themoviedb.org/3/${mediaType}/${id}?api_key=${TMDB_API_KEY}&language=ar` +
-    '&append_to_response=credits,videos,content_ratings,release_dates,images,alternative_titles' +
+    '&append_to_response=credits,videos,content_ratings,release_dates,images,alternative_titles,translations' +
     '&include_image_language=ar,en,null&include_video_language=ar,en';
   const detail = await fetchJson(url);
   return detail ? mapTmdbDetail(detail, mediaType) : null;
@@ -793,6 +868,9 @@ async function enrichProgramMetadata(cleanTitle, expectedYear, category) {
     tmdb_media: (tmdb && tmdb.tmdb_media) || null,
     tmdb_title: (tmdb && tmdb.tmdb_title) || null,
     verified: !!tmdb, // searchTmdbFull only returns title-verified hits
+    i18n: (tmdb && tmdb.i18n) || null,
+    tagline: (tmdb && tmdb.tagline) || null,
+    runtime: (tmdb && tmdb.runtime) || null,
     original_title: (tmdb && tmdb.original_title) || (wiki && wiki.original_title) || null,
     poster: (tmdb && tmdb.poster) || (wiki && wiki.poster) || null,
     backdrop: (tmdb && tmdb.backdrop) || null,
@@ -865,18 +943,21 @@ async function enrichProgramMetadata(cleanTitle, expectedYear, category) {
 // Upgrades a legacy cache entry (older fetch strategy: Arabic-only trailers, no media type)
 // in place, using the stored TMDB id. Cheap: one request, no search.
 const TMDB_REFRESH_FIELDS = [
-  'tmdb_title', 'backdrop', 'poster', 'description', 'age_rating', 'trailer_url', 'director',
+  'tmdb_title', 'tagline', 'runtime', 'backdrop', 'poster', 'description', 'age_rating', 'trailer_url', 'director',
   'seasons_count', 'episodes_count', 'status', 'country', 'language', 'original_title', 'release_date'
 ];
 async function refreshLegacyEntry(entry, cleanTitle) {
   const guesses = entry.tmdb_media
     ? [entry.tmdb_media]
     : (entry.seasons_count != null || entry.content_type === 'series' ? ['tv', 'movie'] : ['movie', 'tv']);
+  let refreshed = false;
   for (const media of guesses) {
     const fresh = await fetchTmdbDetail(media, entry.tmdb_id);
     if (!fresh) continue;
+    refreshed = true;
     entry.tmdb_media = media;
     entry.alt_match = fresh.alt_titles; // transient: consumed below, removed before saving
+    entry.i18n = fresh.i18n;
     for (const f of TMDB_REFRESH_FIELDS) if (fresh[f]) entry[f] = fresh[f];
     if (fresh.cast.length) entry.cast = fresh.cast;
     if (fresh.genres.length) entry.genres = fresh.genres;
@@ -884,9 +965,12 @@ async function refreshLegacyEntry(entry, cleanTitle) {
     break;
   }
 
+  // Never stamp an entry as refreshed when TMDB returned nothing (bad key, outage, removed id).
+  if (!refreshed) throw new TransientError(`refresh failed for tmdb ${entry.tmdb_id}`);
+
   // Legacy matches were accepted without a title check: verify them now.
-  const known = [entry.tmdb_title, entry.original_title, ...(entry.alt_match || [])];
-  let verified = titleMatchesAny(known, cleanTitle);
+  const known = [entry.tmdb_title, entry.original_title, entry.i18n && entry.i18n.en.title, entry.i18n && entry.i18n.fr.title, ...(entry.alt_match || [])];
+  let verified = entry.verified === true || titleMatchesAny(known, cleanTitle);
   if (!verified) {
     const wiki = await searchWikidata(cleanTitle, entry.year);
     verified = !!(wiki && wiki.original_title && titleMatchesAny(known, wiki.original_title));
@@ -1094,7 +1178,7 @@ async function main() {
   const candidates = [];
   let droppedNoLogo = [];
   for (const ch of rawChannels.values()) {
-    if (isJunkChannelName(ch.name) || /portrait/i.test(ch.id)) continue;
+    if (isJunkChannelName(ch.name) || /portrait/i.test(ch.id) || EXCLUDED_CHANNEL_RE.test(ch.id)) continue;
     const progs = (progsByChannel.get(ch.id) || []).filter(p => !isUnavailableProgram(p.rawTitle));
     if (progs.length === 0) continue;
 
@@ -1150,7 +1234,11 @@ async function main() {
   const claimed = new Set();
   channels.sort((a, b) => b.realCount - a.realCount);
   for (const ch of channels) {
-    if (ch.rule && !ch.rule.multi && !claimed.has(ch.ruleIndex)) {
+    const bein = ch.rule && ch.rule.en === 'beIN Sports' ? beinSportsNames(baseIdOf(ch.id)) : null;
+    if (bein) {
+      ch.name = bein.en;
+      ch.nameAr = bein.ar;
+    } else if (ch.rule && !ch.rule.multi && !claimed.has(ch.ruleIndex)) {
       claimed.add(ch.ruleIndex);
       ch.name = ch.rule.en;
       ch.nameAr = ch.rule.ar;
@@ -1256,8 +1344,11 @@ async function main() {
     else if (cached && cached.tmdb_id && cached.fv !== ENTRY_FORMAT) toRefresh.push({ entry: cached, title: g.cleanTitle });
   }
 
-  if (OFFLINE) {
-    console.log('📴 OFFLINE mode: using metadata_cache.json only.');
+  if (!OFFLINE && !TMDB_API_KEY) {
+    console.warn('⚠️  TMDB_API_KEY is not set: skipping enrichment, using metadata_cache.json only.');
+  }
+  if (OFFLINE || !TMDB_API_KEY) {
+    if (OFFLINE) console.log('📴 OFFLINE mode: using metadata_cache.json only.');
   } else {
     let transientFailures = 0;
 
@@ -1352,6 +1443,8 @@ async function main() {
       .map(a => ({ name: a.name.trim(), character: cleanText(a.character), profile_image: cleanUrl(a.profile_image) }));
 
     const original = enriched ? cleanText(enriched.original_title) : null;
+    const i18n = (enriched && enriched.i18n) || null;
+    const sameAsMain = t => !t || normalizeName(t) === normalizeName(g.cleanTitle);
 
     showsById.set(showId, {
       show_id: showId,
@@ -1359,7 +1452,15 @@ async function main() {
       content_type: null, // resolved below
       title: g.cleanTitle,
       original_title: original && normalizeName(original) !== normalizeName(g.cleanTitle) ? original : null,
+      title_en: i18n && !sameAsMain(i18n.en.title) ? i18n.en.title : null,
+      title_fr: i18n && !sameAsMain(i18n.fr.title) ? i18n.fr.title : null,
       description,
+      description_en: i18n ? i18n.en.overview : '',
+      description_fr: i18n ? i18n.fr.overview : '',
+      tagline: cleanText(enriched && enriched.tagline),
+      runtime_minutes: (enriched && enriched.runtime) || null,
+      release_date: cleanText(enriched && enriched.release_date),
+      status: cleanText(enriched && enriched.status),
       poster,
       backdrop,
       has_poster: !!poster,
@@ -1370,6 +1471,8 @@ async function main() {
       country: cleanText((enriched && enriched.country) || mode(g.countries)),
       language: cleanText((enriched && enriched.language) || mode(g.languages)),
       genres: metaGenres,
+      genre_keys: genreKeysFor(metaGenres),
+      similar: [],
       director: cleanText((enriched && enriched.director) || mode(g.directors)),
       cast,
       trailer_url: cleanUrl(enriched && enriched.trailer_url),
@@ -1402,6 +1505,8 @@ async function main() {
       else if (topCat === 'drama') type = 'series';
     }
     show.content_type = type;
+    const typeGenre = { animation: 'animation', documentary: 'documentary', sports: 'sports', news: 'news' }[type];
+    if (typeGenre && !show.genre_keys.includes(typeGenre)) show.genre_keys.push(typeGenre);
     preTypeByShow.set(show.show_id, type);
   }
 
@@ -1485,7 +1590,7 @@ async function main() {
   }
 
   // ---- 9. Channel ordering ------------------------------------------------------------------------------
-  const collator = new Intl.Collator('en');
+  const collator = new Intl.Collator('en', { numeric: true });
   const sortName = c => c.name;
   channels.sort((a, b) => {
     const ta = a.tier || 99;
@@ -1516,6 +1621,9 @@ async function main() {
           show_id: s.show_id,
           title: show.title,
           content_type: show.content_type,
+          poster: show.poster,
+          backdrop: show.backdrop,
+          is_live: s.is_live,
           start: s.start,
           stop: s.stop,
           start_ts: s.start_ts,
@@ -1529,6 +1637,8 @@ async function main() {
         name_ar: ch.nameAr || null,
         icon: ch.icon,
         category: ch.category,
+        country: countryOf(ch.id).toUpperCase() || null,
+        utc_offset_hours: ch.utcOffset,
         tier: ch.tier || null,
         rank: i + 1,
         now_and_next: preview
@@ -1574,8 +1684,13 @@ async function main() {
       tmdb_id: sh.tmdb_id,
       content_type: sh.content_type,
       title: sh.title,
+      title_en: sh.title_en,
+      title_fr: sh.title_fr,
       original_title: sh.original_title,
+      tagline: sh.tagline,
       description: sh.description,
+      description_en: sh.description_en,
+      description_fr: sh.description_fr,
       poster: sh.poster,
       backdrop: sh.backdrop,
       has_poster: sh.has_poster,
@@ -1583,9 +1698,14 @@ async function main() {
       vote_count: sh.vote_count,
       age_rating: sh.age_rating,
       year: sh.year,
+      release_date: sh.release_date,
+      runtime_minutes: sh.runtime_minutes,
+      status: sh.status,
       country: sh.country,
       language: sh.language,
       genres: sh.genres,
+      genre_keys: sh.genre_keys,
+      similar: sh.similar,
       director: sh.director,
       cast: sh.cast,
       trailer_url: sh.trailer_url,
@@ -1611,6 +1731,15 @@ async function main() {
     };
   };
 
+  // Compact airing for the big search index: the app joins channels.json for name/icon
+  // and derives ISO strings from the timestamps. Null episode info is omitted.
+  const compactAiring = a => {
+    const o = { channel_id: a.channel_id, start_ts: a.start_ts, stop_ts: a.stop_ts };
+    if (a.season !== null) o.season = a.season;
+    if (a.episode !== null) o.episode = a.episode;
+    return o;
+  };
+
   const bayes = sh => {
     if (!sh.rating) return 0;
     const v = sh.vote_count == null ? 10 : sh.vote_count;
@@ -1631,14 +1760,34 @@ async function main() {
   }
   searchable.sort((a, b) => rankScore(b) - rankScore(a) || a.title.localeCompare(b.title, 'ar'));
 
+  // "More like this": same type, overlapping genres, with art, best-rated first
+  const similarPool = searchable.filter(sh => sh.genre_keys.length && (sh.poster || sh.backdrop));
+  for (const sh of searchable) {
+    if (!sh.genre_keys.length) continue;
+    const scored = [];
+    for (const o of similarPool) {
+      if (o === sh || o.content_type !== sh.content_type) continue;
+      const shared = o.genre_keys.filter(k => sh.genre_keys.includes(k)).length;
+      if (!shared) continue;
+      scored.push([shared * 3 + bayes(o) / 3 + (o.poster && !isLowResPoster(o.poster) ? 1 : 0), o.show_id]);
+    }
+    scored.sort((a, b) => b[0] - a[0]);
+    sh.similar.push(...scored.slice(0, 8).map(x => x[1])); // in place: channel files already hold this array
+  }
+
   const searchIndex = searchable.map(sh => ({
     show_id: sh.show_id,
     tmdb_id: sh.tmdb_id,
     title: sh.title,
+    title_en: sh.title_en,
+    title_fr: sh.title_fr,
     original_title: sh.original_title,
-    search_text: [normalizeName(sh.title), sh.original_title ? normalizeName(sh.original_title) : ''].join(' ').trim(),
+    search_text: [sh.title, sh.title_en, sh.title_fr, sh.original_title]
+      .filter(Boolean).map(t => normalizeName(t.normalize('NFD').replace(/[\u0300-\u036f]/g, '')))
+      .filter((t, i, a) => a.indexOf(t) === i).join(' '),
     content_type: sh.content_type,
     genres: sh.genres,
+    genre_keys: sh.genre_keys,
     rating: sh.rating,
     vote_count: sh.vote_count,
     year: sh.year,
@@ -1646,7 +1795,9 @@ async function main() {
     backdrop: sh.backdrop,
     has_poster: sh.has_poster,
     airings_count: sh.all_airings.length,
-    airings: sh.all_airings.map(richAiring)
+    age_rating: sh.age_rating,
+    runtime_minutes: sh.runtime_minutes,
+    airings: sh.all_airings.map(compactAiring)
   }));
 
   const hasUpcoming = sh => sh.all_airings.some(a => a.stop_ts > nowTs);
@@ -1654,10 +1805,17 @@ async function main() {
     show_id: sh.show_id,
     tmdb_id: sh.tmdb_id,
     title: sh.title,
+    title_en: sh.title_en,
+    title_fr: sh.title_fr,
     original_title: sh.original_title,
     content_type: sh.content_type,
     description: sh.description,
+    description_en: sh.description_en,
+    description_fr: sh.description_fr,
+    tagline: sh.tagline,
+    runtime_minutes: sh.runtime_minutes,
     genres: sh.genres,
+    genre_keys: sh.genre_keys,
     rating: sh.rating,
     vote_count: sh.vote_count,
     year: sh.year,
@@ -1708,13 +1866,29 @@ async function main() {
     .sort((a, b) => bayes(b) - bayes(a))
     .slice(0, 20);
 
+  const shelfOf = (type, minRating, limit) => searchable
+    .filter(sh => sh.content_type === type && (sh.poster || sh.backdrop) && hasUpcoming(sh) && (!minRating || (sh.rating && sh.rating >= minRating)))
+    .sort((a, b) => rankScore(b) - rankScore(a))
+    .slice(0, limit);
+  const topMovies = searchable
+    .filter(sh => sh.content_type === 'movie' && sh.rating && (sh.vote_count || 0) >= MIN_VOTES_FOR_RATING && sh.poster && hasUpcoming(sh))
+    .sort((a, b) => bayes(b) - bayes(a))
+    .slice(0, 20);
+  const kidsPicks = shelfOf('animation', 0, 20);
+  const documentaries = shelfOf('documentary', 0, 20);
+  const sportsHighlights = shelfOf('sports', 0, 20);
+
   const featuredDoc = {
     schema_version: SCHEMA_VERSION,
     updated_at: generatedAt,
     prime_time: { first_local_hour: PRIME_TIME_FIRST_HOUR, window_hours: PRIME_WINDOW_HOURS, as_of_ts: nowTs },
     hero_featured: heroPicked.map(sh => featuredCard(sh, upcomingFirst(sh.all_airings).slice(0, 6))),
     tonight_movies: tonightPicked.map(t => featuredCard(t.sh, t.prime.slice(0, 6))),
-    top_series: topSeries.map(sh => featuredCard(sh, upcomingFirst(sh.all_airings).slice(0, 6)))
+    top_series: topSeries.map(sh => featuredCard(sh, upcomingFirst(sh.all_airings).slice(0, 6))),
+    top_movies: topMovies.map(sh => featuredCard(sh, upcomingFirst(sh.all_airings).slice(0, 6))),
+    kids_picks: kidsPicks.map(sh => featuredCard(sh, upcomingFirst(sh.all_airings).slice(0, 6))),
+    documentaries: documentaries.map(sh => featuredCard(sh, upcomingFirst(sh.all_airings).slice(0, 6))),
+    sports_highlights: sportsHighlights.map(sh => featuredCard(sh, upcomingFirst(sh.all_airings).slice(0, 6)))
   };
 
   const searchDoc = {
@@ -1724,12 +1898,44 @@ async function main() {
     items: searchIndex
   };
 
+  // grid.json: every channel's full week in a compact tuple form so the app can show an
+  // accurate "now playing" for all channels (and render a schedule) without per-channel downloads.
+  // slot = [start_ts, stop_ts, show_id, flags(1=live,2=rerun), season|0, episode|0]
+  const gridChannels = {};
+  const gridShowIds = new Set();
+  for (const ch of channels) {
+    gridChannels[ch.id] = finalSlotsByChannel.get(ch.id).map(s => {
+      gridShowIds.add(s.show_id);
+      return [s.start_ts, s.stop_ts, s.show_id, (s.is_live ? 1 : 0) | (s.is_rerun ? 2 : 0), s.season || 0, s.episode || 0];
+    });
+  }
+  const gridShows = {};
+  for (const id of gridShowIds) {
+    const sh = showsById.get(id);
+    const o = { t: sh.title, c: sh.content_type };
+    if (sh.title_en) o.te = sh.title_en;
+    if (sh.title_fr) o.tf = sh.title_fr;
+    gridShows[id] = o;
+  }
+  const gridDoc = {
+    schema_version: SCHEMA_VERSION,
+    updated_at: generatedAt,
+    slot_format: ['start_ts', 'stop_ts', 'show_id', 'flags(1=live,2=rerun)', 'season', 'episode'],
+    channels: gridChannels,
+    shows: gridShows
+  };
+
   const metaDoc = {
     schema_version: SCHEMA_VERSION,
     updated_at: generatedAt,
+    generated_ts: nowTs,
+    files: ['channels.json', 'grid.json', 'featured.json', 'search_index.json'],
     channels: channels.length,
     shows: showsById.size,
     searchable_shows: searchIndex.length,
+    channel_categories: CHANNEL_CATEGORIES,
+    content_types: ['movie', 'series', 'animation', 'documentary', 'sports', 'news', 'program'],
+    genres: Object.fromEntries(Object.entries(GENRES).map(([k, g]) => [k, { ar: g.ar, en: g.en, fr: g.fr }])),
     days: Array.from(new Set(slotsAllDays())).sort()
   };
   function slotsAllDays() {
@@ -1739,7 +1945,7 @@ async function main() {
   }
 
   // ---- 11. Validate BEFORE touching api/ ----------------------------------------------------------------------------------------
-  const problems = validateOutputs({ channelsDoc, channelFiles, searchDoc, featuredDoc, showsById });
+  const problems = validateOutputs({ channelsDoc, channelFiles, searchDoc, featuredDoc, showsById, gridDoc });
   if (problems.length) {
     console.error(`❌ Validation failed with ${problems.length} problem(s); api/ left untouched:`);
     problems.slice(0, 40).forEach(p => console.error('   - ' + p));
@@ -1756,6 +1962,7 @@ async function main() {
   fs.writeFileSync(path.join(apiDir, 'channels.json'), ser(channelsDoc), 'utf8');
   fs.writeFileSync(path.join(apiDir, 'featured.json'), ser(featuredDoc), 'utf8');
   fs.writeFileSync(path.join(apiDir, 'search_index.json'), ser(searchDoc), 'utf8');
+  fs.writeFileSync(path.join(apiDir, 'grid.json'), ser(gridDoc), 'utf8');
   fs.writeFileSync(path.join(apiDir, 'meta.json'), ser(metaDoc), 'utf8');
 
   // ---- 13. Report ----------------------------------------------------------------------------------------------------------------------
@@ -1770,7 +1977,7 @@ async function main() {
   console.log(`🎉 Generated ${channels.length} channel schedules, ${showsById.size} unique shows.`);
   console.log(`📺 Channel categories: ${JSON.stringify(catCounts)}`);
   console.log(`🔎 search_index: ${searchIndex.length} shows (${withPoster} with poster, ${withRating} with rating) ${JSON.stringify(typeCounts)}`);
-  console.log(`⭐ featured: hero=${heroPicked.length} tonight_movies=${tonightPicked.length} top_series=${topSeries.length}`);
+  console.log(`⭐ featured: hero=${heroPicked.length} tonight=${tonightPicked.length} series=${topSeries.length} movies=${topMovies.length} kids=${kidsPicks.length} docs=${documentaries.length} sports=${sportsHighlights.length}`);
   if (droppedUnverified.length) console.log(`🧹 Ignored ${droppedUnverified.length} unverified TMDB matches, e.g. ${droppedUnverified.slice(0, 10).join(' ; ')}`);
   if (droppedNoLogo.length) console.log(`🖼️  Skipped ${droppedNoLogo.length} channel(s) without a logo: ${droppedNoLogo.slice(0, 12).join(', ')}${droppedNoLogo.length > 12 ? ', …' : ''}`);
   if (unmatchedRules.length) console.log(`ℹ️  Priority rules with no channel in this run: ${unmatchedRules.join(', ')}`);
@@ -1780,9 +1987,9 @@ async function main() {
 // VALIDATION (null-safety contract)
 // ============================================================================
 const URL_KEYS = new Set(['icon', 'channel_icon', 'poster', 'backdrop', 'trailer_url', 'profile_image']);
-const ARRAY_KEYS = new Set(['cast', 'genres', 'all_airings', 'airings', 'now_and_next', 'channels', 'items']);
+const ARRAY_KEYS = new Set(['cast', 'genres', 'genre_keys', 'similar', 'all_airings', 'airings', 'now_and_next', 'channels', 'items']);
 
-function validateOutputs({ channelsDoc, channelFiles, searchDoc, featuredDoc, showsById }) {
+function validateOutputs({ channelsDoc, channelFiles, searchDoc, featuredDoc, showsById, gridDoc }) {
   const problems = [];
   const push = msg => { if (problems.length < 500) problems.push(msg); };
 
@@ -1792,9 +1999,9 @@ function validateOutputs({ channelsDoc, channelFiles, searchDoc, featuredDoc, sh
     if (typeof val === 'string') {
       if (/^(null|undefined|nan)$/i.test(val.trim())) push(`${where}: string "${val}"`);
       if (URL_KEYS.has(key) && !/^https:\/\/\S+$/.test(val)) push(`${where}: invalid URL "${val.slice(0, 60)}"`);
-      if (key === 'description' && val !== val.trim()) push(`${where}: untrimmed description`);
+      if (/^description/.test(key || '') && val !== val.trim()) push(`${where}: untrimmed description`);
     }
-    if (val === null && key === 'description') push(`${where}: description must be "" not null`);
+    if (val === null && /^description/.test(key || '')) push(`${where}: ${key} must be "" not null`);
     if (val !== null && URL_KEYS.has(key) && typeof val !== 'string') push(`${where}: URL not string`);
     if (ARRAY_KEYS.has(key) && !Array.isArray(val)) push(`${where}: expected array`);
     if (Array.isArray(val)) val.forEach((v, i) => walk(v, `${where}[${i}]`, null));
@@ -1818,12 +2025,19 @@ function validateOutputs({ channelsDoc, channelFiles, searchDoc, featuredDoc, sh
     for (const [sid, sh] of Object.entries(doc.shows)) {
       if (typeof sh.description !== 'string') push(`programs/${id}.shows.${sid}: description not string`);
       if (sh.has_poster !== !!sh.poster) push(`programs/${id}.shows.${sid}: has_poster mismatch`);
+      for (const k of ['description_en', 'description_fr']) if (typeof sh[k] !== 'string') push(`programs/${id}.shows.${sid}: ${k} not string`);
     }
   }
   const ids = new Set(searchDoc.items.map(i => i.show_id));
   if (ids.size !== searchDoc.items.length) push('search_index.json: duplicate show_id');
-  for (const k of ['hero_featured', 'tonight_movies', 'top_series']) {
+  for (const k of ['hero_featured', 'tonight_movies', 'top_series', 'top_movies', 'kids_picks', 'documentaries', 'sports_highlights']) {
     for (const f of featuredDoc[k]) if (!ids.has(f.show_id)) push(`featured.${k}: ${f.show_id} missing from search_index`);
+  }
+  for (const [cid, slots] of Object.entries(gridDoc.channels)) {
+    for (const t of slots) {
+      if (!gridDoc.shows[t[2]]) push(`grid.json: ${cid} references unknown show ${t[2]}`);
+      if (!(t[1] > t[0])) push(`grid.json: ${cid} non-positive duration`);
+    }
   }
   void showsById;
   return problems;
@@ -1836,4 +2050,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { parseProgramTitle, isFillerTitle, cleanUrl, normalizeName, xmltvToMs, categorizeChannelByName, matchChannelRule };
+module.exports = { fetchTmdbDetail, mapTranslations, parseProgramTitle, isFillerTitle, cleanUrl, normalizeName, xmltvToMs, categorizeChannelByName, matchChannelRule };
