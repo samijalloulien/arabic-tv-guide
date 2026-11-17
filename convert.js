@@ -15,7 +15,7 @@ const cacheFile = path.join(__dirname, 'metadata_cache.json');
 const SCHEMA_VERSION = 3;
 const CACHE_VERSION = 6;
 const ENTRY_FORMAT = 10;
-const TEAM_ENTRY_FORMAT = 2;
+const TEAM_ENTRY_FORMAT = 3; // Bumped to refresh previously missing team/national logos
 
 const TMDB_API_KEY = process.env.TMDB_API_KEY || '99cc02ee4fab8a8435598646547ae0ac';
 const THESPORTSDB_API_KEY = process.env.THESPORTSDB_API_KEY || '123';
@@ -23,7 +23,7 @@ const THESPORTSDB_API_KEY = process.env.THESPORTSDB_API_KEY || '123';
 const PRETTY = process.env.PRETTY === '1';
 const OFFLINE = process.env.OFFLINE === '1' || process.argv.includes('--offline');
 const MAX_REFRESH_PER_RUN = parseInt(process.env.MAX_REFRESH || '1500', 10);
-const MAX_TEAM_LOOKUPS_PER_RUN = parseInt(process.env.MAX_TEAM_LOOKUPS || '90', 10);
+const MAX_TEAM_LOOKUPS_PER_RUN = parseInt(process.env.MAX_TEAM_LOOKUPS || '400', 10);
 
 const MIN_VOTES_FOR_RATING = 10;
 const MIN_VOTES_FOR_FEATURED = 30;
@@ -175,7 +175,7 @@ const CHANNEL_CATEGORY_RULES = [
 ];
 
 // ============================================================================
-// SPORTS / FOOTBALL DICTIONARIES (With TheSportsDB League IDs & Team Mappings)
+// SPORTS / FOOTBALL DICTIONARIES (Leagues, 300+ Clubs, 210+ National Teams)
 // ============================================================================
 const LEAGUES = {
   premier_league: { tsdbId: '4328', ar: 'الدوري الإنجليزي الممتاز', en: 'Premier League', fr: 'Premier League', re: /الدوري الإنجليزي|البريميرليج|premier league/i },
@@ -193,134 +193,475 @@ const LEAGUES = {
   algerian_ligue: { tsdbId: '4736', ar: 'الرابطة الجزائرية المحترفة', en: 'Algerian Ligue 1', fr: 'Ligue 1 Algérie', re: /الرابطة الجزائرية|الدوري الجزائري|algerian ligue/i },
   qatari_league: { tsdbId: '4737', ar: 'دوري نجوم قطر', en: 'Qatar Stars League', fr: 'Qatar Stars League', re: /دوري نجوم قطر|الدوري القطري|qatar stars/i },
   uae_pro_league: { tsdbId: '4740', ar: 'دوري أدنوك للمحترفين', en: 'UAE Pro League', fr: 'UAE Pro League', re: /دوري أدنوك|الدوري الإماراتي|uae pro/i },
+  jordan_league: { tsdbId: null, ar: 'الدوري الأردني للمحترفين', en: 'Jordanian Pro League', fr: 'Championnat de Jordanie', re: /الدوري الأردني|jordanian pro/i },
+  iraqi_league: { tsdbId: null, ar: 'دوري نجوم العراق', en: 'Iraq Stars League', fr: 'Championnat d\'Irak', re: /دوري نجوم العراق|الدوري العراقي|iraq stars/i },
   caf_champions: { tsdbId: '4739', ar: 'دوري أبطال أفريقيا', en: 'CAF Champions League', fr: 'Ligue des champions CAF', re: /دوري أبطال أفريقيا|أبطال إفريقيا|caf champions/i },
+  caf_confederation: { tsdbId: null, ar: 'كأس الكونفدرالية الأفريقية', en: 'CAF Confederation Cup', fr: 'Coupe de la confédération CAF', re: /الكونفدرالية|confederation cup/i },
   afc_champions: { tsdbId: '4738', ar: 'دوري أبطال آسيا', en: 'AFC Champions League', fr: 'Ligue des champions AFC', re: /دوري أبطال آسيا|أبطال آسيا|afc champions/i },
   world_cup: { tsdbId: '4429', ar: 'كأس العالم', en: 'FIFA World Cup', fr: 'Coupe du monde', re: /كأس العالم|تصفيات كأس العالم|world cup/i },
   afcon: { tsdbId: '4499', ar: 'كأس أمم أفريقيا', en: 'Africa Cup of Nations', fr: 'Coupe d\'Afrique des nations', re: /كأس أمم أفريقيا|أمم إفريقيا|africa cup|afcon/i },
   asian_cup: { tsdbId: '4500', ar: 'كأس آسيا', en: 'AFC Asian Cup', fr: 'Coupe d\'Asie', re: /كأس آسيا|asian cup/i },
   nations_league: { tsdbId: '4490', ar: 'دوري الأمم الأوروبية', en: 'UEFA Nations League', fr: 'Ligue des nations', re: /دوري الأمم الأوروبية|nations league/i },
+  arab_cup: { tsdbId: null, ar: 'كأس العرب', en: 'FIFA Arab Cup', fr: 'Coupe arabe', re: /كأس العرب|arab cup/i },
   friendly: { tsdbId: null, ar: 'مباراة ودية', en: 'International Friendly', fr: 'Match amical', re: /ودية|مباراة ودية|friendly/i }
 };
 
-const TEAM_AR_TO_EN = {
-  // England
-  'ارسنال': 'Arsenal', 'آرسنال': 'Arsenal',
-  'تشيلسي': 'Chelsea',
+// Club names (folded via normalizeName) -> English club name for TheSportsDB / Wikidata / Wikipedia
+const CLUB_AR_TO_EN = {
+  // England (Premier League & Championship)
+  'ارسنال': 'Arsenal', 'ارسنال الانجليزي': 'Arsenal',
+  'تشيلسي': 'Chelsea', 'تشلسي': 'Chelsea',
   'ليفربول': 'Liverpool',
-  'مانشستر سيتي': 'Manchester City',
-  'مانشستر يونايتد': 'Manchester United',
-  'توتنهام': 'Tottenham Hotspur', 'توتنهام هوتسبير': 'Tottenham Hotspur',
+  'مانشستر سيتي': 'Manchester City', 'مان سيتي': 'Manchester City',
+  'مانشستر يونايتد': 'Manchester United', 'مان يونايتد': 'Manchester United',
+  'توتنهام': 'Tottenham Hotspur', 'توتنهام هوتسبير': 'Tottenham Hotspur', 'توتنام': 'Tottenham Hotspur',
   'نيوكاسل': 'Newcastle United', 'نيوكاسل يونايتد': 'Newcastle United',
   'استون فيلا': 'Aston Villa',
   'وست هام': 'West Ham United', 'وست هام يونايتد': 'West Ham United',
-  'برايتون': 'Brighton',
+  'برايتون': 'Brighton & Hove Albion',
   'ايفرتون': 'Everton',
   'ليستر سيتي': 'Leicester City',
   'ولفرهامبتون': 'Wolverhampton Wanderers',
-  'نوتينغهام فورست': 'Nottingham Forest',
+  'نوتينغهام فورست': 'Nottingham Forest', 'نوتنغهام فورست': 'Nottingham Forest',
   'كريستال بالاس': 'Crystal Palace',
   'فولهام': 'Fulham',
   'برينتفورد': 'Brentford',
-  'بورنموث': 'Bournemouth',
-  // Spain
+  'بورنموث': 'AFC Bournemouth',
+  'ساوثهامبتون': 'Southampton', 'ساوثامبتون': 'Southampton',
+  'ايبسويتش تاون': 'Ipswich Town',
+  'ليدز يونايتد': 'Leeds United',
+  'بيرنلي': 'Burnley',
+  'شيفيلد يونايتد': 'Sheffield United',
+  'سندرلاند': 'Sunderland',
+  // Spain (La Liga)
   'ريال مدريد': 'Real Madrid',
   'برشلونه': 'Barcelona',
-  'اتلتيكو مدريد': 'Atletico Madrid',
+  'اتلتيكو مدريد': 'Atletico Madrid', 'اتليتكو مدريد': 'Atletico Madrid',
   'اشبيليه': 'Sevilla',
   'ريال بيتيس': 'Real Betis',
   'ريال سوسيداد': 'Real Sociedad',
   'فياريال': 'Villarreal',
-  'اتلتيك بلباو': 'Athletic Bilbao',
+  'اتلتيك بلباو': 'Athletic Bilbao', 'اتليتك بلباو': 'Athletic Bilbao',
   'فالنسيا': 'Valencia',
   'جيرونا': 'Girona',
-  // Italy
-  'يوفنتوس': 'Juventus',
-  'انتر ميلان': 'Inter Milan', 'الانتر': 'Inter Milan',
+  'سيلتا فيغو': 'Celta Vigo', 'سلتا فيغو': 'Celta Vigo',
+  'ريال مايوركا': 'Mallorca', 'مايوركا': 'Mallorca',
+  'رايو فاليكانو': 'Rayo Vallecano',
+  'خيتافي': 'Getafe',
+  'اوساسونا': 'Osasuna',
+  'ديبورتيفو الافيس': 'Alaves', 'الافيس': 'Alaves',
+  'لاس بالماس': 'Las Palmas',
+  'اسبانيول': 'Espanyol',
+  'بلد الوليد': 'Real Valladolid', 'ريال بلد الوليد': 'Real Valladolid',
+  'ليغانيس': 'Leganes',
+  // Italy (Serie A)
+  'يوفنتوس': 'Juventus', 'جوفنتوس': 'Juventus',
+  'انتر ميلان': 'Inter Milan', 'الانتر': 'Inter Milan', 'انتر': 'Inter Milan',
   'ميلان': 'AC Milan', 'اي سي ميلان': 'AC Milan',
   'نابولي': 'Napoli',
   'روما': 'AS Roma',
   'لاتسيو': 'Lazio',
   'اتالانتا': 'Atalanta',
   'فيورنتينا': 'Fiorentina',
-  // Germany & France & Portugal & Netherlands
+  'بولونيا': 'Bologna',
+  'تورينو': 'Torino',
+  'اودينيزي': 'Udinese',
+  'جنوي': 'Genoa',
+  'كالياري': 'Cagliari',
+  'امبولي': 'Empoli',
+  'بارما': 'Parma',
+  'كومو': 'Como',
+  'فينيزيا': 'Venezia',
+  'هيلاس فيرونا': 'Hellas Verona', 'فيرونا': 'Hellas Verona',
+  'ليتشي': 'Lecce',
+  'مونزا': 'Monza',
+  // Germany (Bundesliga)
   'بايرن ميونخ': 'Bayern Munich', 'بايرن ميونيخ': 'Bayern Munich',
-  'بوروسيا دورتموند': 'Borussia Dortmund',
+  'بوروسيا دورتموند': 'Borussia Dortmund', 'بروسيا دورتموند': 'Borussia Dortmund',
   'باير ليفركوزن': 'Bayer Leverkusen',
-  'لايبزيج': 'RB Leipzig', 'لايبزيغ': 'RB Leipzig',
-  'باريس سان جيرمان': 'Paris Saint-Germain',
+  'لايبزيج': 'RB Leipzig', 'لايبزيغ': 'RB Leipzig', 'ار بي لايبزيج': 'RB Leipzig',
+  'شتوتغارت': 'VfB Stuttgart',
+  'اينتراخت فرانكفورت': 'Eintracht Frankfurt', 'فرانكفورت': 'Eintracht Frankfurt',
+  'فولفسبورغ': 'VfL Wolfsburg',
+  'فرايبورغ': 'SC Freiburg',
+  'هوفنهايم': 'TSG Hoffenheim',
+  'ماينتس': 'Mainz 05',
+  'اوغسبورغ': 'FC Augsburg',
+  'فيردر بريمن': 'Werder Bremen',
+  'يونيون برلين': 'Union Berlin',
+  'بوخوم': 'VfL Bochum',
+  'بوروسيا مونشنغلادباخ': 'Borussia Monchengladbach',
+  'سانت باولي': 'FC St. Pauli',
+  'هايدنهايم': '1. FC Heidenheim',
+  // France (Ligue 1)
+  'باريس سان جيرمان': 'Paris Saint-Germain', 'باريس سان جرمان': 'Paris Saint-Germain',
   'مارسيليا': 'Marseille', 'اولمبيك مارسيليا': 'Marseille',
   'ليون': 'Lyon', 'اولمبيك ليون': 'Lyon',
-  'موناكو': 'Monaco',
+  'موناكو': 'AS Monaco',
   'ليل': 'Lille',
+  'نيس': 'OGC Nice',
+  'لانس': 'RC Lens',
+  'رين': 'Stade Rennais',
+  'ستراسبورغ': 'RC Strasbourg',
+  'نانت': 'FC Nantes',
+  'تولوز': 'Toulouse FC',
+  'مونبلييه': 'Montpellier HSC',
+  'بريست': 'Stade Brestois 29', 'ستاد بريست': 'Stade Brestois 29',
+  'ستاد ريمس': 'Stade de Reims', 'ريمس': 'Stade de Reims',
+  'اوكسير': 'AJ Auxerre',
+  'انجيه': 'Angers SCO',
+  'سانت ايتيان': 'AS Saint-Etienne',
+  // Portugal, Netherlands, Scotland, Belgium, Turkey, Rest of Europe
   'بنفيكا': 'Benfica',
-  'بورتو': 'Porto',
+  'بورتو': 'FC Porto',
   'سبورتينغ لشبونه': 'Sporting CP', 'سبورتنج لشبونه': 'Sporting CP',
-  'اياكس': 'Ajax',
-  'ايندهوفن': 'PSV Eindhoven',
-  // Saudi Arabia
+  'سبورتينغ براغا': 'SC Braga', 'براغا': 'SC Braga',
+  'اياكس': 'Ajax', 'اياكس امستردام': 'Ajax',
+  'ايندهوفن': 'PSV Eindhoven', 'بي اس في ايندهوفن': 'PSV Eindhoven',
+  'فينورد': 'Feyenoord',
+  'الكمار': 'AZ Alkmaar',
+  'سيلتك': 'Celtic',
+  'رينجرز': 'Rangers',
+  'كلوب بروج': 'Club Brugge',
+  'اندرلخت': 'Anderlecht',
+  'يونيون سانت جيلواز': 'Union Saint-Gilloise',
+  'غلطة سراي': 'Galatasaray', 'غلطه سراي': 'Galatasaray',
+  'فنربخشة': 'Fenerbahce', 'فنربخشه': 'Fenerbahce',
+  'بشكتاش': 'Besiktas',
+  'طرابزون سبور': 'Trabzonspor',
+  'شاختار دونيتسك': 'Shakhtar Donetsk',
+  'دينامو كييف': 'Dynamo Kyiv',
+  'سالزبورغ': 'Red Bull Salzburg',
+  'شتورم غراتس': 'Sturm Graz',
+  'دينامو زغرب': 'Dinamo Zagreb',
+  'النجم الاحمر': 'Red Star Belgrade',
+  'يونغ بويز': 'Young Boys',
+  'سبارتا براغ': 'Sparta Prague',
+  'سلافيا براغ': 'Slavia Prague',
+  'اولمبياكوس': 'Olympiacos',
+  'باوك': 'PAOK',
+  'باناثينايكوس': 'Panathinaikos',
+  // Saudi Arabia (Saudi Pro League & First Division)
   'الهلال': 'Al-Hilal', 'الهلال السعودي': 'Al-Hilal',
   'النصر': 'Al-Nassr', 'النصر السعودي': 'Al-Nassr',
   'الاتحاد': 'Al-Ittihad', 'الاتحاد السعودي': 'Al-Ittihad',
   'الاهلي السعودي': 'Al-Ahli Saudi',
-  'الشباب': 'Al-Shabab',
+  'الشباب': 'Al-Shabab', 'الشباب السعودي': 'Al-Shabab',
   'الاتفاق': 'Al-Ettifaq',
   'التعاون': 'Al-Taawoun',
   'الفتح': 'Al-Fateh',
   'القادسيه': 'Al-Qadsiah',
-  // Egypt
+  'الرائد': 'Al-Raed',
+  'ضمك': 'Damac FC',
+  'الفيحاء': 'Al-Fayha',
+  'الخليج': 'Al-Khaleej',
+  'الاخدود': 'Al-Okhdood',
+  'الرياض': 'Al-Riyadh',
+  'العروبه': 'Al-Orobah',
+  'الخلود': 'Al-Kholood',
+  'الوحدة السعودي': 'Al-Wehda',
+  'ابها': 'Abha Club',
+  'الطائي': 'Al-Tai',
+  'الحزم': 'Al-Hazem',
+  'نيوم': 'Neom SC',
+  // Egypt (Egyptian Premier League)
   'الاهلي': 'Al Ahly', 'الاهلي المصري': 'Al Ahly',
   'الزمالك': 'Zamalek',
   'بيراميدز': 'Pyramids FC',
   'المصري': 'Al Masry', 'المصري البورسعيدي': 'Al Masry',
   'الاسماعيلي': 'Ismaily',
   'فيوتشر': 'Modern Sport FC', 'مودرن سبورت': 'Modern Sport FC',
-  // Morocco, Tunisia, Algeria, Qatar, UAE
-  'الوداد': 'Wydad AC', 'الوداد الرياضي': 'Wydad AC',
-  'الرجاء': 'Raja CA', 'الرجاء الرياضي': 'Raja CA',
+  'الاتحاد السكندري': 'Al Ittihad Alexandria',
+  'سموحه': 'Smouha SC',
+  'انبي': 'ENPPI SC',
+  'طلائع الجيش': 'Tala\'ea El Gaish',
+  'البنك الاهلي': 'National Bank of Egypt SC',
+  'سيراميكا كليوباترا': 'Ceramica Cleopatra',
+  'زد': 'ZED FC', 'زد اف سي': 'ZED FC',
+  'فاركو': 'Pharco FC',
+  'الجونه': 'El Gouna FC',
+  'المقاولون العرب': 'Al Mokawloon Al Arab',
+  'غزل المحله': 'Ghazl El Mahalla',
+  'حرس الحدود': 'Haras El Hodoud',
+  'بتروجيت': 'Petrojet',
+  // Morocco (Botola Pro)
+  'الوداد': 'Wydad AC', 'الوداد الرياضي': 'Wydad AC', 'الوداد البيضاوي': 'Wydad AC',
+  'الرجاء': 'Raja CA', 'الرجاء الرياضي': 'Raja CA', 'الرجاء البيضاوي': 'Raja CA',
   'نهضه بركان': 'RS Berkane',
   'الجيش الملكي': 'AS FAR',
-  'الترجي': 'Esperance de Tunis', 'الترجي التونسي': 'Esperance de Tunis',
-  'النجم الساحلي': 'Etoile du Sahel',
-  'النادي الافريقي': 'Club Africain',
+  'الفتح الرياضي': 'FUS Rabat',
+  'المغرب الفاسي': 'MAS Fez',
+  'اتحاد طنجه': 'Ittihad Tanger',
+  'حسنيه اكادير': 'Hassania Agadir',
+  'اولمبيك اسفي': 'Olympic Safi',
+  'الدفاع الحسني الجديدي': 'Difaa El Jadida',
+  'المغرب التطواني': 'Moghreb Tetouan',
+  'نهضه الزمامره': 'Renaissance Zemamra',
+  'اتحاد تواركه': 'Union Touarga',
+  'شباب السوالم': 'JS Soualem',
+  'النادي المكناسي': 'COD Meknes',
+  // Tunisia (Ligue 1)
+  'الترجي': 'Esperance de Tunis', 'الترجي التونسي': 'Esperance de Tunis', 'الترجي الرياضي': 'Esperance de Tunis',
+  'النجم الساحلي': 'Etoile du Sahel', 'النجم الرياضي الساحلي': 'Etoile du Sahel',
+  'النادي الافريقي': 'Club Africain', 'الافريقي': 'Club Africain',
   'الصفاقسي': 'CS Sfaxien', 'النادي الصفاقسي': 'CS Sfaxien',
+  'الاتحاد المنستيري': 'US Monastir',
+  'الملعب التونسي': 'Stade Tunisien',
+  'النادي البنزرتي': 'CA Bizertin',
+  'النجم المتلوي': 'ES Metlaoui',
+  'اتحاد بن قردان': 'US Ben Guerdane',
+  'الاولمبي الباجي': 'Olympique Beja',
+  'مستقبل سليمان': 'AS Soliman',
+  'قوافل قفصه': 'EGS Gafsa',
+  'شبيبه العمران': 'JS El Omrane',
+  'ترجي جرجيس': 'ES Zarzis',
+  // Algeria (Ligue 1)
   'مولوديه الجزائر': 'MC Alger',
   'شباب بلوزداد': 'CR Belouizdad',
   'اتحاد العاصمه': 'USM Alger',
   'شبيبه القبائل': 'JS Kabylie',
   'وفاق سطيف': 'ES Setif',
+  'شباب قسنطينه': 'CS Constantine',
+  'شبيبه الساوره': 'JS Saoura',
+  'مولوديه وهران': 'MC Oran',
+  'نادي بارادو': 'Paradou AC',
+  'اتحاد خنشله': 'USM Khenchela',
+  'اولمبي الشلف': 'ASO Chlef',
+  'نجم مقره': 'NC Magra',
+  'اتحاد بسكره': 'US Biskra',
+  // Qatar, UAE, Iraq, Jordan, Kuwait, Bahrain, Oman, Lebanon, Sudan
   'السد': 'Al Sadd', 'السد القطري': 'Al Sadd',
   'الدحيل': 'Al-Duhail',
   'الريان': 'Al-Rayyan',
+  'الغرافه': 'Al-Gharafa',
+  'الوكره': 'Al-Wakrah',
+  'العربي القطري': 'Al-Arabi SC',
+  'قطر القطري': 'Qatar SC',
+  'ام صلال': 'Umm Salal SC',
+  'الاهلي القطري': 'Al Ahli SC (Doha)',
+  'الشمال': 'Al-Shamal SC',
+  'الخور': 'Al-Khor SC',
   'العين': 'Al Ain', 'العين الاماراتي': 'Al Ain',
   'شباب الاهلي': 'Shabab Al Ahli',
   'الوصل': 'Al Wasl',
-  'الجزيره الاماراتي': 'Al Jazira',
-  // National Teams
-  'مصر': 'Egypt', 'منتخب مصر': 'Egypt',
-  'المغرب': 'Morocco', 'منتخب المغرب': 'Morocco',
-  'تونس': 'Tunisia', 'منتخب تونس': 'Tunisia',
-  'الجزائر': 'Algeria', 'منتخب الجزائر': 'Algeria',
-  'السعوديه': 'Saudi Arabia', 'منتخب السعوديه': 'Saudi Arabia',
-  'قطر': 'Qatar', 'منتخب قطر': 'Qatar',
-  'الامارات': 'United Arab Emirates', 'منتخب الامارات': 'United Arab Emirates',
-  'العراق': 'Iraq', 'منتخب العراق': 'Iraq',
-  'الاردن': 'Jordan', 'منتخب الاردن': 'Jordan',
-  'فلسطين': 'Palestine', 'منتخب فلسطين': 'Palestine',
-  'سوريا': 'Syria', 'منتخب سوريا': 'Syria',
-  'لبنان': 'Lebanon', 'منتخب لبنان': 'Lebanon',
-  'عمان': 'Oman', 'منتخب عمان': 'Oman',
-  'البحرين': 'Bahrain', 'منتخب البحرين': 'Bahrain',
-  'الكويت': 'Kuwait', 'منتخب الكويت': 'Kuwait',
-  'فرنسا': 'France', 'منتخب فرنسا': 'France',
-  'اسبانيا': 'Spain', 'منتخب اسبانيا': 'Spain',
-  'انجلترا': 'England', 'منتخب انجلترا': 'England',
-  'المانيا': 'Germany', 'منتخب المانيا': 'Germany',
-  'ايطاليا': 'Italy', 'منتخب ايطاليا': 'Italy',
-  'البرتغال': 'Portugal', 'منتخب البرتغال': 'Portugal',
-  'هولندا': 'Netherlands', 'منتخب هولندا': 'Netherlands',
-  'بلجيكا': 'Belgium', 'منتخب بلجيكا': 'Belgium',
-  'الارجنتين': 'Argentina', 'منتخب الارجنتين': 'Argentina',
-  'البرازيل': 'Brazil', 'منتخب البرازيل': 'Brazil'
+  'الجزيره الاماراتي': 'Al Jazira', 'الجزيره': 'Al Jazira',
+  'الشارقه': 'Sharjah FC',
+  'الوحده الاماراتي': 'Al Wahda FC',
+  'بني ياس': 'Baniyas Club',
+  'عجمان': 'Ajman Club',
+  'النصر الاماراتي': 'Al-Nasr SC (Dubai)',
+  'كلباء': 'Al-Ittihad Kalba',
+  'خورفكان': 'Khor Fakkan Club',
+  'الشرطه': 'Al-Shorta SC', 'الشرطه العراقي': 'Al-Shorta SC',
+  'القوه الجويه': 'Al-Quwa Al-Jawiya',
+  'الزوراء': 'Al-Zawraa SC',
+  'الطلبه': 'Al-Talaba SC',
+  'اربيل': 'Erbil SC',
+  'الفيصلي': 'Al-Faisaly SC (Amman)', 'الفيصلي الاردني': 'Al-Faisaly SC (Amman)',
+  'الوحدات': 'Al-Wehdat SC',
+  'الحسين اربد': 'Al-Hussein SC (Irbid)',
+  'الكويت الكويتي': 'Kuwait SC',
+  'القادسيه الكويتي': 'Qadsia SC',
+  'العربي الكويتي': 'Al-Arabi SC (Kuwait)',
+  'المحرق': 'Al-Muharraq SC',
+  'الرفاع': 'Al-Riffa SC',
+  'الخالديه': 'Al-Khaldiya SC',
+  'السيب': 'Al-Seeb Club',
+  'النهضه العماني': 'Al-Nahda Club',
+  'العهد': 'Al Ahed FC',
+  'النجمه اللبناني': 'Nejmeh SC',
+  'الانصار اللبناني': 'Al Ansar FC',
+  'الهلال السوداني': 'Al-Hilal Club (Omdurman)',
+  'المريخ السوداني': 'Al-Merrikh SC',
+  // Major African, Asian & Americas Clubs
+  'صن داونز': 'Mamelodi Sundowns', 'ماميلودي صن داونز': 'Mamelodi Sundowns',
+  'اورلاندو بايرتس': 'Orlando Pirates',
+  'كايزر تشيفز': 'Kaizer Chiefs',
+  'مازيمبي': 'TP Mazembe', 'تي بي مازيمبي': 'TP Mazembe',
+  'سيمبا': 'Simba SC',
+  'يانغ افريكانز': 'Young Africans SC',
+  'بترو اتلتيكو': 'Petro de Luanda',
+  'اسيك ميموزا': 'ASEC Mimosas',
+  'انييمبا': 'Enyimba',
+  'برسبوليس': 'Persepolis',
+  'استقلال طهران': 'Esteghlal',
+  'سباهان': 'Sepahan',
+  'تراكتور': 'Tractor SC',
+  'اولسان هيونداي': 'Ulsan HD',
+  'جيونبوك': 'Jeonbuk Hyundai Motors',
+  'بوهانغ ستيلرز': 'Pohang Steelers',
+  'كاواساكي فرونتال': 'Kawasaki Frontale',
+  'يوكوهاما مارينوس': 'Yokohama F. Marinos',
+  'فيسيل كوبي': 'Vissel Kobe',
+  'اوراوا ريد دايموندز': 'Urawa Red Diamonds',
+  'انتر ميامي': 'Inter Miami CF',
+  'بوكا جونيورز': 'Boca Juniors',
+  'ريفر بليت': 'River Plate',
+  'فلامنغو': 'Flamengo',
+  'بالميراس': 'Palmeiras',
+  'فلومينينسي': 'Fluminense',
+  'كورينثيانز': 'Corinthians',
+  'ساو باولو': 'Sao Paulo FC',
+  'سانتوس': 'Santos FC'
+};
+
+// National Teams (folded Arabic name -> { en, iso2 }) -> Guaranteed FlagCDN fallback
+const NATIONAL_TEAMS = {
+  // Arab World
+  'مصر': { en: 'Egypt', iso2: 'eg' },
+  'المغرب': { en: 'Morocco', iso2: 'ma' },
+  'تونس': { en: 'Tunisia', iso2: 'tn' },
+  'الجزائر': { en: 'Algeria', iso2: 'dz' },
+  'السعوديه': { en: 'Saudi Arabia', iso2: 'sa' }, 'المملكه العربيه السعوديه': { en: 'Saudi Arabia', iso2: 'sa' },
+  'قطر': { en: 'Qatar', iso2: 'qa' },
+  'الامارات': { en: 'United Arab Emirates', iso2: 'ae' }, 'الامارات العربيه المتحده': { en: 'United Arab Emirates', iso2: 'ae' },
+  'العراق': { en: 'Iraq', iso2: 'iq' },
+  'الاردن': { en: 'Jordan', iso2: 'jo' },
+  'فلسطين': { en: 'Palestine', iso2: 'ps' },
+  'سوريا': { en: 'Syria', iso2: 'sy' },
+  'لبنان': { en: 'Lebanon', iso2: 'lb' },
+  'عمان': { en: 'Oman', iso2: 'om' }, 'سلطنه عمان': { en: 'Oman', iso2: 'om' },
+  'البحرين': { en: 'Bahrain', iso2: 'bh' },
+  'الكويت': { en: 'Kuwait', iso2: 'kw' },
+  'اليمن': { en: 'Yemen', iso2: 'ye' },
+  'السودان': { en: 'Sudan', iso2: 'sd' },
+  'جنوب السودان': { en: 'South Sudan', iso2: 'ss' },
+  'ليبيا': { en: 'Libya', iso2: 'ly' },
+  'موريتانيا': { en: 'Mauritania', iso2: 'mr' },
+  'جزر القمر': { en: 'Comoros', iso2: 'km' },
+  'جيبوتي': { en: 'Djibouti', iso2: 'dj' },
+  'الصومال': { en: 'Somalia', iso2: 'so' },
+  // Africa (CAF)
+  'السنغال': { en: 'Senegal', iso2: 'sn' },
+  'نيجيريا': { en: 'Nigeria', iso2: 'ng' },
+  'الكاميرون': { en: 'Cameroon', iso2: 'cm' },
+  'كوت ديفوار': { en: 'Ivory Coast', iso2: 'ci' }, 'ساحل العاج': { en: 'Ivory Coast', iso2: 'ci' },
+  'غانا': { en: 'Ghana', iso2: 'gh' },
+  'مالي': { en: 'Mali', iso2: 'ml' },
+  'بوركينا فاسو': { en: 'Burkina Faso', iso2: 'bf' },
+  'جنوب افريقيا': { en: 'South Africa', iso2: 'za' },
+  'الكونغو الديمقراطيه': { en: 'DR Congo', iso2: 'cd' }, 'جمهورية الكونغو الديمقراطيه': { en: 'DR Congo', iso2: 'cd' },
+  'الكونغو': { en: 'Congo', iso2: 'cg' },
+  'غينيا': { en: 'Guinea', iso2: 'gn' },
+  'غينيا الاستوائيه': { en: 'Equatorial Guinea', iso2: 'gq' },
+  'غينيا بيساو': { en: 'Guinea-Bissau', iso2: 'gw' },
+  'الراس الاخضر': { en: 'Cape Verde', iso2: 'cv' }, 'كاب فيردي': { en: 'Cape Verde', iso2: 'cv' },
+  'انغولا': { en: 'Angola', iso2: 'ao' },
+  'زامبيا': { en: 'Zambia', iso2: 'zm' },
+  'زيمبابوي': { en: 'Zimbabwe', iso2: 'zw' },
+  'موزمبيق': { en: 'Mozambique', iso2: 'mz' },
+  'ناميبيا': { en: 'Namibia', iso2: 'na' },
+  'اوغندا': { en: 'Uganda', iso2: 'ug' },
+  'تنزانيا': { en: 'Tanzania', iso2: 'tz' },
+  'كينيا': { en: 'Kenya', iso2: 'ke' },
+  'اثيوبيا': { en: 'Ethiopia', iso2: 'et' },
+  'الغابون': { en: 'Gabon', iso2: 'ga' },
+  'بنين': { en: 'Benin', iso2: 'bj' },
+  'توغو': { en: 'Togo', iso2: 'tg' },
+  'النيجر': { en: 'Niger', iso2: 'ne' },
+  'مدغشقر': { en: 'Madagascar', iso2: 'mg' },
+  'رواندا': { en: 'Rwanda', iso2: 'rw' },
+  'بوروندي': { en: 'Burundi', iso2: 'bi' },
+  'مالاوي': { en: 'Malawi', iso2: 'mw' },
+  'بوتسوانا': { en: 'Botswana', iso2: 'bw' },
+  'ليبيريا': { en: 'Liberia', iso2: 'lr' },
+  'سيراليون': { en: 'Sierra Leone', iso2: 'sl' },
+  'غامبيا': { en: 'Gambia', iso2: 'gm' },
+  'تشاد': { en: 'Chad', iso2: 'td' },
+  'افريقيا الوسطى': { en: 'Central African Republic', iso2: 'cf' },
+  'موريشيوس': { en: 'Mauritius', iso2: 'mu' },
+  'سيشل': { en: 'Seychelles', iso2: 'sc' },
+  'اسواتيني': { en: 'Eswatini', iso2: 'sz' },
+  'ليسوتو': { en: 'Lesotho', iso2: 'ls' },
+  // Europe (UEFA)
+  'فرنسا': { en: 'France', iso2: 'fr' },
+  'اسبانيا': { en: 'Spain', iso2: 'es' },
+  'انجلترا': { en: 'England', iso2: 'gb-eng' },
+  'المانيا': { en: 'Germany', iso2: 'de' },
+  'ايطاليا': { en: 'Italy', iso2: 'it' },
+  'البرتغال': { en: 'Portugal', iso2: 'pt' },
+  'هولندا': { en: 'Netherlands', iso2: 'nl' },
+  'بلجيكا': { en: 'Belgium', iso2: 'be' },
+  'كرواتيا': { en: 'Croatia', iso2: 'hr' },
+  'سويسرا': { en: 'Switzerland', iso2: 'ch' },
+  'الدنمارك': { en: 'Denmark', iso2: 'dk' },
+  'النمسا': { en: 'Austria', iso2: 'at' },
+  'بولندا': { en: 'Poland', iso2: 'pl' },
+  'اوكرانيا': { en: 'Ukraine', iso2: 'ua' },
+  'تركيا': { en: 'Turkey', iso2: 'tr' },
+  'صربيا': { en: 'Serbia', iso2: 'rs' },
+  'السويد': { en: 'Sweden', iso2: 'se' },
+  'النرويج': { en: 'Norway', iso2: 'no' },
+  'التشيك': { en: 'Czech Republic', iso2: 'cz' }, 'جمهوريه التشيك': { en: 'Czech Republic', iso2: 'cz' },
+  'المجر': { en: 'Hungary', iso2: 'hu' },
+  'رومانيا': { en: 'Romania', iso2: 'ro' },
+  'اسكتلندا': { en: 'Scotland', iso2: 'gb-sct' },
+  'ويلز': { en: 'Wales', iso2: 'gb-wls' },
+  'ايرلندا': { en: 'Republic of Ireland', iso2: 'ie' },
+  'ايرلندا الشماليه': { en: 'Northern Ireland', iso2: 'gb-nir' },
+  'اليونان': { en: 'Greece', iso2: 'gr' },
+  'سلوفاكيا': { en: 'Slovakia', iso2: 'sk' },
+  'سلوفينيا': { en: 'Slovenia', iso2: 'si' },
+  'البانيا': { en: 'Albania', iso2: 'al' },
+  'جورجيا': { en: 'Georgia', iso2: 'ge' },
+  'ايسلندا': { en: 'Iceland', iso2: 'is' },
+  'فنلندا': { en: 'Finland', iso2: 'fi' },
+  'البوسنه والهرسك': { en: 'Bosnia and Herzegovina', iso2: 'ba' },
+  'مقدونيا الشماليه': { en: 'North Macedonia', iso2: 'mk' },
+  'الجبل الاسود': { en: 'Montenegro', iso2: 'me' },
+  'بلغاريا': { en: 'Bulgaria', iso2: 'bg' },
+  'روسيا': { en: 'Russia', iso2: 'ru' },
+  'بيلاروسيا': { en: 'Belarus', iso2: 'by' },
+  'كوسوفو': { en: 'Kosovo', iso2: 'xk' },
+  'لوكسمبورغ': { en: 'Luxembourg', iso2: 'lu' },
+  'قبرص': { en: 'Cyprus', iso2: 'cy' },
+  'مالطا': { en: 'Malta', iso2: 'mt' },
+  'استونيا': { en: 'Estonia', iso2: 'ee' },
+  'لاتفيا': { en: 'Latvia', iso2: 'lv' },
+  'ليتوانيا': { en: 'Lithuania', iso2: 'lt' },
+  'كازاخستان': { en: 'Kazakhstan', iso2: 'kz' },
+  'اذربيجان': { en: 'Azerbaijan', iso2: 'az' },
+  'ارمينيا': { en: 'Armenia', iso2: 'am' },
+  'مولدوفا': { en: 'Moldova', iso2: 'md' },
+  'جزر فارو': { en: 'Faroe Islands', iso2: 'fo' },
+  'جبل طارق': { en: 'Gibraltar', iso2: 'gi' },
+  'اندورا': { en: 'Andorra', iso2: 'ad' },
+  'سان مارينو': { en: 'San Marino', iso2: 'sm' },
+  'ليختنشتاين': { en: 'Liechtenstein', iso2: 'li' },
+  // Americas & Asia & Oceania
+  'الارجنتين': { en: 'Argentina', iso2: 'ar' },
+  'البرازيل': { en: 'Brazil', iso2: 'br' },
+  'اوروغواي': { en: 'Uruguay', iso2: 'uy' },
+  'كولومبيا': { en: 'Colombia', iso2: 'co' },
+  'تشيلي': { en: 'Chile', iso2: 'cl' },
+  'الاكوادور': { en: 'Ecuador', iso2: 'ec' },
+  'بيرو': { en: 'Peru', iso2: 'pe' },
+  'باراغواي': { en: 'Paraguay', iso2: 'py' },
+  'فنزويلا': { en: 'Venezuela', iso2: 've' },
+  'بوليفيا': { en: 'Bolivia', iso2: 'bo' },
+  'الولايات المتحده': { en: 'United States', iso2: 'us' }, 'امريكا': { en: 'United States', iso2: 'us' },
+  'المكسيك': { en: 'Mexico', iso2: 'mx' },
+  'كندا': { en: 'Canada', iso2: 'ca' },
+  'كوستاريكا': { en: 'Costa Rica', iso2: 'cr' },
+  'بنما': { en: 'Panama', iso2: 'pa' },
+  'جامايكا': { en: 'Jamaica', iso2: 'jm' },
+  'هندوراس': { en: 'Honduras', iso2: 'hn' },
+  'اليابان': { en: 'Japan', iso2: 'jp' },
+  'كوريا الجنوبيه': { en: 'South Korea', iso2: 'kr' },
+  'ايران': { en: 'Iran', iso2: 'ir' },
+  'استراليا': { en: 'Australia', iso2: 'au' },
+  'اوزبكستان': { en: 'Uzbekistan', iso2: 'uz' },
+  'الصين': { en: 'China', iso2: 'cn' },
+  'تايلاند': { en: 'Thailand', iso2: 'th' },
+  'فيتنام': { en: 'Vietnam', iso2: 'vn' },
+  'اندونيسيا': { en: 'Indonesia', iso2: 'id' },
+  'ماليزيا': { en: 'Malaysia', iso2: 'my' },
+  'الهند': { en: 'India', iso2: 'in' },
+  'كوريا الشماليه': { en: 'North Korea', iso2: 'kp' },
+  'قيرغيزستان': { en: 'Kyrgyzstan', iso2: 'kg' },
+  'طاجيكستان': { en: 'Tajikistan', iso2: 'tj' },
+  'تركمانستان': { en: 'Turkmenistan', iso2: 'tm' },
+  'نيوزيلندا': { en: 'New Zealand', iso2: 'nz' }
 };
 
 // ============================================================================
@@ -631,13 +972,14 @@ function inferContentTypeForGroup(g, enriched) {
 }
 
 // ============================================================================
-// SPORTS MATCH PARSER & THESPORTSDB FULL CONTEXT ENRICHMENT
+// SPORTS MATCH PARSER & MULTI-SOURCE BADGE ENRICHMENT
 // ============================================================================
 const STUDIO_RE = /استوديو|تحليلي|ما قبل المباراة|ما بعد المباراة|ملخص|أهداف|pre[\s-]?match|post[\s-]?match|highlights|review|studio/i;
 const EXPLICIT_VS_RE = /\s+(?:ضد|×|x|vs\.?|v\.?)\s+/i;
 const NON_TEAM_WORD_RE = /حلقة|جزء|موسم|برنامج|نشرة|موجز|فيلم|مسلسل|j[o0]urn[eé]e|week|round|matchday|episode|part/i;
 const COMMENTATOR_RE = /(?:المعلق|تعليق)\s*[:\-]?\s*([^\n،,|.\-()]+)|(?:commentator|commentary)\s*[:\-]?\s*([^\n,|.\-()]+)/i;
 const ROUND_RE = /(?:الجولة|الأسبوع|ربع النهائي|نصف النهائي|النهائي|دور الـ?\s*\d+|المجموعات|Matchday|Round|Week|Quarter-?final|Semi-?final|Final)\s*\d*/i;
+const WIKI_HEADERS = { 'User-Agent': 'ArabicTVGuideBot/1.0 (https://github.com/samijalloulien/arabic-tv-guide)' };
 
 function classifyLeague(text) {
   const raw = cleanText(text);
@@ -756,26 +1098,92 @@ function parseSportsEvent(rawTitle, description, episodeTitle, categories, chann
   };
 }
 
-async function resolveTeamEnglishName(rawTeamName) {
-  const norm = normalizeName(rawTeamName);
-  if (TEAM_AR_TO_EN[norm]) return TEAM_AR_TO_EN[norm];
-  if (/^[a-zA-Z0-9\s\-.'&]+$/.test(rawTeamName)) return rawTeamName.trim();
+// Strips youth/women/age suffixes for logo lookup while keeping original display names intact
+function stripTeamQualifiers(name) {
+  return String(name || '')
+    .replace(/\((?:سيدات|شباب|ناشئين|أولمبي|تحت\s*\d+|women|u\d+|w)\)/gi, '')
+    .replace(/\b(?:الأولمبي|الاولمبي|للشباب|للناشئين|سيدات|للسيدات|تحت\s*\d+|women|u\d+)\b/gi, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
 
+function lookupDictionaryTeam(rawTeamName) {
+  const base = stripTeamQualifiers(rawTeamName);
+  const norm = normalizeName(base);
+  const variants = [norm, norm.replace(/^ال/, ''), `ال${norm}`];
+
+  // Check clubs first so e.g. "المصري" matches Al Masry club rather than Egypt national team
+  for (const v of variants) {
+    if (CLUB_AR_TO_EN[v]) return { type: 'club', en: CLUB_AR_TO_EN[v], iso2: null };
+  }
+  for (const v of variants) {
+    if (NATIONAL_TEAMS[v]) return { type: 'national', en: NATIONAL_TEAMS[v].en, iso2: NATIONAL_TEAMS[v].iso2 };
+  }
+  if (/^[a-zA-Z0-9\s\-.'&]+$/.test(base)) {
+    return { type: 'club', en: base, iso2: null };
+  }
+  return { type: 'unknown', en: null, iso2: null };
+}
+
+function isUsableCrestUrl(url) {
+  const u = cleanUrl(url);
+  if (!u) return false;
+  const lower = u.toLowerCase();
+  if (lower.endsWith('.svg') || lower.includes('.svg.png')) return false;
+  const bad = ['flag_of_', 'soccerball', 'kit_body', 'stadium', 'map_', 'silhouette', 'commons-logo', 'disambig'];
+  return !bad.some(p => lower.includes(p));
+}
+
+// Source 2: Wikidata resolver (returns English club name + official P154 logo PNG)
+async function lookupTeamWikidata(queryTitle, lang = 'ar') {
   try {
     const searchData = await fetchJson(
-      `https://www.wikidata.org/w/api.php?action=wbsearchentities&search=${encodeURIComponent(rawTeamName)}&language=ar&uselang=ar&format=json&limit=3`,
-      { headers: { 'User-Agent': 'ArabicTVGuideBot/1.0' }, retries: 1 }
+      `https://www.wikidata.org/w/api.php?action=wbsearchentities&search=${encodeURIComponent(queryTitle)}&language=${lang}&uselang=${lang}&format=json&limit=4`,
+      { headers: WIKI_HEADERS, retries: 1 }
     );
-    const cand = (searchData && searchData.search && searchData.search[0]) || null;
-    if (!cand) return null;
+    const candidates = (searchData && searchData.search) || [];
+    if (!candidates.length) return null;
+
+    const ids = candidates.map(c => c.id).join('|');
     const entityData = await fetchJson(
-      `https://www.wikidata.org/w/api.php?action=wbgetentities&ids=${cand.id}&props=labels|descriptions&languages=en&format=json`,
-      { headers: { 'User-Agent': 'ArabicTVGuideBot/1.0' }, retries: 1 }
+      `https://www.wikidata.org/w/api.php?action=wbgetentities&ids=${ids}&props=labels|descriptions|claims&languages=ar|en&format=json`,
+      { headers: WIKI_HEADERS, retries: 1 }
     );
-    const ent = entityData && entityData.entities && entityData.entities[cand.id];
-    const descEn = (ent && ent.descriptions && ent.descriptions.en && ent.descriptions.en.value) || '';
-    if (/football|soccer|club|national|team|sport/i.test(descEn)) {
-      return (ent.labels && ent.labels.en && ent.labels.en.value) || null;
+    const entities = (entityData && entityData.entities) || {};
+
+    for (const cand of candidates) {
+      const ent = entities[cand.id];
+      if (!ent || !ent.claims) continue;
+      const descAr = (ent.descriptions && ent.descriptions.ar && ent.descriptions.ar.value) || '';
+      const descEn = (ent.descriptions && ent.descriptions.en && ent.descriptions.en.value) || '';
+      if (!/نادي|فريق|منتخب|كرة|football|soccer|club|national|team|sport/i.test(`${descAr} ${descEn}`)) continue;
+
+      const enLabel = (ent.labels && ent.labels.en && ent.labels.en.value) || null;
+      let logo = null;
+      const logoClaim = ent.claims.P154 && ent.claims.P154[0];
+      const fileName = logoClaim && logoClaim.mainsnak && logoClaim.mainsnak.datavalue && logoClaim.mainsnak.datavalue.value;
+      if (fileName) {
+        const candidateUrl = `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(fileName)}?width=200`;
+        if (isUsableCrestUrl(candidateUrl)) logo = candidateUrl;
+      }
+      return { enName: enLabel, badge: logo };
+    }
+  } catch {}
+  return null;
+}
+
+// Source 3: Wikipedia PageImages thumbnail (catches Arab/African clubs whose crest is on Wikipedia)
+async function lookupTeamWikipediaCrest(title, lang = 'en') {
+  if (!title) return null;
+  try {
+    const data = await fetchJson(
+      `https://${lang}.wikipedia.org/w/api.php?action=query&titles=${encodeURIComponent(title)}&redirects=1&prop=pageimages&piprop=thumbnail&pithumbsize=200&format=json`,
+      { headers: WIKI_HEADERS, retries: 1 }
+    );
+    const pages = (data && data.query && data.query.pages) || {};
+    for (const page of Object.values(pages)) {
+      const thumb = page && page.thumbnail && page.thumbnail.source;
+      if (thumb && isUsableCrestUrl(thumb)) return cleanUrl(thumb);
     }
   } catch {}
   return null;
@@ -784,61 +1192,86 @@ async function resolveTeamEnglishName(rawTeamName) {
 async function fetchTeamDetails(rawTeamName) {
   const normKey = normalizeName(rawTeamName);
   const existing = metadataCache._teams[normKey];
-  if (existing !== undefined && existing.tv === TEAM_ENTRY_FORMAT) {
+  if (existing !== undefined && existing.tv === TEAM_ENTRY_FORMAT && existing.badge) {
     return existing;
   }
 
-  const enName = (existing && existing.name_en) || (await resolveTeamEnglishName(rawTeamName));
+  const dict = lookupDictionaryTeam(rawTeamName);
+  let enName = (existing && existing.name_en) || dict.en || null;
+  let badge = null;
+  let jersey = (existing && existing.jersey) || null;
+  let stadium = (existing && existing.stadium) || null;
+  let stadiumCity = (existing && existing.stadium_city) || null;
+  let stadiumImage = (existing && existing.stadium_image) || null;
+  let color = (existing && existing.color) || null;
+
+  // Step 1: Resolve English name via Wikidata if still unknown
+  let wikiResult = null;
   if (!enName) {
-    metadataCache._teams[normKey] = {
-      tv: TEAM_ENTRY_FORMAT,
-      name_en: null,
-      badge: null,
-      jersey: null,
-      stadium: null,
-      stadium_city: null,
-      stadium_image: null,
-      color: null
-    };
-    return metadataCache._teams[normKey];
+    wikiResult = await lookupTeamWikidata(stripTeamQualifiers(rawTeamName), 'ar');
+    if (wikiResult && wikiResult.enName) enName = wikiResult.enName;
   }
 
-  try {
-    const data = await fetchJson(
-      `https://www.thesportsdb.com/api/v1/json/${THESPORTSDB_API_KEY}/searchteams.php?t=${encodeURIComponent(enName)}`,
-      { retries: 1 }
-    );
-    const teams = (data && Array.isArray(data.teams) && data.teams) || [];
-    const hit =
-      teams.find(t => normalizeName(t.strTeam) === normalizeName(enName)) ||
-      teams.find(t => /soccer|football/i.test(t.strSport || '')) ||
-      teams[0] ||
-      null;
+  // Step 2: Query TheSportsDB for official badge, jersey, stadium & club color
+  if (enName) {
+    try {
+      const data = await fetchJson(
+        `https://www.thesportsdb.com/api/v1/json/${THESPORTSDB_API_KEY}/searchteams.php?t=${encodeURIComponent(enName)}`,
+        { retries: 1 }
+      );
+      const teams = (data && Array.isArray(data.teams) && data.teams) || [];
+      const hit =
+        teams.find(t => normalizeName(t.strTeam) === normalizeName(enName)) ||
+        teams.find(t => /soccer|football/i.test(t.strSport || '') && isTitleMatch(t.strTeam, enName)) ||
+        teams.find(t => /soccer|football/i.test(t.strSport || '')) ||
+        null;
 
-    const resolved = {
-      tv: TEAM_ENTRY_FORMAT,
-      name_en: (hit && cleanText(hit.strTeam)) || enName,
-      badge: hit ? cleanUrl(hit.strBadge || hit.strTeamBadge) : null,
-      jersey: hit ? cleanUrl(hit.strJersey) : null,
-      stadium: hit ? cleanText(hit.strStadium) : null,
-      stadium_city: hit ? cleanText(hit.strStadiumLocation) : null,
-      stadium_image: hit ? cleanUrl(hit.strStadiumThumb) : null,
-      color: hit ? cleanHexColor(hit.strColour1) : null
-    };
-    metadataCache._teams[normKey] = resolved;
-    return resolved;
-  } catch {
-    return {
-      tv: TEAM_ENTRY_FORMAT,
-      name_en: enName,
-      badge: (existing && existing.badge) || null,
-      jersey: null,
-      stadium: null,
-      stadium_city: null,
-      stadium_image: null,
-      color: null
-    };
+      if (hit) {
+        enName = cleanText(hit.strTeam) || enName;
+        badge = cleanUrl(hit.strBadge || hit.strTeamBadge) || badge;
+        jersey = cleanUrl(hit.strJersey) || jersey;
+        stadium = cleanText(hit.strStadium) || stadium;
+        stadiumCity = cleanText(hit.strStadiumLocation) || stadiumCity;
+        stadiumImage = cleanUrl(hit.strStadiumThumb) || stadiumImage;
+        color = cleanHexColor(hit.strColour1) || color;
+      }
+      await sleep(250);
+    } catch {}
   }
+
+  // Step 3: Wikidata P154 logo fallback
+  if (!badge) {
+    if (!wikiResult && enName) {
+      wikiResult = await lookupTeamWikidata(enName, 'en');
+    }
+    if (wikiResult && wikiResult.badge) badge = wikiResult.badge;
+  }
+
+  // Step 4: Wikipedia infobox crest thumbnail fallback (English & Arabic Wikipedia)
+  if (!badge && enName) {
+    badge = await lookupTeamWikipediaCrest(enName, 'en');
+  }
+  if (!badge) {
+    badge = await lookupTeamWikipediaCrest(stripTeamQualifiers(rawTeamName), 'ar');
+  }
+
+  // Step 5: Guaranteed high-res PNG flag fallback for national teams
+  if (!badge && dict.type === 'national' && dict.iso2) {
+    badge = `https://flagcdn.com/w160/${dict.iso2}.png`;
+  }
+
+  const resolved = {
+    tv: TEAM_ENTRY_FORMAT,
+    name_en: enName || null,
+    badge: cleanUrl(badge),
+    jersey: cleanUrl(jersey),
+    stadium: cleanText(stadium),
+    stadium_city: cleanText(stadiumCity),
+    stadium_image: cleanUrl(stadiumImage),
+    color: cleanHexColor(color)
+  };
+  metadataCache._teams[normKey] = resolved;
+  return resolved;
 }
 
 async function fetchLeagueBadge(leagueKey, tsdbId) {
@@ -1088,12 +1521,11 @@ async function searchTmdbFull(queryTitle, expectedYear, category) {
 async function searchWikidata(cleanTitle, expectedYear) {
   const isLatin = /^[a-zA-Z0-9\s\-:&'.,!?]+$/.test(cleanTitle);
   const searchLang = isLatin ? 'en' : 'ar';
-  const headers = { 'User-Agent': 'ArabicTVGuideBot/1.0' };
 
   try {
     const searchData = await fetchJson(
       `https://www.wikidata.org/w/api.php?action=wbsearchentities&search=${encodeURIComponent(cleanTitle)}&language=${searchLang}&uselang=${searchLang}&format=json&limit=5`,
-      { headers, retries: 1 }
+      { headers: WIKI_HEADERS, retries: 1 }
     );
     if (!searchData) return null;
 
@@ -1107,7 +1539,7 @@ async function searchWikidata(cleanTitle, expectedYear) {
     const ids = candidates.map(c => c.id).join('|');
     const entityData = await fetchJson(
       `https://www.wikidata.org/w/api.php?action=wbgetentities&ids=${ids}&props=labels|descriptions|claims&languages=ar|en&format=json`,
-      { headers, retries: 1 }
+      { headers: WIKI_HEADERS, retries: 1 }
     );
     if (!entityData) return null;
     const entities = entityData.entities || {};
@@ -1979,7 +2411,7 @@ async function main() {
     showsById.get(showId).all_airings = list;
   }
 
-  // ---- 8b. Sports & Football Match Extraction with Full Context (api/sports.json) ----------------
+  // ---- 8b. Sports & Football Match Extraction with Multi-Source Logos (api/sports.json) --------
   const rawMatchSlots = [];
   const rawStudioSlots = [];
   const teamsToLookup = new Set();
@@ -2007,7 +2439,7 @@ async function main() {
       for (const teamName of [parsed.homeTeam, parsed.awayTeam]) {
         const tKey = normalizeName(teamName);
         const existing = metadataCache._teams[tKey];
-        if (existing === undefined || existing.tv !== TEAM_ENTRY_FORMAT) {
+        if (existing === undefined || existing.tv !== TEAM_ENTRY_FORMAT || !existing.badge) {
           teamsToLookup.add(teamName);
         }
       }
@@ -2017,11 +2449,11 @@ async function main() {
   if (!OFFLINE && (teamsToLookup.size > 0 || leaguesToLookup.size > 0)) {
     for (const [lKey, tsdbId] of leaguesToLookup.entries()) {
       await fetchLeagueBadge(lKey, tsdbId);
-      await sleep(300);
+      await sleep(250);
     }
 
     const budget = Array.from(teamsToLookup).slice(0, MAX_TEAM_LOOKUPS_PER_RUN);
-    console.log(`⚽ Enriching ${budget.length} sports teams & ${leaguesToLookup.size} leagues with TheSportsDB full context...`);
+    console.log(`⚽ Enriching ${budget.length} clubs & national teams (TheSportsDB + Wikidata + Wikipedia + Flags)...`);
     let tCount = 0;
     for (const teamName of budget) {
       await fetchTeamDetails(teamName);
@@ -2029,33 +2461,42 @@ async function main() {
         saveCache();
         process.stdout.write(`   Teams ${tCount}/${budget.length}...\r`);
       }
-      await sleep(350);
+      await sleep(100);
     }
     saveCache();
-    console.log('\n✅ Sports team badges, stadiums & league logos completed.');
+    console.log('\n✅ Sports team logos, national flags, stadiums & league badges completed.');
   }
 
-  const emptyTeam = rawName => ({
-    name_en: TEAM_AR_TO_EN[normalizeName(rawName)] || null,
-    badge: null,
-    jersey: null,
-    stadium: null,
-    stadium_city: null,
-    stadium_image: null,
-    color: null
-  });
+  const emptyTeam = rawName => {
+    const dict = lookupDictionaryTeam(rawName);
+    return {
+      name_en: dict.en || null,
+      badge: dict.type === 'national' && dict.iso2 ? `https://flagcdn.com/w160/${dict.iso2}.png` : null,
+      jersey: null,
+      stadium: null,
+      stadium_city: null,
+      stadium_image: null,
+      color: null
+    };
+  };
 
   const matchesMap = new Map();
+  let matchesWithBothBadges = 0;
+
   for (const { ch, s, showId, parsed } of rawMatchSlots) {
     const homeInfo = metadataCache._teams[normalizeName(parsed.homeTeam)] || emptyTeam(parsed.homeTeam);
     const awayInfo = metadataCache._teams[normalizeName(parsed.awayTeam)] || emptyTeam(parsed.awayTeam);
 
-    const homeNorm = normalizeName(homeInfo.name_en || parsed.homeTeam);
-    const awayNorm = normalizeName(awayInfo.name_en || parsed.awayTeam);
+    const homeNorm = normalizeName(homeInfo.name_en || stripTeamQualifiers(parsed.homeTeam));
+    const awayNorm = normalizeName(awayInfo.name_en || stripTeamQualifiers(parsed.awayTeam));
     const startBucket = Math.floor(s.startTs / 900) * 900;
     const matchKey = `${homeNorm}_vs_${awayNorm}_${startBucket}`;
 
     if (!matchesMap.has(matchKey)) {
+      const hBadge = cleanUrl(homeInfo.badge);
+      const aBadge = cleanUrl(awayInfo.badge);
+      if (hBadge && aBadge) matchesWithBothBadges++;
+
       matchesMap.set(matchKey, {
         match_id: `m_${shortHash(matchKey)}`,
         show_id: showId,
@@ -2068,12 +2509,12 @@ async function main() {
         round: parsed.round || null,
         home_team: parsed.homeTeam,
         home_team_en: homeInfo.name_en || null,
-        home_badge: cleanUrl(homeInfo.badge),
+        home_badge: hBadge,
         home_jersey: cleanUrl(homeInfo.jersey),
         home_color: cleanHexColor(homeInfo.color),
         away_team: parsed.awayTeam,
         away_team_en: awayInfo.name_en || null,
-        away_badge: cleanUrl(awayInfo.badge),
+        away_badge: aBadge,
         away_jersey: cleanUrl(awayInfo.jersey),
         away_color: cleanHexColor(awayInfo.color),
         stadium: cleanText(homeInfo.stadium),
@@ -2116,7 +2557,7 @@ async function main() {
   for (const { ch, s, parsed } of rawStudioSlots) {
     const hInfo = metadataCache._teams[normalizeName(parsed.homeTeam)] || emptyTeam(parsed.homeTeam);
     const aInfo = metadataCache._teams[normalizeName(parsed.awayTeam)] || emptyTeam(parsed.awayTeam);
-    const pairKey = `${normalizeName(hInfo.name_en || parsed.homeTeam)}_vs_${normalizeName(aInfo.name_en || parsed.awayTeam)}`;
+    const pairKey = `${normalizeName(hInfo.name_en || stripTeamQualifiers(parsed.homeTeam))}_vs_${normalizeName(aInfo.name_en || stripTeamQualifiers(parsed.awayTeam))}`;
 
     for (const matchObj of matchesMap.values()) {
       if (matchObj._teamPairKey !== pairKey) continue;
@@ -2564,7 +3005,7 @@ async function main() {
   console.log(`🎉 Generated ${channels.length} channel schedules, ${showsById.size} unique shows, ${allMatches.length} sports matches.`);
   console.log(`📺 Channel categories: ${JSON.stringify(catCounts)}`);
   console.log(`🔎 search_index: ${searchIndex.length} shows (${withPoster} with poster, ${withRating} with rating) ${JSON.stringify(typeCounts)}`);
-  console.log(`⚽ sports.json: ${allMatches.length} matches across ${sportsDoc.days_count} days (${sportsDoc.leagues.length} leagues)`);
+  console.log(`⚽ sports.json: ${matchesWithBothBadges}/${allMatches.length} matches with both team/national logos (${sportsDoc.leagues.length} leagues)`);
   console.log(`⭐ featured: hero=${heroPicked.length} tonight=${tonightPicked.length} series=${topSeries.length} movies=${topMovies.length} kids=${kidsPicks.length} docs=${documentaries.length} sports=${sportsHighlights.length}`);
   if (droppedUnverified.length) console.log(`🧹 Ignored ${droppedUnverified.length} unverified TMDB matches, e.g. ${droppedUnverified.slice(0, 10).join(' ; ')}`);
   if (droppedNoLogo.length) console.log(`🖼️  Skipped ${droppedNoLogo.length} channel(s) without a logo: ${droppedNoLogo.slice(0, 12).join(', ')}${droppedNoLogo.length > 12 ? ', …' : ''}`);
