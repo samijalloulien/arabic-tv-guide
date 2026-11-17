@@ -77755,7 +77755,7 @@
     "somalia": {
       "tv": 3,
       "name_en": "Somalia",
-      "badge": null,
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/y6z9fn1598647934.png",
       "jersey": null,
       "stadium": null,
       "stadium_city": null,
@@ -78075,12 +78075,12 @@
     "ghana": {
       "tv": 3,
       "name_en": "Ghana",
-      "badge": null,
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/j589xw1751526124.png",
       "jersey": null,
-      "stadium": null,
+      "stadium": "Accra Sports Stadium",
       "stadium_city": null,
       "stadium_image": null,
-      "color": null
+      "color": "#ffffff"
     },
     "lgct grand prix": {
       "tv": 3,
@@ -78095,12 +78095,12 @@
     "mexico": {
       "tv": 3,
       "name_en": "Mexico",
-      "badge": null,
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/3rmosi1748525208.png",
       "jersey": null,
-      "stadium": null,
+      "stadium": "Estadio Banorte",
       "stadium_city": null,
       "stadium_image": null,
-      "color": null
+      "color": "#00933b"
     },
     "longines global champions tour": {
       "tv": 3,
@@ -78335,9 +78335,9 @@
     "zimbabwe": {
       "tv": 3,
       "name_en": "Zimbabwe",
-      "badge": null,
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/zargnl1718412654.png",
       "jersey": null,
-      "stadium": null,
+      "stadium": "National Sports Stadium Harare",
       "stadium_city": null,
       "stadium_image": null,
       "color": null
@@ -78345,19 +78345,19 @@
     "equatorial guinea": {
       "tv": 3,
       "name_en": "Equatorial Guinea",
-      "badge": null,
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/5y4hdl1728749891.png",
       "jersey": null,
-      "stadium": null,
+      "stadium": "Nuevo Estadio de Malabo",
       "stadium_city": null,
       "stadium_image": null,
-      "color": null
+      "color": "#e32118"
     },
     "central african republic": {
       "tv": 3,
       "name_en": "Central African Republic",
-      "badge": null,
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/zhqnbk1553348771.png",
       "jersey": null,
-      "stadium": null,
+      "stadium": "Stade Barthélemy Boganda",
       "stadium_city": null,
       "stadium_image": null,
       "color": null
@@ -78365,9 +78365,9 @@
     "benin": {
       "tv": 3,
       "name_en": "Benin",
-      "badge": null,
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/an12u91593279487.png",
       "jersey": null,
-      "stadium": null,
+      "stadium": "Stade de l'Amitié",
       "stadium_city": null,
       "stadium_image": null,
       "color": null
@@ -78475,7 +78475,7 @@
     "sierra leone": {
       "tv": 3,
       "name_en": "Sierra Leone",
-      "badge": null,
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/s5xkvt1609717477.png",
       "jersey": null,
       "stadium": null,
       "stadium_city": null,
@@ -78485,9 +78485,9 @@
     "dr congo": {
       "tv": 3,
       "name_en": "DR Congo",
-      "badge": null,
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/s85jjw1728749022.png",
       "jersey": null,
-      "stadium": null,
+      "stadium": "Stade des Martyrs",
       "stadium_city": null,
       "stadium_image": null,
       "color": null
@@ -78505,7 +78505,7 @@
     "eritrea": {
       "tv": 3,
       "name_en": "Eritrea",
-      "badge": null,
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/ryolcd1598647196.png",
       "jersey": null,
       "stadium": null,
       "stadium_city": null,
@@ -78515,19 +78515,19 @@
     "guinea": {
       "tv": 3,
       "name_en": "Guinea",
-      "badge": null,
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/tzuwnp1742102469.png",
       "jersey": null,
-      "stadium": null,
+      "stadium": "Stade du 28 Septembre",
       "stadium_city": null,
       "stadium_image": null,
-      "color": null
+      "color": "#ce1126"
     },
     "tanzania": {
       "tv": 3,
       "name_en": "Tanzania",
-      "badge": null,
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/uovpkm1742103070.png",
       "jersey": null,
-      "stadium": null,
+      "stadium": "National Stadium",
       "stadium_city": null,
       "stadium_image": null,
       "color": null
@@ -78701,6 +78701,26 @@
       "stadium_city": null,
       "stadium_image": null,
       "color": "#ffffff"
+    },
+    "malawi": {
+      "tv": 3,
+      "name_en": "Malawi",
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/dr3txb1718412985.png",
+      "jersey": null,
+      "stadium": "Bingu National Stadium",
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "egypt": {
+      "tv": 3,
+      "name_en": "Egypt",
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/uheyzo1742102234.png",
+      "jersey": null,
+      "stadium": "Misr Stadium",
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": "#c8102e"
     }
   },
   "_leagues": {
@@ -79924,5 +79944,922 @@
     "status": "Released",
     "content_type": "movie"
   },
-  "من سوق لسوق_": null
+  "من سوق لسوق_": null,
+  "النائب انا_": null,
+  "يا هلا بالضيف_": null,
+  "من وحي الهدايه_": {
+    "fv": 10,
+    "tmdb_id": 1494457,
+    "tmdb_media": "movie",
+    "tmdb_title": "من وحي الهداية",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "from the revelation of the guidance",
+        "overview": "The events revolve around a reckless young man who neglects his wife and son without indifference, while his father tries to urge him to take responsibility in his home and work, and treat his wife and son in the right way.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 47,
+    "original_title": "من وحي الهداية",
+    "poster": "https://image.tmdb.org/t/p/w500/lCUDN93XmUoSEYUk65YxyszWDMe.jpg",
+    "backdrop": null,
+    "description": "",
+    "rating": 6,
+    "vote_count": 1,
+    "age_rating": null,
+    "year": "1965",
+    "release_date": "1965-03-11",
+    "genres": [
+      "دراما"
+    ],
+    "country": "الكويت",
+    "language": "العربية",
+    "director": "Nizar Charaby",
+    "cast": [
+      {
+        "name": "عبدالحسين عبدالرضا",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/p7po3Cyaq3LRgulZGphbzaddigq.jpg"
+      },
+      {
+        "name": "عايشة إبراهيم",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/iO8bHVX55o0y1Zgq5kU3tEYAARe.jpg"
+      },
+      {
+        "name": "غانم الصالح",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/hIpM8dEOYtt0oKJAn0NOgeQGtmd.jpg"
+      },
+      {
+        "name": "أحمد اسماعيل",
+        "character": null,
+        "profile_image": null
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=bkUR-m8Y8eo",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "عشت وشفت_": null,
+  "اكشنها مع عمر_": null,
+  "مذيعكم_": null,
+  "تضحك تخرج_": null,
+  "ماسبيرو تريندز_": null,
+  "نفسي اعرف_": null,
+  "ليالينا_": {
+    "fv": 10,
+    "tmdb_id": 102381,
+    "tmdb_media": "tv",
+    "tmdb_title": "ليالينا 80",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Our 80's Nights",
+        "overview": "The events take place in the 1980s, revolving around the life of Hisham. As he returns from the Gulf where he has been working, his life takes a turn when his daughter Gamila gets in an accident with the driver Rady. Gradually, Hisham begins to uncover secrets about his wife, Mariam",
+        "tagline": null
+      },
+      "fr": {
+        "title": "Layalina 80",
+        "overview": "La série tourne des années 1950 aux années 1980, quand une grande lutte a lieu entre deux familles et que les événements s'intensifient.",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 35,
+    "original_title": "ليالينا 80",
+    "poster": "https://image.tmdb.org/t/p/w500/hvLcFausGfCY644vqly38iq9tZ0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5brDCqcSGsYXwk43jzTj0MzHW9z.jpg",
+    "description": "يعود هشام من العمل في الخليج وتتغير حياته بعد حادث سيارة تتعرض له ابنته جميلة مع السائق راضي، ويبدأ في ملاحظة ما لا يعلمه عن زوجته مريم.",
+    "rating": 6,
+    "vote_count": 1,
+    "age_rating": null,
+    "year": "2020",
+    "release_date": "2020-04-24",
+    "genres": [
+      "دراما"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": null,
+    "cast": [
+      {
+        "name": "خالد الصاوي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/t4Z5PVsbFgN6RsN1bksjDwZlkhc.jpg"
+      },
+      {
+        "name": "إياد نصار",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/1rMMqeDTEWIpEVIEfBYbOTow6kA.jpg"
+      },
+      {
+        "name": "غادة عادل",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/z2bEbhdv3gRKPeZ9aASshDgWDEP.jpg"
+      },
+      {
+        "name": "صابرين",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/x9BU8T80Z6se9PnE5q32HPJimhy.jpg"
+      },
+      {
+        "name": "محمد عادل",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/vnsNynJwr9OKwbrVzHN3tZ7FmTm.jpg"
+      },
+      {
+        "name": "حسني شتا",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/7YzThzxZP8iFZm93g7xf0VnlMIa.jpg"
+      },
+      {
+        "name": "منة عرفة",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/hgPm7TthqrOE2PkwlWvZ8g93nUT.jpg"
+      },
+      {
+        "name": "جيهان أنور",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/k3qVAiX3oUdz8cVduBl3hB5MXJz.jpg"
+      },
+      {
+        "name": "محمد علي رزق",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/fFdLkjvliMtKqMnZmcvx3cNEb0L.jpg"
+      },
+      {
+        "name": "نهى عابدين",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/c1lw85Nj891RTEpdewaZElNBcjW.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": 1,
+    "episodes_count": 30,
+    "status": "Ended",
+    "content_type": "series"
+  },
+  "الملعب_": {
+    "fv": 10,
+    "tmdb_id": 627203,
+    "tmdb_media": "movie",
+    "tmdb_title": "الملعب البلدى",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": null,
+        "overview": "The film depicts children trying to create space for them in a city that lacks space for fun, creating their own playground on the streets.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "الملعب البلدى",
+    "poster": "https://image.tmdb.org/t/p/w500/6osHIKo6OHIEHOygzxc0LDcG2pC.jpg",
+    "backdrop": null,
+    "description": "",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": null,
+    "release_date": null,
+    "genres": [],
+    "country": "السعودية",
+    "language": "العربية",
+    "director": null,
+    "cast": [],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "حديث العرب من مصر_": null,
+  "ragel w set setat 6_": null,
+  "captain azouz_": null,
+  "الاربع_": null,
+  "الخميس_": {
+    "fv": 10,
+    "tmdb_id": 1201732,
+    "tmdb_media": "movie",
+    "tmdb_title": "الخميس إللي جاي",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Next Thursday",
+        "overview": "A couple buys a new palace, but they discover that they have been deceived, and the palace has been sold to multiple people. To make matters worse, the palace is haunted and anyone who lives in it is afflicted by a magical curse!",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 91,
+    "original_title": "الخميس إللي جاي",
+    "poster": "https://image.tmdb.org/t/p/w500/bJ0ZjbDAd7awrLMHRaeWJG5Vz0n.jpg",
+    "backdrop": null,
+    "description": "في إطار كوميدي خيالي، تدور الأحداث حول فتاة شهيرة على وسائل التواصل الاجتماعي، تتعرض هي ووالدها للعديد من المواقف الطريفة بسبب قصر مهجور به لعنة تصيب كل من بداخله.",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2023",
+    "release_date": "2023-10-19",
+    "genres": [
+      "كوميديا"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "حسن صالح",
+    "cast": [
+      {
+        "name": "مي كساب",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/n8CUAduiVrIKHAlCmyFKCpVwTwE.jpg"
+      },
+      {
+        "name": "بيومي فؤاد",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/79rD72T50i6tohSW9OLrahNExjP.jpg"
+      },
+      {
+        "name": "عمرو عبدالجليل",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/5H6iU6KXLvfLPzjPIm3DMkOGtf0.jpg"
+      },
+      {
+        "name": "حسام داغر",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/rqqsGlQJVvWvQx9RX4eQp8SQHA2.jpg"
+      },
+      {
+        "name": "سليمان عيد",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/qz4Ok4BEYspiqoek6Jybu9dMO24.jpg"
+      },
+      {
+        "name": "إيمان السيد",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/3ZBU4Aj2owkabyG3pR2oBUB0sy7.jpg"
+      },
+      {
+        "name": "سامي مغاوري",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/675TmIEoWDqpHYF5BCe0moimtXr.jpg"
+      },
+      {
+        "name": "ليلى عز العرب",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/dQ0dZdiT5j3DWQIRANdur2vw44G.jpg"
+      },
+      {
+        "name": "إسلام إبراهيم",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/oAfUBoMoJ6SkuyrLQWiHkpUgwx1.jpg"
+      },
+      {
+        "name": "محمد طعيمة",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/hauUH4BooCMOKMhbw3EhdekF5mS.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "الجمعه_": {
+    "fv": 10,
+    "tmdb_id": 1125257,
+    "tmdb_media": "movie",
+    "tmdb_title": "الجمعة العجيبة",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Freakier Friday",
+        "overview": "Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice.",
+        "tagline": "Here we go again."
+      },
+      "fr": {
+        "title": "Freaky Friday 2 : Encore dans la peau de ma mère",
+        "overview": "L’histoire se déroule bien des années après la crise d’identité à laquelle les Coleman ont été confrontées. Anna est devenue mère à son tour. Elle a une fille et s’apprête à avoir une belle-fille également. Mais alors qu'elles font face à la myriade de défis que représente l’union de deux familles, Tess et Anna découvrent que, contre toute attente, la foudre peut vraiment frapper deux fois au même endroit...",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 110,
+    "original_title": "Freakier Friday",
+    "poster": "https://image.tmdb.org/t/p/w500/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yQy9Y3p5INwkfTuHSnzYnz4MCV3.jpg",
+    "description": "في الجزء الجديد من الفيلم المنتج عام 2003، تكتشف \"تيس\" و\"آنا كولمان\" أن المفاجآت قد تحدث مرتين.",
+    "rating": 6.7,
+    "vote_count": 838,
+    "age_rating": "PG",
+    "year": "2025",
+    "release_date": "2025-08-06",
+    "genres": [
+      "كوميديا",
+      "فانتازيا",
+      "عائلي"
+    ],
+    "country": "الولايات المتحدة",
+    "language": "الإنجليزية",
+    "director": "نيشا غاناترا",
+    "cast": [
+      {
+        "name": "جيمي لي كرتيس",
+        "character": "Tess Coleman",
+        "profile_image": "https://image.tmdb.org/t/p/w185/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg"
+      },
+      {
+        "name": "Lindsay Lohan",
+        "character": "Anna Coleman",
+        "profile_image": "https://image.tmdb.org/t/p/w185/hwgyUEM7UuKTVhFcFoorx72pn1j.jpg"
+      },
+      {
+        "name": "جوليا باترز",
+        "character": "Harper Coleman",
+        "profile_image": "https://image.tmdb.org/t/p/w185/uVlPm7s3J1pLg6pLa5rYg43wd1.jpg"
+      },
+      {
+        "name": "Sophia Hammons",
+        "character": "Lily Reyes",
+        "profile_image": "https://image.tmdb.org/t/p/w185/7g5oz3NMbQQogw4zxnA4O96AC9n.jpg"
+      },
+      {
+        "name": "مارك هارمون",
+        "character": "Ryan",
+        "profile_image": "https://image.tmdb.org/t/p/w185/jDRXlmBItH9IyXk9UhafpOSBIq7.jpg"
+      },
+      {
+        "name": "ماني جاسينتو",
+        "character": "Eric Reyes",
+        "profile_image": "https://image.tmdb.org/t/p/w185/jMbNV4nr5647r6CZJbT6nsnspMz.jpg"
+      },
+      {
+        "name": "مايتري راماكريشنان",
+        "character": "Ella",
+        "profile_image": "https://image.tmdb.org/t/p/w185/dkhYjeCU5ByYKxAr2wtXz20vb60.jpg"
+      },
+      {
+        "name": "كريستينا فيدال",
+        "character": "Maddie",
+        "profile_image": "https://image.tmdb.org/t/p/w185/crf8W71bjJIHPiFYB1ny4Dl3amY.jpg"
+      },
+      {
+        "name": "Haley Hudson",
+        "character": "Peg",
+        "profile_image": "https://image.tmdb.org/t/p/w185/yyB5RFaG83XdwqbqFEBptwi9SuG.jpg"
+      },
+      {
+        "name": "تشاد مايكل موراي",
+        "character": "Jake",
+        "profile_image": "https://image.tmdb.org/t/p/w185/jIkzUQUVLkgn3HFMFRJBDAD0OLj.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=IyJzhtJEtoU",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "هوانم جاردن سيتي_": {
+    "fv": 10,
+    "tmdb_id": 52599,
+    "tmdb_media": "tv",
+    "tmdb_title": "هوانم جاردن سيتي",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Garden City Ladies",
+        "overview": "In a dramatic context, the events of the series deal with the changes of the social relations between the Shazli family members and its head, Mahmoud, from the Royal era until the events of 1952.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "هوانم جاردن سيتي",
+    "poster": "https://image.tmdb.org/t/p/w500/tKXcG5SFL9XNl5CSMqlf2zPwgXl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1MGlehHuWgQiirO043bjbbeAZIB.jpg",
+    "description": "تتناول أحداث المسلسل في قالب درامي ما طرأ من تغيرات في العلاقات الاجتماعية على أفراد عائلة الشاذلي وعميدها محمود، وذلك منذ الحقبة الملكية وحتى أحداث 1952.",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "1997",
+    "release_date": "1997-12-30",
+    "genres": [
+      "دراما"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "أحمد صقر",
+    "cast": [
+      {
+        "name": "صابرين",
+        "character": "منيرة كاظم",
+        "profile_image": "https://image.tmdb.org/t/p/w185/x9BU8T80Z6se9PnE5q32HPJimhy.jpg"
+      },
+      {
+        "name": "صفية العمري",
+        "character": "شهرت رستم",
+        "profile_image": "https://image.tmdb.org/t/p/w185/rrixVov0m0g6M0l4lCOD3XnacPv.jpg"
+      },
+      {
+        "name": "ليلى فوزي",
+        "character": "أمينة هانم",
+        "profile_image": "https://image.tmdb.org/t/p/w185/9IzIgBzjYUWkBMXy7ZcJL2zM02.jpg"
+      },
+      {
+        "name": "عزت أبو عوف",
+        "character": "حسين الشاذلي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/b4YIsca9urhYbAUWf1ftW440gcd.jpg"
+      },
+      {
+        "name": "هاني رمزي",
+        "character": "عاطف ناصف",
+        "profile_image": "https://image.tmdb.org/t/p/w185/r0RMbUmnBuRbwLLFat60eBFq4B4.jpg"
+      },
+      {
+        "name": "حسين فهمي",
+        "character": "عمر عز الدين",
+        "profile_image": "https://image.tmdb.org/t/p/w185/6u4eciBbQGsq5fmTFXj7eznUQxv.jpg"
+      },
+      {
+        "name": "مديحة يسري",
+        "character": "خديجة هانم",
+        "profile_image": "https://image.tmdb.org/t/p/w185/uddi9WvjFlv9j5dVo28CO4KVbS2.jpg"
+      },
+      {
+        "name": "عبلة كامل",
+        "character": "شكران الشاذلي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/wVFfL9ZEQx4LZ4AfVvx2K8ab80b.jpg"
+      },
+      {
+        "name": "هشام سليم",
+        "character": "محسن الشاذلي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/mEsLAwETgrWHGwLviulP8TlXclb.jpg"
+      },
+      {
+        "name": "أحمد خليل",
+        "character": "محمود باشا الشاذلي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/fvDwkSDZq4u02TmUOWKcXM9p3Ge.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=QFTcZ9qb-uA",
+    "seasons_count": 2,
+    "episodes_count": 65,
+    "status": "Ended",
+    "content_type": "series"
+  },
+  "كيد النسا_": {
+    "fv": 10,
+    "tmdb_id": 232167,
+    "tmdb_media": "tv",
+    "tmdb_title": "كيد النسا",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Women's deception",
+        "overview": "Kidahum is married to a man of weak personality. He decides to marry another woman, who is Safiah, and from here the quarrels and conflict between the two co-wives over the husband begin.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 45,
+    "original_title": "كيد النسا",
+    "poster": "https://image.tmdb.org/t/p/w500/nVmrZztCBJm7RN2OrUZcDif9uDF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bP4loxei8oWC6TRl3AjYIuUScl2.jpg",
+    "description": "",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2011",
+    "release_date": "2011-08-01",
+    "genres": [],
+    "country": "مصر",
+    "language": "العربية",
+    "director": null,
+    "cast": [
+      {
+        "name": "فيفي عبده",
+        "character": "Kidahum",
+        "profile_image": "https://image.tmdb.org/t/p/w185/6sxWWWXVEbBm14YUlkgEtx6Ab5F.jpg"
+      },
+      {
+        "name": "أحمد بدير",
+        "character": "Hanafi",
+        "profile_image": "https://image.tmdb.org/t/p/w185/czumAPB9nIYytuVEELuhnBgqc10.jpg"
+      },
+      {
+        "name": "أيتن عامر",
+        "character": "Ibtissam",
+        "profile_image": "https://image.tmdb.org/t/p/w185/vVANxXVcWOSC6r3O3HTJGR39Zve.jpg"
+      },
+      {
+        "name": "دينا فؤاد",
+        "character": "Amina",
+        "profile_image": "https://image.tmdb.org/t/p/w185/AiVFEKxpKa3iJs26O5Q1ASnOpx0.jpg"
+      },
+      {
+        "name": "بهاء ثروت",
+        "character": "Halimo",
+        "profile_image": "https://image.tmdb.org/t/p/w185/6qdtQ5eBcx32B63PvUhY32EOB9O.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": 2,
+    "episodes_count": 60,
+    "status": "Returning Series",
+    "content_type": "series"
+  },
+  "تعمير_": null,
+  "بيت العيله_": {
+    "fv": 10,
+    "tmdb_id": 50570,
+    "tmdb_media": "tv",
+    "tmdb_title": "بيت العيلة",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Family Home",
+        "overview": "The story revolves around four divorced sisters who live under one roof, their father's villa. Fate wills that they all get divorced at the same time, so they return to their old home. There, comedic paradoxes occur between them due to their different personalities.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "بيت العيلة",
+    "poster": null,
+    "backdrop": null,
+    "description": "",
+    "rating": 9,
+    "vote_count": 1,
+    "age_rating": null,
+    "year": null,
+    "release_date": null,
+    "genres": [
+      "كوميديا",
+      "عائلي",
+      "دراما"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": null,
+    "cast": [
+      {
+        "name": "رزان مغربي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/j9NOWGapMNwcc2SXucBCrooaZtd.jpg"
+      },
+      {
+        "name": "هالة فاخر",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/omSAstcoVGK4Cldav56rIa9v15m.jpg"
+      },
+      {
+        "name": "شيرين",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/cWrLR7cg9ldnoGo0pDtPfD0em59.jpg"
+      },
+      {
+        "name": "إيمان السيد",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/3ZBU4Aj2owkabyG3pR2oBUB0sy7.jpg"
+      },
+      {
+        "name": "حسن عبدالفتاح",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/j2wxjDsZlM4Jgt4VAkcPab5qjPe.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": 2,
+    "episodes_count": null,
+    "status": "Returning Series",
+    "content_type": "series"
+  },
+  "الحريف_": {
+    "fv": 10,
+    "tmdb_id": 258773,
+    "tmdb_media": "movie",
+    "tmdb_title": "الحريف",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "The Street Player",
+        "overview": "Fares, a shoe factory worker, has only one passion in life: football. He lives a humble life in a chaotic neighborhood where he plays street football to increase his income. However, neither his marriage nor his job is stable enough. He goes through a lot of problems due to his lack of self-discipline with his divorced wife and his son.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 109,
+    "original_title": "الحريف",
+    "poster": "https://image.tmdb.org/t/p/w500/vhhLmkS9SKGxfu4gNCFHBniLenO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8E77ALz9J7jHy2g2iGoq6I6TwDe.jpg",
+    "description": "فارس (عادل إمام) يعمل بمصنع أحذية ويقيم بغرفةٍ على سطح أحد المنازل بعد ان انفصل عن زوجته بسبب اعتدائه عليها مرارًا بالضرب، ويهوى ممارسة كرة القدم (الشراب) في الشوارع والساحات الشعبية مقابل المراهنات، مما يعرضه للفصل من عمله لإهماله الشديد، يحاول فارس العودة لزوجته لكنها ترفض ذلك. وفي نفس الوقت يعرض عليه صديقٌ قديمٌ يمتلك معرضًا للسيارات العمل معه.",
+    "rating": 7.3,
+    "vote_count": 27,
+    "age_rating": null,
+    "year": "1983",
+    "release_date": "1983-08-06",
+    "genres": [
+      "دراما"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "محمد خان",
+    "cast": [
+      {
+        "name": "عادل إمام",
+        "character": "Fares",
+        "profile_image": "https://image.tmdb.org/t/p/w185/vPEubkxYDRfkSUDoAfJUWQgg4cD.jpg"
+      },
+      {
+        "name": "فردوس عبدالحميد",
+        "character": "Dalal",
+        "profile_image": "https://image.tmdb.org/t/p/w185/2oqC1EAwpoqUAxqsGVvcSDImq6N.jpg"
+      },
+      {
+        "name": "نجاح الموجي",
+        "character": "Abdalla",
+        "profile_image": "https://image.tmdb.org/t/p/w185/1f0fbgqiLpoevn58YkP5K8BrwpN.jpg"
+      },
+      {
+        "name": "عبدالله فرغلي",
+        "character": "Rizk",
+        "profile_image": "https://image.tmdb.org/t/p/w185/gM8eNT5xncTTOk6lN8I86Hh4nOJ.jpg"
+      },
+      {
+        "name": "زيزي مصطفى",
+        "character": "Aziza",
+        "profile_image": "https://image.tmdb.org/t/p/w185/iOIwzGDMa4gwnr3IJJ3X8HUwa74.jpg"
+      },
+      {
+        "name": "عبدالله محمود",
+        "character": "Mokhtar",
+        "profile_image": null
+      },
+      {
+        "name": "حمدي الوزير",
+        "character": "Mohsen",
+        "profile_image": "https://image.tmdb.org/t/p/w185/kbiEEFAYH4m3H1TgixwiLfoITH6.jpg"
+      },
+      {
+        "name": "صبري عبدالمنعم",
+        "character": "Officer",
+        "profile_image": "https://image.tmdb.org/t/p/w185/mD3kaGX3ub0EzniUJmtiZ0D4cXA.jpg"
+      },
+      {
+        "name": "إبراهيم قدري",
+        "character": "Bakr",
+        "profile_image": "https://image.tmdb.org/t/p/w185/sXO9QqqH5Dz40mVlH3UwJM6fYba.jpg"
+      },
+      {
+        "name": "فاروق يوسف",
+        "character": "Shaaban",
+        "profile_image": "https://image.tmdb.org/t/p/w185/oSoh5u3WS5zT47LOMV8KS7UV8ut.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=kJQ5yvAaVGE",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "بين جيلين_": null,
+  "فوكاس_": null,
+  "لقاء خاص_": null,
+  "حدوته مصريه_": {
+    "fv": 10,
+    "tmdb_id": 123651,
+    "tmdb_media": "movie",
+    "tmdb_title": "حدوتة مصرية",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "An Egyptian Story",
+        "overview": "After we last see him in \"Alexandria, Why?\" Egyptian filmmaker Yehia Mourad is in his thirties, and successful in his work, he has grown distant from his wife and children and suﬀers a symbolic blockage of the heart while shooting the final scenes of his latest film. After being flown to England for evaluation, it's determined that Yehia must undergo emergency surgery.  Fact and fiction blend seamlessly—with healthy doses of cleverly absurdist fantasy—as the film explores the various personalities and forces that have made Yehia (and Youssef Chahine) the man he has become.",
+        "tagline": null
+      },
+      "fr": {
+        "title": "La mémoire",
+        "overview": "Alors qu'il subit une opération de chirurgie cardiaque à Londres, Yehia vit une expérience étrange qui transforme sa cavité cardiaque en tribunal de ses erreurs.",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 129,
+    "original_title": "حدوتة مصرية",
+    "poster": "https://image.tmdb.org/t/p/w500/cPqO7EsRdeSRzTCmGJccxoBc0aA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zwJDnWeRDrzPtNlvVnxjQ7uwPgq.jpg",
+    "description": "فيما يخضع \"يحيى\" لجراحة قلب في \"لندن\"، يسترجع لحظات حياته وذكرياتها ويتحوّل فؤاده إلى قاعة محكمة يؤدّي فيها دور المتّهم ويُحاسَب على أخطائه.",
+    "rating": 6.5,
+    "vote_count": 14,
+    "age_rating": null,
+    "year": "1982",
+    "release_date": "1982-09-27",
+    "genres": [
+      "دراما",
+      "فانتازيا"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "يوسف شاهين",
+    "cast": [
+      {
+        "name": "نور الشريف",
+        "character": "Yehia Shukri Murad",
+        "profile_image": "https://image.tmdb.org/t/p/w185/wBFojkh5Tr2JCHWkQ7sfmo2SKgd.jpg"
+      },
+      {
+        "name": "يسرا",
+        "character": "Amal",
+        "profile_image": "https://image.tmdb.org/t/p/w185/8t6l70q7XT8Mv1hQSFqHqqnVSgX.jpg"
+      },
+      {
+        "name": "سهير البابلي",
+        "character": "The Mother",
+        "profile_image": "https://image.tmdb.org/t/p/w185/aX8KjwmPLpe0VZXJAOfSKKikW8I.jpg"
+      },
+      {
+        "name": "ماجدة الخطيب",
+        "character": "The Sister",
+        "profile_image": "https://image.tmdb.org/t/p/w185/b74kYc0mhEbsMaUlqeq1JyY6Lep.jpg"
+      },
+      {
+        "name": "محمود المليجي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/3WWkVGMG4KfWhn2XwPJYdUOasX7.jpg"
+      },
+      {
+        "name": "توفيق الدقن",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/wSEkxb6F73sfvntyIQoPRfBnxJr.jpg"
+      },
+      {
+        "name": "ليلى حماده",
+        "character": "Yehia's Sister",
+        "profile_image": "https://image.tmdb.org/t/p/w185/dtOKHvtlzQMo0XGRGS0KBJSKxG1.jpg"
+      },
+      {
+        "name": "محمد منير",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/g118BcKqY1bxX4V5HFtFgr2Qwqt.jpg"
+      },
+      {
+        "name": "محمود الجندي",
+        "character": "Co-director",
+        "profile_image": "https://image.tmdb.org/t/p/w185/8MejawbHRmanTm06Ww4fA9qjtCh.jpg"
+      },
+      {
+        "name": "عبدالعزيز مخيون",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/bNVEnr8LO2MzDL0XrYVp1GyvTnO.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=5AYm-xQIDMo",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "حب وكبرياء_": {
+    "fv": 10,
+    "tmdb_id": 738780,
+    "tmdb_media": "movie",
+    "tmdb_title": "حب وكبرياء",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Love & Pride",
+        "overview": "After getting dumped by Adel, Zizi marries Hussein just to keep her pride. They agree to get divorced after a while, until she finds out that Hussein is helping her father in his financial crisis without mentioning anything.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 111,
+    "original_title": "حب وكبرياء",
+    "poster": "https://image.tmdb.org/t/p/w500/nyPVTo1ZA31ozjAnbX2syqvFMD8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cJwDxFGFnSUhlltG1e1Hn9VxXr0.jpg",
+    "description": "يتعرض والد (زيزي) لأزمة طاحنة، وتقدم (زيزى) (حسين) بصفته خطيبها وتتزوجه لمجرد أن تحافظ على كبريائها بعد هجران (عادل) لها. وبعد الزواج تصارح (زيزي) (حسين) أنها لا تحبه فيتفق معها على الطلاق بعد فترة مناسبة وأثناء هذه الفترة تعرف (زيزي) أن (حسين) يساعد والدها في أزمته المالية دون أن يذكر لها شيئًا.  قدمت قصة الفيلم للمرة الاولى فى عام ١٩٤٠ تحت اسم \" قلب المرأه \" بطولة امينه رزق و سليمان نجيب وإخراج توجو مزراحى.\r المرة الثانيه فى عام ١٩٥٤ تحت اسم \" إرحم دموعى \" بطولة فاتن حمامه و يحيى شاهين و إخراج هنرى بركات.",
+    "rating": 6,
+    "vote_count": 1,
+    "age_rating": null,
+    "year": "1972",
+    "release_date": "1972-07-03",
+    "genres": [
+      "رومنسية",
+      "دراما"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "حسن الإمام",
+    "cast": [
+      {
+        "name": "نجلاء فتحي",
+        "character": "زيزي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/HqIv7RgX68U5VNteGAZ6t35Q6a.jpg"
+      },
+      {
+        "name": "محمود ياسين",
+        "character": "حسين",
+        "profile_image": "https://image.tmdb.org/t/p/w185/pGYBLZoB2F0jokdFY1Gob7uJmA5.jpg"
+      },
+      {
+        "name": "حسين فهمي",
+        "character": "عادل",
+        "profile_image": "https://image.tmdb.org/t/p/w185/6u4eciBbQGsq5fmTFXj7eznUQxv.jpg"
+      },
+      {
+        "name": "سمير صبري",
+        "character": "أحمد",
+        "profile_image": "https://image.tmdb.org/t/p/w185/qNCXv1BxUdkSov7pOQmaFiWxCzX.jpg"
+      },
+      {
+        "name": "مديحة كامل",
+        "character": "كوثر",
+        "profile_image": "https://image.tmdb.org/t/p/w185/l5HaBDR9knXllZRIAiX1oga8jjy.jpg"
+      },
+      {
+        "name": "عماد حمدي",
+        "character": "عبدالرحمن بك - والد زيزي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/9s5AtkshCQReedy7EXg11C8xdyF.jpg"
+      },
+      {
+        "name": "مديحة سالم",
+        "character": "فاطمة",
+        "profile_image": "https://image.tmdb.org/t/p/w185/gxdngzsCSNnIpGoaB7nC8Z1PSrz.jpg"
+      },
+      {
+        "name": "صلاح نظمي",
+        "character": "يسري بك",
+        "profile_image": "https://image.tmdb.org/t/p/w185/n0jY20G7CvG7nS7aoKGa8Awfxpi.jpg"
+      },
+      {
+        "name": "حسين عسر",
+        "character": "الحاج محمود - والد أحمد وفاطمة",
+        "profile_image": "https://image.tmdb.org/t/p/w185/a2M0gz3BDdH3fLxza30xJEnTXl7.jpg"
+      },
+      {
+        "name": "هالة الصافي",
+        "character": "راقصة",
+        "profile_image": "https://image.tmdb.org/t/p/w185/wbhNCRU7Hmma8wnCCMLIKt4nzTs.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=hFzFdwvabjE",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "قصائد الشيخ محمد بن راشد_": null,
+  "اعز الناس_": null,
+  "الارض سفينتنا الفضائيه_": null,
+  "مدن اسلاميه مقدسه_": null,
+  "اضحك معنا_": null,
+  "الاوائل_": null,
+  "القانون لا يعرف الحب_": null
 }
