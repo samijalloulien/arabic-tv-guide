@@ -77270,5 +77270,1519 @@
     "episodes_count": null,
     "status": "Released",
     "content_type": "movie"
+  },
+  "_teams": {
+    "the summary 1": {
+      "tv": 2,
+      "name_en": "The summary 1",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "17 11 26": {
+      "tv": 2,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "football legends": {
+      "tv": 2,
+      "name_en": "Football Legends",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "news": {
+      "tv": 2,
+      "name_en": "News",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "al hassila": {
+      "tv": 2,
+      "name_en": "Al Hassila",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "18 11 26": {
+      "tv": 2,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "19 11 26": {
+      "tv": 2,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "20 11 26": {
+      "tv": 2,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "2026 2027": {
+      "tv": 2,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "21 11 26": {
+      "tv": 2,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "22 11 26": {
+      "tv": 2,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "23 11 26": {
+      "tv": 2,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "sv elversberg": {
+      "tv": 2,
+      "name_en": "Elversberg",
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/z079go1677573926.png",
+      "jersey": null,
+      "stadium": "Waldstadion Kaiserlinde",
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "sport club freiburg": {
+      "tv": 2,
+      "name_en": "Sport-Club Freiburg",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "fc schalke 04": {
+      "tv": 2,
+      "name_en": "FC Schalke 04 (esports)",
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/81nv8a1575644359.png",
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "vfb stuttgart": {
+      "tv": 2,
+      "name_en": "Stuttgart",
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/yppyux1473454085.png",
+      "jersey": null,
+      "stadium": "MHP Arena",
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": "#e32219"
+    },
+    "rwanda": {
+      "tv": 2,
+      "name_en": "Rwanda",
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/vevw681553350238.png",
+      "jersey": null,
+      "stadium": "Stade Amahoro",
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "mali": {
+      "tv": 2,
+      "name_en": "Mali",
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/urrruy1455465656.png",
+      "jersey": null,
+      "stadium": "Stade du 26 Mars",
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": "#008b45"
+    },
+    "efl": {
+      "tv": 2,
+      "name_en": "EFL",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "english football league skybet": {
+      "tv": 2,
+      "name_en": "English Football League SkyBet",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "play offs": {
+      "tv": 2,
+      "name_en": "Play Offs",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "billie jean king cup 2026": {
+      "tv": 2,
+      "name_en": "Billie Jean King Cup 2026",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "باتمان": {
+      "tv": 2,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "سوبرمان": {
+      "tv": 2,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "نيترو سنوبوردس": {
+      "tv": 2,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "بوم": {
+      "tv": 2,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "dakar": {
+      "tv": 2,
+      "name_en": "Dakar Sacré-Cœur",
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/0m1jwg1762015240.png",
+      "jersey": null,
+      "stadium": "Stade Municipal de Yoff",
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "daikin starligue": {
+      "tv": 2,
+      "name_en": "Daikin StarLigue",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "french handball": {
+      "tv": 2,
+      "name_en": "French Handball",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "bronze medal": {
+      "tv": 2,
+      "name_en": "Bronze Medal",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "men s futsal": {
+      "tv": 2,
+      "name_en": "Men's Futsal",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "atp tour": {
+      "tv": 2,
+      "name_en": "ATP Tour",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "magazine 2026": {
+      "tv": 2,
+      "name_en": "Magazine 2026",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "beach volleyball bronze medal": {
+      "tv": 2,
+      "name_en": "Beach Volleyball Bronze Medal",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "beach volleyball gold medal": {
+      "tv": 2,
+      "name_en": "Beach Volleyball Gold Medal",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "chaumont": {
+      "tv": 2,
+      "name_en": "Chaumont",
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/gvfef11731548648.png",
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "evening session": {
+      "tv": 2,
+      "name_en": "Evening Session",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "uefa nations league 2026 2027": {
+      "tv": 2,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "md 6": {
+      "tv": 2,
+      "name_en": "MD6",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "kenya": {
+      "tv": 2,
+      "name_en": "Kenya",
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/r5ew131705942099.png",
+      "jersey": null,
+      "stadium": "Moi International Sports Centre",
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "south africa": {
+      "tv": 2,
+      "name_en": "South Africa",
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/xjz9j91553368824.png",
+      "jersey": null,
+      "stadium": "FNB Stadium",
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": "#ffb81c"
+    },
+    "uefa ucl magazine 2026 2027": {
+      "tv": 2,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "special": {
+      "tv": 2,
+      "name_en": "Alfa Special",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "md 5": {
+      "tv": 2,
+      "name_en": "MD5",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "lesotho": {
+      "tv": 2,
+      "name_en": "Lesotho",
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/dp8xjj1553372349.png",
+      "jersey": null,
+      "stadium": "Setsoto Stadium",
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "gabon": {
+      "tv": 2,
+      "name_en": "Gabon",
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/7y283y1732340182.png",
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "mauritania": {
+      "tv": 2,
+      "name_en": "Mauritania",
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/fhgyir1742103524.png",
+      "jersey": null,
+      "stadium": "Stade Olympique",
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": "#00a95c"
+    },
+    "burkina faso": {
+      "tv": 2,
+      "name_en": "Burkina Faso",
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/y38bkz1742102697.png",
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": "#009e49"
+    },
+    "longines global champions tour": {
+      "tv": 2,
+      "name_en": "Longines Global Champions Tour",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "rabat jumping": {
+      "tv": 2,
+      "name_en": "Rabat Jumping",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "competition team": {
+      "tv": 2,
+      "name_en": "Competition Team",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "mexico city jumping": {
+      "tv": 2,
+      "name_en": "Mexico City Jumping",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "gcl r 1 competition team": {
+      "tv": 2,
+      "name_en": "GCL R1 Competition Team",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "gcl r 2": {
+      "tv": 2,
+      "name_en": "GCL R2",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "grand prix": {
+      "tv": 2,
+      "name_en": "Jordan",
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/qbr00n1743927472.png",
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "shanghai jumping": {
+      "tv": 2,
+      "name_en": "Shanghai Jumping",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "against the clock with jump off": {
+      "tv": 2,
+      "name_en": "Against The Clock With Jump Off",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "cannes jumping": {
+      "tv": 2,
+      "name_en": "Cannes Jumping",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "csi 5": {
+      "tv": 2,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    }
+  },
+  "_leagues": {
+    "ligue_1": "https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png",
+    "bundesliga": "https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png",
+    "afcon": "https://r2.thesportsdb.com/images/media/league/badge/n78hen1718080720.png",
+    "champions_league": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
+    "europa_league": "https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png",
+    "premier_league": "https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png"
+  },
+  "بنت النعمان_2026": {
+    "fv": 10,
+    "tmdb_id": 314234,
+    "tmdb_media": "tv",
+    "tmdb_title": "بنت النعمان",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "The Daughter of  Al-Noaman",
+        "overview": "A drama series following Aphrodite, whose privileged life turns upside down when she discovers her fiancé’s betrayal and blackmail, leading her into a life-changing struggle.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "بنت النعمان",
+    "poster": "https://image.tmdb.org/t/p/w500/q8jCem1w7m8PuHZSYIYlnALPI23.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uZWgXtYStbNcC7MpGJ7PKXo16ZO.jpg",
+    "description": "بين جدران إمبراطورية النعمان- رجل الأعمال الثري- تدور حرب باردة من نوع خاص؛ بطلها أبٌ يمزقُه التناقض بين عشقه الجارف لابنته \"أفروديت\" وهوسه المرضي بالسيطرة على أدق تفاصيل حياتها. هذا التسلط المغلف بالحب يخلق شخصية إنسانية معقدة، تتأرجح بين القوة والضعف، وتفجر مواقف درامية مشوقة لا تخلو من مفارقات كوميدية سوداء، حيث يحاول النعمان \"سجن\" ابنته في قفص من ذهب، بينما تحاول هي التحليق بعيداً عن قبضته.",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2026",
+    "release_date": "2026-02-18",
+    "genres": [],
+    "country": "سوريا",
+    "language": "العربية",
+    "director": "محمد أوسو",
+    "cast": [
+      {
+        "name": "سلوم حداد",
+        "character": "النعمان",
+        "profile_image": "https://image.tmdb.org/t/p/w185/3RPqqMSYYUl33ChPo3TzygWY53U.jpg"
+      },
+      {
+        "name": "محمد أوسو",
+        "character": "محظوظ",
+        "profile_image": "https://image.tmdb.org/t/p/w185/4XqqFBdRwk7m4HCUqwsIEO4TV8d.jpg"
+      },
+      {
+        "name": "Rayam Kafarneh",
+        "character": "أفروديت",
+        "profile_image": "https://image.tmdb.org/t/p/w185/8MaI2yNTouF9NvjlzmF8VGhBdKO.jpg"
+      },
+      {
+        "name": "سلافة عويشق",
+        "character": "أم سعيد",
+        "profile_image": "https://image.tmdb.org/t/p/w185/gdIpTNksvnpBeU2HteUqOYrQGga.jpg"
+      },
+      {
+        "name": "سامر إسماعيل",
+        "character": "زلزخت",
+        "profile_image": "https://image.tmdb.org/t/p/w185/543vuXRxY36oV0sC7ywtr1yZJdR.jpg"
+      },
+      {
+        "name": "فادي صبيح",
+        "character": "أبو الليث",
+        "profile_image": "https://image.tmdb.org/t/p/w185/sT8eh6gx7DHa4RGuC69HV50YMHW.jpg"
+      },
+      {
+        "name": "مرح جبر",
+        "character": "حياة",
+        "profile_image": "https://image.tmdb.org/t/p/w185/plM2LGcBU53h2pT48ZFAOGNITl0.jpg"
+      },
+      {
+        "name": "حسن عويتي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/uRmBokSuXnwpRuy7xrRao59odaO.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": 1,
+    "episodes_count": 30,
+    "status": "Ended",
+    "content_type": "series"
+  },
+  "كيف نبني المدن_2026": null,
+  "اختراعات عظيمه_2024": null,
+  "الجار الغريب_2019": {
+    "fv": 10,
+    "tmdb_id": 847906,
+    "tmdb_media": "movie",
+    "tmdb_title": "الجار الغريب",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": null,
+        "overview": "‏The Strange Neighbor short film by Saleh A Bukhamseen",
+        "tagline": "‏The Strange Neighbor"
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "الجار الغريب",
+    "poster": "https://image.tmdb.org/t/p/w500/5MOwHvjyYAlyXvGI20zZh0zD9eM.jpg",
+    "backdrop": null,
+    "description": "",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2019",
+    "release_date": null,
+    "genres": [],
+    "country": "الولايات المتحدة",
+    "language": "العربية",
+    "director": null,
+    "cast": [],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "وجوه من الخليج_2025": null,
+  "ضفاف 2026_2026": null,
+  "علي قد الحب_2026": {
+    "fv": 10,
+    "tmdb_id": 304229,
+    "tmdb_media": "tv",
+    "tmdb_title": "على قد الحب",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "As much as the Love",
+        "overview": "Behind what seems like a simple love story lies a psycological struggle where trust is the hardest test. A drama that blends romance and suspense, revealing how love can empower, or endanger.",
+        "tagline": "Not everyone who gets close to you is safe...and not all safety lasts."
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "على قد الحب",
+    "poster": "https://image.tmdb.org/t/p/w500/2SYsPnzXSZ1waeZj6FI26Wsx1Dy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7GgZHF55me9u2i1KdBjVHnOrhKU.jpg",
+    "description": "العمل يتابع قصة شيف إيطالي، الذي يأتي إلى مصر لافتتاح مطعمه، فيدخل في شبكة علاقات مفعمة بـالحب والتحديات الأسرية والمهنية. تتداخل الأحداث بين المشاعر الإنسانية، تفاصيل الحياة اليومية، والصراعات العاطفية بين مجموعة من الشخصيات التي تمثل طبقات ومواقف مختلفة في المجتمع.",
+    "rating": 5.5,
+    "vote_count": 2,
+    "age_rating": null,
+    "year": "2026",
+    "release_date": "2026-02-18",
+    "genres": [
+      "دراما"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "مصطفى جمال هاشم",
+    "cast": [
+      {
+        "name": "نيللى كريم",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/6URqCTsDW1bPTCRGfyIKUtavDJY.jpg"
+      },
+      {
+        "name": "شريف سلامة",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/1KK2HlLD8m7B0qhOb7OJmvUzGCl.jpg"
+      },
+      {
+        "name": "مها نصار",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/dpYRToSEhTnstpegQxaMWDfjaJB.jpg"
+      },
+      {
+        "name": "أحمد ماجد",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/5gyyXeaAybTfO9pDQgV5clqqgIS.jpg"
+      },
+      {
+        "name": "محمد علي رزق",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/fFdLkjvliMtKqMnZmcvx3cNEb0L.jpg"
+      },
+      {
+        "name": "محمود الليثي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/enhoyho0wMymuOwxMnPp5iwmh30.jpg"
+      },
+      {
+        "name": "أحمد سعيد عبدالغني",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/xNK32PrpCGpaIjjB3cjI9wNvnuW.jpg"
+      },
+      {
+        "name": "صفاء الطوخي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/yxOX751sJBUB5UdkSomgXT86hK5.jpg"
+      },
+      {
+        "name": "محمد أبو داود",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/x4DDTfsclsgHdGUA39a3OniHLxr.jpg"
+      },
+      {
+        "name": "شهد الشاطر",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/xk9legvTWBQJwYvmXNAVSlRAFfq.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AXSJwsqRR_A",
+    "seasons_count": 1,
+    "episodes_count": 30,
+    "status": "Ended",
+    "content_type": "series"
+  },
+  "اسرار المصانع العملاقه_2025": null,
+  "كنت هناك_2022": null,
+  "الماضي الحاضر_2026": null,
+  "في الحضاره م 4_2026": null,
+  "تاكسي السهره_": {
+    "fv": 10,
+    "tmdb_id": 412195,
+    "tmdb_media": "movie",
+    "tmdb_title": "تاكسي السهرة",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Taxi Driver: Oko Ashewo",
+        "overview": "A small-town mechanic turned chauffeur for the mob gets caught up in the troubles of a beautiful sex worker, in this Scorsese-meets-Nollywood crime comedy that transforms the fast-paced and vibrant city of Lagos into an expressionistic film noir metropolis.",
+        "tagline": "A ride as exciting, shady and hilarious as Lagos at night!"
+      },
+      "fr": {
+        "title": "Taxi Driver : Oko Ashewo",
+        "overview": "Un jeune garagiste récupère le taxi de son père qui vient de mourir et part travailler dans la capitale, où il croise toutes sortes d'assassins et autres cinglés.",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 94,
+    "original_title": "Taxi Driver: Oko Ashewo",
+    "poster": "https://image.tmdb.org/t/p/w500/g2xIBoOC6TnvsGLrQBTrK4YEw1t.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qyFJL6NNyKppURdrM9mjP6fDdQR.jpg",
+    "description": "ينتقل شاب ميكانيكي إلى المدينة لقيادة سيارة والده للأجرة بعد وفاته، حيث يقابل قتلة مستأجرين وحشدًا مختلطًا من المدنيين غريبي الأطوار.",
+    "rating": 4.8,
+    "vote_count": 15,
+    "age_rating": null,
+    "year": "2015",
+    "release_date": "2015-11-13",
+    "genres": [
+      "كوميديا",
+      "جريمة"
+    ],
+    "country": "NG",
+    "language": "الإنجليزية",
+    "director": "Daniel Emeke Oriahi",
+    "cast": [
+      {
+        "name": "أودونلاد أديكولا",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/wdUhDXHjlqDBHKZmKHnZcioGGtp.jpg"
+      },
+      {
+        "name": "Ijeoma Grace Agu",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/xuOpuZE8Xx2OYkU2ROlbbajkX5j.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "لسه فاكر_": {
+    "fv": 10,
+    "tmdb_id": 1687989,
+    "tmdb_media": "movie",
+    "tmdb_title": "لسة فاكر",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Lingering",
+        "overview": "After another death khaled has to dive deep into his sunken memories trying to resolve the farewells he never resolved",
+        "tagline": "After another death khaled has to dive deep into his sunken memories trying to resolve the farewells he never resolved"
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 12,
+    "original_title": "لسة فاكر",
+    "poster": "https://image.tmdb.org/t/p/w500/nU19FUL09JfoD0XwU7MziV23yJY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pe3NChOAvgPJAQITw0crs4l8B0G.jpg",
+    "description": "",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2026",
+    "release_date": "2026-04-30",
+    "genres": [
+      "دراما",
+      "تاريخ"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "Bahy Taha",
+    "cast": [
+      {
+        "name": "وليد عبدالغني",
+        "character": "Khaled",
+        "profile_image": "https://image.tmdb.org/t/p/w185/ldpLu0hebuReHOmjQw5uFAyIbX2.jpg"
+      },
+      {
+        "name": "هاجر حاتم",
+        "character": "Mother",
+        "profile_image": "https://image.tmdb.org/t/p/w185/gcSRAbnqTwJC2DVZYZFDBoecXoR.jpg"
+      },
+      {
+        "name": "Reham samy",
+        "character": "Sister",
+        "profile_image": null
+      },
+      {
+        "name": "Heba Qenawy",
+        "character": "Wife",
+        "profile_image": null
+      },
+      {
+        "name": "Basmala Hany",
+        "character": "Nada ( Daughter )",
+        "profile_image": null
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "نصف ساعه مع_": null,
+  "طريق الهدي_": null,
+  "خاص جدا_": {
+    "fv": 10,
+    "tmdb_id": 110476,
+    "tmdb_media": "tv",
+    "tmdb_title": "خاص جدا",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Very Private",
+        "overview": "",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "خاص جدا",
+    "poster": "https://image.tmdb.org/t/p/w500/ikQXPbPwf1hI7XGfGMWkXlCZkgt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9EbDlVeJGW01VzFec6Afd2bvgzS.jpg",
+    "description": "طبيبة نفسية تمتلك عايدتين إحداهما فى مصر وأخرى فى دبى، تنجح فى حل مشاكل مرضها، لكنها تفشل فى تكوين حياة سعيدة مع زوجها\"، هذه هى أحداث مسلسل",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2009",
+    "release_date": "2009-08-22",
+    "genres": [],
+    "country": "مصر",
+    "language": "العربية",
+    "director": null,
+    "cast": [
+      {
+        "name": "يسرا",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/8t6l70q7XT8Mv1hQSFqHqqnVSgX.jpg"
+      },
+      {
+        "name": "محمود قابيل",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/wst97l3WhAW0s1BTvS3SaFhBXpH.jpg"
+      },
+      {
+        "name": "تامر هجرس",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/cErQY0DdLyCmuAkq44K6s6CNzo6.jpg"
+      },
+      {
+        "name": "يسرا اللوزي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/2glB9fdsojFGY4uronEqPb8tpjj.jpg"
+      },
+      {
+        "name": "إياد نصار",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/1rMMqeDTEWIpEVIEfBYbOTow6kA.jpg"
+      },
+      {
+        "name": "رجاء الجداوي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/mgZFyKbzxEbT0PZbDSZ2Ue0rAXo.jpg"
+      },
+      {
+        "name": "إيمي سمير غانم",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/ugym5uaaNM0xeAOQBPe1LtLq7XD.jpg"
+      },
+      {
+        "name": "درة",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/vF4NIuKm6pKe2Sdm1L8MqntbN0z.jpg"
+      },
+      {
+        "name": "دينا",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/o5PJosMXLhe7gfmxpWmcp6fZxYP.jpg"
+      },
+      {
+        "name": "صفاء الطوخي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/yxOX751sJBUB5UdkSomgXT86hK5.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": 1,
+    "episodes_count": 30,
+    "status": "Ended",
+    "content_type": "series"
+  },
+  "ليلتي_": null,
+  "اوتجراف_": null,
+  "الدين المعامله_": null,
+  "مواقف وطرائف_": null,
+  "الموسيقي العربيه_": null,
+  "الفن الشعبي_": null,
+  "جلسه ثقه_": null,
+  "لولا الحب_": null,
+  "علاقات خاصه_": {
+    "fv": 10,
+    "tmdb_id": 132307,
+    "tmdb_media": "tv",
+    "tmdb_title": "علاقات خاصة",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Special Relationships",
+        "overview": "Special Relationships weaves together the lives of five couples whose stories all converge on one wedding day. Each pair faces a different emotional crisis — betrayal, class tension, hidden pasts, infertility, or secret marriages — revealing how love is shaped by pressure, pride, and social expectation. As their paths intersect across multiple Arab countries, the series explores how relationships fracture, heal, and transform under the weight of truth.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 35,
+    "original_title": "علاقات خاصة",
+    "poster": "https://image.tmdb.org/t/p/w500/73zOCDtXySoECuYGiSgEW8oHihY.jpg",
+    "backdrop": null,
+    "description": "يجسد كل زوجين قصة درامية تتشابك أحداثها بشكل أو بأخر مع العلاقات الأخرى بدءًا من «جو» رجل الأعمال المتزوج من «ياسمين» التي تنتمي لبيئة فقيرة ليصنع منها نجمة غناء، وترتبط حياة «جو وياسمين» بـ «حسام» المتزوج من «فرح»، بالرغم من رفض أهلها لهذا الزواج بسبب فارق السن، أما «جهاد» فيقع ضحية إنتقام مزدوج من أخته «رنا» و«إياد» حبيب زوجته المستقبلية «لامار»، أمّا «تيم» فيحب «مايا» رغم اختلاف الديانة.",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2015",
+    "release_date": "2015-01-01",
+    "genres": [],
+    "country": "لبنان",
+    "language": "العربية",
+    "director": null,
+    "cast": [
+      {
+        "name": "باسم ياخور",
+        "character": "Taim",
+        "profile_image": "https://image.tmdb.org/t/p/w185/bGH42YnqKpvcoNi4Q9ENoZtSs2I.jpg"
+      },
+      {
+        "name": "ماجد المصري",
+        "character": "Joe",
+        "profile_image": "https://image.tmdb.org/t/p/w185/hCFDKcAiotPNs5cvlhHXgFS6dX0.jpg"
+      },
+      {
+        "name": "أحمد زاهر",
+        "character": "Hossam",
+        "profile_image": "https://image.tmdb.org/t/p/w185/hbhHnt2G2FBFS3HNfwjGc0klL5O.jpg"
+      },
+      {
+        "name": "منى واصف",
+        "character": "Um Taim",
+        "profile_image": "https://image.tmdb.org/t/p/w185/lx2GQ3a7KHpITya81AwaGciTlHN.jpg"
+      },
+      {
+        "name": "ديمة قندلفت",
+        "character": "Maya",
+        "profile_image": "https://image.tmdb.org/t/p/w185/4RRk5nHvs2SijmgPxTUWCYo4d2A.jpg"
+      },
+      {
+        "name": "Jenny Esber",
+        "character": "Stephan",
+        "profile_image": "https://image.tmdb.org/t/p/w185/tTFIGzYF0PoNMZ5ydiOwBMHIdQi.jpg"
+      },
+      {
+        "name": "ندى أبو فرحات",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/jlBP8E4HFGwoaGrk3EyLPwVCRSC.jpg"
+      },
+      {
+        "name": "غنوة محمود",
+        "character": "Nadia",
+        "profile_image": "https://image.tmdb.org/t/p/w185/es9vwH6KIArV3cjKo2OsUL4VRNn.jpg"
+      },
+      {
+        "name": "رنا شميس",
+        "character": "Sawsan",
+        "profile_image": "https://image.tmdb.org/t/p/w185/nyZTEve5WfteWhKkSTtGEYoJ95y.jpg"
+      },
+      {
+        "name": "مروة عبدالمنعم",
+        "character": "Mervat",
+        "profile_image": "https://image.tmdb.org/t/p/w185/tqufwMTkZrfv95mzVGivduTFbFt.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": 1,
+    "episodes_count": 1,
+    "status": "Returning Series",
+    "content_type": "series"
+  },
+  "رياضي_": null,
+  "مقدر له ان يركب_": null,
+  "ستيوارت ليتل_": {
+    "fv": 10,
+    "tmdb_id": 10137,
+    "tmdb_media": "movie",
+    "tmdb_title": "ستيوارت ليتل",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Stuart Little",
+        "overview": "When the Littles adopt Stuart, the mouse, George is initially unwelcoming to his new brother, and the family cat, Snowbell, is even less enthusiastic. Stuart resolves to face these difficulties with as much pluck and courage as he can muster.",
+        "tagline": "The Little family just got bigger."
+      },
+      "fr": {
+        "title": null,
+        "overview": "Snowbell le chat n'en croit pas ses vibrisses. Le nouveau venu dans la famille Little n'est rien moins que Stuart, une souris. Le petit animal trouve bientôt sa place entre les jouets de George, le jeune fils, et les dangers de la maison. Pourtant, malgré sa gentillesse, Stuart n'arrive pas a séduire définitivement George qui a du mal à admettre qu'une souris puisse être son frère jusqu'au jour où Stuart a l'occasion de prouver sa bravoure. C'est alors au tour de Snowbell de sombrer dans la jalousie. Le félin complote alors dans l'ombre pour se débarrasser du souriceau.",
+        "tagline": "La famille Little s'agrandit"
+      }
+    },
+    "tagline": null,
+    "runtime": 84,
+    "original_title": "Stuart Little",
+    "poster": "https://image.tmdb.org/t/p/w500/362lcwTJlNyAhitTlp2UraECISR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dECKGAenue36W50HYhd3Jh1OJs.jpg",
+    "description": "مغامرات فأر بطولي ودبونير شجاع يدعى ستيوارت ليتل ذو الصفات الإنسانية، الذي يواجه بعض المغامرات الهزلية أثناء البحث عن صديقه الطائر المفقود ويعيش مع عائلة بشرية كطفلهما.",
+    "rating": 6.1,
+    "vote_count": 4818,
+    "age_rating": "PG",
+    "year": "1999",
+    "release_date": "1999-12-17",
+    "genres": [
+      "عائلي",
+      "فانتازيا",
+      "كوميديا",
+      "مغامرة"
+    ],
+    "country": "الولايات المتحدة",
+    "language": "الإنجليزية",
+    "director": "Rob Minkoff",
+    "cast": [
+      {
+        "name": "Michael J. Fox",
+        "character": "Stuart Little (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+      },
+      {
+        "name": "Geena Davis",
+        "character": "Mrs. Little",
+        "profile_image": "https://image.tmdb.org/t/p/w185/bx9ufx5cS7FfHDFFeT71syBh428.jpg"
+      },
+      {
+        "name": "هيو لوري",
+        "character": "Mr. Little",
+        "profile_image": "https://image.tmdb.org/t/p/w185/akArncggHnusP5jxzMBKmJDRrMo.jpg"
+      },
+      {
+        "name": "Jonathan Lipnicki",
+        "character": "George Little",
+        "profile_image": "https://image.tmdb.org/t/p/w185/sCFCCqFNm5Xyl2eyhzoHH1L8zxF.jpg"
+      },
+      {
+        "name": "Nathan Lane",
+        "character": "Snowbell (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/jLPp3RoDhwOpLimKj3NhhBofPfT.jpg"
+      },
+      {
+        "name": "شاز بالمينتري",
+        "character": "Smokey (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/mCbjKVyE5B2tleshbJw44tw3ktZ.jpg"
+      },
+      {
+        "name": "Steve Zahn",
+        "character": "Monty (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+      },
+      {
+        "name": "Jim Doughan",
+        "character": "Lucky (voice) / Officer Allen",
+        "profile_image": "https://image.tmdb.org/t/p/w185/oPn0LX43yvJ5qGuNpQRQryHX7lu.jpg"
+      },
+      {
+        "name": "David Alan Grier",
+        "character": "Red (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/jzo5B1zoIB8NOV68wLp9g1R8d5o.jpg"
+      },
+      {
+        "name": "برونو كيربي",
+        "character": "Mr. Stout (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/rCYOMk34rqf28KusLKi002RNbFg.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Wlo-sYrADlw",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "ستيوارت ليتل 2_": {
+    "fv": 10,
+    "tmdb_id": 10996,
+    "tmdb_media": "movie",
+    "tmdb_title": "ستيوارت ليتل 2",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Stuart Little 2",
+        "overview": "Stuart, an adorable white mouse, still lives happily with his adoptive family, the Littles, on the east side of Manhattan's Central Park. More crazy mouse adventures are in store as Stuart, his human brother, George, and their mischievous cat, Snowbell, set out to rescue a friend.",
+        "tagline": "A Little goes a long way."
+      },
+      "fr": {
+        "title": null,
+        "overview": "Stuart Little, la petite souris, éprouve l'envie de voyager et de s'aventurer dans de nouvelles contrées. Mais sa mère adoptive, Eleanor, n'est pas de cet avis. George, qui est comme un frère pour Stuart, le comprend très bien, mais il ne peut aller à l'encontre de la décision de maman.Un jour, alors qu'il conduit sa voiture miniature, Stuart fait la rencontre de Margalo, une jolie femelle canari poursuivie par un faucon. Stuart se charge de le semer. Commence alors une grande histoire d'amour entre la souris et l'oiseau. Stuart a enfin trouvé quelqu'un à qui se confier véritablement et qui comprend son besoin d'aventure.Mais le faucon jaloux va venir perturber leur idylle en enlevant Margalo. Accompagné du chat Snowbell, Stuart entreprend de retrouver et de secourir sa nouvelle compagne.",
+        "tagline": "Petit mais puissant."
+      }
+    },
+    "tagline": null,
+    "runtime": 78,
+    "original_title": "Stuart Little 2",
+    "poster": "https://image.tmdb.org/t/p/w500/1vdPKC35IOjEAJEr9Y2rjEeyCcW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iEvlXeDvLW5IjmWa5jwO0Tieu1g.jpg",
+    "description": "لا يزال ستيوارت، الفأر الأبيض اللطيف، يعيش بسعادة مع عائلته بالتبني، عائلة ليتلز، في الجانب الشرقي من سنترال بارك في مانهاتن. تنتظره المزيد من مغامرات الفئران الطريفة، حيث ينطلق ستيوارت وشقيقه البشري جورج وقطتهم المشاغبة سنوبيل لإنقاذ صديق.",
+    "rating": 5.8,
+    "vote_count": 2608,
+    "age_rating": "PG",
+    "year": "2002",
+    "release_date": "2002-07-19",
+    "genres": [
+      "عائلي",
+      "مغامرة",
+      "كوميديا"
+    ],
+    "country": "الولايات المتحدة",
+    "language": "الإنجليزية",
+    "director": "Rob Minkoff",
+    "cast": [
+      {
+        "name": "Michael J. Fox",
+        "character": "Stuart Little (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+      },
+      {
+        "name": "Geena Davis",
+        "character": "Mrs. Little",
+        "profile_image": "https://image.tmdb.org/t/p/w185/bx9ufx5cS7FfHDFFeT71syBh428.jpg"
+      },
+      {
+        "name": "هيو لوري",
+        "character": "Mr. Little",
+        "profile_image": "https://image.tmdb.org/t/p/w185/akArncggHnusP5jxzMBKmJDRrMo.jpg"
+      },
+      {
+        "name": "Jonathan Lipnicki",
+        "character": "George Little",
+        "profile_image": "https://image.tmdb.org/t/p/w185/sCFCCqFNm5Xyl2eyhzoHH1L8zxF.jpg"
+      },
+      {
+        "name": "Anna Hoelck",
+        "character": "Martha Little",
+        "profile_image": null
+      },
+      {
+        "name": "Ashley Hoelck",
+        "character": "Martha Little",
+        "profile_image": null
+      },
+      {
+        "name": "Nathan Lane",
+        "character": "Snowbell (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/jLPp3RoDhwOpLimKj3NhhBofPfT.jpg"
+      },
+      {
+        "name": "ميلاني جريفيث",
+        "character": "Margalo (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/yffPcqlZMsXTCAZ84a1tLmdcIS6.jpg"
+      },
+      {
+        "name": "جيمس وودز",
+        "character": "Falcon (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/tLH7mpH4KqkWL5VgjueTbewGsfK.jpg"
+      },
+      {
+        "name": "Steve Zahn",
+        "character": "Monty (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=k--OdtbKyqE",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "هل وصلنا بعد؟_": null,
+  "النساء الصغيرات_": null,
+  "هل انتهينا بعد؟_": null,
+  "كيره والجن_": {
+    "fv": 10,
+    "tmdb_id": 632702,
+    "tmdb_media": "movie",
+    "tmdb_title": "كيرة  والجن",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Kira & El Gen",
+        "overview": "The movie focuses on the fury state that was among the people in synchronization with the main event in Egypt: The 1919 Egyptian Revolution which unites the fates of Kira and El Gen to participate in the struggle against the British occupation.",
+        "tagline": null
+      },
+      "fr": {
+        "title": "KIRA WAL JEN",
+        "overview": "Le film décrit la colère de la rue égyptienne durant la révolution de 1919, un événement majeur qui unit les destins d'Ahmed Abd Alhey, Kaira et d'Abdelkader al-Jinn pour participer à la lutte contre l'occupant anglais.",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 175,
+    "original_title": "كيرة  والجن",
+    "poster": "https://image.tmdb.org/t/p/w500/cXD23v93qyFwXNBz3Z5kaTMac9h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/138MfiMnLE2RjlFs6lQqnDPrxbX.jpg",
+    "description": "عند اندلاع ثورة 1919 في مصر، يتوحد مصير أحمد عبد الحي كيرة وعبد القادر الجن عندما يتشاركان في النضال ضد الاحتلال الإنجليزي.",
+    "rating": 8,
+    "vote_count": 35,
+    "age_rating": null,
+    "year": "2022",
+    "release_date": "2022-06-30",
+    "genres": [
+      "دراما",
+      "تاريخ",
+      "حركة"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "مروان حامد",
+    "cast": [
+      {
+        "name": "كريم عبدالعزيز",
+        "character": "Ahmed AbdelHai Kira",
+        "profile_image": "https://image.tmdb.org/t/p/w185/2BOyYiFfU1nCPjehs2RCCTmXIxu.jpg"
+      },
+      {
+        "name": "أحمد عز",
+        "character": "AbdelKader Shehata \" El Gen \"",
+        "profile_image": "https://image.tmdb.org/t/p/w185/mgQhox7AbzVsQ8xeTZvkK5Gvkd4.jpg"
+      },
+      {
+        "name": "هند صبري",
+        "character": "Dawlat Fahmy",
+        "profile_image": "https://image.tmdb.org/t/p/w185/o8Cn0nzoUpsA6d8dORsZJWGVTCB.jpg"
+      },
+      {
+        "name": "أحمد مالك",
+        "character": "Ibrahim Shawkat",
+        "profile_image": "https://image.tmdb.org/t/p/w185/rXLI7Q1Lhf01V5CA870H34NRQnA.jpg"
+      },
+      {
+        "name": "سيد رجب",
+        "character": "Naguib El Helbawy",
+        "profile_image": "https://image.tmdb.org/t/p/w185/r6zPbQX4Rj4Y1ynk5Ym4kfdYBpq.jpg"
+      },
+      {
+        "name": "سام هزلدين",
+        "character": "Harvey",
+        "profile_image": "https://image.tmdb.org/t/p/w185/zyt5yR8hXMA9ZcwtL0yDadwvi4m.jpg"
+      },
+      {
+        "name": "رزان جمال",
+        "character": "Emily",
+        "profile_image": "https://image.tmdb.org/t/p/w185/nFFZGLhGera8UHImoKNMU63tSDP.jpg"
+      },
+      {
+        "name": "هدى المفتي",
+        "character": "Nargis",
+        "profile_image": "https://image.tmdb.org/t/p/w185/10DwFNpOmGj3rU4wjeY86FuHjo9.jpg"
+      },
+      {
+        "name": "محمد عبدالعظيم",
+        "character": "Naeim",
+        "profile_image": "https://image.tmdb.org/t/p/w185/p2IFBCAyvCeR4B0S7UXjgq2huo8.jpg"
+      },
+      {
+        "name": "روبي",
+        "character": "Zeinab",
+        "profile_image": "https://image.tmdb.org/t/p/w185/oHnmUfGuJuNdS2QcoZlKUZwfHAi.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=KgyMVknHz-4",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "نصيب الاسد_": {
+    "fv": 10,
+    "tmdb_id": 1061299,
+    "tmdb_media": "movie",
+    "tmdb_title": "نصيب الأسد",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Naseeb El-Asad",
+        "overview": "As a result of poverty, the couple Kamal and Suhair are unable to get married, hence Amer, the businessman, circles around Suhair, taking advantage of her circumstances, and the conflict revolves around.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 85,
+    "original_title": "نصيب الأسد",
+    "poster": "https://image.tmdb.org/t/p/w500/eehRjM8cdarCT9Pt9hPsxnpWwBi.jpg",
+    "backdrop": null,
+    "description": "",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "1992",
+    "release_date": "1992-02-24",
+    "genres": [],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "Salah Serri",
+    "cast": [
+      {
+        "name": "سعيد صالح",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/hy1PMd0qXiNRGRxlbXtU45LHxlK.jpg"
+      },
+      {
+        "name": "دلال عبدالعزيز",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/oIW8HsQaRbb1j81Fi4FghJryuTj.jpg"
+      },
+      {
+        "name": "Hassan ElAsmar",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/yn5LQjoVERSQoKsl0szwOPDVMDb.jpg"
+      },
+      {
+        "name": "Samir Waheed",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/nOnol6x16EJTudr0XJXScxC4CDf.jpg"
+      },
+      {
+        "name": "نادية شمس الدين",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/985wiDpQqL0sfPf3BzItN1rWUSF.jpg"
+      },
+      {
+        "name": "علاء ولي الدين",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/1G34HEeN3frltSacOZBOiUsjyTN.jpg"
+      },
+      {
+        "name": "مطاوع عويس",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/7x9pD2uNuGfKGZIgHVBMWnxp310.jpg"
+      },
+      {
+        "name": "نعيمة الصغير",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/s1fVNL6G0eEcUlatHbdtBsdrnwF.jpg"
+      },
+      {
+        "name": "سيد مصطفى",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/cSfJVQB0DGMw1PmekGiJTzJBfPd.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
   }
 }
