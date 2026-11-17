@@ -14,15 +14,16 @@ const cacheFile = path.join(__dirname, 'metadata_cache.json');
 
 const SCHEMA_VERSION = 3;
 const CACHE_VERSION = 6;
-// Bumped whenever the shape/fetch strategy of a cache entry changes. Entries
-// with an older `fv` are refreshed in place (by TMDB id, no re-search needed).
 const ENTRY_FORMAT = 10;
+const TEAM_ENTRY_FORMAT = 2;
 
-const TMDB_API_KEY = process.env.TMDB_API_KEY;
+const TMDB_API_KEY = process.env.TMDB_API_KEY || '99cc02ee4fab8a8435598646547ae0ac';
+const THESPORTSDB_API_KEY = process.env.THESPORTSDB_API_KEY || '123';
 
 const PRETTY = process.env.PRETTY === '1';
 const OFFLINE = process.env.OFFLINE === '1' || process.argv.includes('--offline');
 const MAX_REFRESH_PER_RUN = parseInt(process.env.MAX_REFRESH || '1500', 10);
+const MAX_TEAM_LOOKUPS_PER_RUN = parseInt(process.env.MAX_TEAM_LOOKUPS || '90', 10);
 
 const MIN_VOTES_FOR_RATING = 10;
 const MIN_VOTES_FOR_FEATURED = 30;
@@ -65,14 +66,11 @@ const ALLOWED_WIKIDATA_TYPES = new Set([
   'Q1259759', 'Q24856', 'Q21191270', 'Q506240'
 ]);
 
-// Static UTC offsets (hours) for "prime time" evaluation. Approximate by design.
 const COUNTRY_UTC_OFFSET = {
   ae: 4, om: 4, sa: 3, qa: 3, kw: 3, bh: 3, iq: 3, jo: 3, sy: 3, ye: 3,
   eg: 2, lb: 2, ps: 2, sd: 2, ly: 2, ma: 1, dz: 1, tn: 1
 };
 
-// Tiered ordering for channels.json. `en`/`ar` become the display names unless
-// `multi` is set (several feeds share the rule, e.g. beIN Sports 1..N).
 const CHANNEL_RULES = [
   // Tier 1: flagship entertainment & movies
   { category: 'general', tier: 1, en: 'MBC 1', ar: 'إم بي سي 1', id: /^MBC1\./i },
@@ -127,8 +125,6 @@ const CHANNEL_RULES = [
   { category: 'general', tier: 3, en: 'Iqraa', ar: 'اقرأ', id: /^Iqraa/i }
 ];
 
-// Canonical genre keys (single source of truth for the app's AR/EN/FR labels).
-// `alias` lists Arabic spellings found in TMDB (ar) and in EPG categories.
 const GENRES = {
   action: { ar: 'حركة', en: 'Action', fr: 'Action', alias: ['حركة', 'أكشن', 'حركة ومغامرة', 'لايف أكشن', 'action', 'action & adventure'] },
   adventure: { ar: 'مغامرة', en: 'Adventure', fr: 'Aventure', alias: ['مغامرة', 'مغامرات', 'حركة ومغامرة', 'أنمي المغامرات', 'adventure'] },
@@ -179,6 +175,155 @@ const CHANNEL_CATEGORY_RULES = [
 ];
 
 // ============================================================================
+// SPORTS / FOOTBALL DICTIONARIES (With TheSportsDB League IDs & Team Mappings)
+// ============================================================================
+const LEAGUES = {
+  premier_league: { tsdbId: '4328', ar: 'الدوري الإنجليزي الممتاز', en: 'Premier League', fr: 'Premier League', re: /الدوري الإنجليزي|البريميرليج|premier league/i },
+  champions_league: { tsdbId: '4480', ar: 'دوري أبطال أوروبا', en: 'UEFA Champions League', fr: 'Ligue des champions', re: /دوري أبطال أوروبا|champions league/i },
+  europa_league: { tsdbId: '4481', ar: 'الدوري الأوروبي', en: 'UEFA Europa League', fr: 'Ligue Europa', re: /الدوري الأوروبي|europa league/i },
+  conference_league: { tsdbId: '5071', ar: 'دوري المؤتمر الأوروبي', en: 'UEFA Conference League', fr: 'Ligue Conférence', re: /دوري المؤتمر|conference league/i },
+  la_liga: { tsdbId: '4335', ar: 'الدوري الإسباني', en: 'La Liga', fr: 'La Liga', re: /الدوري الإسباني|الليغا|la liga/i },
+  serie_a: { tsdbId: '4332', ar: 'الدوري الإيطالي', en: 'Serie A', fr: 'Serie A', re: /الدوري الإيطالي|الكالتشيو|serie a/i },
+  bundesliga: { tsdbId: '4331', ar: 'الدوري الألماني', en: 'Bundesliga', fr: 'Bundesliga', re: /الدوري الألماني|البوندسليغا|bundesliga/i },
+  ligue_1: { tsdbId: '4334', ar: 'الدوري الفرنسي', en: 'Ligue 1', fr: 'Ligue 1', re: /الدوري الفرنسي|ligue 1/i },
+  saudi_pro_league: { tsdbId: '4668', ar: 'دوري روشن السعودي', en: 'Saudi Pro League', fr: 'Saudi Pro League', re: /دوري روشن|الدوري السعودي|saudi pro league/i },
+  egyptian_league: { tsdbId: '4673', ar: 'الدوري المصري الممتاز', en: 'Egyptian Premier League', fr: 'Championnat d\'Égypte', re: /الدوري المصري|egyptian premier/i },
+  moroccan_botola: { tsdbId: '4734', ar: 'البطولة المغربية', en: 'Botola Pro', fr: 'Botola Pro', re: /البطولة المغربية|الدوري المغربي|botola/i },
+  tunisian_ligue: { tsdbId: '4735', ar: 'الرابطة التونسية المحترفة', en: 'Tunisian Ligue 1', fr: 'Ligue 1 Tunisie', re: /الرابطة التونسية|الدوري التونسي|tunisian ligue/i },
+  algerian_ligue: { tsdbId: '4736', ar: 'الرابطة الجزائرية المحترفة', en: 'Algerian Ligue 1', fr: 'Ligue 1 Algérie', re: /الرابطة الجزائرية|الدوري الجزائري|algerian ligue/i },
+  qatari_league: { tsdbId: '4737', ar: 'دوري نجوم قطر', en: 'Qatar Stars League', fr: 'Qatar Stars League', re: /دوري نجوم قطر|الدوري القطري|qatar stars/i },
+  uae_pro_league: { tsdbId: '4740', ar: 'دوري أدنوك للمحترفين', en: 'UAE Pro League', fr: 'UAE Pro League', re: /دوري أدنوك|الدوري الإماراتي|uae pro/i },
+  caf_champions: { tsdbId: '4739', ar: 'دوري أبطال أفريقيا', en: 'CAF Champions League', fr: 'Ligue des champions CAF', re: /دوري أبطال أفريقيا|أبطال إفريقيا|caf champions/i },
+  afc_champions: { tsdbId: '4738', ar: 'دوري أبطال آسيا', en: 'AFC Champions League', fr: 'Ligue des champions AFC', re: /دوري أبطال آسيا|أبطال آسيا|afc champions/i },
+  world_cup: { tsdbId: '4429', ar: 'كأس العالم', en: 'FIFA World Cup', fr: 'Coupe du monde', re: /كأس العالم|تصفيات كأس العالم|world cup/i },
+  afcon: { tsdbId: '4499', ar: 'كأس أمم أفريقيا', en: 'Africa Cup of Nations', fr: 'Coupe d\'Afrique des nations', re: /كأس أمم أفريقيا|أمم إفريقيا|africa cup|afcon/i },
+  asian_cup: { tsdbId: '4500', ar: 'كأس آسيا', en: 'AFC Asian Cup', fr: 'Coupe d\'Asie', re: /كأس آسيا|asian cup/i },
+  nations_league: { tsdbId: '4490', ar: 'دوري الأمم الأوروبية', en: 'UEFA Nations League', fr: 'Ligue des nations', re: /دوري الأمم الأوروبية|nations league/i },
+  friendly: { tsdbId: null, ar: 'مباراة ودية', en: 'International Friendly', fr: 'Match amical', re: /ودية|مباراة ودية|friendly/i }
+};
+
+const TEAM_AR_TO_EN = {
+  // England
+  'ارسنال': 'Arsenal', 'آرسنال': 'Arsenal',
+  'تشيلسي': 'Chelsea',
+  'ليفربول': 'Liverpool',
+  'مانشستر سيتي': 'Manchester City',
+  'مانشستر يونايتد': 'Manchester United',
+  'توتنهام': 'Tottenham Hotspur', 'توتنهام هوتسبير': 'Tottenham Hotspur',
+  'نيوكاسل': 'Newcastle United', 'نيوكاسل يونايتد': 'Newcastle United',
+  'استون فيلا': 'Aston Villa',
+  'وست هام': 'West Ham United', 'وست هام يونايتد': 'West Ham United',
+  'برايتون': 'Brighton',
+  'ايفرتون': 'Everton',
+  'ليستر سيتي': 'Leicester City',
+  'ولفرهامبتون': 'Wolverhampton Wanderers',
+  'نوتينغهام فورست': 'Nottingham Forest',
+  'كريستال بالاس': 'Crystal Palace',
+  'فولهام': 'Fulham',
+  'برينتفورد': 'Brentford',
+  'بورنموث': 'Bournemouth',
+  // Spain
+  'ريال مدريد': 'Real Madrid',
+  'برشلونه': 'Barcelona',
+  'اتلتيكو مدريد': 'Atletico Madrid',
+  'اشبيليه': 'Sevilla',
+  'ريال بيتيس': 'Real Betis',
+  'ريال سوسيداد': 'Real Sociedad',
+  'فياريال': 'Villarreal',
+  'اتلتيك بلباو': 'Athletic Bilbao',
+  'فالنسيا': 'Valencia',
+  'جيرونا': 'Girona',
+  // Italy
+  'يوفنتوس': 'Juventus',
+  'انتر ميلان': 'Inter Milan', 'الانتر': 'Inter Milan',
+  'ميلان': 'AC Milan', 'اي سي ميلان': 'AC Milan',
+  'نابولي': 'Napoli',
+  'روما': 'AS Roma',
+  'لاتسيو': 'Lazio',
+  'اتالانتا': 'Atalanta',
+  'فيورنتينا': 'Fiorentina',
+  // Germany & France & Portugal & Netherlands
+  'بايرن ميونخ': 'Bayern Munich', 'بايرن ميونيخ': 'Bayern Munich',
+  'بوروسيا دورتموند': 'Borussia Dortmund',
+  'باير ليفركوزن': 'Bayer Leverkusen',
+  'لايبزيج': 'RB Leipzig', 'لايبزيغ': 'RB Leipzig',
+  'باريس سان جيرمان': 'Paris Saint-Germain',
+  'مارسيليا': 'Marseille', 'اولمبيك مارسيليا': 'Marseille',
+  'ليون': 'Lyon', 'اولمبيك ليون': 'Lyon',
+  'موناكو': 'Monaco',
+  'ليل': 'Lille',
+  'بنفيكا': 'Benfica',
+  'بورتو': 'Porto',
+  'سبورتينغ لشبونه': 'Sporting CP', 'سبورتنج لشبونه': 'Sporting CP',
+  'اياكس': 'Ajax',
+  'ايندهوفن': 'PSV Eindhoven',
+  // Saudi Arabia
+  'الهلال': 'Al-Hilal', 'الهلال السعودي': 'Al-Hilal',
+  'النصر': 'Al-Nassr', 'النصر السعودي': 'Al-Nassr',
+  'الاتحاد': 'Al-Ittihad', 'الاتحاد السعودي': 'Al-Ittihad',
+  'الاهلي السعودي': 'Al-Ahli Saudi',
+  'الشباب': 'Al-Shabab',
+  'الاتفاق': 'Al-Ettifaq',
+  'التعاون': 'Al-Taawoun',
+  'الفتح': 'Al-Fateh',
+  'القادسيه': 'Al-Qadsiah',
+  // Egypt
+  'الاهلي': 'Al Ahly', 'الاهلي المصري': 'Al Ahly',
+  'الزمالك': 'Zamalek',
+  'بيراميدز': 'Pyramids FC',
+  'المصري': 'Al Masry', 'المصري البورسعيدي': 'Al Masry',
+  'الاسماعيلي': 'Ismaily',
+  'فيوتشر': 'Modern Sport FC', 'مودرن سبورت': 'Modern Sport FC',
+  // Morocco, Tunisia, Algeria, Qatar, UAE
+  'الوداد': 'Wydad AC', 'الوداد الرياضي': 'Wydad AC',
+  'الرجاء': 'Raja CA', 'الرجاء الرياضي': 'Raja CA',
+  'نهضه بركان': 'RS Berkane',
+  'الجيش الملكي': 'AS FAR',
+  'الترجي': 'Esperance de Tunis', 'الترجي التونسي': 'Esperance de Tunis',
+  'النجم الساحلي': 'Etoile du Sahel',
+  'النادي الافريقي': 'Club Africain',
+  'الصفاقسي': 'CS Sfaxien', 'النادي الصفاقسي': 'CS Sfaxien',
+  'مولوديه الجزائر': 'MC Alger',
+  'شباب بلوزداد': 'CR Belouizdad',
+  'اتحاد العاصمه': 'USM Alger',
+  'شبيبه القبائل': 'JS Kabylie',
+  'وفاق سطيف': 'ES Setif',
+  'السد': 'Al Sadd', 'السد القطري': 'Al Sadd',
+  'الدحيل': 'Al-Duhail',
+  'الريان': 'Al-Rayyan',
+  'العين': 'Al Ain', 'العين الاماراتي': 'Al Ain',
+  'شباب الاهلي': 'Shabab Al Ahli',
+  'الوصل': 'Al Wasl',
+  'الجزيره الاماراتي': 'Al Jazira',
+  // National Teams
+  'مصر': 'Egypt', 'منتخب مصر': 'Egypt',
+  'المغرب': 'Morocco', 'منتخب المغرب': 'Morocco',
+  'تونس': 'Tunisia', 'منتخب تونس': 'Tunisia',
+  'الجزائر': 'Algeria', 'منتخب الجزائر': 'Algeria',
+  'السعوديه': 'Saudi Arabia', 'منتخب السعوديه': 'Saudi Arabia',
+  'قطر': 'Qatar', 'منتخب قطر': 'Qatar',
+  'الامارات': 'United Arab Emirates', 'منتخب الامارات': 'United Arab Emirates',
+  'العراق': 'Iraq', 'منتخب العراق': 'Iraq',
+  'الاردن': 'Jordan', 'منتخب الاردن': 'Jordan',
+  'فلسطين': 'Palestine', 'منتخب فلسطين': 'Palestine',
+  'سوريا': 'Syria', 'منتخب سوريا': 'Syria',
+  'لبنان': 'Lebanon', 'منتخب لبنان': 'Lebanon',
+  'عمان': 'Oman', 'منتخب عمان': 'Oman',
+  'البحرين': 'Bahrain', 'منتخب البحرين': 'Bahrain',
+  'الكويت': 'Kuwait', 'منتخب الكويت': 'Kuwait',
+  'فرنسا': 'France', 'منتخب فرنسا': 'France',
+  'اسبانيا': 'Spain', 'منتخب اسبانيا': 'Spain',
+  'انجلترا': 'England', 'منتخب انجلترا': 'England',
+  'المانيا': 'Germany', 'منتخب المانيا': 'Germany',
+  'ايطاليا': 'Italy', 'منتخب ايطاليا': 'Italy',
+  'البرتغال': 'Portugal', 'منتخب البرتغال': 'Portugal',
+  'هولندا': 'Netherlands', 'منتخب هولندا': 'Netherlands',
+  'بلجيكا': 'Belgium', 'منتخب بلجيكا': 'Belgium',
+  'الارجنتين': 'Argentina', 'منتخب الارجنتين': 'Argentina',
+  'البرازيل': 'Brazil', 'منتخب البرازيل': 'Brazil'
+};
+
+// ============================================================================
 // CACHE
 // ============================================================================
 let metadataCache = { _version: CACHE_VERSION };
@@ -189,6 +334,12 @@ if (fs.existsSync(cacheFile)) {
   } catch {
     metadataCache = { _version: CACHE_VERSION };
   }
+}
+if (!metadataCache._teams || typeof metadataCache._teams !== 'object') {
+  metadataCache._teams = {};
+}
+if (!metadataCache._leagues || typeof metadataCache._leagues !== 'object') {
+  metadataCache._leagues = {};
 }
 
 function saveCache() {
@@ -201,7 +352,6 @@ function saveCache() {
 // ============================================================================
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
-// NOTE: keep identical to the version that produced existing cache keys.
 function normalizeName(name) {
   const normalized = String(name || '')
     .toLowerCase()
@@ -226,7 +376,6 @@ function isTitleMatch(candidateTitle, queryTitle) {
   return a === b || a.startsWith(b + ' ') || b.startsWith(a + ' ');
 }
 
-// Non-MENA feeds of Arab-targeted providers (beIN France / Australia / Spanish)
 const EXCLUDED_CHANNEL_RE = /@(France|Australia)$|enEspanol/i;
 
 function beinSportsNames(baseId) {
@@ -265,13 +414,12 @@ function decodeXml(str) {
     .trim();
 }
 
-// Returns an https URL string or null. Never returns "null", "", relative or broken values.
 function cleanUrl(value) {
   if (typeof value !== 'string') return null;
   let u = value.trim();
   if (!u || /^(null|undefined|n\/a|none)$/i.test(u)) return null;
   if (u.startsWith('//')) u = 'https:' + u;
-  if (u.startsWith('http://')) u = 'https://' + u.slice(7); // iOS ATS blocks cleartext
+  if (u.startsWith('http://')) u = 'https://' + u.slice(7);
   if (!/^https:\/\/[^\s/]+\.[^\s/]+/i.test(u)) return null;
   if (/\s/.test(u)) u = u.replace(/ /g, '%20');
   return u;
@@ -282,6 +430,13 @@ function cleanText(value) {
   const t = value.trim();
   if (!t || /^(null|undefined|n\/a)$/i.test(t)) return null;
   return t;
+}
+
+function cleanHexColor(value) {
+  const t = cleanText(value);
+  if (!t) return null;
+  const hex = t.startsWith('#') ? t : `#${t}`;
+  return /^#[0-9a-fA-F]{6}$/.test(hex) ? hex.toLowerCase() : null;
 }
 
 function isValidPosterUrl(url) {
@@ -344,7 +499,7 @@ async function fetchJson(url, { headers, retries = 2 } = {}) {
         await sleep(Math.min(wait, 10000));
         continue;
       }
-      if (!res.ok) return null; // 4xx: definitive "not found / not allowed"
+      if (!res.ok) return null;
       return await res.json();
     } catch {
       await sleep(500 * (attempt + 1));
@@ -420,7 +575,6 @@ function isUnavailableProgram(title) {
   );
 }
 
-// Whole-word fillers (normalizeName folds hamza / ta-marbuta, so list is in folded form)
 const FILLER_TOKENS = new Set([
   'اخبار', 'الاخبار', 'نشره', 'النشره', 'موجز', 'نيوز', 'news', 'headlines', 'headline',
   'weather', 'الطقس', 'طقس', 'اعلانات', 'اعلان', 'teleshopping', 'تسوق', 'اذان', 'الاذان',
@@ -437,7 +591,7 @@ function isFillerTitle(cleanTitle, channelName) {
   if (!cleanTitle || cleanTitle.trim().length < 2) return true;
   const norm = normalizeName(cleanTitle);
   if (GENERIC_EXACT_TITLES.has(norm)) return true;
-  if (channelName && norm === normalizeName(channelName)) return true; // title == channel name
+  if (channelName && norm === normalizeName(channelName)) return true;
   const tokens = norm.split(' ');
   if (tokens.some(t => FILLER_TOKENS.has(t))) return true;
   return FILLER_PHRASES.some(p => norm.includes(p));
@@ -464,7 +618,7 @@ function inferContentTypeForGroup(g, enriched) {
   if (MUSIC_RE.test(catText)) return 'music';
   if (g.filler) return (NEWS_CAT_RE.test(catText) || hasNewsToken(title)) ? 'news' : 'program';
   if (NEWS_CAT_RE.test(catText)) return 'news';
-  if (SPORTS_CAT_RE.test(catText) || /مباراة/.test(title)) return 'sports';
+  if (SPORTS_CAT_RE.test(catText) || /مباراة|ضد|\bvs\.?\b/i.test(title)) return 'sports';
   if (ANIMATION_CAT_RE.test(catText) || (enriched && enriched.content_type === 'animation')) return 'animation';
   if (DOC_CAT_RE.test(catText) || /^(فيلم|برنامج) وثائقي/.test(g.rawTitles[0] || '')) return 'documentary';
   if (enriched && (enriched.content_type === 'movie' || enriched.content_type === 'series')) return enriched.content_type;
@@ -474,6 +628,237 @@ function inferContentTypeForGroup(g, enriched) {
   if (/دراما|تشويق|تاريخي|سيرة ذاتية/.test(catText)) return 'series';
   if (/أكشن|رعب|خيال علمي|أجنبي|رومانسي|جريمة|إثارة|اثارة/.test(catText)) return 'movie';
   return 'program';
+}
+
+// ============================================================================
+// SPORTS MATCH PARSER & THESPORTSDB FULL CONTEXT ENRICHMENT
+// ============================================================================
+const STUDIO_RE = /استوديو|تحليلي|ما قبل المباراة|ما بعد المباراة|ملخص|أهداف|pre[\s-]?match|post[\s-]?match|highlights|review|studio/i;
+const EXPLICIT_VS_RE = /\s+(?:ضد|×|x|vs\.?|v\.?)\s+/i;
+const NON_TEAM_WORD_RE = /حلقة|جزء|موسم|برنامج|نشرة|موجز|فيلم|مسلسل|j[o0]urn[eé]e|week|round|matchday|episode|part/i;
+const COMMENTATOR_RE = /(?:المعلق|تعليق)\s*[:\-]?\s*([^\n،,|.\-()]+)|(?:commentator|commentary)\s*[:\-]?\s*([^\n,|.\-()]+)/i;
+const ROUND_RE = /(?:الجولة|الأسبوع|ربع النهائي|نصف النهائي|النهائي|دور الـ?\s*\d+|المجموعات|Matchday|Round|Week|Quarter-?final|Semi-?final|Final)\s*\d*/i;
+
+function classifyLeague(text) {
+  const raw = cleanText(text);
+  if (!raw) return { key: null, tsdbId: null, ar: null, en: null, fr: null };
+  for (const [key, def] of Object.entries(LEAGUES)) {
+    if (def.re.test(raw)) {
+      return { key, tsdbId: def.tsdbId || null, ar: def.ar, en: def.en, fr: def.fr };
+    }
+  }
+  return { key: null, tsdbId: null, ar: raw, en: raw, fr: raw };
+}
+
+function inferSportKind(text) {
+  const t = String(text || '');
+  if (/تنس|tennis|atp|wta|roland garros|wimbledon/i.test(t)) return 'tennis';
+  if (/سلة|basketball|nba|euroleague/i.test(t)) return 'basketball';
+  if (/فورمولا|formula|motogp|rally|سباق/i.test(t)) return 'motorsport';
+  if (/ملاكمة|boxing|ufc|mma|مصارعة/i.test(t)) return 'combat';
+  return 'football';
+}
+
+function extractCommentator(description) {
+  if (!description) return null;
+  const m = description.match(COMMENTATOR_RE);
+  const raw = m && (m[1] || m[2]);
+  return raw ? cleanText(raw) : null;
+}
+
+function extractRound(rawTitle, episodeTitle, description) {
+  const text = `${episodeTitle || ''} ${rawTitle || ''} ${description || ''}`;
+  const m = text.match(ROUND_RE);
+  return m ? cleanText(m[0]) : null;
+}
+
+function parseSportsEvent(rawTitle, description, episodeTitle, categories, channelCategory) {
+  const fullText = `${rawTitle} ${description || ''} ${(categories || []).join(' ')}`;
+  const isSportsChannel = channelCategory === 'sports' || SPORTS_CAT_RE.test(fullText);
+  const isStudio = STUDIO_RE.test(rawTitle);
+
+  let work = String(rawTitle || '')
+    .replace(/^(?:مباشر|نقل مباشر|مباراة|الاستوديو التحليلي|استوديو تحليلي)\s*[:\-]?\s*/i, '')
+    .replace(/\((?:مباشر|إعادة|live|rerun)\)/gi, '')
+    .trim();
+
+  let leagueRaw = null;
+  let matchPart = work;
+
+  const colonIdx = work.search(/[:|]/);
+  if (colonIdx > 1 && colonIdx < work.length - 3) {
+    const left = work.slice(0, colonIdx).trim();
+    const right = work.slice(colonIdx + 1).trim();
+    if (EXPLICIT_VS_RE.test(right) || (isSportsChannel && /\s+[-–—]\s+/.test(right))) {
+      leagueRaw = left;
+      matchPart = right;
+    } else if (EXPLICIT_VS_RE.test(left)) {
+      matchPart = left;
+      leagueRaw = right;
+    }
+  } else if (/\s+[-–—]\s+/.test(work)) {
+    const dashParts = work.split(/\s+[-–—]\s+/);
+    if (dashParts.length === 2) {
+      if (EXPLICIT_VS_RE.test(dashParts[0]) && !EXPLICIT_VS_RE.test(dashParts[1])) {
+        matchPart = dashParts[0].trim();
+        leagueRaw = dashParts[1].trim();
+      } else if (EXPLICIT_VS_RE.test(dashParts[1]) && !EXPLICIT_VS_RE.test(dashParts[0])) {
+        leagueRaw = dashParts[0].trim();
+        matchPart = dashParts[1].trim();
+      }
+    } else if (dashParts.length >= 3) {
+      leagueRaw = dashParts[0].trim();
+      matchPart = `${dashParts[1].trim()} - ${dashParts[2].trim()}`;
+    }
+  }
+
+  let homeTeam = null;
+  let awayTeam = null;
+
+  const vsMatch = matchPart.match(EXPLICIT_VS_RE);
+  if (vsMatch) {
+    const idx = vsMatch.index;
+    homeTeam = matchPart.slice(0, idx).trim();
+    awayTeam = matchPart.slice(idx + vsMatch[0].length).trim();
+  } else if (isSportsChannel && /\s+[-–—]\s+/.test(matchPart)) {
+    const parts = matchPart.split(/\s+[-–—]\s+/);
+    if (parts.length === 2) {
+      const a = parts[0].trim();
+      const b = parts[1].trim();
+      if (
+        a.length >= 2 && a.length <= 35 &&
+        b.length >= 2 && b.length <= 35 &&
+        !/^\d+$/.test(a) && !/^\d+$/.test(b) &&
+        !NON_TEAM_WORD_RE.test(a) && !NON_TEAM_WORD_RE.test(b)
+      ) {
+        homeTeam = a;
+        awayTeam = b;
+      }
+    }
+  }
+
+  if (!homeTeam || !awayTeam) return null;
+
+  const cleanTeam = t => t.replace(/^(?:نادي|فريق|منتخب)\s+/i, '').replace(/[-:|،]+$/g, '').trim();
+  homeTeam = cleanTeam(homeTeam);
+  awayTeam = cleanTeam(awayTeam);
+  if (!homeTeam || !awayTeam || homeTeam.length < 2 || awayTeam.length < 2) return null;
+
+  const leagueInfo = classifyLeague(leagueRaw || `${episodeTitle || ''} ${description || ''} ${(categories || []).join(' ')}`);
+  return {
+    sport: inferSportKind(fullText),
+    isStudio,
+    league: leagueInfo,
+    round: extractRound(rawTitle, episodeTitle, description),
+    commentator: extractCommentator(description),
+    homeTeam,
+    awayTeam
+  };
+}
+
+async function resolveTeamEnglishName(rawTeamName) {
+  const norm = normalizeName(rawTeamName);
+  if (TEAM_AR_TO_EN[norm]) return TEAM_AR_TO_EN[norm];
+  if (/^[a-zA-Z0-9\s\-.'&]+$/.test(rawTeamName)) return rawTeamName.trim();
+
+  try {
+    const searchData = await fetchJson(
+      `https://www.wikidata.org/w/api.php?action=wbsearchentities&search=${encodeURIComponent(rawTeamName)}&language=ar&uselang=ar&format=json&limit=3`,
+      { headers: { 'User-Agent': 'ArabicTVGuideBot/1.0' }, retries: 1 }
+    );
+    const cand = (searchData && searchData.search && searchData.search[0]) || null;
+    if (!cand) return null;
+    const entityData = await fetchJson(
+      `https://www.wikidata.org/w/api.php?action=wbgetentities&ids=${cand.id}&props=labels|descriptions&languages=en&format=json`,
+      { headers: { 'User-Agent': 'ArabicTVGuideBot/1.0' }, retries: 1 }
+    );
+    const ent = entityData && entityData.entities && entityData.entities[cand.id];
+    const descEn = (ent && ent.descriptions && ent.descriptions.en && ent.descriptions.en.value) || '';
+    if (/football|soccer|club|national|team|sport/i.test(descEn)) {
+      return (ent.labels && ent.labels.en && ent.labels.en.value) || null;
+    }
+  } catch {}
+  return null;
+}
+
+async function fetchTeamDetails(rawTeamName) {
+  const normKey = normalizeName(rawTeamName);
+  const existing = metadataCache._teams[normKey];
+  if (existing !== undefined && existing.tv === TEAM_ENTRY_FORMAT) {
+    return existing;
+  }
+
+  const enName = (existing && existing.name_en) || (await resolveTeamEnglishName(rawTeamName));
+  if (!enName) {
+    metadataCache._teams[normKey] = {
+      tv: TEAM_ENTRY_FORMAT,
+      name_en: null,
+      badge: null,
+      jersey: null,
+      stadium: null,
+      stadium_city: null,
+      stadium_image: null,
+      color: null
+    };
+    return metadataCache._teams[normKey];
+  }
+
+  try {
+    const data = await fetchJson(
+      `https://www.thesportsdb.com/api/v1/json/${THESPORTSDB_API_KEY}/searchteams.php?t=${encodeURIComponent(enName)}`,
+      { retries: 1 }
+    );
+    const teams = (data && Array.isArray(data.teams) && data.teams) || [];
+    const hit =
+      teams.find(t => normalizeName(t.strTeam) === normalizeName(enName)) ||
+      teams.find(t => /soccer|football/i.test(t.strSport || '')) ||
+      teams[0] ||
+      null;
+
+    const resolved = {
+      tv: TEAM_ENTRY_FORMAT,
+      name_en: (hit && cleanText(hit.strTeam)) || enName,
+      badge: hit ? cleanUrl(hit.strBadge || hit.strTeamBadge) : null,
+      jersey: hit ? cleanUrl(hit.strJersey) : null,
+      stadium: hit ? cleanText(hit.strStadium) : null,
+      stadium_city: hit ? cleanText(hit.strStadiumLocation) : null,
+      stadium_image: hit ? cleanUrl(hit.strStadiumThumb) : null,
+      color: hit ? cleanHexColor(hit.strColour1) : null
+    };
+    metadataCache._teams[normKey] = resolved;
+    return resolved;
+  } catch {
+    return {
+      tv: TEAM_ENTRY_FORMAT,
+      name_en: enName,
+      badge: (existing && existing.badge) || null,
+      jersey: null,
+      stadium: null,
+      stadium_city: null,
+      stadium_image: null,
+      color: null
+    };
+  }
+}
+
+async function fetchLeagueBadge(leagueKey, tsdbId) {
+  if (!leagueKey || !tsdbId) return null;
+  if (metadataCache._leagues[leagueKey] !== undefined) {
+    return metadataCache._leagues[leagueKey];
+  }
+
+  try {
+    const data = await fetchJson(
+      `https://www.thesportsdb.com/api/v1/json/${THESPORTSDB_API_KEY}/lookupleague.php?id=${encodeURIComponent(tsdbId)}`,
+      { retries: 1 }
+    );
+    const leagueObj = data && Array.isArray(data.leagues) && data.leagues[0];
+    const badge = leagueObj ? cleanUrl(leagueObj.strBadge || leagueObj.strLogo) : null;
+    metadataCache._leagues[leagueKey] = badge;
+    return badge;
+  } catch {
+    return null;
+  }
 }
 
 // ============================================================================
@@ -497,7 +882,7 @@ async function fetchChannelLogos() {
     for (const item of logosList || []) {
       if (!item.channel || !item.url) continue;
       const rank = LOGO_FORMAT_RANK[item.format];
-      if (!rank) continue; // skip SVG / AVIF / GIF / unknown
+      if (!rank) continue;
       const url = cleanUrl(item.url);
       if (!url) continue;
       const score = rank * 1e6 + (item.in_use ? 5e5 : 0) + (item.width || 0);
@@ -529,7 +914,7 @@ async function fetchChannelLogos() {
 function usableChannelIcon(url) {
   const u = cleanUrl(url);
   if (!u) return null;
-  if (/\.svg(\?.*)?$/i.test(u)) return null; // raw SVG: needs extra renderer on mobile
+  if (/\.svg(\?.*)?$/i.test(u)) return null;
   return u;
 }
 
@@ -665,7 +1050,6 @@ async function fetchTmdbDetail(mediaType, id) {
   return detail ? mapTmdbDetail(detail, mediaType) : null;
 }
 
-// Throws TransientError on network/API failure (so nothing gets cached as "no match").
 async function searchTmdbFull(queryTitle, expectedYear, category) {
   if (!TMDB_API_KEY) return null;
 
@@ -693,9 +1077,8 @@ async function searchTmdbFull(queryTitle, expectedYear, category) {
     return (b.popularity || 0) - (a.popularity || 0);
   });
 
-  // Only accept a hit whose localized / original / alternative titles really match the query.
   for (const hit of validResults.slice(0, 3)) {
-    if (!direct(hit) && (hit.vote_count || 0) < 20) continue; // skip junk without fetching details
+    if (!direct(hit) && (hit.vote_count || 0) < 20) continue;
     const mapped = await fetchTmdbDetail(hit.media_type, hit.id);
     if (mapped && isVerifiedDetail(mapped, queryTitle)) return mapped;
   }
@@ -753,7 +1136,6 @@ async function searchWikidata(cleanTitle, expectedYear) {
       }
       if (expectedYear && year && Math.abs(parseInt(expectedYear, 10) - parseInt(year, 10)) > 1) continue;
 
-      // Only P3383 (film poster). P18 is a generic "image" (buildings, logos, people) and not a poster.
       let poster = null;
       const posterClaim = ent.claims.P3383 && ent.claims.P3383[0];
       const fileName = posterClaim && posterClaim.mainsnak && posterClaim.mainsnak.datavalue && posterClaim.mainsnak.datavalue.value;
@@ -860,8 +1242,7 @@ async function enrichProgramMetadata(cleanTitle, expectedYear, category) {
   const cacheKey = `${normalizeName(cleanTitle)}_${expectedYear || ''}`;
   if (metadataCache[cacheKey] !== undefined) return metadataCache[cacheKey];
 
-  // Both search paths only return title-matched hits, so any match here is "verified".
-  let tmdb = await searchTmdbFull(cleanTitle, expectedYear, category); // may throw TransientError
+  let tmdb = await searchTmdbFull(cleanTitle, expectedYear, category);
   const wiki = await searchWikidata(cleanTitle, expectedYear);
   if (!tmdb && wiki && wiki.original_title) {
     tmdb = await searchTmdbFull(wiki.original_title, wiki.year || expectedYear, category);
@@ -872,7 +1253,7 @@ async function enrichProgramMetadata(cleanTitle, expectedYear, category) {
     tmdb_id: (tmdb && tmdb.tmdb_id) || null,
     tmdb_media: (tmdb && tmdb.tmdb_media) || null,
     tmdb_title: (tmdb && tmdb.tmdb_title) || null,
-    verified: !!tmdb, // searchTmdbFull only returns title-verified hits
+    verified: !!tmdb,
     i18n: (tmdb && tmdb.i18n) || null,
     tagline: (tmdb && tmdb.tagline) || null,
     runtime: (tmdb && tmdb.runtime) || null,
@@ -945,8 +1326,6 @@ async function enrichProgramMetadata(cleanTitle, expectedYear, category) {
   return metadataCache[cacheKey];
 }
 
-// Upgrades a legacy cache entry (older fetch strategy: Arabic-only trailers, no media type)
-// in place, using the stored TMDB id. Cheap: one request, no search.
 const TMDB_REFRESH_FIELDS = [
   'tmdb_title', 'tagline', 'runtime', 'backdrop', 'poster', 'description', 'age_rating', 'trailer_url', 'director',
   'seasons_count', 'episodes_count', 'status', 'country', 'language', 'original_title', 'release_date'
@@ -961,7 +1340,7 @@ async function refreshLegacyEntry(entry, cleanTitle) {
     if (!fresh) continue;
     refreshed = true;
     entry.tmdb_media = media;
-    entry.alt_match = fresh.alt_titles; // transient: consumed below, removed before saving
+    entry.alt_match = fresh.alt_titles;
     entry.i18n = fresh.i18n;
     for (const f of TMDB_REFRESH_FIELDS) if (fresh[f]) entry[f] = fresh[f];
     if (fresh.cast.length) entry.cast = fresh.cast;
@@ -970,10 +1349,8 @@ async function refreshLegacyEntry(entry, cleanTitle) {
     break;
   }
 
-  // Never stamp an entry as refreshed when TMDB returned nothing (bad key, outage, removed id).
   if (!refreshed) throw new TransientError(`refresh failed for tmdb ${entry.tmdb_id}`);
 
-  // Legacy matches were accepted without a title check: verify them now.
   const known = [entry.tmdb_title, entry.original_title, entry.i18n && entry.i18n.en.title, entry.i18n && entry.i18n.fr.title, ...(entry.alt_match || [])];
   let verified = entry.verified === true || titleMatchesAny(known, cleanTitle);
   if (!verified) {
@@ -992,9 +1369,7 @@ function classifyProgrammeImage(url, viaTag) {
   const u = cleanUrl(url);
   if (!u) return null;
   if (/blank_photos|placeholder|no[-_]?image|default[-_]?image/i.test(u)) return null;
-  // Known landscape (16:9) providers -> backdrop candidates
   if (/shahid\.mbc\.net|osn-artwork\.anghcdn\.co|\/Horizontal\//i.test(u)) return { kind: 'backdrop', url: u };
-  // Known portrait thumbnail provider (150x200)
   if (/_\d{2,3}x\d{2,3}_/.test(u)) return { kind: 'poster', url: u };
   if (viaTag === 'icon' && isValidPosterUrl(u)) return { kind: 'poster', url: u };
   return null;
@@ -1210,7 +1585,6 @@ async function main() {
     candidates.push({ id: ch.id, rawName: ch.name, icon, realCount: progs.length });
   }
 
-  // Name-level dedupe: keep the feed with the most real programmes
   const byNorm = new Map();
   for (const c of candidates) {
     const key = normalizeName(c.rawName);
@@ -1219,7 +1593,6 @@ async function main() {
   }
   let selected = Array.from(byNorm.values());
 
-  // Single-feed rules (e.g. "Al Arabiya") keep only the feed with the most programmes
   const bestPerRule = new Map();
   for (const c of selected) {
     const m = matchChannelRule(c.id, c.rawName);
@@ -1232,7 +1605,6 @@ async function main() {
     return !m || m.rule.multi || bestPerRule.get(m.index) === c;
   });
 
-  // Rule matching, canonical names, categories
   const ruleUse = new Map();
   const channels = selected.map(c => {
     const match = matchChannelRule(c.id, c.rawName);
@@ -1248,7 +1620,6 @@ async function main() {
     return { ...c, name, nameAr, tier, ruleIndex, rule: match ? match.rule : null };
   });
 
-  // Canonical names for single-feed rules (first feed with most programmes wins)
   const claimed = new Set();
   channels.sort((a, b) => b.realCount - a.realCount);
   for (const ch of channels) {
@@ -1284,9 +1655,8 @@ async function main() {
         if (p.description.length > last.description.length) dedup[dedup.length - 1] = p;
         continue;
       }
-      // Deduplicate overlaps slightly
       if (last && last.stopMs && p.startMs < last.stopMs) {
-         if (last.stopMs - p.startMs < 60000) last.stopMs = p.startMs;
+        if (last.stopMs - p.startMs < 60000) last.stopMs = p.startMs;
       }
       dedup.push(p);
     }
@@ -1297,7 +1667,7 @@ async function main() {
       const next = dedup[i + 1];
       let stopMs = p.stopMs;
       if (stopMs === null || stopMs <= p.startMs) stopMs = next ? next.startMs : p.startMs + 3600000;
-      if (next && stopMs > next.startMs) stopMs = next.startMs; // trim overlaps
+      if (next && stopMs > next.startMs) stopMs = next.startMs;
       if (stopMs <= p.startMs) continue;
       out.push({ ...p, startTs: Math.floor(p.startMs / 1000), stopTs: Math.floor(stopMs / 1000) });
     }
@@ -1353,7 +1723,7 @@ async function main() {
     g.preType = inferContentTypeForGroup(g, null);
   }
 
-  // ---- 5. Enrichment ------------------------------------------------------------------
+  // ---- 5. Enrichment (Movies/Series via TMDB) -------------------------------------
   const ENRICHABLE = new Set(['movie', 'series', 'animation', 'documentary', 'program']);
   const toEnrich = [];
   const toRefresh = [];
@@ -1367,7 +1737,7 @@ async function main() {
   }
 
   if (!OFFLINE && !TMDB_API_KEY) {
-    console.warn('⚠️  TMDB_API_KEY is not set: skipping enrichment, using metadata_cache.json only.');
+    console.warn('⚠️  TMDB_API_KEY is not set: skipping TMDB enrichment, using metadata_cache.json only.');
   }
   if (OFFLINE || !TMDB_API_KEY) {
     if (OFFLINE) console.log('📴 OFFLINE mode: using metadata_cache.json only.');
@@ -1393,25 +1763,25 @@ async function main() {
       try {
         await enrichProgramMetadata(g.cleanTitle, g.year, g.categories.join(' '));
       } catch (err) {
-        if (err instanceof TransientError) transientFailures++; // NOT cached: retried next run
+        if (err instanceof TransientError) transientFailures++;
       }
       if (++n % 15 === 0) { saveCache(); process.stdout.write(`   Enriched ${n}/${toEnrich.length}...\r`); }
       await sleep(60);
     }
     saveCache();
-    console.log(`\n✅ Enrichment completed (${transientFailures} transient failures will be retried next run).`);
+    console.log(`\n✅ TMDB enrichment completed (${transientFailures} transient failures will be retried next run).`);
   }
 
   // ---- 6. Build shows ------------------------------------------------------------------------
   const trustedEnriched = e => {
     if (!e) return null;
-    if (e.tmdb_id && e.verified !== true) return null; // unverified match: ignore, never guess
+    if (e.tmdb_id && e.verified !== true) return null;
     return e;
   };
 
   const trustedRating = e => {
     if (!e || !e.rating) return null;
-    if (e.vote_count == null) return e.tmdb_id ? null : e.rating; // TVMaze rating has no vote count
+    if (e.vote_count == null) return e.tmdb_id ? null : e.rating;
     return e.vote_count >= MIN_VOTES_FOR_RATING ? e.rating : null;
   };
 
@@ -1471,7 +1841,7 @@ async function main() {
     showsById.set(showId, {
       show_id: showId,
       tmdb_id: (enriched && enriched.tmdb_id) || null,
-      content_type: null, // resolved below
+      content_type: null,
       title: g.cleanTitle,
       original_title: original && normalizeName(original) !== normalizeName(g.cleanTitle) ? original : null,
       title_en: i18n && !sameAsMain(i18n.en.title) ? i18n.en.title : null,
@@ -1510,8 +1880,7 @@ async function main() {
     });
   }
 
-  // ---- 7. Channel categories refinement (content mix) & content types ------------------------
-  const preTypeByShow = new Map();
+  // ---- 7. Channel categories refinement & content types ------------------------
   for (const show of showsById.values()) {
     const g = show._group;
     let type = inferContentTypeForGroup(g, show._enriched);
@@ -1529,7 +1898,6 @@ async function main() {
     show.content_type = type;
     const typeGenre = { animation: 'animation', documentary: 'documentary', sports: 'sports', news: 'news' }[type];
     if (typeGenre && !show.genre_keys.includes(typeGenre)) show.genre_keys.push(typeGenre);
-    preTypeByShow.set(show.show_id, type);
   }
 
   const TYPE_TO_CHANNEL_CAT = { movie: 'movies', series: 'drama', sports: 'sports', news: 'news', animation: 'kids', documentary: 'documentary' };
@@ -1610,6 +1978,209 @@ async function main() {
     list.sort((a, b) => a.start_ts - b.start_ts || a.channel_id.localeCompare(b.channel_id));
     showsById.get(showId).all_airings = list;
   }
+
+  // ---- 8b. Sports & Football Match Extraction with Full Context (api/sports.json) ----------------
+  const rawMatchSlots = [];
+  const rawStudioSlots = [];
+  const teamsToLookup = new Set();
+  const leaguesToLookup = new Map();
+
+  for (const ch of channels) {
+    for (const s of slotsByChannel.get(ch.id)) {
+      const g = groups.get(normalizeName(s.cleanTitle) || s.rawTitle.toLowerCase());
+      const showId = groupShowId.get(g.key);
+      const show = showsById.get(showId);
+      if (ch.category !== 'sports' && show.content_type !== 'sports') continue;
+
+      const parsed = parseSportsEvent(s.rawTitle, s.description, s.episodeTitle, s.categories, ch.category);
+      if (!parsed) continue;
+
+      if (parsed.isStudio) {
+        rawStudioSlots.push({ ch, s, parsed });
+        continue;
+      }
+
+      rawMatchSlots.push({ ch, s, showId, parsed });
+      if (parsed.league.key && parsed.league.tsdbId && metadataCache._leagues[parsed.league.key] === undefined) {
+        leaguesToLookup.set(parsed.league.key, parsed.league.tsdbId);
+      }
+      for (const teamName of [parsed.homeTeam, parsed.awayTeam]) {
+        const tKey = normalizeName(teamName);
+        const existing = metadataCache._teams[tKey];
+        if (existing === undefined || existing.tv !== TEAM_ENTRY_FORMAT) {
+          teamsToLookup.add(teamName);
+        }
+      }
+    }
+  }
+
+  if (!OFFLINE && (teamsToLookup.size > 0 || leaguesToLookup.size > 0)) {
+    for (const [lKey, tsdbId] of leaguesToLookup.entries()) {
+      await fetchLeagueBadge(lKey, tsdbId);
+      await sleep(300);
+    }
+
+    const budget = Array.from(teamsToLookup).slice(0, MAX_TEAM_LOOKUPS_PER_RUN);
+    console.log(`⚽ Enriching ${budget.length} sports teams & ${leaguesToLookup.size} leagues with TheSportsDB full context...`);
+    let tCount = 0;
+    for (const teamName of budget) {
+      await fetchTeamDetails(teamName);
+      if (++tCount % 10 === 0) {
+        saveCache();
+        process.stdout.write(`   Teams ${tCount}/${budget.length}...\r`);
+      }
+      await sleep(350);
+    }
+    saveCache();
+    console.log('\n✅ Sports team badges, stadiums & league logos completed.');
+  }
+
+  const emptyTeam = rawName => ({
+    name_en: TEAM_AR_TO_EN[normalizeName(rawName)] || null,
+    badge: null,
+    jersey: null,
+    stadium: null,
+    stadium_city: null,
+    stadium_image: null,
+    color: null
+  });
+
+  const matchesMap = new Map();
+  for (const { ch, s, showId, parsed } of rawMatchSlots) {
+    const homeInfo = metadataCache._teams[normalizeName(parsed.homeTeam)] || emptyTeam(parsed.homeTeam);
+    const awayInfo = metadataCache._teams[normalizeName(parsed.awayTeam)] || emptyTeam(parsed.awayTeam);
+
+    const homeNorm = normalizeName(homeInfo.name_en || parsed.homeTeam);
+    const awayNorm = normalizeName(awayInfo.name_en || parsed.awayTeam);
+    const startBucket = Math.floor(s.startTs / 900) * 900;
+    const matchKey = `${homeNorm}_vs_${awayNorm}_${startBucket}`;
+
+    if (!matchesMap.has(matchKey)) {
+      matchesMap.set(matchKey, {
+        match_id: `m_${shortHash(matchKey)}`,
+        show_id: showId,
+        sport: parsed.sport,
+        league: parsed.league.ar,
+        league_en: parsed.league.en,
+        league_fr: parsed.league.fr,
+        league_key: parsed.league.key,
+        league_badge: parsed.league.key ? cleanUrl(metadataCache._leagues[parsed.league.key]) : null,
+        round: parsed.round || null,
+        home_team: parsed.homeTeam,
+        home_team_en: homeInfo.name_en || null,
+        home_badge: cleanUrl(homeInfo.badge),
+        home_jersey: cleanUrl(homeInfo.jersey),
+        home_color: cleanHexColor(homeInfo.color),
+        away_team: parsed.awayTeam,
+        away_team_en: awayInfo.name_en || null,
+        away_badge: cleanUrl(awayInfo.badge),
+        away_jersey: cleanUrl(awayInfo.jersey),
+        away_color: cleanHexColor(awayInfo.color),
+        stadium: cleanText(homeInfo.stadium),
+        stadium_city: cleanText(homeInfo.stadium_city),
+        stadium_image: cleanUrl(homeInfo.stadium_image),
+        title: `${parsed.homeTeam} × ${parsed.awayTeam}`,
+        description: cleanText(s.description) || '',
+        commentator: parsed.commentator || null,
+        start: tsToIso(s.startTs),
+        stop: tsToIso(s.stopTs),
+        start_ts: s.startTs,
+        stop_ts: s.stopTs,
+        duration_minutes: Math.round((s.stopTs - s.startTs) / 60),
+        is_live: s.isLive,
+        channels: [],
+        studio_shows: [],
+        _teamPairKey: `${homeNorm}_vs_${awayNorm}`
+      });
+    }
+
+    const matchObj = matchesMap.get(matchKey);
+    if (s.isLive) matchObj.is_live = true;
+    const desc = cleanText(s.description);
+    if (desc && desc.length > matchObj.description.length) matchObj.description = desc;
+    if (!matchObj.commentator && parsed.commentator) matchObj.commentator = parsed.commentator;
+    if (!matchObj.round && parsed.round) matchObj.round = parsed.round;
+
+    if (!matchObj.channels.some(c => c.channel_id === ch.id)) {
+      matchObj.channels.push({
+        channel_id: ch.id,
+        safe_id: ch.safeId,
+        channel_name: ch.name,
+        channel_name_ar: ch.nameAr || null,
+        channel_icon: ch.icon
+      });
+    }
+  }
+
+  // Attach pre-match and post-match studio shows to their corresponding match card
+  for (const { ch, s, parsed } of rawStudioSlots) {
+    const hInfo = metadataCache._teams[normalizeName(parsed.homeTeam)] || emptyTeam(parsed.homeTeam);
+    const aInfo = metadataCache._teams[normalizeName(parsed.awayTeam)] || emptyTeam(parsed.awayTeam);
+    const pairKey = `${normalizeName(hInfo.name_en || parsed.homeTeam)}_vs_${normalizeName(aInfo.name_en || parsed.awayTeam)}`;
+
+    for (const matchObj of matchesMap.values()) {
+      if (matchObj._teamPairKey !== pairKey) continue;
+      if (Math.abs(s.startTs - matchObj.start_ts) > 4 * 3600) continue;
+      if (!matchObj.commentator && parsed.commentator) matchObj.commentator = parsed.commentator;
+
+      if (!matchObj.studio_shows.some(st => st.channel_id === ch.id && st.start_ts === s.startTs)) {
+        matchObj.studio_shows.push({
+          channel_id: ch.id,
+          channel_name: ch.name,
+          channel_icon: ch.icon,
+          title: s.rawTitle,
+          start: tsToIso(s.startTs),
+          stop: tsToIso(s.stopTs),
+          start_ts: s.startTs,
+          stop_ts: s.stopTs
+        });
+      }
+    }
+  }
+
+  const allMatches = Array.from(matchesMap.values())
+    .map(m => {
+      delete m._teamPairKey;
+      m.studio_shows.sort((a, b) => a.start_ts - b.start_ts);
+      return m;
+    })
+    .sort((a, b) => a.start_ts - b.start_ts || a.title.localeCompare(b.title, 'ar'));
+
+  const sportsDays = {};
+  const leagueStats = new Map();
+  for (const m of allMatches) {
+    const day = tsToDay(m.start_ts);
+    if (!sportsDays[day]) sportsDays[day] = [];
+    sportsDays[day].push(m);
+
+    if (m.league_key) {
+      if (!leagueStats.has(m.league_key)) {
+        leagueStats.set(m.league_key, {
+          key: m.league_key,
+          ar: m.league,
+          en: m.league_en,
+          fr: m.league_fr,
+          badge: m.league_badge,
+          count: 0
+        });
+      }
+      leagueStats.get(m.league_key).count += 1;
+    }
+  }
+
+  const sortedSportsDays = {};
+  Object.keys(sportsDays).sort().forEach(d => { sortedSportsDays[d] = sportsDays[d]; });
+
+  const sportsDoc = {
+    schema_version: SCHEMA_VERSION,
+    updated_at: new Date(startedAt).toISOString(),
+    as_of_ts: nowTs,
+    days_count: Object.keys(sortedSportsDays).length,
+    matches_count: allMatches.length,
+    leagues: Array.from(leagueStats.values()).sort((a, b) => b.count - a.count),
+    days: sortedSportsDays,
+    upcoming_matches: allMatches.filter(m => m.stop_ts > nowTs).slice(0, 50)
+  };
 
   // ---- 9. Channel ordering ------------------------------------------------------------------------------
   const collator = new Intl.Collator('en', { numeric: true });
@@ -1754,8 +2325,6 @@ async function main() {
     };
   };
 
-  // Compact airing for the big search index: the app joins channels.json for name/icon
-  // and derives ISO strings from the timestamps. Null episode info is omitted.
   const compactAiring = a => {
     const o = { channel_id: a.channel_id, start_ts: a.start_ts, stop_ts: a.stop_ts };
     if (a.season !== null) o.season = a.season;
@@ -1778,12 +2347,11 @@ async function main() {
     if (sh._filler) continue;
     if (sh.content_type === 'music') continue;
     if (sh.all_airings.length === 0) continue;
-    if (sh.content_type === 'news' && !sh.poster && !sh.backdrop) continue; // bulletins without art
+    if (sh.content_type === 'news' && !sh.poster && !sh.backdrop) continue;
     searchable.push(sh);
   }
   searchable.sort((a, b) => rankScore(b) - rankScore(a) || a.title.localeCompare(b.title, 'ar'));
 
-  // "More like this": same type, overlapping genres, with art, best-rated first
   const similarPool = searchable.filter(sh => sh.genre_keys.length && (sh.poster || sh.backdrop));
   for (const sh of searchable) {
     if (!sh.genre_keys.length) continue;
@@ -1795,7 +2363,7 @@ async function main() {
       scored.push([shared * 3 + bayes(o) / 3 + (o.poster && !isLowResPoster(o.poster) ? 1 : 0), o.show_id]);
     }
     scored.sort((a, b) => b[0] - a[0]);
-    sh.similar.push(...scored.slice(0, 8).map(x => x[1])); // in place: channel files already hold this array
+    sh.similar.push(...scored.slice(0, 8).map(x => x[1]));
   }
 
   const searchIndex = searchable.map(sh => ({
@@ -1853,7 +2421,6 @@ async function main() {
   const upcomingFirst = list =>
     [...list.filter(a => a.stop_ts > nowTs), ...list.filter(a => a.stop_ts <= nowTs)];
 
-  // hero_featured: movies/series with a widescreen backdrop and a trustworthy rating
   const heroPool = searchable.filter(sh =>
     (sh.content_type === 'movie' || sh.content_type === 'series') && sh.backdrop && hasUpcoming(sh) && sh.rating);
   const heroStrict = heroPool.filter(sh => sh.rating >= 7 && (sh.vote_count || 0) >= MIN_VOTES_FOR_FEATURED);
@@ -1867,7 +2434,6 @@ async function main() {
     heroPicked.push(sh);
   }
 
-  // tonight_movies: movies whose start falls into channel-local prime time within the next 36h
   const primeWindowEnd = nowTs + PRIME_WINDOW_HOURS * 3600;
   const tonight = [];
   for (const sh of searchable) {
@@ -1883,7 +2449,6 @@ async function main() {
   tonight.sort((a, b) => rankScore(b.sh) - rankScore(a.sh));
   const tonightPicked = tonight.slice(0, 20);
 
-  // top_series: best-rated series (bayesian-weighted) with art
   const topSeries = searchable
     .filter(sh => sh.content_type === 'series' && sh.rating && (sh.vote_count || 0) >= MIN_VOTES_FOR_RATING && (sh.poster || sh.backdrop) && hasUpcoming(sh))
     .sort((a, b) => bayes(b) - bayes(a))
@@ -1921,9 +2486,6 @@ async function main() {
     items: searchIndex
   };
 
-  // grid.json: every channel's full week in a compact tuple form so the app can show an
-  // accurate "now playing" for all channels (and render a schedule) without per-channel downloads.
-  // slot = [start_ts, stop_ts, show_id, flags(1=live,2=rerun), season|0, episode|0]
   const gridChannels = {};
   const gridShowIds = new Set();
   for (const ch of channels) {
@@ -1952,10 +2514,11 @@ async function main() {
     schema_version: SCHEMA_VERSION,
     updated_at: generatedAt,
     generated_ts: nowTs,
-    files: ['channels.json', 'grid.json', 'featured.json', 'search_index.json'],
+    files: ['channels.json', 'grid.json', 'featured.json', 'search_index.json', 'sports.json'],
     channels: channels.length,
     shows: showsById.size,
     searchable_shows: searchIndex.length,
+    sports_matches: allMatches.length,
     channel_categories: CHANNEL_CATEGORIES,
     content_types: ['movie', 'series', 'animation', 'documentary', 'sports', 'news', 'program'],
     genres: Object.fromEntries(Object.entries(GENRES).map(([k, g]) => [k, { ar: g.ar, en: g.en, fr: g.fr }])),
@@ -1968,7 +2531,7 @@ async function main() {
   }
 
   // ---- 11. Validate BEFORE touching api/ ----------------------------------------------------------------------------------------
-  const problems = validateOutputs({ channelsDoc, channelFiles, searchDoc, featuredDoc, showsById, gridDoc });
+  const problems = validateOutputs({ channelsDoc, channelFiles, searchDoc, featuredDoc, showsById, gridDoc, sportsDoc });
   if (problems.length) {
     console.error(`❌ Validation failed with ${problems.length} problem(s); api/ left untouched:`);
     problems.slice(0, 40).forEach(p => console.error('   - ' + p));
@@ -1986,6 +2549,7 @@ async function main() {
   fs.writeFileSync(path.join(apiDir, 'featured.json'), ser(featuredDoc), 'utf8');
   fs.writeFileSync(path.join(apiDir, 'search_index.json'), ser(searchDoc), 'utf8');
   fs.writeFileSync(path.join(apiDir, 'grid.json'), ser(gridDoc), 'utf8');
+  fs.writeFileSync(path.join(apiDir, 'sports.json'), ser(sportsDoc), 'utf8');
   fs.writeFileSync(path.join(apiDir, 'meta.json'), ser(metaDoc), 'utf8');
 
   // ---- 13. Report ----------------------------------------------------------------------------------------------------------------------
@@ -1997,9 +2561,10 @@ async function main() {
   const withRating = searchable.filter(s => s.rating).length;
   const unmatchedRules = CHANNEL_RULES.filter((_, i) => !ruleUse.has(i)).map(r => r.en);
 
-  console.log(`🎉 Generated ${channels.length} channel schedules, ${showsById.size} unique shows.`);
+  console.log(`🎉 Generated ${channels.length} channel schedules, ${showsById.size} unique shows, ${allMatches.length} sports matches.`);
   console.log(`📺 Channel categories: ${JSON.stringify(catCounts)}`);
   console.log(`🔎 search_index: ${searchIndex.length} shows (${withPoster} with poster, ${withRating} with rating) ${JSON.stringify(typeCounts)}`);
+  console.log(`⚽ sports.json: ${allMatches.length} matches across ${sportsDoc.days_count} days (${sportsDoc.leagues.length} leagues)`);
   console.log(`⭐ featured: hero=${heroPicked.length} tonight=${tonightPicked.length} series=${topSeries.length} movies=${topMovies.length} kids=${kidsPicks.length} docs=${documentaries.length} sports=${sportsHighlights.length}`);
   if (droppedUnverified.length) console.log(`🧹 Ignored ${droppedUnverified.length} unverified TMDB matches, e.g. ${droppedUnverified.slice(0, 10).join(' ; ')}`);
   if (droppedNoLogo.length) console.log(`🖼️  Skipped ${droppedNoLogo.length} channel(s) without a logo: ${droppedNoLogo.slice(0, 12).join(', ')}${droppedNoLogo.length > 12 ? ', …' : ''}`);
@@ -2009,10 +2574,16 @@ async function main() {
 // ============================================================================
 // VALIDATION (null-safety contract)
 // ============================================================================
-const URL_KEYS = new Set(['icon', 'channel_icon', 'poster', 'backdrop', 'trailer_url', 'profile_image']);
-const ARRAY_KEYS = new Set(['cast', 'genres', 'genre_keys', 'similar', 'all_airings', 'airings', 'now_and_next', 'channels', 'items']);
+const URL_KEYS = new Set([
+  'icon', 'channel_icon', 'poster', 'backdrop', 'trailer_url', 'profile_image',
+  'home_badge', 'away_badge', 'league_badge', 'stadium_image', 'home_jersey', 'away_jersey'
+]);
+const ARRAY_KEYS = new Set([
+  'cast', 'genres', 'genre_keys', 'similar', 'all_airings', 'airings',
+  'now_and_next', 'channels', 'items', 'leagues', 'upcoming_matches', 'studio_shows'
+]);
 
-function validateOutputs({ channelsDoc, channelFiles, searchDoc, featuredDoc, showsById, gridDoc }) {
+function validateOutputs({ channelsDoc, channelFiles, searchDoc, featuredDoc, showsById, gridDoc, sportsDoc }) {
   const problems = [];
   const push = msg => { if (problems.length < 500) problems.push(msg); };
 
@@ -2036,6 +2607,7 @@ function validateOutputs({ channelsDoc, channelFiles, searchDoc, featuredDoc, sh
   walk(channelsDoc, 'channels.json');
   walk(searchDoc, 'search_index.json');
   walk(featuredDoc, 'featured.json');
+  walk(sportsDoc, 'sports.json');
   for (const [id, doc] of channelFiles) {
     walk(doc, `programs/${id}`);
     for (const [day, slots] of Object.entries(doc.days)) {
@@ -2073,4 +2645,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { fetchTmdbDetail, mapTranslations, parseProgramTitle, isFillerTitle, cleanUrl, normalizeName, xmltvToMs, categorizeChannelByName, matchChannelRule };
+module.exports = { fetchTmdbDetail, mapTranslations, parseProgramTitle, parseSportsEvent, isFillerTitle, cleanUrl, normalizeName, xmltvToMs, categorizeChannelByName, matchChannelRule };
