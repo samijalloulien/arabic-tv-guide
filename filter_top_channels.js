@@ -1,21 +1,20 @@
 const fs = require('fs');
 const path = require('path');
 
-// Exclusively Arab/MENA network sources (include ar, en, and fr channels)
+// Exclusively Arab/MENA network sources (shahid.mbc.net includes all MBC + Shahid FAST channels)
 const ARAB_ONLY_FAST_SITES = [
   'shahid.mbc.net',
   'adtv.ae',
   'awaan.ae',
   'maraya.sba.net.ae',
   'aloula.sa',
-  'rotana.net',
   'alkass.net',
   'roya.tv',
+  'roya-tv.com',
   'lbcgroup.tv',
   'mtv.com.lb',
   'aljadeed.tv',
   '2m.ma',
-  'snrt.ma',
   'medi1tv.com',
   'stctv.com',
   'osn.com'
@@ -32,6 +31,7 @@ const MULTI_REGION_FAST_SITES = [
   'starzplay.com'
 ];
 
+// elcinema.com provides complete Arabic EPG data for ART TV & Rotana channels
 const SLOW_SITES = [
   'elcinema.com'
 ];
@@ -48,8 +48,6 @@ const seenNames = new Set();
 const fastChannels = [];
 const slowChannels = [];
 
-// Block only junk/numeric feeds (e.g., "1#38#...", "101", "Channel 1", "Test 2")
-// while keeping legitimate channels like "MBC 2", "2M", "El Watania 1"
 function isJunkChannelName(name) {
   const trimmed = name.trim();
   if (!trimmed) return true;
@@ -66,14 +64,26 @@ function normalizeName(name) {
     .replace(/[أإآ]/g, 'ا')
     .replace(/ة/g, 'ه')
     .replace(/ى/g, 'ي')
+    .replace(/(?:ايه|اي)\s*ار\s*تي/gi, 'art')
     .replace(/\b(hd|sd|fhd|uhd|tv)\b/gi, '')
-    // Normalize "MBC2" and "MBC 2" to the same key without removing the number
     .replace(/([a-z\u0600-\u06FF])(\d)/gi, '$1 $2')
     .replace(/(\d)([a-z\u0600-\u06FF])/gi, '$1 $2')
     .replace(/\s+/g, ' ')
     .trim();
 
   return normalized || name.trim().toLowerCase();
+}
+
+function isArtChannel(xmltvId, name) {
+  const id = xmltvId.toLowerCase();
+  const n = normalizeName(name);
+  return (
+    id.startsWith('artaflam') ||
+    id.startsWith('arthikayat') ||
+    id.startsWith('artcinema') ||
+    id.startsWith('art.') ||
+    n.startsWith('art ')
+  );
 }
 
 function getCountryCode(xmltvId) {
@@ -91,7 +101,7 @@ function isMenaChannel(site, attrs, isArabOnlySite) {
   return ARAB_COUNTRY_CODES.has(countryCode);
 }
 
-function processSites(sitesList, targetArray, isArabOnlySite) {
+function processSites(sitesList, targetArray, isArabOnlySite, isFastPass) {
   for (const site of sitesList) {
     const siteDir = path.join(__dirname, 'sites', site);
     if (!fs.existsSync(siteDir)) continue;
@@ -117,13 +127,16 @@ function processSites(sitesList, targetArray, isArabOnlySite) {
 
         if (!attrs.xmltv_id || !attrs.site_id) continue;
         if (isJunkChannelName(name)) continue;
+
+        // Defer ART channels during fast pass so elcinema.com grabs their full Arabic guide
+        if (isFastPass && isArtChannel(attrs.xmltv_id, name)) continue;
+
         if (!isMenaChannel(site, attrs, isArabOnlySite)) continue;
 
         candidates.push({ site: attrs.site || site, attrs, name });
       }
     }
 
-    // Prioritize Arabic EPG entries over English/French when a channel offers multiple
     candidates.sort((a, b) => (a.attrs.lang === 'ar' ? -1 : 1) - (b.attrs.lang === 'ar' ? -1 : 1));
 
     for (const item of candidates) {
@@ -141,9 +154,9 @@ function processSites(sitesList, targetArray, isArabOnlySite) {
   }
 }
 
-processSites(ARAB_ONLY_FAST_SITES, fastChannels, true);
-processSites(MULTI_REGION_FAST_SITES, fastChannels, false);
-processSites(SLOW_SITES, slowChannels, true);
+processSites(ARAB_ONLY_FAST_SITES, fastChannels, true, true);
+processSites(MULTI_REGION_FAST_SITES, fastChannels, false, true);
+processSites(SLOW_SITES, slowChannels, true, false);
 
 fs.writeFileSync(
   path.join(__dirname, 'fast_channels.xml'),
@@ -159,4 +172,4 @@ fs.writeFileSync(
 
 console.log(`✅ Prepared ${fastChannels.length} channels in fast_channels.xml`);
 console.log(`✅ Prepared ${slowChannels.length} channels in slow_channels.xml`);
-console.log(`📊 Total: ${fastChannels.length + slowChannels.length} unique MENA channels (AR/EN/FR)`);
+console.log(`📊 Total: ${fastChannels.length + slowChannels.length} unique MENA channels (including Shahid & ART TV)`);

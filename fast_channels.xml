@@ -54,22 +54,13 @@
   <channel site="shahid.mbc.net" lang="ar" xmltv_id="Tarab.sa@SD" site_id="49922763510387">طرب</channel>
   <channel site="shahid.mbc.net" lang="ar" xmltv_id="ThikrayatTV.sa@SD" site_id="946945">ذكريات</channel>
   <channel site="shahid.mbc.net" lang="ar" xmltv_id="Wanasah.ae@SD" site_id="414449">وناسه</channel>
-  <channel site="rotana.net" lang="ar" xmltv_id="AlResalah.sa@SD" site_id="446">الرساله</channel>
-  <channel site="rotana.net" lang="ar" xmltv_id="LBC.sa@SD" site_id="434">إل بي سي</channel>
-  <channel site="rotana.net" lang="ar" xmltv_id="RotanaCinemaEgypt.eg@SD" site_id="439">روتانا سينما مصر</channel>
-  <channel site="rotana.net" lang="ar" xmltv_id="RotanaCinemaKSA.sa@SD" site_id="431">روتانا سينما السعودية</channel>
-  <channel site="rotana.net" lang="ar" xmltv_id="RotanaClassic.sa@SD" site_id="438">روتانا كلاسيك</channel>
-  <channel site="rotana.net" lang="ar" xmltv_id="RotanaClip.sa@SD" site_id="443">روتانا كليب</channel>
-  <channel site="rotana.net" lang="ar" xmltv_id="RotanaComedy.sa@SD" site_id="437">روتانا كوميدي</channel>
-  <channel site="rotana.net" lang="ar" xmltv_id="RotanaDrama.sa@SD" site_id="436">روتانا دراما</channel>
-  <channel site="rotana.net" lang="ar" xmltv_id="RotanaKhalijia.sa@SD" site_id="435">روتانا خليجية</channel>
-  <channel site="snrt.ma" lang="ar" xmltv_id="AlAoula.ma@SD" site_id="1208">Al Aoula</channel>
-  <channel site="snrt.ma" lang="ar" xmltv_id="LaayouneTV.ma@SD" site_id="4069">Laâyoune</channel>
-  <channel site="snrt.ma" lang="ar" xmltv_id="Arryadia.ma@HD" site_id="4070">Arryadia</channel>
-  <channel site="snrt.ma" lang="ar" xmltv_id="Athaqafia.ma@SD" site_id="4071">Athaqafia</channel>
-  <channel site="snrt.ma" lang="ar" xmltv_id="AlMaghribia.ma@SD" site_id="4072">Almaghribia</channel>
-  <channel site="snrt.ma" lang="ar" xmltv_id="Assadissa.ma@SD" site_id="4073">Assadissa</channel>
-  <channel site="snrt.ma" lang="ar" xmltv_id="TamazightTV.ma@SD" site_id="4075">Tamazight</channel>
+  <channel site="roya-tv.com" lang="ar" xmltv_id="RoyaComedy.jo@SD" site_id="3">Roya Comedy</channel>
+  <channel site="roya-tv.com" lang="ar" xmltv_id="RoyaDrama.jo@SD" site_id="2">Roya Drama</channel>
+  <channel site="roya-tv.com" lang="ar" xmltv_id="RoyaKids.jo@SD" site_id="14">Roya Kids</channel>
+  <channel site="roya-tv.com" lang="ar" xmltv_id="RoyaKidsSongs.jo@SD" site_id="27">Roya Kids Songs</channel>
+  <channel site="roya-tv.com" lang="ar" xmltv_id="RoyaKitchen.jo@SD" site_id="4">Roya Kitchen</channel>
+  <channel site="roya-tv.com" lang="ar" xmltv_id="RoyaNews.jo@SD" site_id="21">Roya News</channel>
+  <channel site="roya-tv.com" lang="ar" xmltv_id="RoyaTV.jo@SD" site_id="1">Roya TV</channel>
   <channel site="osn.com" lang="ar" xmltv_id="AbuDhabiSports1.ae@SD" site_id="9069">AD Sports 1 HD</channel>
   <channel site="osn.com" lang="ar" xmltv_id="AbuDhabiTV.ae@SD" site_id="9939">Abu Dhabi TV HD</channel>
   <channel site="osn.com" lang="ar" xmltv_id="AlarabiyaPortrait.ae@SD" site_id="9970">Al Arabiya</channel>
@@ -114,7 +105,6 @@
   <channel site="osn.com" lang="ar" xmltv_id="OSNYahalaAflam.ae@SD" site_id="306">OSNtv Yahala Aflam</channel>
   <channel site="osn.com" lang="ar" xmltv_id="OSNYahalaBilArabi.ae@SD" site_id="309">OSNtv Yahala Bil Arabi</channel>
   <channel site="osn.com" lang="ar" xmltv_id="RFMTV.fr@SD" site_id="222">RFM TV</channel>
-  <channel site="osn.com" lang="ar" xmltv_id="RoyaTV.jo@SD" site_id="9393">Roya TV HD</channel>
   <channel site="osn.com" lang="ar" xmltv_id="RT.ru@SD" site_id="7114">RT English</channel>
   <channel site="osn.com" lang="ar" xmltv_id="RTArabic.ru@SD" site_id="9396">RT Arabic</channel>
   <channel site="osn.com" lang="ar" xmltv_id="SkyNewsArabia.ae@SD" site_id="2015">Sky News Arabia HD</channel>

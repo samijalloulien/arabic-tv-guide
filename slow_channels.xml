@@ -5,6 +5,9 @@
   <channel site="elcinema.com" lang="ar" xmltv_id="OnDrama.eg@SD" site_id="1134">أون دراما</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="AlhayatTV.eg@SD" site_id="1137">الحياة</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="ElMehwarChannel.eg@SD" site_id="1145">المحور</channel>
+  <channel site="elcinema.com" lang="ar" xmltv_id="RotanaDrama.sa@SD" site_id="1147">روتانا دراما</channel>
+  <channel site="elcinema.com" lang="ar" xmltv_id="RotanaCinemaEgypt.eg@SD" site_id="1148">روتانا سينما مصر</channel>
+  <channel site="elcinema.com" lang="ar" xmltv_id="RotanaKhalijia.sa@SD" site_id="1149">روتانا خليجية</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="NileDrama.eg@SD" site_id="1156">نايل دراما</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="NileLife.eg@SD" site_id="1159">نايل لايف</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="LBCInternational.lb@SD" site_id="1168">إل بي سي آي</channel>
@@ -20,6 +23,7 @@
   <channel site="elcinema.com" lang="ar" xmltv_id="iFilmArabic.ir@SD" site_id="1204">آي فيلم</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="StarMoviesMiddleEast.ae@SD" site_id="1212">ستار موفيز</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="AlJadeed.lb@SD" site_id="1216">الجديد</channel>
+  <channel site="elcinema.com" lang="ar" xmltv_id="RotanaClassic.sa@SD" site_id="1217">روتانا كلاسيك</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="AlNaharDrama.eg@SD" site_id="1223">النهار دراما</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="SadaElbalad.eg@SD" site_id="1226">صدى البلد</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="SadaElbaladDrama.eg@SD" site_id="1227">صدى البلد دراما</channel>
@@ -33,6 +37,7 @@
   <channel site="elcinema.com" lang="ar" xmltv_id="SadaElbalad2.eg@SD" site_id="1279">صدى البلد 2</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="TeN.eg@SD" site_id="1280">تن</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="DubaiZaman.ae@SD" site_id="1283">دبي زمان</channel>
+  <channel site="elcinema.com" lang="ar" xmltv_id="RotanaCinemaKSA.sa@SD" site_id="1289">روتانا سينما</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="DMCDrama.eg@SD" site_id="1292">دي إم سي دراما</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="AmmanTV.jo@SD" site_id="1298">عَمان</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="Alsumaria.iq@SD" site_id="1301">السومرية</channel>
@@ -42,6 +47,7 @@
   <channel site="elcinema.com" lang="ar" xmltv_id="ElWatania1.tn@SD" site_id="1308">الوطنية 1</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="beINDrama1.qa@SD" site_id="1309">بي إن دراما</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="KTV1.kw@SD" site_id="1310">الكويت</channel>
+  <channel site="elcinema.com" lang="ar" xmltv_id="AlAoula.ma@MiddleEast" site_id="1312">الأولى المغربية</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="LanaTV.lb@SD" site_id="1313">ال تي في</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="JordanTV.jo@SD" site_id="1314">الأردن</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="EchoroukTV.dz@SD" site_id="1315">الشروق الجزائرية</channel>
@@ -53,8 +59,10 @@
   <channel site="elcinema.com" lang="ar" xmltv_id="ElWatania2.tn@SD" site_id="1334">الوطنية 2</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="MasperoZaman.eg@SD" site_id="1336">ماسبيرو زمان</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="AlSaeedah.eg@SD" site_id="1339">السعيدة</channel>
+  <channel site="elcinema.com" lang="ar" xmltv_id="LBC.sa@SD" site_id="1341">إل بي سي</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="AlIraqia.iq@SD" site_id="1349">العراقية</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="2MMonde.ma@SD" site_id="1353">المغربية الثانية</channel>
+  <channel site="elcinema.com" lang="ar" xmltv_id="RotanaComedy.sa@SD" site_id="1358">روتانا كوميدي</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="SalamTV.ly@SD" site_id="1360">سلام</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="UTV.iq@SD" site_id="1367">يو تي في</channel>
   <channel site="elcinema.com" lang="ar" xmltv_id="MixBelAraby.eg@SD" site_id="1371">ميكس بالعربي</channel>

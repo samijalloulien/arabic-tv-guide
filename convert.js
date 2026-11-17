@@ -83,6 +83,11 @@ const CHANNEL_RULES = [
   { category: 'movies', tier: 1, en: 'MBC Action', ar: 'إم بي سي أكشن', id: /^MBCAction\./i },
   { category: 'movies', tier: 1, en: 'MBC Max', ar: 'إم بي سي ماكس', id: /^MBCMax\./i },
   { category: 'movies', tier: 1, en: 'Rotana Cinema', ar: 'روتانا سينما', id: /^RotanaCinema/i, multi: true },
+  { category: 'movies', tier: 1, en: 'ART Aflam 1', ar: 'إيه آر تي أفلام 1', id: /^artaflam1/i },
+  { category: 'movies', tier: 1, en: 'ART Aflam 2', ar: 'إيه آر تي أفلام 2', id: /^artaflam2/i },
+  { category: 'drama', tier: 1, en: 'ART Hekayat', ar: 'إيه آر تي حكايات', id: /^arthikayat/i },
+  { category: 'movies', tier: 1, en: 'ART Cinema', ar: 'إيه آر تي سينما', id: /^artcinema/i },
+  { category: 'general', tier: 1, en: 'Shahid', ar: 'شاهد', id: /^shahid/i, multi: true },
   { category: 'general', tier: 1, en: 'Rotana Khalijiah', ar: 'روتانا خليجية', id: /^RotanaKhalij/i },
   { category: 'drama', tier: 1, en: 'Rotana Drama', ar: 'روتانا دراما', id: /^RotanaDrama\./i },
   { category: 'general', tier: 1, en: 'Dubai One', ar: 'دبي وان', id: /^DubaiOne\./i },
@@ -1182,11 +1187,24 @@ async function main() {
     const progs = (progsByChannel.get(ch.id) || []).filter(p => !isUnavailableProgram(p.rawTitle));
     if (progs.length === 0) continue;
 
+    const baseId = baseIdOf(ch.id).toLowerCase();
+    const normName = normalizeName(ch.name);
+    const isArt = baseId.startsWith('artaflam') || baseId.startsWith('arthikayat') || baseId.startsWith('artcinema') || normName.startsWith('art ');
+    const isShahid = baseId.includes('shahid') || normName.includes('shahid') || normName.includes('شاهد') || (progs.length && progs[0].channelId.includes('shahid.mbc.net'));
+
+    const brandFallbackLogo = isArt
+      ? (logosById.get('artaflam1.sa') || logosById.get('artcinema.sa') || null)
+      : isShahid
+        ? (logosByName.get('shahid') || logosById.get('mbc1.ae') || 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Shahid_logo.svg/512px-Shahid_logo.svg.png')
+        : null;
+
     const icon =
       usableChannelIcon(ch.xmlIcon) ||
-      logosById.get(baseIdOf(ch.id).toLowerCase()) ||
-      logosByName.get(normalizeName(ch.name)) ||
+      logosById.get(baseId) ||
+      logosByName.get(normName) ||
+      brandFallbackLogo ||
       null;
+
     if (!icon) { droppedNoLogo.push(`${ch.id} (${progs.length} programmes)`); continue; }
 
     candidates.push({ id: ch.id, rawName: ch.name, icon, realCount: progs.length });
@@ -1265,6 +1283,10 @@ async function main() {
       if (last && last.startMs === p.startMs) {
         if (p.description.length > last.description.length) dedup[dedup.length - 1] = p;
         continue;
+      }
+      // Deduplicate overlaps slightly
+      if (last && last.stopMs && p.startMs < last.stopMs) {
+         if (last.stopMs - p.startMs < 60000) last.stopMs = p.startMs;
       }
       dedup.push(p);
     }

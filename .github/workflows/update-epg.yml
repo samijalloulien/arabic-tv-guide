@@ -11,6 +11,11 @@ on:
 permissions:
   contents: write
 
+# A push and the daily schedule can overlap; serialise runs so two jobs never push api/ at once.
+concurrency:
+  group: update-epg
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -47,6 +52,7 @@ jobs:
           git add api/ metadata_cache.json
           if ! git diff --cached --quiet; then
             git commit -m "Update 7-day EPG & TMDB metadata [skip ci]"
+            git pull --rebase -X theirs origin main
             git push
           else
             echo "No schedule changes to commit."
