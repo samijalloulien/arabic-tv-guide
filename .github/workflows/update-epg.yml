@@ -11,10 +11,9 @@ on:
 permissions:
   contents: write
 
-# A push and the daily schedule can overlap; serialise runs so two jobs never push api/ at once.
 concurrency:
-  group: update-epg
-  cancel-in-progress: false
+  group: update-epg-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -35,12 +34,12 @@ jobs:
         run: node filter_top_channels.js
 
       - name: Grab 7-day fast channels
-        run: npm run grab --- --channels=fast_channels.xml --days=7 --maxConnections=2 --delay=500 --output=guides/fast.xml
+        run: npm run grab --- --channels=fast_channels.xml --days=7 --maxConnections=2 --delay=500 --timeout=15000 --output=guides/fast.xml
 
       - name: Grab 7-day slow channels
-        run: npm run grab --- --channels=slow_channels.xml --days=7 --maxConnections=1 --delay=1500 --output=guides/slow.xml
+        run: npm run grab --- --channels=slow_channels.xml --days=7 --maxConnections=1 --delay=1500 --timeout=15000 --output=guides/slow.xml
 
-      - name: Convert to JSON & enrich with TMDB
+      - name: Convert to JSON & enrich with TMDB + Sports
         run: node convert.js
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
@@ -53,15 +52,7 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "Update 7-day EPG & TMDB metadata [skip ci]"
             git pull --rebase -X theirs origin main
-            git push
+            git push origin main
           else
             echo "No schedule changes to commit."
           fi
-
-      - name: Purge jsDelivr edge cache
-        continue-on-error: true
-        run: |
-          B="/gh/samijalloulien/arabic-tv-guide@main/api"
-          curl -fsS -X POST https://purge.jsdelivr.net/ \
-            -H 'Content-Type: application/json' \
-            -d "{\"path\":[\"$B/meta.json\",\"$B/channels.json\",\"$B/grid.json\",\"$B/featured.json\",\"$B/search_index.json\",\"$B/programs/*\"]}" || true
