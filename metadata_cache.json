@@ -77752,10 +77752,10 @@
       "stadium_image": null,
       "color": "#009e49"
     },
-    "longines global champions tour": {
+    "somalia": {
       "tv": 2,
-      "name_en": "Longines Global Champions Tour",
-      "badge": null,
+      "name_en": "Somalia",
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/y6z9fn1598647934.png",
       "jersey": null,
       "stadium": null,
       "stadium_city": null,
@@ -77852,6 +77852,16 @@
       "stadium_image": null,
       "color": null
     },
+    "st tropez jumping": {
+      "tv": 2,
+      "name_en": "St Tropez Jumping",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
     "csi 5": {
       "tv": 2,
       "name_en": null,
@@ -77871,6 +77881,7 @@
     "europa_league": "https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png",
     "premier_league": "https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png"
   },
+  "ريغولار شوو_": null,
   "بنت النعمان_2026": {
     "fv": 10,
     "tmdb_id": 314234,
@@ -78093,6 +78104,208 @@
   "كنت هناك_2022": null,
   "الماضي الحاضر_2026": null,
   "في الحضاره م 4_2026": null,
+  "المستوطنات القديمه في اوروبا_2026": null,
+  "تقريبا م 3_2026": null,
+  "كيف الحال م 2_2026": null,
+  "ساعه للكتب_2026": null,
+  "حقائق علميه صادمه_2026": null,
+  "السان والكون م 2_2026": null,
+  "سينما سينما م 3_2026": null,
+  "جو شو م 11_2026": null,
+  "للحديث صله_2026": null,
+  "روائع المدن_2017": null,
+  "مذكرات_2021": {
+    "fv": 10,
+    "tmdb_id": 121964,
+    "tmdb_media": "tv",
+    "tmdb_title": "مذكرات فانيتاس",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "The Case Study of Vanitas",
+        "overview": "In 19th-century Paris, young vampire Noé finds the Book of Vanitas in human hands. Calling himself Vanitas, this doctor wields its power and tempts Noé with a plan to “cure” all vampires. Allying with him may be dangerous, but does he have a choice?",
+        "tagline": null
+      },
+      "fr": {
+        "title": "Les Mémoires de Vanitas",
+        "overview": "L'histoire d'une race en voie d'extinction. Tout débute au 19e siècle à Paris, dans un monde habité par les humains et les vampires. Noé, un jeune vampire, se rend à la capitale pour trouver le Livre de Vanitas, un grimoire qui aurait le pouvoir de jeter une malédiction sur ses semblables. Malheureusement, il est mêlé à un conflit à bord de l'aéronef qui le mène à Paris, et se retrouve nez à nez avec un médecin pour vampires nommé Vanitas, qui tient en ses mains le grimoire que Noé recherche…",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 24,
+    "original_title": "ヴァニタスの手記",
+    "poster": "https://image.tmdb.org/t/p/w500/sja5f0YyKe7G6bVtSrpaXCvd9ia.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/u8QlDE78tI6ValBADKa4NEOWihQ.jpg",
+    "description": "عاش مصاص دماء يُعرف باسم “فانيتاس”، مكروهًا من نوعه لأنه ولد تحت قمر أزرق، بينما ينشأ معظمهم في ليلة قرمزية.\n\nخائفًا وحيدا، ابتكر “كتاب فانيتاس”، وهو كتاب تعاويذ ملعون يمكنه من خلاله أن ينتقم يومًا ما من جميع مصاصي الدماء،…\n\nأو هكذا يقال…\n\nيتبع الانمي “نوي”، وهو شاب يسافر على متن منطاد في القرن التاسع عشر في باريس بهدف واحد، العثور على “كتاب فانيتاس”.\n\nيقوده هجوم مصاص دماء مفاجئ إلى لقاء “فانيتاس” الغامض، وهو طبيب متخصص في مصاصي الدماء، وما يثير دهشة “نوي”، أنه بشري عادي تمامًا.لقد ورث الطبيب الغامض كلاً من الاسم والقصة السيئة السمعة من “فانيتاس” الأسطورة، مستخدماً كتاب تعاويذ لشفاء مرضاه.\n\nلكن خلف سلوكه الطيب يكمن شيء أكثر شراً...",
+    "rating": 8.3,
+    "vote_count": 258,
+    "age_rating": "TV-14",
+    "year": "2021",
+    "release_date": "2021-07-03",
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "غموض",
+      "خيال علمي وفانتازيا"
+    ],
+    "country": "اليابان",
+    "language": "اليابانية",
+    "director": null,
+    "cast": [
+      {
+        "name": "ناتسوكي هاناي",
+        "character": "Vanitas (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+      },
+      {
+        "name": "石川界人",
+        "character": "Noé (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/fzjIkotjUHHs3wgftM9tqdsG8ph.jpg"
+      },
+      {
+        "name": "إينوري ميناسي",
+        "character": "Jeanne (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/cqOrQDUbbQLKpujzcK47YqjFdNp.jpg"
+      },
+      {
+        "name": "下地紫野",
+        "character": "Luca (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/8T2DboiJA3PC1OLJjhN12o4THYn.jpg"
+      },
+      {
+        "name": "茅野愛衣",
+        "character": "Dominique (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/l8ywp387rfdAS7mOExe3cEZnsk0.jpg"
+      },
+      {
+        "name": "يوكو هيكاسا",
+        "character": "Veronica (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/mP3bj0s1gqJ6tCKFLhu4b1CkJj7.jpg"
+      },
+      {
+        "name": "森川智之",
+        "character": "Ruthven (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/hrzGBe4nokgkBNFekNo5hlXB2Bv.jpg"
+      },
+      {
+        "name": "河西健吾",
+        "character": "Roland (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/s0CxrO6LixJBgqiHEUjKelAh8ei.jpg"
+      },
+      {
+        "name": "前野智昭",
+        "character": "Olivier (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/w3lEuXSbEyzzNyO3YnxsF6wm2N5.jpg"
+      },
+      {
+        "name": "村瀬歩",
+        "character": "Astolfo (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/3aGM6KpcCIEKOXP9510tzaKc8uw.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=DGlQWD3Krx8",
+    "seasons_count": 1,
+    "episodes_count": 24,
+    "status": "Ended",
+    "content_type": "animation"
+  },
+  "الليله الموعوده_1984": {
+    "fv": 10,
+    "tmdb_id": 617755,
+    "tmdb_media": "movie",
+    "tmdb_title": "الليلة الموعودة",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "The promised night",
+        "overview": "Fathi trades in smuggled goods, he lives with his mother Bahia and loves his neighbor Fakiha who encourages him to finish his studies. A matchmaker persuades his mother to marry Said, a professional conman who marries wealthy old women and steals their money. Fathi tries to prevent this marriage.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 95,
+    "original_title": "الليلة الموعودة",
+    "poster": "https://image.tmdb.org/t/p/w500/6nKxciYnyMbxPnjIJJiaOgTvq8U.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qMpV3swnuOHxY3wuvYB822uxkIb.jpg",
+    "description": "فتحي يتاجر في البضائع المهربة، ويعيش مع أمه بهية، يجمع الحب بينه وبين جارته فكيهة التي تشجعه على استكمال دراسته، تنجح الخاطبة أم إمام في إقناع أمه بالزواج من سيد وهو نصاب محترف يتزوج من النساء العجائز الثريات والاستيلاء على أموالهن. يحاول فتحى منع هذا الزواج إلا أن سيد ينجح في الاستيلاء على أموالها.",
+    "rating": 7,
+    "vote_count": 1,
+    "age_rating": null,
+    "year": "1984",
+    "release_date": "1984-09-01",
+    "genres": [
+      "دراما"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "يحيى العلمي",
+    "cast": [
+      {
+        "name": "فريد شوقي",
+        "character": "سيد المغربي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/eGQniixtU1hjF2Fa5rYWlvt3nLk.jpg"
+      },
+      {
+        "name": "أحمد زكي",
+        "character": "فتحي عبدالظاهر قوره",
+        "profile_image": "https://image.tmdb.org/t/p/w185/nEJQTsgWDh1aXQLFsWkXOAv7hD4.jpg"
+      },
+      {
+        "name": "كريمة مختار",
+        "character": "بهيّة - أم فتحي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/elkaFuwGtI0INmBHjNdFXga9HsD.jpg"
+      },
+      {
+        "name": "تيسير فهمي",
+        "character": "فكيهة فهمي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/mNbyACXJQmW2pZZ37Rjnzk4jS8f.jpg"
+      },
+      {
+        "name": "أحمد بدير",
+        "character": "إبراهيم القرقشندي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/czumAPB9nIYytuVEELuhnBgqc10.jpg"
+      },
+      {
+        "name": "نعيمة الصغير",
+        "character": "أم إمام - الخاطبة",
+        "profile_image": "https://image.tmdb.org/t/p/w185/s1fVNL6G0eEcUlatHbdtBsdrnwF.jpg"
+      },
+      {
+        "name": "سماح أنور",
+        "character": "لواحظ سيد المغربي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/l8qoHeDrHdqYZz1wUDCfurbHMzF.jpg"
+      },
+      {
+        "name": "نادية فهمي",
+        "character": "سعاد عبدالظاهر قوره",
+        "profile_image": "https://image.tmdb.org/t/p/w185/cn2gRj4RGH1Hr24zhAmDTsd5sSv.jpg"
+      },
+      {
+        "name": "نجوى فؤاد",
+        "character": "نزاكة - زوجة سيد المغربي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/8bE1pliDb7SmAiHm3AEMu79u25s.jpg"
+      },
+      {
+        "name": "محمد شوقي",
+        "character": "المعلم فهمي - أبو فكيهة",
+        "profile_image": "https://image.tmdb.org/t/p/w185/rgBxjBdbjtCRuSbSZR1Aa6LToqj.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "اخر نمور ماليزيا_2021": null,
+  "بودكاست ميكروفون_2026": null,
+  "عشرون م 2_2026": null,
   "تاكسي السهره_": {
     "fv": 10,
     "tmdb_id": 412195,
@@ -78600,6 +78813,102 @@
     "episodes_count": null,
     "status": "Released",
     "content_type": "movie"
+  },
+  "ستيوارت ليتل 3 نداء البريه_": {
+    "fv": 10,
+    "tmdb_id": 30178,
+    "tmdb_media": "movie",
+    "tmdb_title": "ستيورت ليتل 3",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Stuart Little 3: Call of the Wild",
+        "overview": "With school out for the summer,  The Littles are vacationing in a cabin by the lake, and Stuart is so excited he could burst! But when Snowbell the cat is captured by a mean-spirited creature known simply as the Beast, it's up to Stuart and a skunk named Reeko to rescue him and a few other friends.",
+        "tagline": null
+      },
+      "fr": {
+        "title": "Stuart Little 3 : En route pour l'aventure",
+        "overview": "Alors que la famille Little passe de paisibles vacances, Snowball est enlevé. Stuart part à sa rescousse.",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 72,
+    "original_title": "Stuart Little 3: Call of the Wild",
+    "poster": "https://image.tmdb.org/t/p/w500/zImw7IVg8dxPkqMfT0L33sdsIHC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mwJ99qv48tE5Km7fLkeoOU1uVfK.jpg",
+    "description": "هو فيلم عائلي كوميدي أمريكي عُرض لأول مرة في 17 ديسمبر لعام 1999 من إخراج الأمريكي روب مينكوف، الفيلم مُقتبس من رواية تحمل نفس الاسم لمؤلفها إلوين وايت، يمزج الفيلم الواقع الحقيقي مع رسوم الكمبيوتر؛ إتُبّع الفيلم بجزء ثاني وهو فيلم ستيوارت ليتل 2 في عام 2002 بالإضافة إلى عرض تلفزيوني قصير وهو ستيوارت ليتل: سلسلة الرسوم المتحركة في 2003، والجزء الثالث التي تم تحويله إلى رسوم متحركة وهو ستيوارت ليتل 3: نداء البرية في 2005.",
+    "rating": 5.3,
+    "vote_count": 542,
+    "age_rating": "G",
+    "year": "2005",
+    "release_date": "2005-07-14",
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا",
+      "عائلي",
+      "فيلم تلفازي"
+    ],
+    "country": "الولايات المتحدة",
+    "language": "الإنجليزية",
+    "director": "Audu Paden",
+    "cast": [
+      {
+        "name": "Michael J. Fox",
+        "character": "Stuart Little (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+      },
+      {
+        "name": "Geena Davis",
+        "character": "Mrs. Little (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/bx9ufx5cS7FfHDFFeT71syBh428.jpg"
+      },
+      {
+        "name": "هيو لوري",
+        "character": "Mr. Little (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/akArncggHnusP5jxzMBKmJDRrMo.jpg"
+      },
+      {
+        "name": "واين برادي",
+        "character": "Reeko (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/zRIYr4jl7LiEDbbaFcwFiRwLhw1.jpg"
+      },
+      {
+        "name": "Kevin Schon",
+        "character": "Snowbell (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/cqMh5iClrOHgEOjiJHJJ5PyFPqZ.jpg"
+      },
+      {
+        "name": "Corey Padnos",
+        "character": "George Little (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/sDucFkxWSsZIUptOTH5ABztd7CS.jpg"
+      },
+      {
+        "name": "Peter MacNicol",
+        "character": "Troopmaster (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/8gizugTP8hykdfBkOY0Qg0aqpiP.jpg"
+      },
+      {
+        "name": "فيرجينيا مادسن",
+        "character": "The Beast (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/2u72BF7i189nAcX1kEJLjGMsb0c.jpg"
+      },
+      {
+        "name": "Rino Romano",
+        "character": "Monty (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/rpyq7xdQ5zSCHYiwnlPvkx7gLrl.jpg"
+      },
+      {
+        "name": "تارا سترونغ",
+        "character": "Brooke / Forest Animals / Scouts (voice)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=trBgCyZpaa4",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "animation"
   },
   "هل وصلنا بعد؟_": null,
   "النساء الصغيرات_": null,
