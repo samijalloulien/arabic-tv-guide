@@ -16,3 +16,4 @@ guides/*.xml
 # macOS
 .DS_Store
 /mobile/
+/android/
