@@ -22177,7 +22177,23 @@
     "seasons_count": 1,
     "episodes_count": 1,
     "status": "Returning Series",
-    "content_type": "series"
+    "content_type": "series",
+    "tmdb_media": "tv",
+    "i18n": {
+      "en": {
+        "title": "Cities And Civilizations",
+        "overview": "The series takes viewers on an extraordinary journey around the world, exploring the most magnificent landmarks in various cities and countries.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tmdb_title": "مدن وحضارات",
+    "verified": true,
+    "fv": 10
   },
   "صباح سوريا_": null,
   "بيت المونه_": null,
@@ -80764,12 +80780,12 @@
     "cremonese": {
       "tv": 3,
       "name_en": "Cremonese",
-      "badge": null,
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/6ng2vy1579708291.png",
       "jersey": null,
-      "stadium": null,
+      "stadium": "Stadio Giovanni Zini",
       "stadium_city": null,
       "stadium_image": null,
-      "color": null
+      "color": "#808285"
     },
     "sassuolo": {
       "tv": 3,
@@ -80872,6 +80888,126 @@
       "color": null
     },
     "women s double final": {
+      "tv": 3,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "4 12 26": {
+      "tv": 3,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "2026 highlight": {
+      "tv": 3,
+      "name_en": "2026 -Highlight",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "psg": {
+      "tv": 3,
+      "name_en": "PSG",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "roma": {
+      "tv": 3,
+      "name_en": "Roma",
+      "badge": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png",
+      "jersey": null,
+      "stadium": "Stadio Olimpico",
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": "#8e1f2f"
+    },
+    "mexico major 2026 tamara icardo alcorisa esp claudia jensen arg": {
+      "tv": 3,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "paula josem": {
+      "tv": 3,
+      "name_en": "Paula Josem",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "mexico major 2026 inigo jofre uae juanlu esbri esp": {
+      "tv": 3,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "leandro roman augsburg": {
+      "tv": 3,
+      "name_en": "Leandro Roman Augsburg",
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "mexico major 2026 brea senesi triay pons": {
+      "tv": 3,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "caldera sanchez goenaga garcia": {
+      "tv": 3,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "mexico major 2026 tapia coello": {
+      "tv": 3,
+      "name_en": null,
+      "badge": null,
+      "jersey": null,
+      "stadium": null,
+      "stadium_city": null,
+      "stadium_image": null,
+      "color": null
+    },
+    "valenzuela gil": {
       "tv": 3,
       "name_en": null,
       "badge": null,
@@ -142107,6 +142243,3656 @@
         "name": "لطفي لبيب",
         "character": null,
         "profile_image": "https://image.tmdb.org/t/p/w185/guGZ0Xv4csBj10ipPlQAgf0yq6o.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "كل ما في الامر_": null,
+  "مجافي_": null,
+  "اضحك_": {
+    "fv": 10,
+    "tmdb_id": 337830,
+    "tmdb_media": "tv",
+    "tmdb_title": "أضحك وإلا أبكي",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "أضحك وإلا أبكي",
+    "poster": "https://image.tmdb.org/t/p/w500/2Y7ArL9yHnoECQtIIBjSgd9Jn07.jpg",
+    "backdrop": null,
+    "description": "في إطار اجتماعي كوميدي، يتناول المسلسل قضايا المجتمع الكويتي بأسلوب ساخر من خلال سعود وأبو بلال، صديقي الطفولة وشريكي العمل، ويعرض الخلافات بين الجيل القديم والشباب وما يواجهونه من مواقف ومشكلات.",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2000",
+    "release_date": "2000-11-27",
+    "genres": [
+      "دراما",
+      "كوميديا"
+    ],
+    "country": "الكويت",
+    "language": "العربية",
+    "director": null,
+    "cast": [],
+    "trailer_url": null,
+    "seasons_count": 1,
+    "episodes_count": 1,
+    "status": "Ended",
+    "content_type": "series"
+  },
+  "راح وما رجع_": null,
+  "عند اللزوم_": null,
+  "تحملتك_": null,
+  "حلوين_": null,
+  "كذه من ربي_": null,
+  "وين انت_": null,
+  "ضحاياك_": null,
+  "نقاده_": null,
+  "لبيه والله يا الرياض_": null,
+  "ودعتك_": null,
+  "عيدك مبارك_": null,
+  "سري اليل_": null,
+  "الصراحه_": null,
+  "وقف ووادعني_": null,
+  "يمك امري_": null,
+  "كذبه بيضا_": {
+    "fv": 10,
+    "tmdb_id": 690154,
+    "tmdb_media": "movie",
+    "tmdb_title": "كذبة بيضا",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "White Lie",
+        "overview": "The events take place in a romantic comedy framework when a poor young man meets a rich girl in a strange situation, where he falls in love with her, and in order to reach her, he is forced to listen to his friend's advice to lie to her a white lie about his social status, which gets him into many situations. Will the girl discover the truth, and how will she act then?",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": "كذبة بيضا",
+    "runtime": 105,
+    "original_title": "كذبة بيضا",
+    "poster": "https://image.tmdb.org/t/p/w500/s06XDAm49QqFG2a1rIxkHewkYy4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yzPj5ESu56oETN1nTktZRXAnQpw.jpg",
+    "description": "تدور الأحداث في إطار كوميدي رومانسي حينما يلتقي شاب فقير بفتاة ثرية في موقف غريب، حيث يقع في حبها، ولكي يصل إليها يضطر للاستماع لنصيحة صديقه بالكذب عليها كذبة بيضاء حول مستواه الاجتماعي، مما يدخله في العديد من المواقف، فهل تكتشف الفتاة الحقيقة، وكيف سيكون تصرفها حينها؟",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2018",
+    "release_date": "2018-03-29",
+    "genres": [
+      "كوميديا"
+    ],
+    "country": "لبنان",
+    "language": "العربية",
+    "director": "Nabil Labbus",
+    "cast": [
+      {
+        "name": "Toni Issa",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/el6EBfIi6t9T9WwxhHgrHuGtQef.jpg"
+      },
+      {
+        "name": "جيسي عبدو",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/aHmPGthDM7CvrrtsIfvi7YrbFGw.jpg"
+      },
+      {
+        "name": "Wissam Sabbagh",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/wVlZkxphZcCVKko5VOJxpCcc9Cx.jpg"
+      },
+      {
+        "name": "Bonita Saade",
+        "character": null,
+        "profile_image": null
+      },
+      {
+        "name": "biar shimeun",
+        "character": null,
+        "profile_image": null
+      },
+      {
+        "name": "Antoinette Akiki",
+        "character": null,
+        "profile_image": null
+      },
+      {
+        "name": "Pierre Jamjian",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/f0mw2u2X7UztZpm8OWj209XjSds.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "انت عارف_": null,
+  "ريغيولار شو_2010": null,
+  "بودكاست الشملان_": null,
+  "رمضان شريف_": {
+    "fv": 10,
+    "tmdb_id": 250760,
+    "tmdb_media": "tv",
+    "tmdb_title": "Ramadan Sharif",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": null,
+        "overview": "Each episode tells a story taken from society, its problems, and the situations people face in their lives in a comedic style that covers criticism of negative aspects and supports change for the better, without making the viewer feel bored for twenty minutes, which is approximately the duration of each episode, in addition to the minutes of the beginning and end signs.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "رمضان شريف",
+    "poster": "https://image.tmdb.org/t/p/w500/j5H7dkAQ9uWalRzYHXgKnC20i5Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4dWo4sre7Ku3TiHgendEUtv6ujk.jpg",
+    "description": "عرض قضايا المجتمع البحريني في حلقات منفصلة متصلة تناقش قضايا تهم المواطن، وتحمل كل حلقة عنوانًا مختلفًا.",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2024",
+    "release_date": "2024-03-11",
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "country": "البحرين",
+    "language": "العربية",
+    "director": "Ahmed Sharif, محمد السليطي",
+    "cast": [
+      {
+        "name": "Ahmed Sharif",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/82Fa09gtP8ikJRdVNiEnKDnH57x.jpg"
+      },
+      {
+        "name": "جمعان الرويعي",
+        "character": null,
+        "profile_image": null
+      },
+      {
+        "name": "احمد مجلي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/JooKbQ764sz9dMDshGniToHeWb.jpg"
+      },
+      {
+        "name": "عبدالله سويد",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/9PivAX6AcvSaGHciNuEtXBz9wKf.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=9RetNUgfgD8",
+    "seasons_count": 2,
+    "episodes_count": 22,
+    "status": "Ended",
+    "content_type": "series"
+  },
+  "لانس_": null,
+  "زوايا_": {
+    "fv": 10,
+    "tmdb_id": 56648,
+    "tmdb_media": "tv",
+    "tmdb_title": "زوايا",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "زوايا",
+        "overview": "",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "زوايا",
+    "poster": null,
+    "backdrop": null,
+    "description": "",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": null,
+    "release_date": null,
+    "genres": [],
+    "country": null,
+    "language": "الإنجليزية",
+    "director": null,
+    "cast": [],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Ended",
+    "content_type": "series"
+  },
+  "قلع الحجر قبايل الصخره_": null,
+  "محاسن الاسلام_": null,
+  "سؤال اهل الذكر_": null,
+  "نشميات من الباديه_": {
+    "fv": 10,
+    "tmdb_id": 196248,
+    "tmdb_media": "tv",
+    "tmdb_title": "نشميات من البادية",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Bedouin Women",
+        "overview": "",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "نشميات من البادية",
+    "poster": "https://image.tmdb.org/t/p/w500/dBci1kmu4p4IGEYTTFI3nx5RO4H.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iA5FkN1ugTPNtnPmp7P6SZ8m1ve.jpg",
+    "description": "دراما بدوية في سلسلة حلقات متصلة منفصلة متنوعة يسرد قصصا من عمق الصحراء التي تعرف بصلابتها واصالتها على مر العصور",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2022",
+    "release_date": "2022-04-02",
+    "genres": [],
+    "country": "السعودية",
+    "language": "العربية",
+    "director": null,
+    "cast": [],
+    "trailer_url": "https://www.youtube.com/watch?v=2Pwi3kwV-2E",
+    "seasons_count": 1,
+    "episodes_count": 1,
+    "status": "Returning Series",
+    "content_type": "series"
+  },
+  "سدف_": {
+    "fv": 10,
+    "tmdb_id": 285156,
+    "tmdb_media": "tv",
+    "tmdb_title": "سدف",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Sedef",
+        "overview": "Set in 1970s kuwait following a series of kidnappings, where the only trace left is a polaroid photograph of the victim left in the crime scene. A family drama following Fayez his wife Amani and their daughter Sarah, Fayez is a struggling actor, who is given a chance to become a star, as their lives seems to be on the right track their daughter is kidnapped. It becomes a game of cat and mouse, everyone becomes a suspect, even Fayez himself",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "سدف",
+    "poster": "https://image.tmdb.org/t/p/w500/n2HY1veB2O7HR31KI6TiR3t44ID.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mB93vfHM2w81nTbwMyD2SyYNT1J.jpg",
+    "description": "",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2025",
+    "release_date": "2025-03-01",
+    "genres": [],
+    "country": "الولايات المتحدة",
+    "language": "الإنجليزية",
+    "director": null,
+    "cast": [
+      {
+        "name": "بثينة الرئيسي",
+        "character": "أماني",
+        "profile_image": "https://image.tmdb.org/t/p/w185/8sT0FCn1lEFVFQ5RIOCnyOGTTOu.jpg"
+      },
+      {
+        "name": "أحمد إيراج",
+        "character": "فهد",
+        "profile_image": "https://image.tmdb.org/t/p/w185/yeVmETvIVYkmInhw8HlihLhI1o7.jpg"
+      },
+      {
+        "name": "حسين المهدي",
+        "character": "فايز",
+        "profile_image": "https://image.tmdb.org/t/p/w185/SoCeLXz27ABeFBWQi1Nr9gqvfY.jpg"
+      },
+      {
+        "name": "عبدالله بهمن",
+        "character": "شاهين",
+        "profile_image": "https://image.tmdb.org/t/p/w185/8V16AwEEtOymTJwF9jaQxthpH5v.jpg"
+      },
+      {
+        "name": "خالد العجيرب",
+        "character": "عدنان",
+        "profile_image": "https://image.tmdb.org/t/p/w185/oNFrcgpt7XIgCCQsnJMMZe5KoV5.jpg"
+      },
+      {
+        "name": "غدير السبتي",
+        "character": "تهاني",
+        "profile_image": "https://image.tmdb.org/t/p/w185/vpmfOwlo4l43dZT5sXs9GWtN8ef.jpg"
+      },
+      {
+        "name": "ناصر عباس",
+        "character": "فريد",
+        "profile_image": "https://image.tmdb.org/t/p/w185/6p9d4FhUnKm6K3jg7H8GonTCFaA.jpg"
+      },
+      {
+        "name": "صمود المؤمن",
+        "character": "مروج",
+        "profile_image": "https://image.tmdb.org/t/p/w185/zeQDPLHDNf1sQh19EJvaSOpBCBC.jpg"
+      },
+      {
+        "name": "فهد باسم",
+        "character": "علي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/x6MxfDqrj1sNfb7vUm5roLZ5x1x.jpg"
+      },
+      {
+        "name": "في الشرقاوي",
+        "character": "وضحى",
+        "profile_image": "https://image.tmdb.org/t/p/w185/8OahhxT832wMYvFARRUNciV8u97.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": 1,
+    "episodes_count": 30,
+    "status": "Returning Series",
+    "content_type": "series"
+  },
+  "ايه ودعاء_": null,
+  "قمره_": {
+    "fv": 10,
+    "tmdb_id": null,
+    "tmdb_media": null,
+    "tmdb_title": null,
+    "verified": false,
+    "i18n": null,
+    "tagline": null,
+    "runtime": null,
+    "original_title": "Qomrah",
+    "poster": null,
+    "backdrop": null,
+    "description": "",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2016",
+    "release_date": null,
+    "genres": [],
+    "country": null,
+    "language": null,
+    "director": null,
+    "cast": [],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": null,
+    "content_type": "series"
+  },
+  "نظر عيني_": null,
+  "من كل بلد اكله_": null,
+  "مغامرات ماركو بولو_": {
+    "fv": 10,
+    "tmdb_id": 156143,
+    "tmdb_media": "tv",
+    "tmdb_title": "مغامرات ماركو بولو",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "The Adventures of the Young Marco Polo",
+    "poster": "https://image.tmdb.org/t/p/w500/kfYfGzLQw27mRqQPicfmFGjpEHl.jpg",
+    "backdrop": null,
+    "description": "يكتشف \" ماركو \" أن صديقته \" شيلا \" ليست يتيمة وأن والدتها مازالت على قيد الحياة\n\nفينطلقان مع صديقهما \" لويجي \" في رحلة للبحث عنها",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "1938",
+    "release_date": null,
+    "genres": [],
+    "country": "السعودية",
+    "language": "العربية",
+    "director": null,
+    "cast": [],
+    "trailer_url": null,
+    "seasons_count": 1,
+    "episodes_count": 26,
+    "status": "Ended",
+    "content_type": "series"
+  },
+  "كنا هنا_": null,
+  "عمان في اسبوع_": null,
+  "الافلام العربيه_": null,
+  "نقود وبنوك_": null,
+  "المجهر_": null,
+  "عوده الروح_": {
+    "fv": 10,
+    "tmdb_id": 215721,
+    "tmdb_media": "tv",
+    "tmdb_title": "عودة الروح",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "The Shade of Cinar",
+        "overview": "The Shadow of Çınar is the story of how the life of young Çınar (meaning plane) who used to have a happy life with her husband and three children turned upside down in a night… Under the Shadow of the Plane is the struggle of a young women whose family broke up with a slander and whose life was stolen for existing… The Shadow of Çınar is the story of those are hit for six by people whom they think are their friends, who are patient and far from complaining and become comrades with longing…",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 41,
+    "original_title": "Çınarın Gölgesinde",
+    "poster": "https://image.tmdb.org/t/p/w500/4dhFuclHCLTA4KVGKmq5vuzBBGQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ec9ctTF1gePCUAcxSlWNq0BExrV.jpg",
+    "description": "\"جينار\" امرأة تتهم ظلماً وافتراء بقتل زوجها، ويحكم عليها بالسجن المؤبد مدى الحياة وبعد قضائها عشرون عاماً في السجن يتم الإفراج عنها  تبدأ رحلة البحث عن المتسبب في دخولها السجن، حقائق  مخفية تبدأ بالظهور لنكتشف تورط البعض وكذب البعض الآخر،  ويبدأ التخطيط لمؤامرات جديدة لإبعادها عن الحقيقة بدون رحمة،  امرأة سرق من عمرها عشرون عاماً تقف صامدة من جديد على قدميها تبحث عن عائلتها أولادها،  لتواجه المصائب من جديد، فهل ستتمكن من الإنتصار استرجاع حقوقها ؟",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2015",
+    "release_date": "2015-08-03",
+    "genres": [
+      "عائلي",
+      "دراما",
+      "أوبرا صابونية"
+    ],
+    "country": "تركيا",
+    "language": "التركية",
+    "director": null,
+    "cast": [
+      {
+        "name": "Pelin Bölükbaş",
+        "character": "Çınar",
+        "profile_image": "https://image.tmdb.org/t/p/w185/m3a9eqiOeMqtbswEcDGiZXmOmVI.jpg"
+      },
+      {
+        "name": "Müjde Zeynep Akdeniz",
+        "character": "Zuhal",
+        "profile_image": "https://image.tmdb.org/t/p/w185/jJRaZxutq62hoIRUoM4KmuS58j5.jpg"
+      },
+      {
+        "name": "Semanur Uçar",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/vmzDmQib0THhVAbVvlqcH1gIOHu.jpg"
+      },
+      {
+        "name": "Ali Alper Türkan",
+        "character": "Turgut",
+        "profile_image": null
+      },
+      {
+        "name": "Mustafa Onur Akpınar",
+        "character": "Çetin",
+        "profile_image": null
+      },
+      {
+        "name": "Sevinç Erol",
+        "character": "Asiye",
+        "profile_image": "https://image.tmdb.org/t/p/w185/leVbhISjccaFo0aYytoEgaRnGDy.jpg"
+      },
+      {
+        "name": "Emre Çaltili",
+        "character": "Ömer",
+        "profile_image": null
+      },
+      {
+        "name": "Ayşegül Aslan",
+        "character": "İpek",
+        "profile_image": null
+      },
+      {
+        "name": "Aliye Karahan",
+        "character": null,
+        "profile_image": null
+      },
+      {
+        "name": "Eylül Başoğlu",
+        "character": null,
+        "profile_image": null
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": 1,
+    "episodes_count": 70,
+    "status": "Canceled",
+    "content_type": "series"
+  },
+  "ابتكارات_": null,
+  "طيبات_": null,
+  "ابتهالات دينيه_": null,
+  "اجمل الحكايات_": {
+    "fv": 10,
+    "tmdb_id": 271444,
+    "tmdb_media": "tv",
+    "tmdb_title": "أجمل الحكايات",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": null,
+        "overview": "At an orphanage, the children are sad because they received broken toys as gifts. Professor Grampy sees the children while passing by in his sled and has an idea on how to give them a merry Christmas.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "أجمل الحكايات",
+    "poster": null,
+    "backdrop": null,
+    "description": "",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2024",
+    "release_date": "2024-09-01",
+    "genres": [],
+    "country": null,
+    "language": "العربية",
+    "director": null,
+    "cast": [],
+    "trailer_url": null,
+    "seasons_count": 1,
+    "episodes_count": 40,
+    "status": "Returning Series",
+    "content_type": "series"
+  },
+  "فريق البحيره الخضراء_": null,
+  "ثعلوب بطل الاختراع_": null,
+  "من كثر حبي لك_": {
+    "fv": 10,
+    "tmdb_id": 245984,
+    "tmdb_media": "tv",
+    "tmdb_title": "من كثر حبي لك",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Because I Love You So Much",
+        "overview": "Inside the halls of a residential building, the residents of the building meet, and friendly relationships, marriages, and divorces arise between them. On the other hand, family problems, murders, and thefts occur, so the residents seek to intensify their efforts to solve such things.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "من كثر حبي لك",
+    "poster": "https://image.tmdb.org/t/p/w500/hSSxcDelCxcevTEKPDPTvm7KJVE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/avnNcZYBiZci9ucKVKRpW0ztQAV.jpg",
+    "description": "",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2024",
+    "release_date": "2024-03-11",
+    "genres": [],
+    "country": "الكويت",
+    "language": "العربية",
+    "director": null,
+    "cast": [
+      {
+        "name": "إبراهيم الحربي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/d8HpMIl32tmglNHvMTQZZoEqAr7.jpg"
+      },
+      {
+        "name": "باسم عبدالأمير",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/7vWHigavCOBtPrOoU2E73BQYHqE.jpg"
+      },
+      {
+        "name": "حمد العماني",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/dxty7GdQU3BPRiRnIq4IIaFlBGB.jpg"
+      },
+      {
+        "name": "نور الشيخ",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/8xrcOFrJDMVaAiyarxLhZeVvQgZ.jpg"
+      },
+      {
+        "name": "خالد الشاعر",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/5hy8E2KCjKfGWYU8Gh73eOpISgk.jpg"
+      },
+      {
+        "name": "شوق الهادي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/8UGdH16YEjhaFnmXAgbPgUS6PiU.jpg"
+      },
+      {
+        "name": "أحمد النجار",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/kZ1bn5mEAVNNJHc1Gf5MoNkmbt8.jpg"
+      },
+      {
+        "name": "فاطمة الطباخ",
+        "character": null,
+        "profile_image": null
+      },
+      {
+        "name": "فوز العبدالله",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/1vmWYWADj40UwwsYrzkkyymVy3a.jpg"
+      },
+      {
+        "name": "شوق بنت عبدالله",
+        "character": null,
+        "profile_image": null
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": 1,
+    "episodes_count": 3,
+    "status": "Returning Series",
+    "content_type": "series"
+  },
+  "ماذا تعرف عن_": null,
+  "صنع في عمان_": null,
+  "غمض عينك_": null,
+  "وجهه_": {
+    "fv": 10,
+    "tmdb_id": 634399,
+    "tmdb_media": "movie",
+    "tmdb_title": "وجهة نظر",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "A Point Of View",
+        "overview": "The story of the comedy is about a group of blind people who live in a place that is like hell and is not surrounded by any kind of care or appreciation for their difficult situation comes to them Arafa Shawaf (Mohammed Sobhi) blind who was in prison and came out to come and lead them and become their leader and tries to uncover the head of the body who does not He cares about them and does not give them their money.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 199,
+    "original_title": "وجهة نظر",
+    "poster": "https://image.tmdb.org/t/p/w500/sPjBbtea0SHTaBCZGHZWYIFVSEr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jdhLj0Mwfj5H6BQj0HKbjDXGHL9.jpg",
+    "description": "تدور قصة المسرحية الكوميدية حول مجموعة من العمي الذين يقيمون في مكان هو أشبه بالجحيم ولا تحيطهم أي نوع من الرعاية ولا التقدير لحالتهم الصعبة ويأتي لهم عرفة الشواف (محمد صبحي) الأعمى الذي كان في السجن وخرج فيأتي إليهم ويقودهم ويصبح قائدهم ويحاول كشف رئيس الهيئة الذي لا يهتم بهم ولا يعطيهم نقودهم.",
+    "rating": 8.3,
+    "vote_count": 3,
+    "age_rating": null,
+    "year": "1989",
+    "release_date": "1989-07-12",
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "محمد صبحي",
+    "cast": [
+      {
+        "name": "محمد صبحي",
+        "character": "عرفة الشواف",
+        "profile_image": "https://image.tmdb.org/t/p/w185/elWUufkz6FsANx773tzAo7dKUmD.jpg"
+      },
+      {
+        "name": "هناء الشوربجي",
+        "character": "نظيرة",
+        "profile_image": "https://image.tmdb.org/t/p/w185/8ROuHPttds8mdqEVRQEi6YbwWN6.jpg"
+      },
+      {
+        "name": "عبلة كامل",
+        "character": "سنية",
+        "profile_image": "https://image.tmdb.org/t/p/w185/wVFfL9ZEQx4LZ4AfVvx2K8ab80b.jpg"
+      },
+      {
+        "name": "شعبان حسين",
+        "character": "عبد الباري",
+        "profile_image": "https://image.tmdb.org/t/p/w185/qbEm0V5GeRuiWOPaozVl19FtTY2.jpg"
+      },
+      {
+        "name": "هاني رمزي",
+        "character": "مسعود",
+        "profile_image": "https://image.tmdb.org/t/p/w185/r0RMbUmnBuRbwLLFat60eBFq4B4.jpg"
+      },
+      {
+        "name": "رياض الخولي",
+        "character": "مخلص",
+        "profile_image": "https://image.tmdb.org/t/p/w185/wLxEujKCEvcACU1Vsc2Wa1vPC3Q.jpg"
+      },
+      {
+        "name": "عبدالله مشرف",
+        "character": "خيشة",
+        "profile_image": "https://image.tmdb.org/t/p/w185/agbxF5mqQws2izKEnJz2zvaz4Rw.jpg"
+      },
+      {
+        "name": "محمود أبو زيد",
+        "character": "السبعاوي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/wodJvO2osp7wnaCxIpxzJBb9wSX.jpg"
+      },
+      {
+        "name": "عزة لبيب",
+        "character": "إنصاف",
+        "profile_image": "https://image.tmdb.org/t/p/w185/p154nPbAqpn0oMGfOzdz3yUUBAi.jpg"
+      },
+      {
+        "name": "زينب وهبي",
+        "character": "محاسن",
+        "profile_image": "https://image.tmdb.org/t/p/w185/zyJQRQ06ENr6AJrD8reGjXQKEt3.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "بروكار_": {
+    "fv": 10,
+    "tmdb_id": 102466,
+    "tmdb_media": "tv",
+    "tmdb_title": "بروكار",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Brokar",
+        "overview": "The show follows Damascene artisans in the 1940s as they fight to protect the secrets of the famed brokar textile amid French Mandate pressure, neighborhood rivalries, and personal conflicts. A heritage‑driven Syrian period drama blending craftsmanship, resistance, and traditional “shamī” atmosphere.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "Les événements ont lieu en 1942 pendant la période de l'occupation française de la Syrie, où un ingénieur français tente de voler l'idée de fabriquer des sacs en brocart.",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "بروكار",
+    "poster": "https://image.tmdb.org/t/p/w500/psKThiZmHw0X7HBJaSfKog0q8rN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bqmyq4nLaJTfCTcfLIIpZOXqoUO.jpg",
+    "description": "",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2020",
+    "release_date": "2020-04-24",
+    "genres": [
+      "دراما"
+    ],
+    "country": "سوريا",
+    "language": "العربية",
+    "director": "سمير هزيم, محمد زهير رجب",
+    "cast": [
+      {
+        "name": "عبد الهادي صباغ",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/oWdKraRlwne0DxGHDx6QEHHnbSw.jpg"
+      },
+      {
+        "name": "سلمى المصري",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/ufFKUEpHUoFRjhc71Tu5nF4omlc.jpg"
+      },
+      {
+        "name": "نادين خوري",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/kZ52n1QuH5N6PLs141AGtWeACy1.jpg"
+      },
+      {
+        "name": "زهير رمضان",
+        "character": null,
+        "profile_image": null
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Z7mste_wAbg",
+    "seasons_count": 2,
+    "episodes_count": 66,
+    "status": "Ended",
+    "content_type": "series"
+  },
+  "الفن السابغ_": null,
+  "ايه ومعني_": null,
+  "احسن القصص_": null,
+  "العالم من حولنا_": null,
+  "نحو عالم اكثر اخضرارا_": null,
+  "العاب النينجا_": null,
+  "اغمض عينيك تراني_": null,
+  "دار الاوبرا_": null,
+  "البرنامج الفكاهي_": null,
+  "صفحات في العلاقات_": null,
+  "سير وعبر_": null,
+  "تعرف عليه_": null,
+  "نور واعلام_": null,
+  "دي دبليو درايف ات_": null,
+  "توم اند جيري باك تو اوز_2016": null,
+  "al hassila 4 12 26_": null,
+  "special interview 4 12 26_": null,
+  "special report 4 12 26_": null,
+  "the summary 1 4 12 26_": null,
+  "افنيو 5_2020": null,
+  "ايه بلاك ليدي سكيتش شو_2023": null,
+  "هاري بوتر ويزاردس اوف بيكينغ_": null,
+  "غولد راش وايت ووتر سبيشل_": null,
+  "غيتاواي درايفر_": null,
+  "اميركن تشوبر_": null,
+  "discovery family_": null,
+  "وايلد مكسيكو_": null,
+  "سيرفايفنغ جو اكزوتك_": null,
+  "غارديانز اوف ذا غليدس_": null,
+  "المنكوس اكسترا_": null,
+  "اول مره اشوف_": null,
+  "الموسم الثامن_": null,
+  "هجوم مرتد سترايك باك_2017": null,
+  "تيمبل غراندين_2010": {
+    "fv": 10,
+    "tmdb_id": 33602,
+    "tmdb_media": "movie",
+    "tmdb_title": "Temple Grandin",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Temple Grandin",
+        "overview": "A biopic of Temple Grandin, an autistic American who has become one of the leading scientists in humane livestock handling.",
+        "tagline": "Autism gave her a vision. She gave it a voice."
+      },
+      "fr": {
+        "title": null,
+        "overview": "Biopic sur Temple Gradin, autiste de haut niveau, professeur d'université, spécialiste en structures de stockage animalier et mondialement connue pour ses différents articles parus dans la presse sur les questions d'autisme.",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 108,
+    "original_title": "Temple Grandin",
+    "poster": "https://image.tmdb.org/t/p/w500/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aCURY1tNUkvrNnjw5qYJXTUp7z.jpg",
+    "description": "",
+    "rating": 7.9,
+    "vote_count": 605,
+    "age_rating": null,
+    "year": "2010",
+    "release_date": "2010-02-06",
+    "genres": [
+      "دراما",
+      "تاريخ"
+    ],
+    "country": "الولايات المتحدة",
+    "language": "الإنجليزية",
+    "director": "Mick Jackson",
+    "cast": [
+      {
+        "name": "كلير دينس",
+        "character": "Temple Grandin",
+        "profile_image": "https://image.tmdb.org/t/p/w185/mb23NPDMRB7csC5xl4cgrdNkPXr.jpg"
+      },
+      {
+        "name": "ديفيد ستراثيرن",
+        "character": "Professor Carlock",
+        "profile_image": "https://image.tmdb.org/t/p/w185/w5YM2cGefPnkoyIXCi2UrCQW53r.jpg"
+      },
+      {
+        "name": "Barry Tubb",
+        "character": "Randy",
+        "profile_image": "https://image.tmdb.org/t/p/w185/sKzDWQWecmA5iuCxVCuMrYvn9Wf.jpg"
+      },
+      {
+        "name": "Melissa Farman",
+        "character": "Alice",
+        "profile_image": "https://image.tmdb.org/t/p/w185/egaoW2q16jklnVpSZtqWOudoqgg.jpg"
+      },
+      {
+        "name": "تشارلز بيكر",
+        "character": "Billy",
+        "profile_image": "https://image.tmdb.org/t/p/w185/l2plWtvYRcLX4CXf8azXIyANq.jpg"
+      },
+      {
+        "name": "Blair Bomar",
+        "character": "Ellen",
+        "profile_image": "https://image.tmdb.org/t/p/w185/pGDE6Wiliby2OmSHbvAKn4yS1In.jpg"
+      },
+      {
+        "name": "Cherami Leigh",
+        "character": "Marcia",
+        "profile_image": "https://image.tmdb.org/t/p/w185/4Vko4QYXn3K8dhxbgAYGSwo8jjT.jpg"
+      },
+      {
+        "name": "Tamara Jolaine",
+        "character": "Nancy",
+        "profile_image": "https://image.tmdb.org/t/p/w185/cL9pYIMolSdT4gBu9vNcmqxRqx3.jpg"
+      },
+      {
+        "name": "جوليا أورموند",
+        "character": "Eustacia",
+        "profile_image": "https://image.tmdb.org/t/p/w185/u7Oz6nHfMSlXuT34K7Ffp4f2qgP.jpg"
+      },
+      {
+        "name": "David Born",
+        "character": "Professor Shanklin",
+        "profile_image": "https://image.tmdb.org/t/p/w185/qfw98nf0T6OVm0ZTcsINeDvghcL.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=cpkN0JdXRpM",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "الباحثون عن الميثان_": null,
+  "كيندرد سبيرتس_": null,
+  "ذا ريل ميردرز اون ايلم ستريت_": null,
+  "ديفل ان ذا ويب_": null,
+  "ديابوليكال ديدلي لوف_": null,
+  "يحيي وكنوز_": {
+    "fv": 10,
+    "tmdb_id": 196240,
+    "tmdb_media": "tv",
+    "tmdb_title": "يحيى وكنوز",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "يحيى وكنوز",
+    "poster": "https://image.tmdb.org/t/p/w500/AqqwfEKuDdFGQeAzimGcPU9cjry.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/r8Y1fi0hHUstqij6RhNWxPWxXe.jpg",
+    "description": "مسلسل رسوم متحركة تاريخي، يستعرض في حلقاته الفترة الزمنية القديمة (عصر الأسرار القديمة)، مع وجود عدد من الأحداث التاريخية الهامة",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2022",
+    "release_date": "2022-04-02",
+    "genres": [],
+    "country": "السعودية",
+    "language": "العربية",
+    "director": null,
+    "cast": [],
+    "trailer_url": "https://www.youtube.com/watch?v=KmQb71ouL_k",
+    "seasons_count": 3,
+    "episodes_count": 90,
+    "status": "Returning Series",
+    "content_type": "series"
+  },
+  "عطله نهايه الاسبوع الخمس نجوم_": null,
+  "hollywood buzz_": {
+    "fv": 10,
+    "tmdb_id": 121070,
+    "tmdb_media": "tv",
+    "tmdb_title": "Hollywood Buzz",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Hollywood Buzz",
+        "overview": "Hollywood Buzz is your weekly dose of chick flicks and rom-coms and everything you want to know about your favorite actors and actresses. All ins and out of Hollywood right on your screen!",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 25,
+    "original_title": "Hollywood Buzz",
+    "poster": null,
+    "backdrop": null,
+    "description": "",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2020",
+    "release_date": "2020-03-02",
+    "genres": [],
+    "country": "الولايات المتحدة",
+    "language": "الإنجليزية",
+    "director": null,
+    "cast": [],
+    "trailer_url": null,
+    "seasons_count": 1,
+    "episodes_count": 2,
+    "status": "Returning Series",
+    "content_type": "series"
+  },
+  "ويبونز_2025": null,
+  "وذرينغ هايتس_2025": null,
+  "بلاست فروم ذا باست_1999": null,
+  "بيردمان ذا اكسبكتد فيرتشو اوف اغنورنس_2014": null,
+  "جوبز_2013": null,
+  "لاي ذا فيفوريت_2012": null,
+  "غريس اوف موناكو_2014": null,
+  "ون تشانس_2013": null,
+  "hmong 50 r 7 athletics utmb world series 2026 hoka chiang mai thailand_": null,
+  "suthep 20 r 7 athletics utmb world series 2026 hoka chiang mai thailand_": null,
+  "f 1 qatar grand prix 2026 highlight_": null,
+  "مساحه حياه_": null,
+  "قصه_": {
+    "fv": 10,
+    "tmdb_id": 1413,
+    "tmdb_media": "tv",
+    "tmdb_title": "قصة رعب امريكية",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "American Horror Story",
+        "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+        "tagline": "The nightmare of your dreams."
+      },
+      "fr": {
+        "title": null,
+        "overview": "À chaque saison, son histoire. American Horror Story nous embarque dans des récits à la fois poignants et cauchemardesques, mêlant la peur, le gore et le politiquement correct. De quoi vous confronter à vos plus grandes frayeurs !",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "American Horror Story",
+    "poster": "https://image.tmdb.org/t/p/w500/g2Wik3j3jIQYtvpiXHAWJBTqSig.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+    "description": "سلسلة من القصص الدرامية المختارة التي تركز على شخصيات ومواقع مختلفة، بما في ذلك منزل له ماضٍ قاتل، ملجأ، ساحرة ، عرض غريب، فندق، مزرعة في روانوك وطائفة دينية.",
+    "rating": 8.1,
+    "vote_count": 6320,
+    "age_rating": "TV-MA",
+    "year": "2011",
+    "release_date": "2011-10-05",
+    "genres": [
+      "دراما",
+      "غموض",
+      "خيال علمي وفانتازيا"
+    ],
+    "country": "الولايات المتحدة",
+    "language": "الإنجليزية",
+    "director": "رايان مورفي, براد فالتشوك",
+    "cast": [
+      {
+        "name": "سارة بولسون",
+        "character": "Cordelia Goode / Sally McKenna / Ms. Wilhemina Venable / Tuberculosis Karen / Mamie Eisenhower",
+        "profile_image": "https://image.tmdb.org/t/p/w185/tJnhBV516yrekR3hTDUw15UMbxS.jpg"
+      },
+      {
+        "name": "ايفان بيترز",
+        "character": "Tate Langdon / James Patrick March / Kai Anderson",
+        "profile_image": "https://image.tmdb.org/t/p/w185/m9okq20ca2Md38i2ekJeKs3vTwa.jpg"
+      },
+      {
+        "name": "أنجيلا باسيت",
+        "character": "Marie Laveau",
+        "profile_image": "https://image.tmdb.org/t/p/w185/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+      },
+      {
+        "name": "كاثي بيتس",
+        "character": "Delphine LaLaurie",
+        "profile_image": "https://image.tmdb.org/t/p/w185/3MsayDvY73uXGVbCFHyy1ABTacV.jpg"
+      },
+      {
+        "name": "إيما روبرتس",
+        "character": "Madison Montgomery",
+        "profile_image": "https://image.tmdb.org/t/p/w185/uywAcH9PkPgEF1tOBlNPqeqhVZL.jpg"
+      },
+      {
+        "name": "Billie Lourd",
+        "character": "Mallory / Winter Anderson",
+        "profile_image": "https://image.tmdb.org/t/p/w185/1u8bZL6ZXu5iDbPO3Z0Spetyt34.jpg"
+      },
+      {
+        "name": "جابوري سيديبي",
+        "character": "Queenie",
+        "profile_image": "https://image.tmdb.org/t/p/w185/d0p0MGqM1GrrnBw4b3V9uM6HCl2.jpg"
+      },
+      {
+        "name": "Leslie Grossman",
+        "character": "Coco St. Pierre Vanderbilt",
+        "profile_image": "https://image.tmdb.org/t/p/w185/zvFXKr0U6hFrOEkV7ZFVNhJ9m9X.jpg"
+      },
+      {
+        "name": "Joey Pollari",
+        "character": "Ben DeSoto",
+        "profile_image": "https://image.tmdb.org/t/p/w185/vr5e0bM95A0zQ9FnQ3CS0wUPQlV.jpg"
+      },
+      {
+        "name": "جيسيكا لانج",
+        "character": "Constance Langdon / Sister Jude Martin / Fiona Goode / Elsa Mars",
+        "profile_image": "https://image.tmdb.org/t/p/w185/aWcO6trggSWsglUOdTVzjG4LSh3.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=nLJR2twdK00",
+    "seasons_count": 13,
+    "episodes_count": 145,
+    "status": "Returning Series",
+    "content_type": "series"
+  },
+  "قطر صغنطوط_": {
+    "fv": 10,
+    "tmdb_id": 303323,
+    "tmdb_media": "tv",
+    "tmdb_title": "قطر صغنطوط",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Little Train",
+        "overview": "The old fire haunts Yassin, the brilliant journalist who built his fame atop the ruins of an orphanage that burned down one night because of him, back when he was just a masked boy. His carefully built world breaks when his beloved, Yusra, finds the truth, leading to her death and opening hell after years of silence. As he digs into the past, he uncovers conspiratorial identities and his own dark roots.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "قطر صغنطوط",
+    "poster": "https://image.tmdb.org/t/p/w500/mw59orFmPysQwawSTZ2qzohJ6nk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5uPu7Yz07s0xmMkl8SP6hoCgjrN.jpg",
+    "description": "ياسين الذي يبدأ ماضيه المظلم حين يشعل فتى مقنّع النار في دار الأيتام، متسببًا بمقتل المشرف. وبعد سنوات، وبينما أصبح شخصية إعلامية شهيرة، تنهار حياته حين تكتشف حبيبته يسرى الحقيقة لتُقتل بعدها. ومع بحثه في أسرار الدار، تطفو حقائق مدفونة تكشف جذور ظلامه.",
+    "rating": 5.5,
+    "vote_count": 2,
+    "age_rating": null,
+    "year": "2026",
+    "release_date": "2026-03-05",
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": null,
+    "cast": [
+      {
+        "name": "محمد رجب",
+        "character": "ياسين",
+        "profile_image": "https://image.tmdb.org/t/p/w185/y3ikC3lnvbJohi6UHMPiRXRYnMb.jpg"
+      },
+      {
+        "name": "أحمد بدير",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/czumAPB9nIYytuVEELuhnBgqc10.jpg"
+      },
+      {
+        "name": "كريم عفيفي",
+        "character": "سيد (صديق ياسين)",
+        "profile_image": "https://image.tmdb.org/t/p/w185/afQYakbQXoRAh1vP6WuhqxsiD9V.jpg"
+      },
+      {
+        "name": "دانا حلبي",
+        "character": "يسرا",
+        "profile_image": "https://image.tmdb.org/t/p/w185/pTZJ76TNdGtW64w0Xny1opUHw6C.jpg"
+      },
+      {
+        "name": "جيهان خليل",
+        "character": "داليا",
+        "profile_image": "https://image.tmdb.org/t/p/w185/beZjAZVwtcS0mS7lSRdOI9ghtSb.jpg"
+      },
+      {
+        "name": "غفران محمد",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/gTlOJCJM9EUNzqASbjdCfROg8jF.jpg"
+      },
+      {
+        "name": "أحمد صيام",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/1NOtuMfgN4K1a8sAuuywV8DHgf9.jpg"
+      },
+      {
+        "name": "عايدة فهمي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/sHHb7tFdcAViGodcknnmODIYcyU.jpg"
+      },
+      {
+        "name": "جيهان قمري",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/fT6HAO9rQ203dtHKlzOF997ROwp.jpg"
+      },
+      {
+        "name": "حمادة بركات",
+        "character": "المقدم ايمن بسيوني",
+        "profile_image": "https://image.tmdb.org/t/p/w185/soLlXORk8kqUd7Vma4RcV0g6jL8.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": 1,
+    "episodes_count": 15,
+    "status": "Ended",
+    "content_type": "series"
+  },
+  "الكلب الاحمر الكبير_": null,
+  "ليموني سنيكتس سلسله من الاحداث الماسويه_": null,
+  "القرد_": {
+    "fv": 10,
+    "tmdb_id": 1124620,
+    "tmdb_media": "movie",
+    "tmdb_title": "القرد",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "The Monkey",
+        "overview": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
+        "tagline": "Everybody dies. And that's fucked up."
+      },
+      "fr": {
+        "title": null,
+        "overview": "Lorsque les jumeaux Bill et Hal trouvent le vieux jouet de singe de leur père, une série de morts effroyables commence. Les deux frères décident de jeter le jouet et de poursuivre leur vie, tout en s'éloignant l'un de l'autre.",
+        "tagline": "Tout le monde meurt. Et ça fait chier."
+      }
+    },
+    "tagline": "الجميع يموتون، وهذا أمرٌ مُريع.",
+    "runtime": 98,
+    "original_title": "The Monkey",
+    "poster": "https://image.tmdb.org/t/p/w500/aGDekyIb0yfmnuLZciCozRPk2TE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cjZ7No0DX2L3ielLSoUOMYPw7C.jpg",
+    "description": "عندما يعثر شقيقان توأمان على قرد آلي غامض، تُفرّق سلسلة من الوفيات المروعة عائلتهما. بعد خمسة وعشرين عامًا، يبدأ القرد موجة قتل جديدة، مما يُجبر الشقيقين المنفصلين على مواجهة اللعبة الملعونة.",
+    "rating": 6,
+    "vote_count": 1554,
+    "age_rating": "R",
+    "year": "2025",
+    "release_date": "2025-02-10",
+    "genres": [
+      "رعب",
+      "كوميديا"
+    ],
+    "country": "الولايات المتحدة",
+    "language": "الإنجليزية",
+    "director": "أوزجود بيركنز",
+    "cast": [
+      {
+        "name": "ثيو جيمس",
+        "character": "Hal / Bill",
+        "profile_image": "https://image.tmdb.org/t/p/w185/g4yeW1EgIpyht0fy1stv7EXUmPC.jpg"
+      },
+      {
+        "name": "تاتيانا ماسلاني",
+        "character": "Lois",
+        "profile_image": "https://image.tmdb.org/t/p/w185/x8lBkm9CBJbIlLpqjEwkQydZ2or.jpg"
+      },
+      {
+        "name": "Christian Convery",
+        "character": "Young Hal / Young Bill",
+        "profile_image": "https://image.tmdb.org/t/p/w185/tOR2tSrvHPVDltE4jBDEva3GNqY.jpg"
+      },
+      {
+        "name": "Colin O'Brien",
+        "character": "Petey",
+        "profile_image": "https://image.tmdb.org/t/p/w185/qF38oBiO1b7nEua71FY2XfIayZl.jpg"
+      },
+      {
+        "name": "ادم سكوت",
+        "character": "Captain Petey Shelborn",
+        "profile_image": "https://image.tmdb.org/t/p/w185/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+      },
+      {
+        "name": "إليجاه وود",
+        "character": "Ted",
+        "profile_image": "https://image.tmdb.org/t/p/w185/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+      },
+      {
+        "name": "Rohan Campbell",
+        "character": "Thrasher / Ricky",
+        "profile_image": "https://image.tmdb.org/t/p/w185/r1PDcoPF1NDvvxwqkOJTrFaT1za.jpg"
+      },
+      {
+        "name": "سارة لافي",
+        "character": "Aunt Ida",
+        "profile_image": "https://image.tmdb.org/t/p/w185/l37vAd4fkzv9EH8r9eChuzrSPxu.jpg"
+      },
+      {
+        "name": "أوزجود بيركنز",
+        "character": "Uncle Chip",
+        "profile_image": "https://image.tmdb.org/t/p/w185/sshAqrQ2DV2TUsgBAr1XaYqqxkm.jpg"
+      },
+      {
+        "name": "Nicco Del Rio",
+        "character": "Rookie Priest",
+        "profile_image": "https://image.tmdb.org/t/p/w185/c9UyLuVDwwrInDQt2BiDWRXKTOw.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=KPxmK_ihDO8",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "جودريتش_": null,
+  "افضل ما يمكنك_": null,
+  "حياه رائعه_": {
+    "fv": 10,
+    "tmdb_id": 1119173,
+    "tmdb_media": "movie",
+    "tmdb_title": "حياة رائعة",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": null,
+        "overview": "When a young fisherman with a hidden talent gets discovered by a music producer, he must decide if he's ready to open himself up to stardom — and love.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "Elliott, un jeune pêcheur doté d'une voix extraordinaire, se voit offrir la chance de sa vie lorsqu'il est découvert par Suzanne, une manager de musique célèbre et couronnée de succès. Suzanne associe bientôt Elliott à sa fille divorcée et productrice de musique, Lilly. Sur le chemin de la célébrité, les luttes de son passé menacent non seulement sa percée, mais aussi son amour naissant pour Lilly.",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 99,
+    "original_title": "A Beautiful Life",
+    "poster": "https://image.tmdb.org/t/p/w500/bNclctjkPJED9New5IMzi3IGv4h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6BI1XjPNT5VYEJ4vXkdyuiKLMYt.jpg",
+    "description": "يجد الصياد الشاب \"إليوت\" ذو الصوت الشجي فرصة العمر عندما تكتشف موهبته المديرة الموسيقية المرموقة \"سوزان\"، والتي سرعان ما تعرّفه على ابنتها \"ليلي\" المنفصلة عنها، والتي تعمل كمنتجة موسيقية. إلا أن صراعه مع ماضيه، وهو في طريقه إلى النجومية، يَطال فرصته المواتية لتحقيق نجاحه الباهر، بل ويهدد الحب الوليد بينه وبين \"ليلي\".",
+    "rating": 6.8,
+    "vote_count": 280,
+    "age_rating": "R",
+    "year": "2023",
+    "release_date": "2023-06-01",
+    "genres": [
+      "دراما",
+      "موسيقى",
+      "رومنسية"
+    ],
+    "country": "DK",
+    "language": "da",
+    "director": "Mehdi Avaz",
+    "cast": [
+      {
+        "name": "Christopher",
+        "character": "Elliott",
+        "profile_image": "https://image.tmdb.org/t/p/w185/fC96HRGR3XToi8mMEqzgKGUtxt4.jpg"
+      },
+      {
+        "name": "إنغا إبسدوتر ليلياس",
+        "character": "Lilly",
+        "profile_image": "https://image.tmdb.org/t/p/w185/wlZPIgnXMpK3Nvvhg0bZzmWxZDH.jpg"
+      },
+      {
+        "name": "Christine Albeck Børge",
+        "character": "Suzanne",
+        "profile_image": "https://image.tmdb.org/t/p/w185/3giqU4DuxnDQTQFiC2XQq22vY8j.jpg"
+      },
+      {
+        "name": "اردلان اسماعیلی",
+        "character": "Patrick",
+        "profile_image": "https://image.tmdb.org/t/p/w185/tLJjHlTwwR7QGD4UfTkj3i90opU.jpg"
+      },
+      {
+        "name": "Sebastian Jessen",
+        "character": "Oliver",
+        "profile_image": "https://image.tmdb.org/t/p/w185/yWd0O3P3YVieaSYpLmm9IqFPBJg.jpg"
+      },
+      {
+        "name": "Paw Henriksen",
+        "character": "Jesper",
+        "profile_image": "https://image.tmdb.org/t/p/w185/298VQQYczkCXhMnxsmoZTjJnoRn.jpg"
+      },
+      {
+        "name": "Jonathan Harboe",
+        "character": "Dennis",
+        "profile_image": "https://image.tmdb.org/t/p/w185/3xU1hEr5PcpJ25dTb6BcqXcr4iB.jpg"
+      },
+      {
+        "name": "Jefferson Bond",
+        "character": "John",
+        "profile_image": null
+      },
+      {
+        "name": "Jonas Gülstorff",
+        "character": "Radio Host",
+        "profile_image": null
+      },
+      {
+        "name": "Aksel True Klüver",
+        "character": "Port worker",
+        "profile_image": null
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=8Yt1D8rj_RA",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "شريره من اجل الخير_": null,
+  "صاحب الكلاب_": null,
+  "المنزل الريفي_": null,
+  "انسليم_": null,
+  "بطلنا، بالثازار_": null,
+  "عالق في تكساس_": null,
+  "ملائكه تشارلي_": {
+    "fv": 10,
+    "tmdb_id": 458897,
+    "tmdb_media": "movie",
+    "tmdb_title": "ملائكة تشارلي",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Charlie's Angels",
+        "overview": "Elena Houghlin is a scientist, engineer and inventor of Calisto -- a sustainable energy source that will revolutionize the way people use power. It will be ready as soon as she works out the last issue, if not it could be turned into a dangerous weapon. But when the cutting edge technology is pushed to an investor before she can do that, Elena turns to the Townsend Agency for help. Now, it's up to the Angels -- Jane, Sabina, and the newly recruited Elena -- to retrieve Calisto before it can be transformed into a weapon of mass destruction.",
+        "tagline": "Unseen. Undivided. Unstoppable."
+      },
+      "fr": {
+        "title": null,
+        "overview": "Les Charlie’s Angels ont toujours assuré la sécurité de leurs clients grâce à leurs compétences hors du commun. L’agence Townsend a maintenant étendu ses activités à l’international, avec les femmes les plus intelligentes, les plus téméraires et les mieux entraînées du monde entier – de multiples équipes de Charlie’s Angels affrontant les missions les plus périlleuses, chacune guidée par son propre Bosley.",
+        "tagline": "Insaisissables, inséparables, imbattables."
+      }
+    },
+    "tagline": null,
+    "runtime": 118,
+    "original_title": "Charlie's Angels",
+    "poster": "https://image.tmdb.org/t/p/w500/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/a0xTB1vBxMGt6LGG4N7k1wO9lfL.jpg",
+    "description": "عندما يطلق مهندس أنظمة صافرة على تقنية خطيرة ، يتم استدعاء ملائكة تشارلي من جميع أنحاء العالم للعمل ، ووضع حياتهم على المحك لحماية المجتمع.",
+    "rating": 6.3,
+    "vote_count": 3252,
+    "age_rating": "PG-13",
+    "year": "2019",
+    "release_date": "2019-11-14",
+    "genres": [
+      "حركة",
+      "مغامرة",
+      "كوميديا"
+    ],
+    "country": "الولايات المتحدة",
+    "language": "الإنجليزية",
+    "director": "Elizabeth Banks",
+    "cast": [
+      {
+        "name": "كريستين ستيوارت",
+        "character": "Sabina Wilson",
+        "profile_image": "https://image.tmdb.org/t/p/w185/ryhCjTGqS6G6OprbR0qUEH355lA.jpg"
+      },
+      {
+        "name": "نعومي سكوت",
+        "character": "Elena Houghlin",
+        "profile_image": "https://image.tmdb.org/t/p/w185/knSGMaEaH6CZaYw7GQpvxyJcsz7.jpg"
+      },
+      {
+        "name": "Ella Balinska",
+        "character": "Jane Kano",
+        "profile_image": "https://image.tmdb.org/t/p/w185/tDki8HCmX5gl1e31IsP9p8a8Kg1.jpg"
+      },
+      {
+        "name": "Elizabeth Banks",
+        "character": "Boz",
+        "profile_image": "https://image.tmdb.org/t/p/w185/hQ7IwCQjlpsBPSpnnjjhH3rjwSJ.jpg"
+      },
+      {
+        "name": "باتريك ستيوارت",
+        "character": "John Bosley",
+        "profile_image": "https://image.tmdb.org/t/p/w185/3yExCGqCMfSOVVHdEYTJhXaTtFZ.jpg"
+      },
+      {
+        "name": "دجيمون هونسو",
+        "character": "Edgar Bosley",
+        "profile_image": "https://image.tmdb.org/t/p/w185/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg"
+      },
+      {
+        "name": "سام كلافلن",
+        "character": "Alexander Brok",
+        "profile_image": "https://image.tmdb.org/t/p/w185/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
+      },
+      {
+        "name": "جوناثان تاكر",
+        "character": "Hodak",
+        "profile_image": "https://image.tmdb.org/t/p/w185/gR1lthok818AcmJsg87f1On6Qnf.jpg"
+      },
+      {
+        "name": "نات فاكسون",
+        "character": "Peter Fleming",
+        "profile_image": "https://image.tmdb.org/t/p/w185/i7bsT8ewAjCr7zByWOyCnbrT0x9.jpg"
+      },
+      {
+        "name": "Chris Pang",
+        "character": "Jonny Smith",
+        "profile_image": "https://image.tmdb.org/t/p/w185/rd1ScdIuW0Wo4qdjIDsnXeZDr8a.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=voYLots_ZOg",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "شفره دافينشي_": null,
+  "ملائكه وشياطين_": {
+    "fv": 10,
+    "tmdb_id": 13448,
+    "tmdb_media": "movie",
+    "tmdb_title": "ملائكة وشياطين",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Angels & Demons",
+        "overview": "Harvard symbologist Robert Langdon is recruited by the Vatican to investigate the apparent return of the Illuminati – a secret, underground organization – after four cardinals are kidnapped on the night of the papal conclave.",
+        "tagline": "The holiest event of our time. Perfect for their return."
+      },
+      "fr": {
+        "title": "Anges et Démons",
+        "overview": "Une antique confrérie secrète parmi les plus puissantes de l'Histoire, les \"Illuminati\", qui s'était jurée autrefois d'anéantir l'Église catholique, est de retour. Cette fois, elle est sur le point de parvenir à son but : Robert Langdon, expert en religions d'Harvard, en a la certitude. Langdon a peu de temps pour comprendre ce qui se trame contre le Vatican et déjouer ces nouveaux crimes. Une course contre la montre et contre les tueurs qui démarre tel un jeu de piste : des églises romaines aux cryptes enfouies, des catacombes les plus profondes aux majestueuses cathédrales... Pour l'aider à comprendre toutes ces énigmes, Langdon va rencontrer Vittoria Vetra, une scientifique aussi belle que mystérieuse. Cette fois, il sait à qui il se confronte. Cette enquête diabolique est un piège, chaque secret est une clé, chaque révélation un danger...",
+        "tagline": "L'événement le plus sacré de notre temps. Parfait pour leur retour."
+      }
+    },
+    "tagline": "أقدس حدث في عصرنا. مثالي لعودتهم.",
+    "runtime": 138,
+    "original_title": "Angels & Demons",
+    "poster": "https://image.tmdb.org/t/p/w500/tFZQAuulEOtFTp0gHbVdEXwGrYe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/olz8Xw3yOLpBAHKgPoSRwmomdM.jpg",
+    "description": "تم تجنيد روبرت لانغدون ، عالم الرموز بجامعة هارفارد ، من قبل الفاتيكان للتحقيق في عودة المتنورين الظاهرة - وهي منظمة سرية تحت الأرض - بعد اختطاف أربعة من الكرادلة في ليلة الاجتماع البابوي.",
+    "rating": 6.7,
+    "vote_count": 7641,
+    "age_rating": "PG-13",
+    "year": "2009",
+    "release_date": "2009-04-20",
+    "genres": [
+      "إثارة",
+      "غموض"
+    ],
+    "country": "إيطاليا",
+    "language": "الإنجليزية",
+    "director": "رون هاوارد",
+    "cast": [
+      {
+        "name": "توم هانكس",
+        "character": "Robert Langdon",
+        "profile_image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+      },
+      {
+        "name": "إيوان مكريغور",
+        "character": "Camerlengo Patrick McKenna",
+        "profile_image": "https://image.tmdb.org/t/p/w185/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg"
+      },
+      {
+        "name": "Ayelet Zurer",
+        "character": "Vittoria Vetra",
+        "profile_image": "https://image.tmdb.org/t/p/w185/wSDtipN1Ew19x7duWaNEP8kPMCx.jpg"
+      },
+      {
+        "name": "ستيلان سكارسغارد",
+        "character": "Commander Richter",
+        "profile_image": "https://image.tmdb.org/t/p/w185/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg"
+      },
+      {
+        "name": "Pierfrancesco Favino",
+        "character": "Inspector Olivetti",
+        "profile_image": "https://image.tmdb.org/t/p/w185/hedzgTKFKrSleWvLkBlANng8w4T.jpg"
+      },
+      {
+        "name": "Nikolaj Lie Kaas",
+        "character": "Assassin",
+        "profile_image": "https://image.tmdb.org/t/p/w185/aU7YfSyQxxOwiNyXuaW0YRgpYyg.jpg"
+      },
+      {
+        "name": "آرمن مولر-شتال",
+        "character": "Cardinal Strauss",
+        "profile_image": "https://image.tmdb.org/t/p/w185/yDT9hMg3osAbiWl5YZXTYG4SmGj.jpg"
+      },
+      {
+        "name": "Thure Lindhardt",
+        "character": "Chartrand",
+        "profile_image": "https://image.tmdb.org/t/p/w185/lDkRe6dlQoiehjay8pEP2WLU4qG.jpg"
+      },
+      {
+        "name": "David Pasquesi",
+        "character": "Claudio Vincenzi",
+        "profile_image": "https://image.tmdb.org/t/p/w185/oQplec891LMv0wndTtKh1bIS11Z.jpg"
+      },
+      {
+        "name": "كوسيمو فوسكو",
+        "character": "Father Simeon",
+        "profile_image": "https://image.tmdb.org/t/p/w185/uIYyguOSgQ4DNaN8UZkzcHG6dAO.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=arb2-aZMDFg",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "الجحيم_": {
+    "fv": 10,
+    "tmdb_id": 5919,
+    "tmdb_media": "movie",
+    "tmdb_title": "الجحيم الشاهق",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "The Towering Inferno",
+        "overview": "At the opening party of a colossal—but poorly constructed—skyscraper, a massive fire breaks out, threatening to destroy the tower and everyone in it.",
+        "tagline": "One tiny spark becomes a night of blazing suspense."
+      },
+      "fr": {
+        "title": "La Tour infernale",
+        "overview": "San Francisco ne vit plus que pour son nouveau building construit tout récemment au cœur de la ville. Un soir alors que la fête bat son plein pour l'inauguration de ce plus grand gratte-ciel du monde, un incident notable vient à se produire. Un simple court-circuit va transformer la somptueuse soirée d'inauguration en un terrible cauchemar : quand le feu commence à se propager, il est trop tard pour s'échapper.",
+        "tagline": "Le plus grand building au monde est en feu. Vous êtes au 135e étage. Aucun moyen de descendre. Aucun moyen de sortir."
+      }
+    },
+    "tagline": null,
+    "runtime": 165,
+    "original_title": "The Towering Inferno",
+    "poster": "https://image.tmdb.org/t/p/w500/mFM1GbrRrT3DWUFFo8koSITFnYe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gT3hatcFDbZWUlLZ7TClRDhZ9Pa.jpg",
+    "description": "يندلع حريق هائل في أعلى ناطحة سحاب خلال حفل افتتاحها، فيحاول المهندس المعماري ورئيس الإطفاء إنقاذ مئات الأشخاص المحاصرين داخل المبنى المشتعل.",
+    "rating": 7,
+    "vote_count": 1119,
+    "age_rating": "PG",
+    "year": "1974",
+    "release_date": "1974-12-14",
+    "genres": [
+      "حركة",
+      "دراما",
+      "إثارة"
+    ],
+    "country": "الولايات المتحدة",
+    "language": "الإنجليزية",
+    "director": "John Guillermin",
+    "cast": [
+      {
+        "name": "ستيف ماكوين",
+        "character": "Chief O'Hallorhan",
+        "profile_image": "https://image.tmdb.org/t/p/w185/xUxg7SAM17eEc0rF90gz59Ap0w1.jpg"
+      },
+      {
+        "name": "بول نيومان",
+        "character": "Doug Roberts",
+        "profile_image": "https://image.tmdb.org/t/p/w185/5K9gQEzuQ0DeNO6KKEb5xK8iOVD.jpg"
+      },
+      {
+        "name": "William Holden",
+        "character": "Jim Duncan",
+        "profile_image": "https://image.tmdb.org/t/p/w185/eMdXRtJVvescfdxHAINVf7dcpAV.jpg"
+      },
+      {
+        "name": "Faye Dunaway",
+        "character": "Susan",
+        "profile_image": "https://image.tmdb.org/t/p/w185/bwHJPkiDOjTslgrl0mri1Ndvx2V.jpg"
+      },
+      {
+        "name": "Fred Astaire",
+        "character": "Harlee Claiborne",
+        "profile_image": "https://image.tmdb.org/t/p/w185/6gw9PCrKi19I5QOwjEPaOYW9uLI.jpg"
+      },
+      {
+        "name": "Susan Blakely",
+        "character": "Patty",
+        "profile_image": "https://image.tmdb.org/t/p/w185/xfl66Wa4LYdcRwoXd9ojn8V55eF.jpg"
+      },
+      {
+        "name": "Richard Chamberlain",
+        "character": "Simmons",
+        "profile_image": "https://image.tmdb.org/t/p/w185/cfMMR8EZrqMzjGExZ4Hb0fCFuLw.jpg"
+      },
+      {
+        "name": "Jennifer Jones",
+        "character": "Lisolette",
+        "profile_image": "https://image.tmdb.org/t/p/w185/kPWuP9WGAkVnwdmT1KCif4KOMwz.jpg"
+      },
+      {
+        "name": "أو جيه سيمبسون",
+        "character": "Jernigan",
+        "profile_image": "https://image.tmdb.org/t/p/w185/3q6XMf1L5zCApoUsiAMoFS9ADXY.jpg"
+      },
+      {
+        "name": "Robert Vaughn",
+        "character": "Senator Parker",
+        "profile_image": "https://image.tmdb.org/t/p/w185/mYaQ9Qv2oC014lwMaXb76A5UL1n.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=nyTqrtZFWeQ",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "ليل ام البنات_": {
+    "fv": 10,
+    "tmdb_id": 220959,
+    "tmdb_media": "tv",
+    "tmdb_title": "ليل أم البنات",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Layl Mother of Girls",
+        "overview": "",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 45,
+    "original_title": "ليل أم البنات",
+    "poster": "https://image.tmdb.org/t/p/w500/5bkpWPa6rHuaebwaM4rWE9d3kye.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2IpTfGyKGPXtzUf8r1ETnq9o2cb.jpg",
+    "description": "تدور حول شخصية أم لخمس بنات تعيش على تربيتهن بمستوى اجتماعي ضئيل، لنرى حال المراهقين والشباب هذه الايام وتأثير التكنولوجيا عليهم وحب الشهرة السريع وانعكاسه على بناتها وما يترتب عليه من احداث تورط الام في قضية مقتل احد رجال الاعمال، فهل تنجح البنات الخمس في ايجاد براءة أمهن؟",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": "TV-G",
+    "year": "2023",
+    "release_date": "2023-03-22",
+    "genres": [
+      "دراما"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": null,
+    "cast": [
+      {
+        "name": "سهير رمزي",
+        "character": "ليل",
+        "profile_image": "https://image.tmdb.org/t/p/w185/plGZWAL3zTqDiNmTEHkXRASLSN5.jpg"
+      },
+      {
+        "name": "هاجر الشرنوبي",
+        "character": "فريدة",
+        "profile_image": "https://image.tmdb.org/t/p/w185/rYQ4sgzP1kx4AyWbwrk58yMaX6W.jpg"
+      },
+      {
+        "name": "ناصر سيف",
+        "character": "نجيب",
+        "profile_image": "https://image.tmdb.org/t/p/w185/2ekPDpdkWkIOgLQ4Fkd1RRILDNq.jpg"
+      },
+      {
+        "name": "ديانا هشام",
+        "character": "زهرة",
+        "profile_image": "https://image.tmdb.org/t/p/w185/lfpQxFUlHlAG5CBCp5AM4PjPIfI.jpg"
+      },
+      {
+        "name": "فريال يوسف",
+        "character": "شيرين زهدي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/wiDxuLAhwjpY5osNxBp6wWfL0RH.jpg"
+      },
+      {
+        "name": "منة عرفة",
+        "character": "عبير",
+        "profile_image": "https://image.tmdb.org/t/p/w185/hgPm7TthqrOE2PkwlWvZ8g93nUT.jpg"
+      },
+      {
+        "name": "حنان سليمان",
+        "character": "حنان",
+        "profile_image": "https://image.tmdb.org/t/p/w185/whfk48vNtSAijcOuT3esPlXbVSz.jpg"
+      },
+      {
+        "name": "هايدي رفعت",
+        "character": "عاليا",
+        "profile_image": "https://image.tmdb.org/t/p/w185/f1A9Y5t1TRfPUqkbdijUpZTTAK4.jpg"
+      },
+      {
+        "name": "Celine Abdulaziz",
+        "character": "نور",
+        "profile_image": null
+      },
+      {
+        "name": "ياسر علي ماهر",
+        "character": "راضي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/pw1xQfBznCp6Y2evajOJ6cfj8c7.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Ue8GcS2QRDg",
+    "seasons_count": 1,
+    "episodes_count": 30,
+    "status": "Ended",
+    "content_type": "series"
+  },
+  "المحافظه 15_": {
+    "fv": 10,
+    "tmdb_id": 304654,
+    "tmdb_media": "tv",
+    "tmdb_title": "المحافظة 15",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Governorate 15",
+        "overview": "Under a single sky burdened by crises, the stories of the Lebanese intertwine with the anguish of Syrian refugees in a human epic that showcases the harshness of current challenges. The events boldly depict the tragedies of poverty, the struggle for survival, and the hopes hanging by a thread.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": null,
+    "original_title": "المحافظة 15",
+    "poster": "https://image.tmdb.org/t/p/w500/AaNe4r0HEBdHKPf5JMLL2dgpMjB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i2xbK3ZzRwd0O82ayH0Nf9fuMHo.jpg",
+    "description": "تحت سماء واحدة أثقلتها الأزمات، تتقاطع حكايات اللبنانيين مع أنين اللجوء السوري في ملحمةٍ إنسانية تستعرض قسوة التحديات الراهنة. فترصد الأحداث بجرأةٍ بالغة مآسي الفقر، وصراع البقاء، والآمال المعلقة على حبال الانتظار.",
+    "rating": 6,
+    "vote_count": 1,
+    "age_rating": null,
+    "year": "2026",
+    "release_date": "2026-02-18",
+    "genres": [
+      "دراما"
+    ],
+    "country": "لبنان",
+    "language": "العربية",
+    "director": "Kareen Rezq Allah",
+    "cast": [
+      {
+        "name": "Nour Ghandour",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/vkVMQqs0KjA4DKk05V0Ffudyods.jpg"
+      },
+      {
+        "name": "Kareen Rezq Allah",
+        "character": null,
+        "profile_image": null
+      },
+      {
+        "name": "Yorgo Chalhoub",
+        "character": null,
+        "profile_image": null
+      },
+      {
+        "name": "Nadia Charbel",
+        "character": "Mounia",
+        "profile_image": "https://image.tmdb.org/t/p/w185/xzDkW4a9kU1H9Ea8UszGdbGIUK6.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=fhP-eUHQiOA",
+    "seasons_count": 1,
+    "episodes_count": 30,
+    "status": "Ended",
+    "content_type": "series"
+  },
+  "ولاد سلطان_": {
+    "fv": 10,
+    "tmdb_id": 123253,
+    "tmdb_media": "tv",
+    "tmdb_title": "ولاد سلطان",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Awlad Soultan",
+        "overview": "When the Soultan's wife poisons his son's mind with jealousy and greed, she sets off a chain of events that tears a Damascus neighbourhood apart. Half-brothers pitted against each other, a fortune fought over by those who feel entitled to it and a detective trying to cut through the lies and restore justice. A gripping Syrian neighbourhood drama about what money and envy do to the people who once called each other family.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": "في إطار من الدراما، تدور الأحداث حول الصراع المرير على المال والسلطة، من خلال محقق يسعى لكشف الحقائق وتحقيق العدالة داخل أحد الحارات الشعبية في سوريا.",
+    "runtime": null,
+    "original_title": "ولاد سلطان",
+    "poster": "https://image.tmdb.org/t/p/w500/1qnUtqMwJXmjYQm5jcCvkXKZu74.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pkCtTX69oPqBzaJ7Z0MzIm6YwaR.jpg",
+    "description": "في إطار من الدراما، تدور الأحداث حول الصراع المرير على المال والسلطة، من خلال محقق يسعى لكشف الحقائق وتحقيق العدالة داخل أحد الحارات الشعبية في سوريا.",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "2021",
+    "release_date": "2021-04-13",
+    "genres": [],
+    "country": "سوريا",
+    "language": "العربية",
+    "director": null,
+    "cast": [],
+    "trailer_url": null,
+    "seasons_count": 1,
+    "episodes_count": 1,
+    "status": "Returning Series",
+    "content_type": "series"
+  },
+  "الشياطين الثلاثه_": {
+    "fv": 10,
+    "tmdb_id": 1022341,
+    "tmdb_media": "movie",
+    "tmdb_title": "الشياطين الثلاثة",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "The Three Devils",
+        "overview": "Saadawi, Fattouh and Azab, prisoners in Abu Zaabal prison after serving their sentence, decide to repent of a life of crime, and after they get out of prison, they find themselves in a confrontation with teacher Abdul Razek, who refuses to restore the rights to Azab.",
+        "tagline": "The Three Devils"
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 90,
+    "original_title": "الشياطين الثلاثة",
+    "poster": "https://image.tmdb.org/t/p/w500/h488cknXgMGk2VqAVYZ50S0ZSSe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s8J6JSYFlsnxXiC20Vjep6XYNo.jpg",
+    "description": "يقرر (سعداوي) و(فتوح) و(عزب)، المساجين بسجن أبو زعبل عقب قضائهم لفترة عقوبتهم التوبة عن حياة الجريمة، وبعد خروجهم من السجن يجدوا أنفسهم في مواجهة مع المعلم عبدالرازق الذي يرفض رد الحقوق لعزب.",
+    "rating": 7,
+    "vote_count": 2,
+    "age_rating": null,
+    "year": "1964",
+    "release_date": "1964-02-10",
+    "genres": [
+      "حركة",
+      "كوميديا",
+      "دراما"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "حسام الدين مصطفى",
+    "cast": [
+      {
+        "name": "رشدي أباظة",
+        "character": "سعداوي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/julfbz4ZSohGcXmldmAbMVNV7kD.jpg"
+      },
+      {
+        "name": "أحمد رمزي",
+        "character": "عزب",
+        "profile_image": "https://image.tmdb.org/t/p/w185/qeuyXQVUdJsuWwsSEUYDWW22nVz.jpg"
+      },
+      {
+        "name": "حسن يوسف",
+        "character": "فتوح",
+        "profile_image": "https://image.tmdb.org/t/p/w185/jPtJpKZxfOH7Cj2AfxdvHpLMYMx.jpg"
+      },
+      {
+        "name": "برلنتي عبدالحميد",
+        "character": "حمدية",
+        "profile_image": "https://image.tmdb.org/t/p/w185/eXlFczCO4eNgDS8zewux7dm1QSt.jpg"
+      },
+      {
+        "name": "محمد صبيح",
+        "character": "الريس مدبولي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/pOb7s02Om9oPL2idje99ugxMZso.jpg"
+      },
+      {
+        "name": "عبدالعليم خطاب",
+        "character": "المعلم عبدالرزاق",
+        "profile_image": "https://image.tmdb.org/t/p/w185/qWpldEwJIyamRj5xnvsA3StHNYR.jpg"
+      },
+      {
+        "name": "حسين إسماعيل",
+        "character": "المعلم وهدان",
+        "profile_image": "https://image.tmdb.org/t/p/w185/x2GGGlCJYYkOVPl4IquU9H6bqLZ.jpg"
+      },
+      {
+        "name": "صالح الإسكندراني",
+        "character": "حنفي الصياد",
+        "profile_image": "https://image.tmdb.org/t/p/w185/g9QcVeCQCVhBpN9BgjRJuIc2iy5.jpg"
+      },
+      {
+        "name": "أحمد مرسي",
+        "character": "مرسي عصابة",
+        "profile_image": "https://image.tmdb.org/t/p/w185/vfDf2ViLYpToBjpc5vualHzJbSJ.jpg"
+      },
+      {
+        "name": "نصر سيف",
+        "character": "سمعة من أتباع عبد الرازق",
+        "profile_image": "https://image.tmdb.org/t/p/w185/ooZAN9quh9MMQ60Vq6Mo2O2e1Sh.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "خليل بعد التعديل_": {
+    "fv": 10,
+    "tmdb_id": 568362,
+    "tmdb_media": "movie",
+    "tmdb_title": "خليل بعد التعديل",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Khaleel after Modification",
+        "overview": "Khalil is a simple man with a simple rural character who comes up with a sudden upgrade to become a bank manager. His life changes completely in this new world, which he enters with all his requirements. His secretary works to change all his habits, style  to keep up with his new job.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 120,
+    "original_title": "خليل بعد التعديل",
+    "poster": "https://image.tmdb.org/t/p/w500/htAgJJsXMRl5dJVRKx3i3dlgDh2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ot2Gdk7Wrs00r699k45KR0VphMU.jpg",
+    "description": "",
+    "rating": 6,
+    "vote_count": 2,
+    "age_rating": null,
+    "year": "1987",
+    "release_date": "1987-08-31",
+    "genres": [
+      "كوميديا",
+      "دراما",
+      "رومنسية"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "يحيى العلمي",
+    "cast": [
+      {
+        "name": "ليلى علوي",
+        "character": "Hala",
+        "profile_image": "https://image.tmdb.org/t/p/w185/vX4NzKS2l0SR9z40hfXylXUxRoN.jpg"
+      },
+      {
+        "name": "محمود عبدالعزيز",
+        "character": "Khalil Ibrahim Abu Nafisa",
+        "profile_image": "https://image.tmdb.org/t/p/w185/2tTG533lGmSsybIVOR6lYkFQ3t5.jpg"
+      },
+      {
+        "name": "نعيمة الصغير",
+        "character": "Fathyia",
+        "profile_image": "https://image.tmdb.org/t/p/w185/s1fVNL6G0eEcUlatHbdtBsdrnwF.jpg"
+      },
+      {
+        "name": "حسين الشربيني",
+        "character": "Kamal El Zafarani",
+        "profile_image": "https://image.tmdb.org/t/p/w185/1GnDu7kInqO3nftZGUrUpC7cZy1.jpg"
+      },
+      {
+        "name": "جيهان نصر",
+        "character": "Amina Khalil Ibrahim",
+        "profile_image": "https://image.tmdb.org/t/p/w185/zXQnzhrQQ0IlPxwkLIkEmVI7509.jpg"
+      },
+      {
+        "name": "سعاد نصر",
+        "character": "Zainab",
+        "profile_image": "https://image.tmdb.org/t/p/w185/nT6VHDAuqFDE5WWEzQ5807kDuW0.jpg"
+      },
+      {
+        "name": "محمود أبو زيد",
+        "character": "Sobhy",
+        "profile_image": "https://image.tmdb.org/t/p/w185/wodJvO2osp7wnaCxIpxzJBb9wSX.jpg"
+      },
+      {
+        "name": "مؤمن حسن",
+        "character": "Mohammed Khalil Ibrahim",
+        "profile_image": "https://image.tmdb.org/t/p/w185/nFc4DdCbEQFeIMZektJkrFVJxLl.jpg"
+      },
+      {
+        "name": "محمد عتريس",
+        "character": "bank employee",
+        "profile_image": "https://image.tmdb.org/t/p/w185/4bXjg5GHPJFxobTjYyOP8ONBq1W.jpg"
+      },
+      {
+        "name": "حسني صقر",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/yFQtcBuqRLTNWsP3r9Y3Gtj6BF7.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "المعلمه_": {
+    "fv": 10,
+    "tmdb_id": 727641,
+    "tmdb_media": "movie",
+    "tmdb_title": "المعلمة",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "The Female Boss",
+        "overview": "Based on play Othello of William Shakespear.  Hafez try to convice his friend that his wife has been unfaithful.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 105,
+    "original_title": "المعلمة",
+    "poster": "https://image.tmdb.org/t/p/w500/nVXiVABj0ZwIhZwLA2uf6HhYy07.jpg",
+    "backdrop": null,
+    "description": "",
+    "rating": 10,
+    "vote_count": 1,
+    "age_rating": null,
+    "year": "1958",
+    "release_date": "1958-12-08",
+    "genres": [
+      "دراما"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "حسن رضا",
+    "cast": [
+      {
+        "name": "تحية كاريوكا",
+        "character": "Tawha",
+        "profile_image": "https://image.tmdb.org/t/p/w185/5dMBqXfNzEH2LHsKDb68jFbbAFS.jpg"
+      },
+      {
+        "name": "يحيى شاهين",
+        "character": "Abbas",
+        "profile_image": "https://image.tmdb.org/t/p/w185/4MNZuS3OVifp8PGtr8ct4ADkpMd.jpg"
+      },
+      {
+        "name": "محمود المليجي",
+        "character": "Hafez",
+        "profile_image": "https://image.tmdb.org/t/p/w185/3WWkVGMG4KfWhn2XwPJYdUOasX7.jpg"
+      },
+      {
+        "name": "عمر الحريري",
+        "character": "Fathi",
+        "profile_image": "https://image.tmdb.org/t/p/w185/2UjTbJxOgc96wpO8zTzCgSu1Puf.jpg"
+      },
+      {
+        "name": "وداد حمدي",
+        "character": "Kaydahum",
+        "profile_image": "https://image.tmdb.org/t/p/w185/rQYEW7WuwjNmhry4GbuMevC1i2Q.jpg"
+      },
+      {
+        "name": "نجوى فؤاد",
+        "character": "Qasima",
+        "profile_image": "https://image.tmdb.org/t/p/w185/8bE1pliDb7SmAiHm3AEMu79u25s.jpg"
+      },
+      {
+        "name": "محمد توفيق",
+        "character": "Madbouly",
+        "profile_image": "https://image.tmdb.org/t/p/w185/pM9KOZZ2Ws6HTGe6aFYkXbginUx.jpg"
+      },
+      {
+        "name": "محسن حسنين",
+        "character": "Anees",
+        "profile_image": "https://image.tmdb.org/t/p/w185/dPLhCJIIJJgerQOqBOScki1Wkpb.jpg"
+      },
+      {
+        "name": "عبدالحميد بدوي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/6H7Lic9xiHQxXCkrjQoJ4VRJXPS.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "الكنز 2 الحب والمصير_": {
+    "fv": 10,
+    "tmdb_id": 585218,
+    "tmdb_media": "movie",
+    "tmdb_title": "الكنز 2: الحب والمصير",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "The Treasure : Love & Destiny",
+        "overview": "A sequel to The Treasure (Part 1) - Reality & Fantasy  (2017)  The movie resumes with the stories of Hatsheput in the Pharaonic era, Ali al-Zaibaq during the Ottoman era and Beshr al-Katatini, head of State Security Investigations Service, who faces new challenges in work and love, whilst pointing his son, Hassan, towards a treasure through his recorded will.",
+        "tagline": null
+      },
+      "fr": {
+        "title": "Le Trésor 2",
+        "overview": "Trois héros égyptiens combattent la corruption en traversant les époques, de l'Antiquité aux derniers jours de la monarchie, en passant par l'ère ottomane.",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 123,
+    "original_title": "الكنز 2: الحب والمصير",
+    "poster": "https://image.tmdb.org/t/p/w500/jhZrWzE5qqBVgXtADQ6oXofAikt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/u2Kb3hYppQs0FzqgJDHXcteQBIR.jpg",
+    "description": "يواصل الجزء الثاني ما انتهى إليه الجزء اﻷول في حكايات حتشسبوت في العصر الفرعوني، وعلي الزيبق خلال العصر العثماني، وبشر الكتاتني رئيس القلم السياسي الذي يواجه تحديات جديدة في العمل والحب، ويحاول أن يدل ابنه حسن على الطريق إلى كنز يخبره بشأنه من خلال وصيته المسجلة.",
+    "rating": 6.6,
+    "vote_count": 23,
+    "age_rating": null,
+    "year": "2019",
+    "release_date": "2019-08-10",
+    "genres": [
+      "دراما",
+      "تاريخ"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "شريف عرفة",
+    "cast": [
+      {
+        "name": "محمد سعد",
+        "character": "Beshr Al Katatni",
+        "profile_image": "https://image.tmdb.org/t/p/w185/zpIK3GYmqDPumneEDf0aqsqxhV1.jpg"
+      },
+      {
+        "name": "محمد رمضان",
+        "character": "Ali Al-Zeebq",
+        "profile_image": "https://image.tmdb.org/t/p/w185/2UlMUlVJqW59dvXQ0NOQPPnlPWc.jpg"
+      },
+      {
+        "name": "هند صبري",
+        "character": "Hatshepsut",
+        "profile_image": "https://image.tmdb.org/t/p/w185/o8Cn0nzoUpsA6d8dORsZJWGVTCB.jpg"
+      },
+      {
+        "name": "أحمد حاتم",
+        "character": "Hassan Beshr Al-Katatni",
+        "profile_image": "https://image.tmdb.org/t/p/w185/r0flzTKg5jI8JlzVqvM5m32QGkU.jpg"
+      },
+      {
+        "name": "هيثم أحمد زكي",
+        "character": "Mustafa Al Katatni",
+        "profile_image": "https://image.tmdb.org/t/p/w185/8WU3lIINiGglNxLFloXYKNu8jbv.jpg"
+      },
+      {
+        "name": "أمينة خليل",
+        "character": "Nemat Rizk",
+        "profile_image": "https://image.tmdb.org/t/p/w185/eHJBpaypMN52VSIF84r5MgvC0Mr.jpg"
+      },
+      {
+        "name": "روبي",
+        "character": "Zaynab",
+        "profile_image": "https://image.tmdb.org/t/p/w185/oHnmUfGuJuNdS2QcoZlKUZwfHAi.jpg"
+      },
+      {
+        "name": "أحمد رزق",
+        "character": "Abdulaziz Al-Nashar",
+        "profile_image": "https://image.tmdb.org/t/p/w185/st0gdwDQQ6SuVjdR6YzebQ4rmEg.jpg"
+      },
+      {
+        "name": "سارة عبدالرحمن",
+        "character": "Rajia",
+        "profile_image": "https://image.tmdb.org/t/p/w185/g3WA4dZNJHYlhlTMHnCFUQwPPIN.jpg"
+      },
+      {
+        "name": "سوسن بدر",
+        "character": "Fatima al-Fayyumiya",
+        "profile_image": "https://image.tmdb.org/t/p/w185/yHgnipZ0bDUjjdf1Pu9S7bEhcun.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=LaXs58wgOLI",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "الكف_": {
+    "fv": 10,
+    "tmdb_id": 514072,
+    "tmdb_media": "movie",
+    "tmdb_title": "الكف",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Palm of the Hand",
+        "overview": "At his wedding ceremony Hossam, is killed by a stray bullet, his father Mukhtar recalls the palm reader who told him that he will have three children, but they will all die at their weddings.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 100,
+    "original_title": "الكف",
+    "poster": "https://image.tmdb.org/t/p/w500/d9X9LYMgxWNmRZp1zcLBJQERLZi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2sgNNknWyMW0yRTzjHX1a2aWA8t.jpg",
+    "description": "فى حفل عقد حسام وعروسه وسام ابنة صديقه أبو الفضل. يلقى حسام مصرعه برصاصة طائشة، ويتذكر مختار قارئ الكف الذى قرأ كفه منذ سنين، قال له أنه سيرزق بثلاثة أولاد، لكنهم سيموتون فى يوم زواجهم وسأل بعض الزملاء القدامى عن نبوءات العراف لهم فيجد أن جميعها قد تحققت، ويطلب ابنه الثانى شهاب الزواج من وسام وتحقق النبوءة ويموت مع عروسه فى حادث سيارة أثناء سفرهما للإسكندرية ويعود ابنه الثالث عمر ويتلقى بايناس ابنة أخت أبو الفضل وتتدخل دولت والدته لمنع الزواج باعترافها لوالد أيناس بالنبوءة ويبلغ عمر به، لكن أيناس تصمم أنها خرافات ويتزوجان ويسافران بالطائرة للخارج غير أن الطائرة تهبط بأرض المطار وتحترق، ينقلان إلى المستشفى وتجرى جراحة ناجحة لعمر وتعالج أيناس من اصابتها.",
+    "rating": 6,
+    "vote_count": 1,
+    "age_rating": null,
+    "year": "1985",
+    "release_date": "1985-07-26",
+    "genres": [
+      "دراما",
+      "رومنسية",
+      "فانتازيا"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "Mohammed Haseeb",
+    "cast": [
+      {
+        "name": "فريد شوقي",
+        "character": "Mokhtar",
+        "profile_image": "https://image.tmdb.org/t/p/w185/eGQniixtU1hjF2Fa5rYWlvt3nLk.jpg"
+      },
+      {
+        "name": "فاروق الفيشاوي",
+        "character": "Omar",
+        "profile_image": "https://image.tmdb.org/t/p/w185/kSatrCW9N69Px33OTRzTwc90XmQ.jpg"
+      },
+      {
+        "name": "آثار الحكيم",
+        "character": "Enass",
+        "profile_image": "https://image.tmdb.org/t/p/w185/rMReSo8HZHpOri7fbZQPmMzDGAn.jpg"
+      },
+      {
+        "name": "حسن مصطفى",
+        "character": "Abu El-Fadl",
+        "profile_image": "https://image.tmdb.org/t/p/w185/AwjOe9xr4saKbCxAvFFoZggyUCS.jpg"
+      },
+      {
+        "name": "مديحة يسري",
+        "character": "Dawlat",
+        "profile_image": "https://image.tmdb.org/t/p/w185/uddi9WvjFlv9j5dVo28CO4KVbS2.jpg"
+      },
+      {
+        "name": "صلاح نظمي",
+        "character": "Mahmoud",
+        "profile_image": "https://image.tmdb.org/t/p/w185/n0jY20G7CvG7nS7aoKGa8Awfxpi.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=q15Ta9Zod3c",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "خلاويص_": {
+    "fv": 10,
+    "tmdb_id": 516051,
+    "tmdb_media": "movie",
+    "tmdb_title": "خلاويص",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Hide and Seek",
+        "overview": "Aly Hassan, a five-year old child, gets arrested while playing a hide-and-seek game called Khalawees with his neighbors. His father, Hassan (played by Ahmed Eid), who is a taxi driver in Cairo hurries to join his son who is about to be imprisoned in a name mix-up with another wanted escaped criminal. Hassan faces humorous situations in prison due to the presence of his son, Aly, and is torn between his female attorney trying to prove Aly's innocence and a talk-show media presenter convincing the public that Aly is the wanted criminal.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 95,
+    "original_title": "خلاويص",
+    "poster": "https://image.tmdb.org/t/p/w500/dyJlrHNbttq0h0tTa5YTIsblSgk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xB8T9BlWXYbpNYZMsrnmmy0UPSC.jpg",
+    "description": "يُقبض على علي حسن، الطفل ذو الخمس سنوات، أثناء لعبه لعبة الغميضة \"الخلاويس\" مع جيرانه. يسارع والده حسن (الذي يؤدي دوره أحمد عيد)، وهو سائق تاكسي في القاهرة، إلى اللحاق بابنه الذي كان على وشك السجن بسبب خطأ في الاسم مع مجرم هارب مطلوب آخر. يواجه حسن مواقف طريفة في السجن بسبب وجود ابنه علي، ويجد نفسه ممزقًا بين محاميته التي تحاول إثبات براءة علي، ومذيع برنامج حواري يحاول إقناع الجمهور بأن علي هو المجرم المطلوب.",
+    "rating": 6,
+    "vote_count": 12,
+    "age_rating": null,
+    "year": "2018",
+    "release_date": "2018-01-17",
+    "genres": [
+      "كوميديا"
+    ],
+    "country": "السعودية",
+    "language": "العربية",
+    "director": "خالد الحلفاوي",
+    "cast": [
+      {
+        "name": "أحمد عيد",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/8mkmyIoo0EAfZ00YbLetFsUCirY.jpg"
+      },
+      {
+        "name": "أيتن عامر",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/vVANxXVcWOSC6r3O3HTJGR39Zve.jpg"
+      },
+      {
+        "name": "آدم وهدان",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/5QecM6C6GzvnrP9552GCD6OLyAg.jpg"
+      },
+      {
+        "name": "أحمد فؤاد سليم",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/q1NbI2PzKHoF1AxCHgMju9we4qP.jpg"
+      },
+      {
+        "name": "طارق عبدالعزيز",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/fdLQmCR7pGxvSIsez0bxth5cnh9.jpg"
+      },
+      {
+        "name": "محسن منصور",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/rjixT1y8JtRJHfp4i9bUIN5SPKy.jpg"
+      },
+      {
+        "name": "سامي مغاوري",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/675TmIEoWDqpHYF5BCe0moimtXr.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "دكان شحاته_": {
+    "fv": 10,
+    "tmdb_id": 63362,
+    "tmdb_media": "movie",
+    "tmdb_title": "دكان شحاته",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Shehata's Store",
+        "overview": "Shehata is the son of a modest gardener who saved all his money to open a fruit stand and named it after his favorite son. Shehata's siblings get so jealous of their brother and plot against him. A representation of the downfall of society and its decaying morals.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 128,
+    "original_title": "دكان شحاتة",
+    "poster": "https://image.tmdb.org/t/p/w500/gp8hDcY4xn0gf5yzXHUKRNPmhNP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7FxglaP95uSFtRG0YC4Rw2PYHkJ.jpg",
+    "description": "يناقش الفيلم في دراما اجتماعية، ضياع القيم الأصيلة في الأسرة المصرية، وما يترتب على ذهابها، من خلال قصة شحاتة (عمرو سعد) الذي شب على إهمال أشقائه له، وسطوتهم عليه، ومعاملتهم السيئة له، بالرغم من حبه الشديد لهم، وكيف أدت الغيرة المشتعلة بينهم إلى مأساة.",
+    "rating": 6.1,
+    "vote_count": 23,
+    "age_rating": null,
+    "year": "2009",
+    "release_date": "2009-07-10",
+    "genres": [
+      "دراما",
+      "جريمة",
+      "إثارة",
+      "رومنسية"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "خالد يوسف",
+    "cast": [
+      {
+        "name": "عمرو سعد",
+        "character": "شحاته",
+        "profile_image": "https://image.tmdb.org/t/p/w185/ii5oJije7WOfqBwyxAt4YettAnj.jpg"
+      },
+      {
+        "name": "Haifa Wehbe",
+        "character": "بيسة",
+        "profile_image": "https://image.tmdb.org/t/p/w185/ht9N2jOcT9EChL7JWWYQLl93s1w.jpg"
+      },
+      {
+        "name": "عمرو عبدالجليل",
+        "character": "كرم",
+        "profile_image": "https://image.tmdb.org/t/p/w185/5H6iU6KXLvfLPzjPIm3DMkOGtf0.jpg"
+      },
+      {
+        "name": "أحمد وفيق",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/fBYFStyMSTDBZH3egH5j7xpCh3H.jpg"
+      },
+      {
+        "name": "محمد كريم",
+        "character": "سالم",
+        "profile_image": "https://image.tmdb.org/t/p/w185/oRPuk2qnUM9EV8shBJE7lKPv78R.jpg"
+      },
+      {
+        "name": "محمود حميدة",
+        "character": "حجاج",
+        "profile_image": "https://image.tmdb.org/t/p/w185/8uSJfakEstaPOBqCtn1oIzJm7VZ.jpg"
+      },
+      {
+        "name": "طارق عبدالعزيز",
+        "character": "على",
+        "profile_image": "https://image.tmdb.org/t/p/w185/fdLQmCR7pGxvSIsez0bxth5cnh9.jpg"
+      },
+      {
+        "name": "غادة عبدالرازق",
+        "character": "نجاح",
+        "profile_image": "https://image.tmdb.org/t/p/w185/57KpAr5jKo8updReZSqig12LycM.jpg"
+      },
+      {
+        "name": "عبدالعزيز مخيون",
+        "character": "د.مؤنس",
+        "profile_image": "https://image.tmdb.org/t/p/w185/bNVEnr8LO2MzDL0XrYVp1GyvTnO.jpg"
+      },
+      {
+        "name": "حجاج كامل",
+        "character": "الصول محمد",
+        "profile_image": null
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "الجراج_": {
+    "fv": 10,
+    "tmdb_id": 694670,
+    "tmdb_media": "movie",
+    "tmdb_title": "الجراج",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "The Garage",
+        "overview": "Naima, a guardian of architecture and politicians in a garage, in one of the buildings in Zamalek, who is also the mother of seven children. Raising them.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 110,
+    "original_title": "الجراج",
+    "poster": "https://image.tmdb.org/t/p/w500/b1b8JmXsi7IeJVdI4MXA4ayeCLG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/a3PwwmWyAzNWlJidMN0x0yqVYX2.jpg",
+    "description": "نعيمة حارسة عمارة وسايسة جراج في إحدى العمارات بالزمالك، وهى أيضًا أم لسبعة أطفال، أما زوجها زينهم فهو عاطل عن العمل ومنحرف خلقيًا ومتنكرًا لمسئوليته أمام زوجته وأطفاله، ويسعى للحصول على عقد عمل في الخارج حتى يتحقق له ذلك، ويسافر تاركًا أطفاله لأمهم تتحمل وحدها عبء تربيتهم.",
+    "rating": 5,
+    "vote_count": 1,
+    "age_rating": null,
+    "year": "1995",
+    "release_date": "1995-11-12",
+    "genres": [
+      "دراما"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "علاء كريم",
+    "cast": [
+      {
+        "name": "نجلاء فتحي",
+        "character": "نعيمة",
+        "profile_image": "https://image.tmdb.org/t/p/w185/HqIv7RgX68U5VNteGAZ6t35Q6a.jpg"
+      },
+      {
+        "name": "فاروق الفيشاوي",
+        "character": "عبدالله",
+        "profile_image": "https://image.tmdb.org/t/p/w185/kSatrCW9N69Px33OTRzTwc90XmQ.jpg"
+      },
+      {
+        "name": "تحية كاريوكا",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/5dMBqXfNzEH2LHsKDb68jFbbAFS.jpg"
+      },
+      {
+        "name": "جورج سيدهم",
+        "character": "حسني",
+        "profile_image": "https://image.tmdb.org/t/p/w185/6saaUS66LzUs4hiIpmwNrO6wpq.jpg"
+      },
+      {
+        "name": "سيد زيان",
+        "character": "زينهم",
+        "profile_image": "https://image.tmdb.org/t/p/w185/tUJSBZ1XguLh2l2jbqKLvrRxJyi.jpg"
+      },
+      {
+        "name": "وفاء عامر",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/dpUrp4IJlujffHZaeIsOIVTIqKd.jpg"
+      },
+      {
+        "name": "علاء ولي الدين",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/1G34HEeN3frltSacOZBOiUsjyTN.jpg"
+      },
+      {
+        "name": "شادية عبدالحميد",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/xpPM4YPC5cAWpNpnLsIz3ts1Ewn.jpg"
+      },
+      {
+        "name": "ماجدة كامل",
+        "character": null,
+        "profile_image": null
+      },
+      {
+        "name": "عمران بحر",
+        "character": "يحيى",
+        "profile_image": "https://image.tmdb.org/t/p/w185/ryChWKaMKJw7DG0L2IPmdjsvkkD.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=BmXBTITmvEE",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "الجمعه ا خيره_": {
+    "fv": 10,
+    "tmdb_id": 137204,
+    "tmdb_media": "movie",
+    "tmdb_title": "الجمعة اﻷخيرة",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "The Last Friday",
+        "overview": "When a forty-year-old divorced father discovers that he needs to undergo an operation, which he can not afford, within the next 4 days, he finds himself forced to deal with the life he isolated himself from for the longest time.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 88,
+    "original_title": "الجمعة اﻷخيرة",
+    "poster": "https://image.tmdb.org/t/p/w500/jVYSImoBv1DUCCr3pxvQExhpUrZ.jpg",
+    "backdrop": null,
+    "description": "يعاني يوسف من مشاكل في الخصية تضطره للخضوع لعملية جراحية خطيرة خلال أربعة أيام،  لكنه لا يملك تكاليف العملية الباهظة فيضطر إلى اللجوء إلى طليقته التي انفصلت عنه بسبب فقده لوظيفته جراء الأزمة العالمية، وابنه ذو الأربعة عشر عامًا، ورغم احتياجه للمال وعدم رغبته في الإفصاح عن ما يعانيه.",
+    "rating": 5.2,
+    "vote_count": 4,
+    "age_rating": null,
+    "year": "2013",
+    "release_date": "2013-12-10",
+    "genres": [
+      "عائلي",
+      "كوميديا",
+      "دراما"
+    ],
+    "country": "الأردن",
+    "language": "العربية",
+    "director": "Yahya Alabdallah",
+    "cast": [
+      {
+        "name": "علي سليمان",
+        "character": "Yousef",
+        "profile_image": "https://image.tmdb.org/t/p/w185/fG9V68oshqkuDSSRkLZdCci6z1Q.jpg"
+      },
+      {
+        "name": "Yasmine Al Massri",
+        "character": "Dalal",
+        "profile_image": "https://image.tmdb.org/t/p/w185/aXeuXplDxA0fmG0R6BpbbQRSNI8.jpg"
+      },
+      {
+        "name": "Fadi Arida",
+        "character": "Imad",
+        "profile_image": null
+      },
+      {
+        "name": "نادرة عمران",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/i1pVGT714eQiyOqh1ZDet6UdSYT.jpg"
+      },
+      {
+        "name": "Nabil Kawni",
+        "character": "Sheikh",
+        "profile_image": null
+      },
+      {
+        "name": "حيدر كفوف",
+        "character": null,
+        "profile_image": null
+      },
+      {
+        "name": "جوانا عريضة",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/gIZxz0ojWvqXuFaxPOlm5615jTY.jpg"
+      },
+      {
+        "name": "Lara Sawalha",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/8VM9N6rp4mFLpCraYZdkazQBi89.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "اسوار القمر_": {
+    "fv": 10,
+    "tmdb_id": 321761,
+    "tmdb_media": "movie",
+    "tmdb_title": "أسوار القمر",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "The Walls of the Moon",
+        "overview": "Zeina wakes up from a faint to find herself blind and unable to remember anything. She ends up with Ahmed on his boat, who enters into a frantic chase with Rashid. After sitting alone in one of the boat's rooms, she tries to recall everything that happened to her through its recordings, including the details of the love triangle in which she herself was one of the sides.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 101,
+    "original_title": "أسوار القمر",
+    "poster": "https://image.tmdb.org/t/p/w500/kuO3FxaqDjkduoKvIaoTkm3eq8U.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bAM9VtXOiIxOzuURARLJqPOrvTn.jpg",
+    "description": "تستفيق (زينة) من إغماءة تعرضت لها لتجد نفسها فاقدة للبصر، ولا تتذكر أي شيء، لينتهي بها الأمر بصحبة (أحمد) على مركبه، والذي يدخل في مطاردة محمومة مع (رشيد)، وبعد جلوسها وحيدة في إحدى غرف المركب، تحاول أن تسترجع كل ما حدث معها من خلال تسجيلاتها، بما في ذلك تفاصيل مثلث الحب الذي كانت هي نفسها أحد أضلاعه.",
+    "rating": 5.5,
+    "vote_count": 18,
+    "age_rating": null,
+    "year": "2015",
+    "release_date": "2015-01-24",
+    "genres": [
+      "رومنسية",
+      "دراما"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "طارق العريان",
+    "cast": [
+      {
+        "name": "منى زكي",
+        "character": "زينة",
+        "profile_image": "https://image.tmdb.org/t/p/w185/qXImbMkrqYpWg2jEerb1RDPr3hN.jpg"
+      },
+      {
+        "name": "عمرو سعد",
+        "character": "رشيد",
+        "profile_image": "https://image.tmdb.org/t/p/w185/ii5oJije7WOfqBwyxAt4YettAnj.jpg"
+      },
+      {
+        "name": "آسر ياسين",
+        "character": "أحمد",
+        "profile_image": "https://image.tmdb.org/t/p/w185/olUkZr3b6wcKCiU7Kmdoxd9CZiw.jpg"
+      },
+      {
+        "name": "سلوى محمد علي",
+        "character": "والدة زينة",
+        "profile_image": "https://image.tmdb.org/t/p/w185/mIgBQ3gZeP4EX83zlN8f8ISs6Co.jpg"
+      },
+      {
+        "name": "محمد شاهين",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/6Qg3CvAQzWkANgz3gunfa1U9xta.jpg"
+      },
+      {
+        "name": "تامر ضيائي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/dmLGgLyYiQHK2Yq6LNp0CG8XtBW.jpg"
+      },
+      {
+        "name": "مروة الأزلي",
+        "character": null,
+        "profile_image": null
+      },
+      {
+        "name": "هاني الصباغ",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/l3SqP11RrqeATY4njyjKwXsOeyV.jpg"
+      },
+      {
+        "name": "ماريا أونا",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/4bEMX6d4SZ2qM8oRThMAiKgDtVC.jpg"
+      },
+      {
+        "name": "Samer Abdel Rahim",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/dRiuyty898wGpVdPDulUs9G9oVQ.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "احضان الخوف_": {
+    "fv": 10,
+    "tmdb_id": 620442,
+    "tmdb_media": "movie",
+    "tmdb_title": "أحضان الخوف",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Fearful Embraces",
+        "overview": "Prince is leading a drug trafficking ring. He controls the gang members through a weakness in each of them. He plans to beat Fifa, who is an airline hostess and loves one of his assistants to smuggle a shipment of drugs. Rushdie really loves her and tries to rescue her. , And marry.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 112,
+    "original_title": "أحضان الخوف",
+    "poster": "https://image.tmdb.org/t/p/w500/jE2GHBf74BiOvtJvmBSOWSB0RhV.jpg",
+    "backdrop": null,
+    "description": "",
+    "rating": 6,
+    "vote_count": 1,
+    "age_rating": null,
+    "year": "1986",
+    "release_date": "1986-06-21",
+    "genres": [],
+    "country": "السعودية",
+    "language": "العربية",
+    "director": "عبدالمنعم شكري",
+    "cast": [
+      {
+        "name": "سمير صبري",
+        "character": "رشدي فاضل",
+        "profile_image": "https://image.tmdb.org/t/p/w185/qNCXv1BxUdkSov7pOQmaFiWxCzX.jpg"
+      },
+      {
+        "name": "رغدة",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/f8dkEKYwLnrbcS8endgGZXVW8nm.jpg"
+      },
+      {
+        "name": "جميل راتب",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/9ZNYtVH3LAq5UtGVnyPZvoKqlSp.jpg"
+      },
+      {
+        "name": "نجوى فؤاد",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/8bE1pliDb7SmAiHm3AEMu79u25s.jpg"
+      },
+      {
+        "name": "ممدوح وافي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/ssUaY8usUfllAqNLgZKu5zSivmJ.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "شمشون ولبلب عنتر ولبلب_": {
+    "fv": 10,
+    "tmdb_id": 532190,
+    "tmdb_media": "movie",
+    "tmdb_title": "شمشون  ولبلب",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Shamshon and Leblb",
+        "overview": "In a local neighborhood, two men try to win the heart of the beautiful Louza. Lebleb is a young man who has a frail body but a bright mind, while Samson has the physical power, but lacks intellect. Who will find his way to her heart first?",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 117,
+    "original_title": "شمشون  ولبلب",
+    "poster": "https://image.tmdb.org/t/p/w500/3ZhOnVU4zC5szHb8K7TpnLW4gbE.jpg",
+    "backdrop": null,
+    "description": "",
+    "rating": 6.8,
+    "vote_count": 5,
+    "age_rating": null,
+    "year": "1952",
+    "release_date": "1952-04-17",
+    "genres": [
+      "كوميديا"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "سيف الدين شوكت",
+    "cast": [
+      {
+        "name": "محمود شكوكو",
+        "character": "Libleb",
+        "profile_image": "https://image.tmdb.org/t/p/w185/7MXLI3ol7LTu4Px5p99oL8aQkGE.jpg"
+      },
+      {
+        "name": "سراج منير",
+        "character": "Antar",
+        "profile_image": "https://image.tmdb.org/t/p/w185/aMBKeRxBOItWY9qaiZzJbKbCbjq.jpg"
+      },
+      {
+        "name": "عبدالوارث عسر",
+        "character": "Radwan/Loza’s father",
+        "profile_image": "https://image.tmdb.org/t/p/w185/8TH7Oe9MyFSY1Mqq84OQ0uXdZvk.jpg"
+      },
+      {
+        "name": "عبدالفتاح القصري",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/yS18wQrZZxfhB5UjMtzi9cwcpxZ.jpg"
+      },
+      {
+        "name": "سعاد أحمد",
+        "character": "Umm Loza",
+        "profile_image": "https://image.tmdb.org/t/p/w185/7R0iR0OILjrrFINvRddu2XbzVMj.jpg"
+      },
+      {
+        "name": "حورية حسن",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/ltFAkZnQA94ZnRXUavM3YrQN0mh.jpg"
+      },
+      {
+        "name": "عبدالغني النجدي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/xq3X0zogni5TVmpTwooF6kj3sgh.jpg"
+      },
+      {
+        "name": "ببا إبراهيم",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/3RLFcCyuXKdBk9KITFYyM28IsHn.jpg"
+      },
+      {
+        "name": "محمد شوقي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/rgBxjBdbjtCRuSbSZR1Aa6LToqj.jpg"
+      },
+      {
+        "name": "نجوى سالم",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/dWXAj8aMx554QLpU4m7r9gEkWFo.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "الضياع_": {
+    "fv": 10,
+    "tmdb_id": 670160,
+    "tmdb_media": "movie",
+    "tmdb_title": "الضياع",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Aldiyae",
+        "overview": "(Wajih) loves the young journalist (Nahid) the nurse, and a bitter struggle arises between (Wajih) and (Sami) because of the press campaign he is waging against him, so he tries to buy him with money and does not succeed, and he tries to kidnap him without changing anything, until he decides to kidnap (Nahid) Habiba (Wajih).",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 90,
+    "original_title": "الضياع",
+    "poster": "https://image.tmdb.org/t/p/w500/hIVyrqgTIYcShNtzUefsH7iBRUf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hr4mNYXCtfWtX1qqQ7YnjO3w80Y.jpg",
+    "description": "يحب (وجيه) الصحافي الشاب (ناهد) الممرضة، وينشأ صراع مرير بين (وجيه) و(سامي) بسبب الحملة الصحافية التي يشنها ضده، فيحاول شراءه بالمال ولا يفلح، ويحاول اختطافه دون أن يغير ذلك شيئًا، إلى أن يقرر اختطاف (ناهد) حبيبة (وجيه).",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "1971",
+    "release_date": "1971-01-01",
+    "genres": [
+      "دراما"
+    ],
+    "country": "لبنان",
+    "language": "العربية",
+    "director": "محمد سلمان",
+    "cast": [
+      {
+        "name": "رشدي أباظة",
+        "character": "سامي إبراهيم",
+        "profile_image": "https://image.tmdb.org/t/p/w185/julfbz4ZSohGcXmldmAbMVNV7kD.jpg"
+      },
+      {
+        "name": "سميرة أحمد",
+        "character": "سلوى",
+        "profile_image": "https://image.tmdb.org/t/p/w185/9Bdxptw0RMitd7iES8eqxUhHHOu.jpg"
+      },
+      {
+        "name": "ناهد شريف",
+        "character": "إلهام",
+        "profile_image": "https://image.tmdb.org/t/p/w185/4IxyzS7FAiok8W3LWcqASymMKJ7.jpg"
+      },
+      {
+        "name": "غسان مطر",
+        "character": "وجيه",
+        "profile_image": "https://image.tmdb.org/t/p/w185/rfUoK2bSpuhZfCKUKMHdXx1bf9M.jpg"
+      },
+      {
+        "name": "نادية الجندي",
+        "character": "نوال",
+        "profile_image": "https://image.tmdb.org/t/p/w185/az5y9WqFd2FRJ2nAmzHH3KWVCWc.jpg"
+      },
+      {
+        "name": "عماد حمدي",
+        "character": "الدكتور سعيد",
+        "profile_image": "https://image.tmdb.org/t/p/w185/9s5AtkshCQReedy7EXg11C8xdyF.jpg"
+      },
+      {
+        "name": "Kigham",
+        "character": null,
+        "profile_image": null
+      },
+      {
+        "name": "Hend Taher",
+        "character": "عمة إلهام",
+        "profile_image": null
+      },
+      {
+        "name": "Souad Karim",
+        "character": "الداد",
+        "profile_image": "https://image.tmdb.org/t/p/w185/pDUJAxTvEruTiSGvFEy0cyzLfJs.jpg"
+      },
+      {
+        "name": "سيلفانا",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/AruTAZ9PZjB8X9CS1ZRDonn1ctw.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=pPXEeZwYpxI",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "اهلا يا كابتن_": {
+    "fv": 10,
+    "tmdb_id": 748000,
+    "tmdb_media": "movie",
+    "tmdb_title": "أهلا يا كابتن",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Ahlan Ya Captin",
+        "overview": "Raafat works on one of the ships and meets with his ex-girlfriend Madiha, who refuses to marry him because she wants to marry a wealthy person. Both Raafat and Madiha plot to make millionaire Azzouz falls in love with Madiha so that she can have his money and realize her dream at the same time.",
+        "tagline": "Romance"
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 100,
+    "original_title": "أهلا يا كابتن",
+    "poster": "https://image.tmdb.org/t/p/w500/wBfdY2TgtPpMcaN4fXcIvXHmMfk.jpg",
+    "backdrop": null,
+    "description": "",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "1978",
+    "release_date": "1978-07-31",
+    "genres": [
+      "موسيقى",
+      "كوميديا"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "محمد عبدالعزيز",
+    "cast": [
+      {
+        "name": "نيللي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/111bjZzh33uEOLx0LGQTr2PSwBy.jpg"
+      },
+      {
+        "name": "سمير صبري",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/qNCXv1BxUdkSov7pOQmaFiWxCzX.jpg"
+      },
+      {
+        "name": "عبدالمنعم مدبولي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/i0UKxWD32NJXYyUUIPHr9V9Vigw.jpg"
+      },
+      {
+        "name": "سمير غانم",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/vSqmd98zrxOAnDFnBGnt4Wihn7B.jpg"
+      },
+      {
+        "name": "عماد حمدي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/9s5AtkshCQReedy7EXg11C8xdyF.jpg"
+      },
+      {
+        "name": "سناء جميل",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/vpq8JBsnMVF34z6dwv9rPzaQ5OJ.jpg"
+      },
+      {
+        "name": "أحمد نبيل",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/fN6Lq39bZWCPY9ddYAVDqPMHjjN.jpg"
+      },
+      {
+        "name": "حلمي أبو هيف",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/eP6ZjQ0l20Irn3aDkKCpk8vPauY.jpg"
+      },
+      {
+        "name": "بهيجة محمد علي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/zQpL13T3BfWTDlDRdxeZtplot2W.jpg"
+      },
+      {
+        "name": "سيد إبراهيم",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/vCEpx96L42UdY91VUmSSIKJs2Le.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "ليتني ما عرفت الحب_": {
+    "fv": 10,
+    "tmdb_id": null,
+    "tmdb_media": null,
+    "tmdb_title": null,
+    "verified": false,
+    "i18n": null,
+    "tagline": null,
+    "runtime": null,
+    "original_title": "I Wish I Didn’t Know Love",
+    "poster": null,
+    "backdrop": null,
+    "description": "",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "1976",
+    "release_date": null,
+    "genres": [],
+    "country": "مصر",
+    "language": null,
+    "director": null,
+    "cast": [],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": null,
+    "content_type": "movie"
+  },
+  "انا مش حراميه_": {
+    "fv": 10,
+    "tmdb_id": 716314,
+    "tmdb_media": "movie",
+    "tmdb_title": "أنا مش حرامية",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Ana mshun hiramia",
+        "overview": "Zouba the maid, loves acting and steals a large sum of money from her wealthy employer Sharif and promises to return it later. She asks filmmaker Farhat to make a film for her after claiming to have inherited her uncle. She gets arrested, but Farhat convinces Sharif to give up his money until the film is finished.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 107,
+    "original_title": "أنا مش حراميه",
+    "poster": "https://image.tmdb.org/t/p/w500/toVlce0MEnmcYNvhc93UiBS0TdD.jpg",
+    "backdrop": null,
+    "description": "تسرق الشغالة زوبة التي تهوى التمثيل مبلغًا كبيرًا من المال من مخدومها الثري شريف وتعده في رسالة بإعادتها له فيما بعد ، تطلب من المخرج السينمائي فرحات أن يخرج لها فيلمًا بعد أن تدعي له أنها ورثت عمها، يتم القبض عليها إلا أن فرحات يقنع شريف بالتنازل عن نقوده لحين الانتهاء من الفيلم.",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "1983",
+    "release_date": "1983-08-26",
+    "genres": [
+      "كوميديا"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "حسن الصيفي",
+    "cast": [
+      {
+        "name": "سهير رمزي",
+        "character": "زوبة عبدالسميع - سلوى فريد",
+        "profile_image": "https://image.tmdb.org/t/p/w185/plGZWAL3zTqDiNmTEHkXRASLSN5.jpg"
+      },
+      {
+        "name": "سمير غانم",
+        "character": "وحيد فهمي",
+        "profile_image": "https://image.tmdb.org/t/p/w185/vSqmd98zrxOAnDFnBGnt4Wihn7B.jpg"
+      },
+      {
+        "name": "عبدالمنعم مدبولي",
+        "character": "فرحات درويش",
+        "profile_image": "https://image.tmdb.org/t/p/w185/i0UKxWD32NJXYyUUIPHr9V9Vigw.jpg"
+      },
+      {
+        "name": "نعيمة الصغير",
+        "character": "الشاويش نبوية",
+        "profile_image": "https://image.tmdb.org/t/p/w185/s1fVNL6G0eEcUlatHbdtBsdrnwF.jpg"
+      },
+      {
+        "name": "زهرة العلا",
+        "character": "سامية",
+        "profile_image": "https://image.tmdb.org/t/p/w185/mb3nrkoYuKVfQsrkkoCe4nYhjxa.jpg"
+      },
+      {
+        "name": "أبو بكر عزت",
+        "character": "شريف كمال",
+        "profile_image": "https://image.tmdb.org/t/p/w185/iVUhTgrfVe85iHUG7SUe198JEnT.jpg"
+      },
+      {
+        "name": "نادية عزت",
+        "character": "نعيمه مراد - اللبيسة",
+        "profile_image": "https://image.tmdb.org/t/p/w185/zgd4Cd3PuHrm0DaQiVnDeVWZYIZ.jpg"
+      },
+      {
+        "name": "محمد شوقي",
+        "character": "جنيدي - بائع الصحف",
+        "profile_image": "https://image.tmdb.org/t/p/w185/rgBxjBdbjtCRuSbSZR1Aa6LToqj.jpg"
+      },
+      {
+        "name": "سيف الله مختار",
+        "character": "محضر السجينة الشاويش مخيمر",
+        "profile_image": "https://image.tmdb.org/t/p/w185/6z6PXpWIAnwpEwNCViBKuVySxd4.jpg"
+      },
+      {
+        "name": "أحمد أبو عبية",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/qGUYuJYMmHeKbE2frvUaBWfKoVY.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "شباب لكل الاجيال_": {
+    "fv": 10,
+    "tmdb_id": 1119383,
+    "tmdb_media": "movie",
+    "tmdb_title": "شباب لكل الأجيال",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 90,
+    "original_title": "شباب لكل الأجيال",
+    "poster": "https://image.tmdb.org/t/p/w500/hP7MdowfKnbuh3LyY3EaB1Noq88.jpg",
+    "backdrop": null,
+    "description": "يرتبط أحمد بقصة حب مع جيجي، إلا أن الظروف لا تساعدهما على الزواج، تضطر جيجي أن تتخلى عن أحمد، وترتبط بالزواج من الثري أنور الجوهري رغم فارق السن بينهما، يعمل كل من سيد وحمودة ومحمد من أجل بلادهم، ويتابعون أعمال الثري أنور حيث يكتشفون أنه يقوم بأعمال غير مشروعة، يبدأون في تجميع الخيوط التي تدينه، وما أن يصلوا للأدلة حتى يسارعوا بالاتصال بجيجي ويطلعوها على حقيقة عمل زوجها.",
+    "rating": null,
+    "vote_count": null,
+    "age_rating": null,
+    "year": "1988",
+    "release_date": "1988-04-29",
+    "genres": [],
+    "country": "مصر",
+    "language": "العربية",
+    "director": null,
+    "cast": [
+      {
+        "name": "محمد رضا",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/c45atsICuA4BShxcd8qIGOHp2QU.jpg"
+      },
+      {
+        "name": "وحيد سيف",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/eDLRmet0ePsP3GPN05wy4f6uxrS.jpg"
+      },
+      {
+        "name": "روعة الكاتب",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/8jevr2PUam08vt5yZr8xbu6bBOz.jpg"
+      },
+      {
+        "name": "هادي الجيار",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/qoSt0Gd38XG4YX2UaC5VAJLk53e.jpg"
+      },
+      {
+        "name": "حنان شوقي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/wh012HByEPAXUNQnB65oFQfyovJ.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "حماتي قنبله ذريه_": {
+    "fv": 10,
+    "tmdb_id": 646656,
+    "tmdb_media": "movie",
+    "tmdb_title": "حماتي قنبلة ذرية",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "My Mother in Law is an Atomic Bomb",
+        "overview": "The film revolves around a happy couple, but the wife's mother works to spoil the relationship between the couple, and indeed succeeded in spoiling the relationship and was divorced despite the couple's love for each other, and also succeeded in marrying her daughter again from a wealthy person.",
+        "tagline": null
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 95,
+    "original_title": "حماتي قنبلة ذرية",
+    "poster": "https://image.tmdb.org/t/p/w500/gHinOqVotfWJGVyFmsEn5cv5q0F.jpg",
+    "backdrop": null,
+    "description": "",
+    "rating": 9,
+    "vote_count": 1,
+    "age_rating": null,
+    "year": "1951",
+    "release_date": "1951-10-01",
+    "genres": [
+      "كوميديا"
+    ],
+    "country": "مصر",
+    "language": "العربية",
+    "director": "حلمي رفلة",
+    "cast": [
+      {
+        "name": "تحية كاريوكا",
+        "character": "Batta",
+        "profile_image": "https://image.tmdb.org/t/p/w185/5dMBqXfNzEH2LHsKDb68jFbbAFS.jpg"
+      },
+      {
+        "name": "إسماعيل يس",
+        "character": "Zahir",
+        "profile_image": "https://image.tmdb.org/t/p/w185/rMq2iI5br3Qy1zrNYc0XsTzNQKa.jpg"
+      },
+      {
+        "name": "ماري منيب",
+        "character": "Umm Batta",
+        "profile_image": "https://image.tmdb.org/t/p/w185/sNbjkyALRmYiC66k1A6NeCaVB0D.jpg"
+      },
+      {
+        "name": "عبدالفتاح القصري",
+        "character": "Hassouna",
+        "profile_image": "https://image.tmdb.org/t/p/w185/yS18wQrZZxfhB5UjMtzi9cwcpxZ.jpg"
+      },
+      {
+        "name": "عزيزة حلمي",
+        "character": "Suheir Hanem",
+        "profile_image": "https://image.tmdb.org/t/p/w185/cAEgxKb7BrJ7P6OIyZtM7Hdie9E.jpg"
+      },
+      {
+        "name": "وداد حمدي",
+        "character": "Baskoutta",
+        "profile_image": "https://image.tmdb.org/t/p/w185/rQYEW7WuwjNmhry4GbuMevC1i2Q.jpg"
+      },
+      {
+        "name": "شادية",
+        "character": "Halawa",
+        "profile_image": "https://image.tmdb.org/t/p/w185/62arY87I83h7Nh2dYSFLvVNOnfB.jpg"
+      },
+      {
+        "name": "Gamal Fares",
+        "character": null,
+        "profile_image": null
+      },
+      {
+        "name": "عبدالحميد زكي",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/tI0EH9C68xsX9ijGO0OWEY8E9Uv.jpg"
+      },
+      {
+        "name": "نبوية مصطفى",
+        "character": null,
+        "profile_image": "https://image.tmdb.org/t/p/w185/suohLQ6EDbowoi0YIaczUGTwuhi.jpg"
+      }
+    ],
+    "trailer_url": null,
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "my spy_": {
+    "fv": 10,
+    "tmdb_id": 592834,
+    "tmdb_media": "movie",
+    "tmdb_title": "My Spy",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "My Spy",
+        "overview": "A hardened CIA operative finds himself at the mercy of a precocious 9-year-old girl, having been sent undercover to surveil her family.",
+        "tagline": "Almost totally in control."
+      },
+      "fr": {
+        "title": null,
+        "overview": "L'agent J.J. doit accomplir une mission de surveillance avec sa collègue dans un immeuble modeste. Il doit garder un œil sur Kate, une femme dont l'ex-mari criminel a été assassiné. Cependant, la mission est mise en péril lorsqu'une jeune fille de 9 ans, Sophie, découvre leur planque et les détails de leur mission. La fillette menace de tout révéler à ses supérieurs, à moins que J.J. lui apprenne le métier d'espion.",
+        "tagline": "C'est un pro. Elle est naturelle."
+      }
+    },
+    "tagline": null,
+    "runtime": 99,
+    "original_title": "My Spy",
+    "poster": "https://image.tmdb.org/t/p/w500/wDs4tnvXdyeaMkqnWs0M6uTY7Ho.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jDb3VV38z6wOdKbGA9jn1bagnfC.jpg",
+    "description": "عميل مخضرم في الاستخبارات الأمريكية يُرسل متخفيًا لمراقبة عائلة، فيجد نفسه تحت رحمة طفلة ذكية في التاسعة تكشف أمره.",
+    "rating": 6.9,
+    "vote_count": 1465,
+    "age_rating": "PG-13",
+    "year": "2020",
+    "release_date": "2020-01-09",
+    "genres": [
+      "عائلي",
+      "حركة",
+      "كوميديا"
+    ],
+    "country": "الولايات المتحدة",
+    "language": "الإنجليزية",
+    "director": "Peter Segal",
+    "cast": [
+      {
+        "name": "ديف باتيستا",
+        "character": "J.J.",
+        "profile_image": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+      },
+      {
+        "name": "Chloe Coleman",
+        "character": "Sophie Newton",
+        "profile_image": "https://image.tmdb.org/t/p/w185/rTbVFZMvUViFCIa5AXlBX3P6vfR.jpg"
+      },
+      {
+        "name": "Parisa Fitz-Henley",
+        "character": "Kate",
+        "profile_image": "https://image.tmdb.org/t/p/w185/dM1DAi2IzBgq1Qb7o8JcrRa89dY.jpg"
+      },
+      {
+        "name": "كريستين شال",
+        "character": "Bobbi",
+        "profile_image": "https://image.tmdb.org/t/p/w185/s3LSHVTx8gxHP2twYsXEGa8JbLl.jpg"
+      },
+      {
+        "name": "Greg Bryk",
+        "character": "Marquez",
+        "profile_image": "https://image.tmdb.org/t/p/w185/1I3SxKFvQSam6KOMT4j5f0nFxRg.jpg"
+      },
+      {
+        "name": "كين جونغ",
+        "character": "David Kim",
+        "profile_image": "https://image.tmdb.org/t/p/w185/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg"
+      },
+      {
+        "name": "Nicola Correia Damude",
+        "character": "Christina",
+        "profile_image": "https://image.tmdb.org/t/p/w185/dXCTl0yKbMzt6sDacI1rrt8lQv3.jpg"
+      },
+      {
+        "name": "Devere Rogers",
+        "character": "Carlos",
+        "profile_image": "https://image.tmdb.org/t/p/w185/iEU0DJGyqTWXl3h0sO1Jz9OeerA.jpg"
+      },
+      {
+        "name": "Noah Dalton Danby",
+        "character": "Todd",
+        "profile_image": "https://image.tmdb.org/t/p/w185/5rVWwjglEourNcYCJMITbeGVsA9.jpg"
+      },
+      {
+        "name": "Vieslav Krystyan",
+        "character": "General Gregovich",
+        "profile_image": "https://image.tmdb.org/t/p/w185/ur43zLCVyU0XQmF5pGwCKnbKmsi.jpg"
+      }
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=pfAhQSz-j_o",
+    "seasons_count": null,
+    "episodes_count": null,
+    "status": "Released",
+    "content_type": "movie"
+  },
+  "edie_": {
+    "fv": 10,
+    "tmdb_id": 210938,
+    "tmdb_media": "movie",
+    "tmdb_title": "Edie & Pen",
+    "verified": true,
+    "i18n": {
+      "en": {
+        "title": "Edie & Pen",
+        "overview": "In this comedy, two women head for Reno to get simultaneous quicky divorces and end up becoming friends. Edie was married years ago, but her husband abandoned her two weeks after the wedding. Pen spent nine years married to an ice-cold businessman who neglected her.",
+        "tagline": "The divorces are final. The fun is about to begin."
+      },
+      "fr": {
+        "title": null,
+        "overview": "",
+        "tagline": null
+      }
+    },
+    "tagline": null,
+    "runtime": 96,
+    "original_title": "Edie & Pen",
+    "poster": "https://image.tmdb.org/t/p/w500/hULuY1iTuPZ15Fo4QCLFcxaEl9K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/z62RmiVwOHrQLY835kNDweciY4Z.jpg",
+    "description": "",
+    "rating": 5.6,
+    "vote_count": 11,
+    "age_rating": null,
+    "year": "1996",
+    "release_date": "1996-05-10",
+    "genres": [
+      "كوميديا"
+    ],
+    "country": "الولايات المتحدة",
+    "language": "الإنجليزية",
+    "director": "Matthew Irmas",
+    "cast": [
+      {
+        "name": "ستوكارد تشانينج",
+        "character": "Pen",
+        "profile_image": "https://image.tmdb.org/t/p/w185/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg"
+      },
+      {
+        "name": "جنيفر تيلي",
+        "character": "Edie",
+        "profile_image": "https://image.tmdb.org/t/p/w185/9vYoYF385cVq9oDO3pDpXihP4vz.jpg"
+      },
+      {
+        "name": "Scott Glenn",
+        "character": "Harry",
+        "profile_image": "https://image.tmdb.org/t/p/w185/8DHORod2l6ZFS9KR0gNAAM3WZfI.jpg"
+      },
+      {
+        "name": "Stuart Wilson",
+        "character": "Victor",
+        "profile_image": "https://image.tmdb.org/t/p/w185/ghP4hkVaNc4upspxsLQCwkOBhy6.jpg"
+      },
+      {
+        "name": "Chris Sarandon",
+        "character": "Max",
+        "profile_image": "https://image.tmdb.org/t/p/w185/jP92Lq3JHl8mbdxzcZ6PyCQDwa5.jpg"
+      },
+      {
+        "name": "مايكل اوكيف",
+        "character": "Ken",
+        "profile_image": "https://image.tmdb.org/t/p/w185/wQsTL887RWvAJljzLhiPP52kjec.jpg"
+      },
+      {
+        "name": "مايكل مكيان",
+        "character": "Rick",
+        "profile_image": "https://image.tmdb.org/t/p/w185/xuEZeuylzznJcf0nDs1RlvuzaPr.jpg"
+      },
+      {
+        "name": "Randy Travis",
+        "character": "Pony Cobb",
+        "profile_image": "https://image.tmdb.org/t/p/w185/bsMAHWzgDwTg1s3VUZZcPyGM8ub.jpg"
+      },
+      {
+        "name": "Joanna Gleason",
+        "character": "Maude",
+        "profile_image": "https://image.tmdb.org/t/p/w185/vBufIrlapxpuRlzeSIMXtuFO5XK.jpg"
+      },
+      {
+        "name": "بيفيرلي دي أنجيلو",
+        "character": "Barlady",
+        "profile_image": "https://image.tmdb.org/t/p/w185/8fYQIA8dAaA4GOTxOFSKIvTqzi.jpg"
       }
     ],
     "trailer_url": null,
